@@ -1,0 +1,39 @@
+{
+  "id": "11-11-001",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A Carnot engine works between a source at $500\\ \\text{K}$ and a sink at $300\\ \\text{K}$. Its efficiency is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$40\\%$",
+      "image": ""
+    },
+    {
+      "text": "$60\\%$",
+      "image": ""
+    },
+    {
+      "text": "$25\\%$",
+      "image": ""
+    },
+    {
+      "text": "$67\\%$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\eta = 1 - \\frac{T_2}{T_1} = 1 - \\frac{300}{500} = 0.4 = 40\\%$$",
+  "solution_diagram": "",
+  "status": "published",
+  "updated": "2026-09-24"
+}

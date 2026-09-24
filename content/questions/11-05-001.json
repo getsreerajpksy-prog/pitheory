@@ -1,0 +1,22 @@
+{
+  "id": "11-05-001",
+  "chapter": "work-energy-and-power",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The speed of a $2\\ \\text{kg}$ body increases from $3\\ \\text{m/s}$ to $5\\ \\text{m/s}$. Find the work done by the net force on it, in joules.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "16",
+  "tolerance": "0",
+  "solution": "By the work-energy theorem, work done by the net force equals the change in kinetic energy.\n$$W = \\tfrac12 m(v^2 - u^2) = \\tfrac12 (2)(25 - 9) = 16\\ \\text{J}$$",
+  "solution_diagram": "",
+  "status": "published",
+  "updated": "2026-09-24"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-03-002",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "The equivalent resistance between points A and B in the circuit shown is",
+  "diagram": "/diagrams/12-03-002.svg",
+  "diagram_alt": "A 4 ohm resistor in series with a parallel combination of 3 ohm and 6 ohm resistors between A and B",
+  "options": [
+    {
+      "text": "$13\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$6\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$2\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$4.5\\ \\Omega$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The $3\\ \\Omega$ and $6\\ \\Omega$ resistors are in parallel:\n$$R_p = \\frac{3\\times 6}{3+6} = 2\\ \\Omega$$\nThis is in series with $4\\ \\Omega$: $R_{AB} = 4 + 2 = 6\\ \\Omega$.",
+  "solution_diagram": "",
+  "status": "published",
+  "updated": "2026-09-24"
+}

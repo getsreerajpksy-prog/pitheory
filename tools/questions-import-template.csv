@@ -1,0 +1,3 @@
+id,type,exams,difficulty,top,source,question,diagram,diagram_alt,option_a,option_b,option_c,option_d,answer,tolerance,solution,solution_diagram,status
+11-02-002,mcq,"NEET, JEE Main",Easy,no,PiTheory original,"A ball is dropped from a height of $20\ \text{m}$. Taking $g = 10\ \text{m/s}^2$, the time taken to reach the ground is",,,$1\ \text{s}$,$2\ \text{s}$,$4\ \text{s}$,$\sqrt{2}\ \text{s}$,B,,"$$h = \tfrac12 g t^2 \Rightarrow t = \sqrt{\frac{2h}{g}} = \sqrt{\frac{2\times20}{10}} = 2\ \text{s}$$",,draft
+12-06-002,numerical,JEE Main,Medium,no,PiTheory original,"The current in a coil of self-inductance $2\ \text{H}$ changes at $3\ \text{A/s}$. Find the magnitude of the induced emf in volts.",,,,,,,6,0,"$$|\varepsilon| = L\frac{dI}{dt} = 2\times 3 = 6\ \text{V}$$",,draft

@@ -1,0 +1,39 @@
+{
+  "id": "11-02-001",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A car starts from rest and accelerates uniformly to $20\\ \\text{m/s}$ in $5\\ \\text{s}$. The distance it covers in this time is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$25\\ \\text{m}$",
+      "image": ""
+    },
+    {
+      "text": "$50\\ \\text{m}$",
+      "image": ""
+    },
+    {
+      "text": "$100\\ \\text{m}$",
+      "image": ""
+    },
+    {
+      "text": "$75\\ \\text{m}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For uniform acceleration, distance = average velocity × time.\n$$s = \\frac{u+v}{2}\\,t = \\frac{0+20}{2}\\times 5 = 50\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "published",
+  "updated": "2026-09-24"
+}

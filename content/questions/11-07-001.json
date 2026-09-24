@@ -1,0 +1,39 @@
+{
+  "id": "11-07-001",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A planet has the same average density as Earth but twice its radius. If the escape speed from Earth is $11.2\\ \\text{km/s}$, the escape speed from the planet is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$11.2\\ \\text{km/s}$",
+      "image": ""
+    },
+    {
+      "text": "$15.8\\ \\text{km/s}$",
+      "image": ""
+    },
+    {
+      "text": "$22.4\\ \\text{km/s}$",
+      "image": ""
+    },
+    {
+      "text": "$44.8\\ \\text{km/s}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Write mass in terms of density: $M = \\tfrac43\\pi R^3 \\rho$.\n$$v_e = \\sqrt{\\frac{2GM}{R}} = \\sqrt{\\tfrac83 \\pi G \\rho}\\; R \\;\\Rightarrow\\; v_e \\propto R \\ \\text{(same } \\rho)$$\nDoubling $R$ doubles $v_e$: $2 \\times 11.2 = 22.4\\ \\text{km/s}$.",
+  "solution_diagram": "",
+  "status": "published",
+  "updated": "2026-09-24"
+}

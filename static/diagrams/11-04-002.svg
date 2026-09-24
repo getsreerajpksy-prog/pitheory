@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 240" width="420" height="240">
+<rect width="420" height="240" fill="#fff"/>
+<path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M40,210 L380,210 L380,14 Z"/>
+<path fill="none" stroke="#111" stroke-width="1.5" d="M30,222 L390,222" stroke-dasharray="6 5"/>
+<rect x="-24" y="-24" width="48" height="48" fill="#E8EBFA" stroke="#111" stroke-width="2.5" transform="translate(198,90) rotate(-30)"/>
+<text x="198" y="96" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#111" text-anchor="middle" font-style="italic">m</text>
+<path fill="none" stroke="#111" stroke-width="2" d="M100,210 A60,60 0 0 0 91.96,180"/>
+<text x="110" y="200" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#111">30°</text>
+<text x="262" y="66" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="15" transform="rotate(-30 262 66)">smooth</text>
+</svg>

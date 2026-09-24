@@ -1,0 +1,39 @@
+{
+  "id": "12-01-001",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "Point charges $+4\\ \\mu\\text{C}$ and $+1\\ \\mu\\text{C}$ are $30\\ \\text{cm}$ apart. At what distance from the $4\\ \\mu\\text{C}$ charge, on the line joining them, is the electric field zero?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$10\\ \\text{cm}$",
+      "image": ""
+    },
+    {
+      "text": "$15\\ \\text{cm}$",
+      "image": ""
+    },
+    {
+      "text": "$20\\ \\text{cm}$",
+      "image": ""
+    },
+    {
+      "text": "$25\\ \\text{cm}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Between two like charges the fields oppose, so set their magnitudes equal at distance $x$ from the $4\\ \\mu\\text{C}$ charge:\n$$\\frac{k(4)}{x^2} = \\frac{k(1)}{(30 - x)^2} \\;\\Rightarrow\\; \\frac{2}{x} = \\frac{1}{30 - x} \\;\\Rightarrow\\; x = 20\\ \\text{cm}$$",
+  "solution_diagram": "",
+  "status": "published",
+  "updated": "2026-09-24"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "11-04-001",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $5\\ \\text{kg}$ block on a smooth horizontal floor is pulled by a $20\\ \\text{N}$ force acting at $60^\\circ$ to the horizontal. Its acceleration is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$2\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$3.46\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$1\\ \\text{m/s}^2$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Only the horizontal component accelerates the block along the floor.\n$$a = \\frac{F\\cos 60^\\circ}{m} = \\frac{20 \\times 0.5}{5} = 2\\ \\text{m/s}^2$$",
+  "solution_diagram": "",
+  "status": "published",
+  "updated": "2026-09-24"
+}

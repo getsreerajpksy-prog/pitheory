@@ -1,0 +1,39 @@
+{
+  "id": "12-03-001",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Three $6\\ \\Omega$ resistors are connected in parallel across an ideal $12\\ \\text{V}$ battery. The current drawn from the battery is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2\\ \\text{A}$",
+      "image": ""
+    },
+    {
+      "text": "$4\\ \\text{A}$",
+      "image": ""
+    },
+    {
+      "text": "$18\\ \\text{A}$",
+      "image": ""
+    },
+    {
+      "text": "$6\\ \\text{A}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$R_{eq} = \\frac{6}{3} = 2\\ \\Omega, \\qquad I = \\frac{V}{R_{eq}} = \\frac{12}{2} = 6\\ \\text{A}$$",
+  "solution_diagram": "",
+  "status": "published",
+  "updated": "2026-09-24"
+}

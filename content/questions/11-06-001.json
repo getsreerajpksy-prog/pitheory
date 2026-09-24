@@ -1,0 +1,39 @@
+{
+  "id": "11-06-001",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "A solid sphere rolls without slipping on a horizontal surface. What fraction of its total kinetic energy is rotational?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\tfrac25$",
+      "image": ""
+    },
+    {
+      "text": "$\\tfrac27$",
+      "image": ""
+    },
+    {
+      "text": "$\\tfrac57$",
+      "image": ""
+    },
+    {
+      "text": "$\\tfrac12$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For a solid sphere $I = \\tfrac25 mR^2$ and rolling gives $v = \\omega R$.\n$$K_{rot} = \\tfrac12 \\cdot \\tfrac25 mR^2 \\omega^2 = \\tfrac15 mv^2, \\qquad K_{total} = \\tfrac12 mv^2 + \\tfrac15 mv^2 = \\tfrac{7}{10} mv^2$$\n$$\\frac{K_{rot}}{K_{total}} = \\frac{1/5}{7/10} = \\frac27$$",
+  "solution_diagram": "",
+  "status": "published",
+  "updated": "2026-09-24"
+}

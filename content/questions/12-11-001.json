@@ -1,0 +1,39 @@
+{
+  "id": "12-11-001",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The energy of a photon of wavelength $400\\ \\text{nm}$ is approximately (take $hc = 1240\\ \\text{eV nm}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.55\\ \\text{eV}$",
+      "image": ""
+    },
+    {
+      "text": "$3.1\\ \\text{eV}$",
+      "image": ""
+    },
+    {
+      "text": "$4.1\\ \\text{eV}$",
+      "image": ""
+    },
+    {
+      "text": "$6.2\\ \\text{eV}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$E = \\frac{hc}{\\lambda} = \\frac{1240}{400} = 3.1\\ \\text{eV}$$",
+  "solution_diagram": "",
+  "status": "published",
+  "updated": "2026-09-24"
+}

@@ -1,0 +1,229 @@
+# PiTheory admin panel (Sveltia CMS). Open https://pitheory.in/admin/
+backend:
+  name: github
+  repo: YOUR-GITHUB-USERNAME/pitheory   # change once, after creating the repository
+  branch: main
+  commit_messages:
+    create: "Add question {{slug}}"
+    update: "Edit question {{slug}}"
+    delete: "Delete question {{slug}}"
+    uploadMedia: "Upload {{path}}"
+
+site_url: https://pitheory.in
+display_url: https://pitheory.in
+logo_url: /img/mark.svg
+media_folder: static/diagrams
+public_folder: /diagrams
+
+collections:
+  - name: questions
+    label: Questions
+    label_singular: Question
+    description: "One entry per question. ID format: class-chapter-number, e.g. 11-03-017 is Class 11, Chapter 3, question 17. Maths goes inside $ ... $. Set Status to Published when it is ready."
+    folder: content/questions
+    extension: json
+    format: json
+    create: true
+    delete: true
+    identifier_field: id
+    slug: "{{fields.id}}"
+    summary: "{{id}}  {{status}}  {{question | truncate(70)}}"
+    sortable_fields: [id, updated, difficulty]
+    view_groups:
+      - { label: Chapter, field: chapter }
+      - { label: Status, field: status }
+    view_filters:
+      - { label: Class 11, field: id, pattern: "^11-" }
+      - { label: Class 12, field: id, pattern: "^12-" }
+      - { label: Drafts, field: status, pattern: draft }
+      - { label: Numerical, field: type, pattern: numerical }
+      - { label: Top questions, field: important, pattern: true }
+    fields:
+      - label: Question ID
+        name: id
+        widget: string
+        pattern: ['^(11|12)-[0-9]{2}-[0-9]{3}$', "Use class-chapter-number, e.g. 11-03-017"]
+        hint: "Class-Chapter-Number, e.g. 12-03-004. Never change it after publishing: it is part of the page address."
+      - label: Chapter
+        name: chapter
+        widget: select
+        options:
+          - { label: "11-01  Units and Measurements", value: units-and-measurements }
+          - { label: "11-02  Motion in a Straight Line", value: motion-in-a-straight-line }
+          - { label: "11-03  Motion in a Plane", value: motion-in-a-plane }
+          - { label: "11-04  Laws of Motion", value: laws-of-motion }
+          - { label: "11-05  Work, Energy and Power", value: work-energy-and-power }
+          - { label: "11-06  System of Particles and Rotational Motion", value: system-of-particles-and-rotational-motion }
+          - { label: "11-07  Gravitation", value: gravitation }
+          - { label: "11-08  Mechanical Properties of Solids", value: mechanical-properties-of-solids }
+          - { label: "11-09  Mechanical Properties of Fluids", value: mechanical-properties-of-fluids }
+          - { label: "11-10  Thermal Properties of Matter", value: thermal-properties-of-matter }
+          - { label: "11-11  Thermodynamics", value: thermodynamics }
+          - { label: "11-12  Kinetic Theory", value: kinetic-theory }
+          - { label: "11-13  Oscillations", value: oscillations }
+          - { label: "11-14  Waves", value: waves }
+          - { label: "12-01  Electric Charges and Fields", value: electric-charges-and-fields }
+          - { label: "12-02  Electrostatic Potential and Capacitance", value: electrostatic-potential-and-capacitance }
+          - { label: "12-03  Current Electricity", value: current-electricity }
+          - { label: "12-04  Moving Charges and Magnetism", value: moving-charges-and-magnetism }
+          - { label: "12-05  Magnetism and Matter", value: magnetism-and-matter }
+          - { label: "12-06  Electromagnetic Induction", value: electromagnetic-induction }
+          - { label: "12-07  Alternating Current", value: alternating-current }
+          - { label: "12-08  Electromagnetic Waves", value: electromagnetic-waves }
+          - { label: "12-09  Ray Optics and Optical Instruments", value: ray-optics-and-optical-instruments }
+          - { label: "12-10  Wave Optics", value: wave-optics }
+          - { label: "12-11  Dual Nature of Radiation and Matter", value: dual-nature-of-radiation-and-matter }
+          - { label: "12-12  Atoms", value: atoms }
+          - { label: "12-13  Nuclei", value: nuclei }
+          - { label: "12-14  Semiconductor Electronics", value: semiconductor-electronics }
+      - label: Question type
+        name: type
+        widget: select
+        default: mcq
+        options:
+          - { label: "Multiple choice (NEET / JEE)", value: mcq }
+          - { label: "Numerical value (JEE)", value: numerical }
+      - label: Exams
+        name: exams
+        widget: select
+        multiple: true
+        default: [NEET, JEE Main]
+        options: [NEET, JEE Main, JEE Advanced]
+      - label: Difficulty
+        name: difficulty
+        widget: select
+        default: Medium
+        options: [Easy, Medium, Hard]
+      - label: Top question
+        name: important
+        widget: boolean
+        default: false
+        hint: "Must-practise question. Shown first in 'Top questions' and on the home page."
+      - label: Source
+        name: source
+        widget: string
+        default: PiTheory original
+        hint: "For previous year questions write the exam and year, e.g. NEET 2023 or JEE Main 2024 (27 Jan, Shift 1). It then shows a PYQ badge."
+      - label: Question
+        name: question
+        widget: text
+        hint: "Write maths between dollar signs: $v = u + at$. Use $$ ... $$ for a centred equation. Check tricky maths at pitheory.in/admin/preview.html"
+      - label: Diagram (optional)
+        name: diagram
+        widget: image
+        required: false
+        hint: "Shown at the end of the question, before the options. PNG or SVG, white background, about 800 px wide. Name the file with the question ID."
+      - label: Diagram description (optional)
+        name: diagram_alt
+        widget: string
+        required: false
+        hint: "One line describing the diagram, e.g. 'Block on a smooth incline at 30 degrees'. Helps Google and screen readers."
+      - label: Options (MCQ only, exactly 4, in order A B C D)
+        name: options
+        widget: list
+        required: false
+        min: 0
+        max: 4
+        summary: "{{fields.text}}"
+        fields:
+          - { label: Option text, name: text, widget: string, required: false }
+          - { label: Option image (optional), name: image, widget: image, required: false }
+      - label: Correct option (MCQ)
+        name: answer
+        widget: select
+        required: false
+        options: [A, B, C, D]
+      - label: Numerical answer (numerical type)
+        name: numerical_answer
+        widget: string
+        required: false
+        hint: "Just the number, e.g. 16 or 2.5"
+      - label: Allowed error (numerical type)
+        name: tolerance
+        widget: string
+        required: false
+        default: "0"
+        hint: "0 for an exact answer. 0.05 accepts answers within ±0.05."
+      - label: Solution
+        name: solution
+        widget: text
+        hint: "Step-by-step. Leave a blank line between steps to start a new paragraph."
+      - label: Solution diagram (optional)
+        name: solution_diagram
+        widget: image
+        required: false
+      - label: Status
+        name: status
+        widget: select
+        default: draft
+        options:
+          - { label: "Draft (hidden)", value: draft }
+          - { label: "Published (live on the site)", value: published }
+      - label: Last updated
+        name: updated
+        widget: datetime
+        format: YYYY-MM-DD
+        time_format: false
+        default: "{{now}}"
+
+  - name: settings
+    label: Site settings
+    files:
+      - name: site
+        label: Contact, fees and testimonials
+        file: data/site.json
+        format: json
+        fields:
+          - { label: Website address, name: site_url, widget: string }
+          - { label: "WhatsApp number (country code, no +)", name: whatsapp, widget: string }
+          - { label: Phone numbers, name: phones, widget: list, field: { label: Phone, name: phone, widget: string } }
+          - { label: Email, name: email, widget: string }
+          - { label: YouTube channel link, name: youtube_channel, widget: string, required: false }
+          - { label: Instagram link, name: instagram, widget: string, required: false }
+          - { label: "YouTube video IDs (code after watch?v=)", name: videos, widget: list, field: { label: Video ID, name: id, widget: string } }
+          - { label: Private tuition fee, name: fee_private, widget: string }
+          - { label: Private tuition unit, name: fee_private_unit, widget: string }
+          - { label: Batch fee, name: fee_batch, widget: string }
+          - { label: Batch fee unit, name: fee_batch_unit, widget: string }
+          - { label: Students taught, name: students_taught, widget: string }
+          - { label: Years of experience, name: years_experience, widget: string }
+          - { label: Google site verification code, name: google_site_verification, widget: string, required: false }
+          - { label: "Google Analytics ID (G-XXXX)", name: ga_id, widget: string, required: false }
+          - { label: Google Form action URL for demo requests, name: lead_form_action, widget: string, required: false }
+          - label: Google Form field IDs
+            name: lead_form_fields
+            widget: object
+            fields:
+              - { label: Name entry, name: name, widget: string, required: false }
+              - { label: Phone entry, name: phone, widget: string, required: false }
+              - { label: Exam entry, name: exam, widget: string, required: false }
+              - { label: Class entry, name: cls, widget: string, required: false }
+              - { label: Country entry, name: country, widget: string, required: false }
+              - { label: Page entry, name: page, widget: string, required: false }
+          - label: Testimonials (real students only)
+            name: testimonials
+            widget: list
+            required: false
+            fields:
+              - { label: Student name, name: name, widget: string }
+              - { label: "Detail, e.g. NEET 2025 680/720", name: detail, widget: string, required: false }
+              - { label: What they said, name: text, widget: text }
+      - name: chapters
+        label: Chapter introductions
+        file: data/chapters.json
+        format: json
+        fields:
+          - label: Chapters
+            name: chapters
+            widget: list
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            summary: "{{fields.code}}  {{fields.name}}"
+            fields:
+              - { label: "Code (do not change)", name: code, widget: string }
+              - { label: Class, name: class, widget: hidden }
+              - { label: Number, name: number, widget: hidden }
+              - { label: Name, name: name, widget: string }
+              - { label: "Web address part (do not change)", name: slug, widget: string }
+              - { label: Introduction shown on the chapter page, name: intro, widget: text, required: false, hint: "2-3 sentences: what the chapter covers and what NEET/JEE usually ask. Good for Google." }

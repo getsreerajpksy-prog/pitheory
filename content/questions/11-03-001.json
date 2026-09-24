@@ -1,0 +1,39 @@
+{
+  "id": "11-03-001",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "A ball is projected with speed $20\\ \\text{m/s}$ at $30^\\circ$ above the horizontal. Taking $g = 10\\ \\text{m/s}^2$, the maximum height reached is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$5\\ \\text{m}$",
+      "image": ""
+    },
+    {
+      "text": "$10\\ \\text{m}$",
+      "image": ""
+    },
+    {
+      "text": "$15\\ \\text{m}$",
+      "image": ""
+    },
+    {
+      "text": "$20\\ \\text{m}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Only the vertical component of velocity matters for height: $u_y = u\\sin 30^\\circ = 10\\ \\text{m/s}$.\n$$H = \\frac{u_y^2}{2g} = \\frac{10^2}{2\\times 10} = 5\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "published",
+  "updated": "2026-09-24"
+}

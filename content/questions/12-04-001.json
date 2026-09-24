@@ -1,0 +1,22 @@
+{
+  "id": "12-04-001",
+  "chapter": "moving-charges-and-magnetism",
+  "type": "numerical",
+  "exams": [
+    "JEE Advanced"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "A proton moves at $2 \\times 10^6\\ \\text{m/s}$ perpendicular to a uniform magnetic field of $0.1\\ \\text{T}$. Find the radius of its circular path in cm. (Take $m_p = 1.67\\times10^{-27}\\ \\text{kg}$, $e = 1.6\\times10^{-19}\\ \\text{C}$.)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "20.9",
+  "tolerance": "0.2",
+  "solution": "The magnetic force provides the centripetal force: $qvB = \\dfrac{mv^2}{r}$.\n$$r = \\frac{mv}{qB} = \\frac{(1.67\\times10^{-27})(2\\times10^{6})}{(1.6\\times10^{-19})(0.1)} \\approx 0.209\\ \\text{m} = 20.9\\ \\text{cm}$$",
+  "solution_diagram": "",
+  "status": "published",
+  "updated": "2026-09-24"
+}

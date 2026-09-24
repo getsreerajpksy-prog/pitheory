@@ -1,0 +1,39 @@
+{
+  "id": "12-09-001",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "An object is placed $30\\ \\text{cm}$ in front of a convex lens of focal length $20\\ \\text{cm}$. The image formed is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$60\\ \\text{cm}$ behind the lens, real, magnified",
+      "image": ""
+    },
+    {
+      "text": "$12\\ \\text{cm}$ behind the lens, real, diminished",
+      "image": ""
+    },
+    {
+      "text": "$60\\ \\text{cm}$ in front of the lens, virtual, magnified",
+      "image": ""
+    },
+    {
+      "text": "$20\\ \\text{cm}$ behind the lens, real, same size",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Using $\\frac1v - \\frac1u = \\frac1f$ with $u = -30\\ \\text{cm}$, $f = +20\\ \\text{cm}$:\n$$\\frac1v = \\frac1{20} - \\frac1{30} = \\frac1{60} \\;\\Rightarrow\\; v = +60\\ \\text{cm}$$\nPositive $v$ means a real image on the other side; $m = v/u = -2$, so it is inverted and twice the size.",
+  "solution_diagram": "",
+  "status": "published",
+  "updated": "2026-09-24"
+}

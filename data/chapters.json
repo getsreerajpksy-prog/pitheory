@@ -1,0 +1,228 @@
+{
+  "chapters": [
+    {
+      "code": "11-01",
+      "class": "11",
+      "number": 1,
+      "name": "Units and Measurements",
+      "slug": "units-and-measurements",
+      "intro": ""
+    },
+    {
+      "code": "11-02",
+      "class": "11",
+      "number": 2,
+      "name": "Motion in a Straight Line",
+      "slug": "motion-in-a-straight-line",
+      "intro": ""
+    },
+    {
+      "code": "11-03",
+      "class": "11",
+      "number": 3,
+      "name": "Motion in a Plane",
+      "slug": "motion-in-a-plane",
+      "intro": ""
+    },
+    {
+      "code": "11-04",
+      "class": "11",
+      "number": 4,
+      "name": "Laws of Motion",
+      "slug": "laws-of-motion",
+      "intro": ""
+    },
+    {
+      "code": "11-05",
+      "class": "11",
+      "number": 5,
+      "name": "Work, Energy and Power",
+      "slug": "work-energy-and-power",
+      "intro": ""
+    },
+    {
+      "code": "11-06",
+      "class": "11",
+      "number": 6,
+      "name": "System of Particles and Rotational Motion",
+      "slug": "system-of-particles-and-rotational-motion",
+      "intro": ""
+    },
+    {
+      "code": "11-07",
+      "class": "11",
+      "number": 7,
+      "name": "Gravitation",
+      "slug": "gravitation",
+      "intro": ""
+    },
+    {
+      "code": "11-08",
+      "class": "11",
+      "number": 8,
+      "name": "Mechanical Properties of Solids",
+      "slug": "mechanical-properties-of-solids",
+      "intro": ""
+    },
+    {
+      "code": "11-09",
+      "class": "11",
+      "number": 9,
+      "name": "Mechanical Properties of Fluids",
+      "slug": "mechanical-properties-of-fluids",
+      "intro": ""
+    },
+    {
+      "code": "11-10",
+      "class": "11",
+      "number": 10,
+      "name": "Thermal Properties of Matter",
+      "slug": "thermal-properties-of-matter",
+      "intro": ""
+    },
+    {
+      "code": "11-11",
+      "class": "11",
+      "number": 11,
+      "name": "Thermodynamics",
+      "slug": "thermodynamics",
+      "intro": ""
+    },
+    {
+      "code": "11-12",
+      "class": "11",
+      "number": 12,
+      "name": "Kinetic Theory",
+      "slug": "kinetic-theory",
+      "intro": ""
+    },
+    {
+      "code": "11-13",
+      "class": "11",
+      "number": 13,
+      "name": "Oscillations",
+      "slug": "oscillations",
+      "intro": ""
+    },
+    {
+      "code": "11-14",
+      "class": "11",
+      "number": 14,
+      "name": "Waves",
+      "slug": "waves",
+      "intro": ""
+    },
+    {
+      "code": "12-01",
+      "class": "12",
+      "number": 1,
+      "name": "Electric Charges and Fields",
+      "slug": "electric-charges-and-fields",
+      "intro": ""
+    },
+    {
+      "code": "12-02",
+      "class": "12",
+      "number": 2,
+      "name": "Electrostatic Potential and Capacitance",
+      "slug": "electrostatic-potential-and-capacitance",
+      "intro": ""
+    },
+    {
+      "code": "12-03",
+      "class": "12",
+      "number": 3,
+      "name": "Current Electricity",
+      "slug": "current-electricity",
+      "intro": ""
+    },
+    {
+      "code": "12-04",
+      "class": "12",
+      "number": 4,
+      "name": "Moving Charges and Magnetism",
+      "slug": "moving-charges-and-magnetism",
+      "intro": ""
+    },
+    {
+      "code": "12-05",
+      "class": "12",
+      "number": 5,
+      "name": "Magnetism and Matter",
+      "slug": "magnetism-and-matter",
+      "intro": ""
+    },
+    {
+      "code": "12-06",
+      "class": "12",
+      "number": 6,
+      "name": "Electromagnetic Induction",
+      "slug": "electromagnetic-induction",
+      "intro": ""
+    },
+    {
+      "code": "12-07",
+      "class": "12",
+      "number": 7,
+      "name": "Alternating Current",
+      "slug": "alternating-current",
+      "intro": ""
+    },
+    {
+      "code": "12-08",
+      "class": "12",
+      "number": 8,
+      "name": "Electromagnetic Waves",
+      "slug": "electromagnetic-waves",
+      "intro": ""
+    },
+    {
+      "code": "12-09",
+      "class": "12",
+      "number": 9,
+      "name": "Ray Optics and Optical Instruments",
+      "slug": "ray-optics-and-optical-instruments",
+      "intro": ""
+    },
+    {
+      "code": "12-10",
+      "class": "12",
+      "number": 10,
+      "name": "Wave Optics",
+      "slug": "wave-optics",
+      "intro": ""
+    },
+    {
+      "code": "12-11",
+      "class": "12",
+      "number": 11,
+      "name": "Dual Nature of Radiation and Matter",
+      "slug": "dual-nature-of-radiation-and-matter",
+      "intro": ""
+    },
+    {
+      "code": "12-12",
+      "class": "12",
+      "number": 12,
+      "name": "Atoms",
+      "slug": "atoms",
+      "intro": ""
+    },
+    {
+      "code": "12-13",
+      "class": "12",
+      "number": 13,
+      "name": "Nuclei",
+      "slug": "nuclei",
+      "intro": ""
+    },
+    {
+      "code": "12-14",
+      "class": "12",
+      "number": 14,
+      "name": "Semiconductor Electronics",
+      "slug": "semiconductor-electronics",
+      "intro": ""
+    }
+  ]
+}

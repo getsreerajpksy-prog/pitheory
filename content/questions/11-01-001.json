@@ -1,0 +1,40 @@
+{
+  "id": "11-01-001",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "The dimensional formula of Planck's constant $h$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$[ML^2T^{-2}]$",
+      "image": ""
+    },
+    {
+      "text": "$[ML^2T^{-1}]$",
+      "image": ""
+    },
+    {
+      "text": "$[MLT^{-1}]$",
+      "image": ""
+    },
+    {
+      "text": "$[ML^2T^{-3}]$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Use $E = h\\nu$, so $h = E/\\nu$.\n$$[h] = \\frac{[ML^2T^{-2}]}{[T^{-1}]} = [ML^2T^{-1}]$$\nThis is also the dimension of angular momentum.",
+  "solution_diagram": "",
+  "status": "published",
+  "updated": "2026-09-24"
+}

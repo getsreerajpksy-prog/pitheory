@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Maths preview | PiTheory admin</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css">
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js"></script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/auto-render.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:Poppins,system-ui,sans-serif;background:#F6F7FB;color:#141833}
+header{background:#182084;color:#fff;padding:14px 20px;font-weight:600}
+main{display:grid;grid-template-columns:1fr 1fr;gap:20px;padding:20px;max-width:1200px;margin:0 auto}
+textarea{width:100%;box-sizing:border-box;min-height:120px;padding:10px;border:1px solid #DDE1EE;border-radius:10px;font:14px/1.5 ui-monospace,Menlo,Consolas,monospace}
+label{display:block;font-weight:600;font-size:.85rem;margin:12px 0 4px}
+.out{background:#fff;border:1px solid #DDE1EE;border-radius:14px;padding:20px;line-height:1.75;position:sticky;top:20px;align-self:start}
+.out h3{margin:16px 0 6px;font-size:.9rem;color:#5B6180}
+.cheat{font-size:.82rem;color:#5B6180;margin-top:16px}
+.cheat code{background:#EEF0FA;padding:1px 5px;border-radius:4px}
+@media(max-width:800px){main{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>Maths preview: type here, see it as students will</header>
+<main>
+<div>
+  <label for="q">Question</label><textarea id="q">A particle moves with $v = 3t^2 + 2t\ \text{m/s}$. Find its acceleration at $t = 2\ \text{s}$.</textarea>
+  <label for="o">Options, one per line (MCQ)</label><textarea id="o" style="min-height:90px">$10\ \text{m/s}^2$
+$14\ \text{m/s}^2$
+$12\ \text{m/s}^2$
+$16\ \text{m/s}^2$</textarea>
+  <label for="s">Solution</label><textarea id="s">$$a = \frac{dv}{dt} = 6t + 2$$
+At $t = 2\ \text{s}$: $a = 14\ \text{m/s}^2$.</textarea>
+  <p class="cheat">Common: <code>\frac{a}{b}</code> <code>x^{2}</code> <code>v_{0}</code> <code>\sqrt{2gh}</code> <code>\theta</code> <code>\omega</code> <code>\lambda</code> <code>\mu</code> <code>\Omega</code> <code>\times</code> <code>30^\circ</code> <code>\vec{F}</code> <code>\text{m/s}</code> <code>\ </code>(space) <code>\propto</code> <code>\approx</code> <code>\Delta</code></p>
+</div>
+<div class="out" id="out"></div>
+</main>
+<script>
+function esc(s){return s.replace(/[&<>]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;"}[c]})}
+function para(s){return s.split(/\n\s*\n/).filter(Boolean).map(function(p){return "<p>"+esc(p).replace(/\n/g,"<br>")+"</p>"}).join("")}
+function render(){
+  var o=document.getElementById("o").value.split("\n").filter(function(x){return x.trim()});
+  var html="<h3>Question</h3>"+para(document.getElementById("q").value);
+  if(o.length) html+="<h3>Options</h3>"+o.map(function(x,i){return "<p><b>"+"ABCD"[i]+".</b> "+esc(x)+"</p>"}).join("");
+  html+="<h3>Solution</h3>"+para(document.getElementById("s").value);
+  var out=document.getElementById("out"); out.innerHTML=html;
+  if(window.renderMathInElement) renderMathInElement(out,{delimiters:[{left:"$$",right:"$$",display:true},{left:"$",right:"$",display:false}],throwOnError:false});
+}
+document.addEventListener("input",render);
+document.addEventListener("DOMContentLoaded",render);
+</script>
+</body>
+</html>

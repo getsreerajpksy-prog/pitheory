@@ -1,0 +1,22 @@
+{
+  "id": "12-06-001",
+  "chapter": "electromagnetic-induction",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $0.5\\ \\text{m}$ rod moves at $4\\ \\text{m/s}$ perpendicular to its length and to a uniform magnetic field of $0.2\\ \\text{T}$. Find the emf induced across its ends, in volts.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "0.4",
+  "tolerance": "0",
+  "solution": "$$\\varepsilon = B\\ell v = (0.2)(0.5)(4) = 0.4\\ \\text{V}$$",
+  "solution_diagram": "",
+  "status": "published",
+  "updated": "2026-09-24"
+}
