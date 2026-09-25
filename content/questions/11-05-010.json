@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Input power:\n$$P_{in} = \\frac{dm}{dt}gh = 15 \\times 10 \\times 60 = 9000\\ \\text{W}$$\n\nAfter $10\\%$ losses:\n$$P = 0.9 \\times 9000 = 8100\\ \\text{W} = 8.1\\ \\text{kW}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
