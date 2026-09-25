@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "With no external torque, angular momentum is conserved: $I\\omega = \\text{constant}$.\n\nFor a uniform sphere, $I = \\dfrac{2}{5}MR^2$, so $R^2\\omega$ is constant and $T \\propto R^2$.\n\n$$T_2 = T_1\\left(\\frac{R_2}{R_1}\\right)^2 = 27 \\times 4 = 108\\ \\text{days}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
