@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "For an adiabatic process, work done by the gas:\n$$W = \\frac{nR(T_1 - T_2)}{\\gamma - 1} = \\frac{1 \\times 8.3 \\times (60 - 50)}{5/3 - 1} = \\frac{83}{2/3} = 124.5\\ \\text{J}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
