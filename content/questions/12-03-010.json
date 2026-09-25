@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "No current flows through $G$, so the $2$ V cell carries no current. The potential difference across $R$ must then equal the emf of the $2$ V cell.\n\nThe $10$ V battery drives a current through $400\\ \\Omega$ and $R$ in series:\n$$I = \\frac{10}{400 + R}$$\n\n$$IR = 2 \\;\\Rightarrow\\; \\frac{10R}{400 + R} = 2 \\;\\Rightarrow\\; 10R = 800 + 2R \\;\\Rightarrow\\; R = 100\\ \\Omega$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
