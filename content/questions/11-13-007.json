@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "From the graph: amplitude $A = 1$ m and period $T = 8$ s, so $\\omega = \\dfrac{2\\pi}{8} = \\dfrac{\\pi}{4}$ rad/s and $x = \\sin\\left(\\dfrac{\\pi t}{4}\\right)$.\n\nAt $t = 2$ s, $x = 1$ m (the positive extreme).\n\n$$a = -\\omega^2x = -\\frac{\\pi^2}{16} \\times 1 = -\\frac{\\pi^2}{16}\\ \\text{m s}^{-2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

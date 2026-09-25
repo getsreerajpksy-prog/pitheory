@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$A$ and $B$ each pass through a NOT gate, and the results go into a NAND gate:\n$$Y = \\overline{\\bar{A} \\cdot \\bar{B}} = A + B$$\n(De Morgan's theorem). The circuit is an OR gate.\n\nOR truth table: $Y = 0$ only when $A = B = 0$, otherwise $Y = 1$. This is option (2).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

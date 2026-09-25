@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$22000 = 22 \\times 10^3$.\n\nThe first two bands give the digits $2, 2$ (red, red). The third band is the multiplier $10^3$, which is orange.\n\n(The $\\pm 5\\%$ tolerance is the gold fourth band.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

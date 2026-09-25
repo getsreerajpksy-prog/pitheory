@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The (light) wire carries the tension $W$ everywhere along its length.\n\n$$\\text{Longitudinal stress} = \\frac{\\text{force}}{\\text{area}} = \\frac{W}{A}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

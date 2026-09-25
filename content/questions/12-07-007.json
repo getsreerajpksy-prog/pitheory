@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$\\omega_0 = \\frac{1}{\\sqrt{LC}} = \\frac{1}{\\sqrt{10 \\times 10^{-3} \\times 10^{-6}}} = \\frac{1}{10^{-4}} = 10^4\\ \\text{rad/s}$$\n\n$$f_0 = \\frac{\\omega_0}{2\\pi} = \\frac{10^4}{6.28} \\approx 1592\\ \\text{Hz} \\approx 1.59\\ \\text{kHz}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

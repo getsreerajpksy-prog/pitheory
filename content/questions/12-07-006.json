@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$X_C = \\dfrac{1}{2\\pi fC}$, so lowering the frequency increases the reactance.\n\nThe current in the circuit, $I = \\dfrac{V}{X_C}$, therefore decreases. Between the plates, the displacement current equals the conduction current, so the displacement current also decreases.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

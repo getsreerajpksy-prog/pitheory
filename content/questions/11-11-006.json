@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$T_1 = 327 + 273 = 600$ K.\n\n$$\\eta = 1 - \\frac{T_2}{T_1} \\;\\Rightarrow\\; 0.5 = 1 - \\frac{T_2}{600} \\;\\Rightarrow\\; T_2 = 300\\ \\text{K} = 27°\\text{C}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

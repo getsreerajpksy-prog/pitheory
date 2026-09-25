@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$U = \\dfrac{1}{2}kx^2$, so $U \\propto x^2$.\n\n$$U' = U\\left(\\frac{8}{2}\\right)^2 = 16U$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

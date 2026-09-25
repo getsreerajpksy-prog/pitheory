@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The shortest wavelength is produced when the electron's entire kinetic energy $eV$ goes into one photon:\n$$eV = \\frac{hc}{\\lambda_{min}} \\;\\Rightarrow\\; \\lambda_{min} = \\frac{hc}{eV} \\propto \\frac{1}{V}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

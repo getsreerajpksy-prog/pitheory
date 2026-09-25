@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$\\vec{F} = I\\vec{L} \\times \\vec{B} = IL\\,\\hat{i} \\times (2\\hat{i} + 3\\hat{j} - 4\\hat{k}) = IL(3\\hat{k} + 4\\hat{j})$$\n\n(using $\\hat{i}\\times\\hat{i} = 0$, $\\hat{i}\\times\\hat{j} = \\hat{k}$, $\\hat{i}\\times\\hat{k} = -\\hat{j}$).\n\n$$|\\vec{F}| = IL\\sqrt{3^2 + 4^2} = 5\\,IL$$\n\n(The component of $\\vec{B}$ along the wire, $2\\hat{i}$, exerts no force.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

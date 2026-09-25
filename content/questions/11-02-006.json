@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Let the total distance be $2d$. Time taken:\n$$t = \\frac{d}{\\vartheta} + \\frac{d}{2\\vartheta} = \\frac{3d}{2\\vartheta}$$\n\n$$\\text{Average speed} = \\frac{2d}{3d/(2\\vartheta)} = \\frac{4\\vartheta}{3}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "For an orbit just above the surface (radius $R$):\n$$T = 2\\pi\\sqrt{\\frac{R^3}{GM}}, \\qquad M = \\frac{4}{3}\\pi R^3 d$$\n\n$$T^2 = \\frac{4\\pi^2R^3}{G \\cdot \\frac{4}{3}\\pi R^3 d} = \\frac{3\\pi}{Gd}$$\n\nSo $\\dfrac{3\\pi}{Gd}$ is $T^2$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

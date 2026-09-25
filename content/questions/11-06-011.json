@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Angular velocity and angular acceleration are axial vectors. For motion in a circle they point along the axis of rotation (perpendicular to the plane of the circle), with the direction given by the right-hand rule.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

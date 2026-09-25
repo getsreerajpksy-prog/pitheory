@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The force is along the change in momentum, $\\Delta\\vec{v} = \\vec{v}_f - \\vec{v}_i$.\n\n$\\vec{v}_i = v$ (south) and $\\vec{v}_f = v$ (east), so\n$$\\Delta\\vec{v} = v\\,\\hat{E} - v\\,\\hat{S} = v\\,\\hat{E} + v\\,\\hat{N}$$\n\nEqual east and north components: the force is towards the north-east.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

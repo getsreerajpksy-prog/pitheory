@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Zero net flux through a closed surface means the enclosed charge is zero (Gauss's law). The electric field need not be zero or uniform, and charges may lie outside.\n\nZero net flux does mean that every flux line entering the surface also leaves it: the number of lines entering equals the number leaving.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

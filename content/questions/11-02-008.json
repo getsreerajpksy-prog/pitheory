@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Take upward as positive, with the origin at the bridge:\n$$s = ut - \\frac{1}{2}gt^2 = 4 \\times 4 - \\frac{1}{2} \\times 10 \\times 16 = 16 - 80 = -64\\ \\text{m}$$\n\nThe water is $64$ m below the bridge.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

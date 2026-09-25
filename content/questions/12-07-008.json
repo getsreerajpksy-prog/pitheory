@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$\\omega = 2\\pi \\times 50 = 100\\pi$ rad/s.\n\n$$X_L = \\omega L = 100\\pi \\times \\frac{50}{\\pi} \\times 10^{-3} = 5\\ \\Omega$$\n$$X_C = \\frac{1}{\\omega C} = \\frac{1}{100\\pi \\times \\frac{10^3}{\\pi} \\times 10^{-6}} = \\frac{1}{0.1} = 10\\ \\Omega$$\n\n$$Z = \\sqrt{R^2 + (X_C - X_L)^2} = \\sqrt{10^2 + 5^2} = \\sqrt{125} = 5\\sqrt{5}\\ \\Omega$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

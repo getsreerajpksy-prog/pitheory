@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Assume uniform retardation $a$.\n\nFirst $24$ cm: $\\left(\\dfrac{u}{3}\\right)^2 = u^2 - 2a(24)$, so $48a = \\dfrac{8u^2}{9}$.\n\nWhole length $L$ (from $u$ to rest): $u^2 = 2aL$.\n\nDividing:\n$$\\frac{2aL}{48a} = \\frac{u^2}{8u^2/9} = \\frac{9}{8} \\;\\Rightarrow\\; L = 24 \\times \\frac{9}{8} = 27\\ \\text{cm}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
