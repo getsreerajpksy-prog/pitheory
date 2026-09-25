@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The two cells have their positive terminals facing each other at E, so they oppose. The $10$ V cell wins, and the net emf is $10 - 5 = 5$ V.\n\nTotal resistance: $2 + 1 + 7 = 10\\ \\Omega$.\n\n$$I = \\frac{5}{10} = 0.5\\ \\text{A}$$\n\nThe $10$ V cell drives current out of its positive terminal towards E, i.e. from A to B through E.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
