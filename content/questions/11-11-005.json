@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Along $bc$, the volume stays at $400\\ \\text{cm}^3$ while the pressure rises from $100$ kPa to $300$ kPa. It is an isochoric process, so\n$$W_{bc} = P\\,\\Delta V = 0$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
