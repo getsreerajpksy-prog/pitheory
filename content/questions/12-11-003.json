@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Emission occurs only if $\\lambda$ is less than the threshold wavelength.\n\nCell 1: $\\lambda > \\lambda_1$, so there is no emission and $V_1 = 0$.\n\nCells 2 and 3: $\\lambda < \\lambda_2$ and $\\lambda < \\lambda_3$, so both emit. The stopping potential is\n$$eV = hc\\left(\\frac{1}{\\lambda} - \\frac{1}{\\lambda_0}\\right)$$\nA larger threshold wavelength $\\lambda_0$ means a smaller work function and a larger $V$. Since $\\lambda_3 > \\lambda_2$, $V_3 > V_2$.\n\nSo $V_1 = 0$ and $V_2 < V_3$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
