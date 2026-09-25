@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$i_1$ splits between $r_2$ and $r_3$, which are in parallel. The current divides in inverse ratio of resistance:\n$$i_3 = i_1\\frac{r_2}{r_2 + r_3} \\;\\Rightarrow\\; \\frac{i_3}{i_1} = \\frac{r_2}{r_2 + r_3}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
