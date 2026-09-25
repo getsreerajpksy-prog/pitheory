@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Time period: $T = \\dfrac{5}{20} = 0.25$ s.\n\nFor a magnetic needle oscillating in a field:\n$$T = 2\\pi\\sqrt{\\frac{I}{mB}} \\;\\Rightarrow\\; m = \\frac{4\\pi^2 I}{T^2 B}$$\n\n$$m = \\frac{4\\pi^2 \\times 9.8 \\times 10^{-6}}{(0.25)^2 \\times 0.049} = \\frac{4\\pi^2 \\times 9.8 \\times 10^{-6}}{3.0625 \\times 10^{-3}} = 4\\pi^2 \\times 3.2 \\times 10^{-3}$$\n$$m = 12.8\\pi^2 \\times 10^{-3} = 1280\\pi^2 \\times 10^{-5}\\ \\text{A m}^2$$\n\nSo $x = 1280\\pi^2$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
