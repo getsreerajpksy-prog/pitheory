@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The field lines spread out to the right, so the field is non-uniform: stronger on the left and weaker on the right.\n\n$+q$ is on the left, where the field is stronger, and is pushed right with force $qE_{\\text{left}}$. $-q$ is on the right, where the field is weaker, and is pulled left with the smaller force $qE_{\\text{right}}$. The net force is to the right.\n\nEquivalently, $\\vec{p}$ (from $-q$ to $+q$) points to the left, opposite to $\\vec{E}$, so $U = -\\vec{p}\\cdot\\vec{E} = +pE$. Moving right into the weaker field lowers $U$. The dipole moves to the right and its potential energy decreases.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
