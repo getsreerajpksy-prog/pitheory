@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "A soap bubble has two surfaces (inside and outside), so the new surface area is $2 \\times 4\\pi r^2$.\n\n$$W = S \\times 8\\pi r^2 = 0.03 \\times 8 \\times 3.14 \\times (0.02)^2 \\approx 3.01 \\times 10^{-4}\\ \\text{J}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
