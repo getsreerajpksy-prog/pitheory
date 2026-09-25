@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Each piece has resistance $\\dfrac{R}{8}$.\n\nFour in parallel: $\\dfrac{R/8}{4} = \\dfrac{R}{32}$.\n\nTwo such sets in series: $2 \\times \\dfrac{R}{32} = \\dfrac{R}{16}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
