@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Angular fringe separation: $\\theta = \\dfrac{\\lambda}{d}$.\n\nStatement I: $\\theta$ does not depend on the screen distance $D$. True. (The linear fringe width $\\lambda D/d$ changes, but the angular separation does not.)\n\nStatement II: a larger $\\lambda$ gives a larger angular separation, not a smaller one. False.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
