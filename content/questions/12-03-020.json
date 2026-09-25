@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "For a metal such as copper, resistivity rises with temperature. It has a small non-zero value at low temperature and increases more steeply as the temperature rises (it is not a straight line over a wide range).\n\nGraph (3) shows this rising, upward-curving shape.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
