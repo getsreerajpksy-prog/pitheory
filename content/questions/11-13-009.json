@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$k = \\frac{F}{x} = \\frac{10}{0.05} = 200\\ \\text{N/m}$$\n\n$$T = 2\\pi\\sqrt{\\frac{m}{k}} = 2\\pi\\sqrt{\\frac{2}{200}} = \\frac{2\\pi}{10} = 0.628\\ \\text{s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
