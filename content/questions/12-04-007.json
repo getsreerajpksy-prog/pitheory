@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$B = \\frac{\\mu_0 NI}{2R} = \\frac{4\\pi \\times 10^{-7} \\times 100 \\times 7}{2 \\times 0.1} = 4.4 \\times 10^{-3}\\ \\text{T} = 4.4\\ \\text{mT}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
