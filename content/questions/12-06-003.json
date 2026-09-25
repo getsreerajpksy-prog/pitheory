@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Field inside the solenoid: $B = \\mu_0 n I$. Total turns $N = nl$, cross-section area $A = \\pi r^2$.\n\nFlux linkage:\n$$N\\phi = (nl)(\\mu_0 n I)(\\pi r^2) = \\mu_0 \\pi n^2 r^2 l\\, I$$\n\nSo\n$$L = \\frac{N\\phi}{I} = \\mu_0 \\pi n^2 r^2 l$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
