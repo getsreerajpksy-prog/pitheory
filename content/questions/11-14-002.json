@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Open pipe of length $L$: $f = \\dfrac{v}{2L}$.\n\nAfter dipping, the air column has length $\\dfrac{L}{2}$ and is closed at the water surface. Closed pipe fundamental:\n$$f' = \\frac{v}{4(L/2)} = \\frac{v}{2L} = f$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
