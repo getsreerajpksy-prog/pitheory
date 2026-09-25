@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Initial binding energy: $240 \\times 7.6 = 1824$ MeV.\n\nFinal binding energy: $2 \\times 120 \\times 8.5 = 2040$ MeV.\n\nGain: $2040 - 1824 = 216$ MeV.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
