@@ -4,7 +4,7 @@ This repository is the pitheory.in NEET/JEE physics question bank. `build.py` tu
 
 ## Adding questions from screenshots
 - One file per question: `content/questions/<ID>.json`. Copy the exact structure of an existing file (for example `content/questions/12-03-002.json`).
-- ID = `class-chapter-number`, e.g. `11-03-017`. Chapter codes and slugs are in `data/chapters.json`. Before choosing a number, list the existing files for that chapter and use the next free number. Never reuse or change an existing ID.
+- ID = `class-chapter-number`, e.g. `11-03-017`. Chapter codes and slugs are in `data/chapters.json`. Get the number from `python3 tools/next_id.py <chapter code> [count]`, which also counts IDs of deleted questions from the git history. Never reuse or change an ID, including the ID of a deleted question; gaps left by deletions stay empty.
 - `chapter` = the chapter's `slug` from `data/chapters.json`.
 - `type`: `mcq` (exactly 4 options, `answer` A/B/C/D, `numerical_answer` "") or `numerical` (JEE only, `options` [], `answer` "", `numerical_answer` a number, `tolerance` "0" unless stated).
 - `exams`: any of `NEET`, `JEE Main`, `JEE Advanced`.
