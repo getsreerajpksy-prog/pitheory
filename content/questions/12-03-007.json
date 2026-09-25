@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Each part has resistance $\\dfrac{100}{10} = 10\\ \\Omega$.\n\nFive in series: $5 \\times 10 = 50\\ \\Omega$.\n\nFive in parallel: $\\dfrac{10}{5} = 2\\ \\Omega$.\n\nTotal: $50 + 2 = 52\\ \\Omega$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
