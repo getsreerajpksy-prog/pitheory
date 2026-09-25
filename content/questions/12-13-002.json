@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Alpha emission: $A \\to A - 4$, $Z \\to Z - 2$. Positron ($e^+$) emission: $Z \\to Z - 1$. Beta-minus ($\\beta^-$, same as $e^-$) emission: $Z \\to Z + 1$. The mass number does not change in beta decays.\n\n$X\\ (290, 82) \\xrightarrow{\\alpha} Y\\ (286, 80) \\xrightarrow{e^+} Z\\ (286, 79) \\xrightarrow{\\beta^-} P\\ (286, 80) \\xrightarrow{e^-} Q\\ (286, 81)$\n\nMass number $286$, atomic number $81$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
