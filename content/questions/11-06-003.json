@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The spheres touch, so their centres are $d = R + r$ apart.\n\nAbout the axis through the centre of A (parallel axis theorem for B):\n$$I_A = \\frac{2}{5}MR^2 + \\frac{2}{5}mr^2 + m(R + r)^2$$\n\nAbout the axis through the centre of B:\n$$I_B = \\frac{2}{5}MR^2 + M(R + r)^2 + \\frac{2}{5}mr^2$$\n\n$$I_A - I_B = (m - M)(R + r)^2$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
