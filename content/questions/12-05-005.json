@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$\\mu = \\mu_0(1 + \\chi) = 4\\pi \\times 10^{-7} \\times 600 = 2.4\\pi \\times 10^{-4}\\ \\text{T m A}^{-1}$$\n\n(The value of the magnetising field is not needed.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
