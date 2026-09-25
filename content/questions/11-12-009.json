@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "A molecule sweeps out a collision cylinder of cross-section $\\pi d^2$. Allowing for the motion of the other molecules (the factor $\\sqrt{2}$):\n$$\\lambda = \\frac{1}{\\sqrt{2}\\,n\\pi d^2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
