@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Inside a charged conducting (thin) shell the electric field is zero, so the potential is the same everywhere inside and on the shell:\n$$V = \\frac{1}{4\\pi\\epsilon_0}\\frac{q}{R}$$\n\n$C$ is the centre and $P$ is on the shell, so $V_C = V_P$ and the potential difference is zero.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
