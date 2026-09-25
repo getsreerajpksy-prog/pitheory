@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Circuit (A), series:\n$$R_A = R_0(1 - \\alpha\\Delta T) + R_0(1 + \\alpha\\Delta T) = 2R_0$$\nThis does not change, so $I_A$ remains constant.\n\nCircuit (B), parallel:\n$$R_B = \\frac{R_0(1 - \\alpha\\Delta T)\\,R_0(1 + \\alpha\\Delta T)}{2R_0} = \\frac{R_0}{2}\\left(1 - \\alpha^2\\Delta T^2\\right)$$\nThis decreases as $\\Delta T$ increases, so $I_B$ increases.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
