@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$\\mu = \\frac{v_d}{E} = \\frac{7.5 \\times 10^{-4}}{3 \\times 10^{-10}} = 2.5 \\times 10^6\\ \\text{m}^2\\text{V}^{-1}\\text{s}^{-1}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
