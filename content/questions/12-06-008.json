@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$U = \\frac{1}{2}LI^2 = \\frac{1}{2} \\times 4 \\times 10^{-6} \\times 2^2 = 8 \\times 10^{-6}\\ \\text{J} = 8\\ \\mu\\text{J}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
