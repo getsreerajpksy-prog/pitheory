@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Mean free path: $\\lambda = \\dfrac{1}{\\sqrt{2}\\,\\pi d^2 n}$, so $\\lambda \\propto \\dfrac{1}{d^2 n}$.\n\n$$\\frac{\\lambda_A}{\\lambda_B} = \\frac{d_B^2\\, n_B}{d_A^2\\, n_A} = \\frac{d_B^2\\, n_B}{4d_B^2\\, n_A} = \\frac{n_B}{4n_A}$$\n\nGiven $\\dfrac{\\lambda_A}{\\lambda_B} = \\dfrac{1}{2}$:\n$$\\frac{n_B}{4n_A} = \\frac{1}{2} \\;\\Rightarrow\\; n_A = \\frac{1}{2}n_B$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
