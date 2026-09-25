@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Energy conservation: $\\dfrac{1}{2}mv^2 + \\dfrac{1}{2}kx^2 = \\dfrac{1}{2}kA^2$, which gives\n$$x^2 + \\frac{m}{k}v^2 = A^2$$\n\nThis is an ellipse in general. It is a circle when the coefficients of $x^2$ and $v^2$ are equal:\n$$\\frac{m}{k} = 1 \\;\\Rightarrow\\; k = m$$\n\n(numerically, in SI units; this is the case $\\omega = 1\\ \\text{rad s}^{-1}$).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
