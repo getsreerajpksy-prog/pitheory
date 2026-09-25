@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Radius of the $n = 2$ orbit: $r_2 = n^2a_0 = 4 \\times 0.052 = 0.208$ nm.\n\nBohr's condition means the orbit holds a whole number of wavelengths: $2\\pi r_n = n\\lambda$.\n$$\\lambda = \\frac{2\\pi r_2}{2} = \\pi \\times 0.208 \\approx 0.65\\ \\text{nm}$$\n\nThe closest option is $0.67$ nm.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
