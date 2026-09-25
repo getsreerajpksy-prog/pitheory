@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Balance condition: $\\dfrac{R}{10} = \\dfrac{3}{2}$, so $R = 15\\ \\Omega$.\n\n$15\\ \\Omega$ over $1.5$ m, so $1\\ \\Omega$ corresponds to\n$$\\frac{1.5}{15} = 0.1\\ \\text{m} = 1.0 \\times 10^{-1}\\ \\text{m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
