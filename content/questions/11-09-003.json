@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Take a thin strip of the liquid surface between $x$ and $x + dx$ (unit length along $z$). Measure $y$ from the level of the flat liquid surface far away, where the pressure just below the surface is atmospheric.\n\nSurface tension pulls along the surface at both edges of the strip. Its net vertical component is\n$$S\\sin\\theta(x + dx) - S\\sin\\theta(x) = S\\frac{d\\theta}{dx}dx = S\\frac{d^2y}{dx^2}dx$$\n\nJust below a surface at height $y$, the liquid pressure is lower than atmospheric by $\\rho g y$. So the atmosphere pushes the strip down with a net force $\\rho g y\\,dx$.\n\nFor equilibrium:\n$$S\\frac{d^2y}{dx^2} = \\rho g y \\;\\Rightarrow\\; \\frac{d^2y}{dx^2} = \\frac{\\rho g}{S}y$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
