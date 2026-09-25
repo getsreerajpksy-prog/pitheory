@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Thermal resistance $R_{th} = \\dfrac{l}{KA}$. If each outer rod ($2K$) has resistance $R$, the middle rod ($K$) has $2R$. Total: $R + 2R + R = 4R$.\n\nHeat current: $H = \\dfrac{3T - T}{4R} = \\dfrac{T}{2R}$.\n\n$$T_1 = 3T - HR = 3T - \\frac{T}{2} = \\frac{5T}{2}$$\n$$T_2 = T + HR = T + \\frac{T}{2} = \\frac{3T}{2}$$\n\n$$\\frac{T_1}{T_2} = \\frac{5}{3}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
