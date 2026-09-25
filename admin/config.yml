@@ -1,7 +1,7 @@
 # PiTheory admin panel (Sveltia CMS). Open https://pitheory.in/admin/
 backend:
   name: github
-  repo: YOUR-GITHUB-USERNAME/pitheory   # change once, after creating the repository
+  repo: getsreerajpksy-prog/pitheory   # change once, after creating the repository
   branch: main
   commit_messages:
     create: "Add question {{slug}}"
