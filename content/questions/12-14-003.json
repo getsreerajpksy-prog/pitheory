@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The upper gate is a NOR gate: its output is $\\overline{A + B}$.\n\nThe lower gate is a NAND gate: its output is $\\overline{A \\cdot B}$.\n\nThe final AND gate gives\n$$Y = \\overline{A + B}\\cdot\\overline{A \\cdot B} = (\\bar{A}\\bar{B})(\\bar{A} + \\bar{B}) = \\bar{A}\\bar{B}$$\nsince $\\bar{A}\\bar{B}\\bar{A} = \\bar{A}\\bar{B}$ and $\\bar{A}\\bar{B}\\bar{B} = \\bar{A}\\bar{B}$.\n\n$Y = \\bar{A}\\bar{B} = \\overline{A + B}$, which is the NOR function.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
