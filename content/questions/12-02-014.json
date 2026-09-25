@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Both plates of the middle capacitor are connected, by plain wires, to the right-hand junction. It is short-circuited and stores no charge.\n\nThe remaining two capacitors $C$ are in parallel between the two terminals:\n$$C_{eq} = C + C = 2C$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
