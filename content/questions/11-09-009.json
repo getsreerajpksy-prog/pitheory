@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Capillary rise: $h = \\dfrac{2S\\cos\\theta}{r\\rho g}$, so $h \\propto \\dfrac{1}{r}$.\n\nMass of the raised column: $m = \\pi r^2h\\rho \\propto r^2 \\cdot \\dfrac{1}{r} = r$.\n\nDoubling the radius doubles the mass: $2 \\times 5 = 10$ g.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
