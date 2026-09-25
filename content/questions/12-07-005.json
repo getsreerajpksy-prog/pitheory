@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "For an ideal transformer, input power = output power $= 60$ W.\n\n$$I_p = \\frac{P}{V_p} = \\frac{60}{220} \\approx 0.27\\ \\text{A}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
