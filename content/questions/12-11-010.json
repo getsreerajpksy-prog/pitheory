@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Photoelectrons are emitted only if the photon energy is greater than the work function.\n\n$2.20\\ \\text{eV} > 2.14\\ \\text{eV}$ (Cs), but $2.20\\ \\text{eV} < 2.30\\ \\text{eV}$ (K) and $< 2.75\\ \\text{eV}$ (Na).\n\nOnly caesium emits.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
