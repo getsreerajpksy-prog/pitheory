@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "These are Balmer lines. $\\dfrac{1}{\\lambda} = R\\left(\\dfrac{1}{4} - \\dfrac{1}{n_2^2}\\right)$, so a larger $n_2$ means a larger energy gap and a shorter wavelength.\n\nThe order of wavelengths is therefore $3 \\to 2 > 4 \\to 2 > 5 \\to 2 > 6 \\to 2$:\n\nA ($3 \\to 2$, H-alpha): $656.3$ nm (III)\n\nB ($4 \\to 2$, H-beta): $486.1$ nm (IV)\n\nC ($5 \\to 2$, H-gamma): $434.1$ nm (II)\n\nD ($6 \\to 2$, H-delta): $410.2$ nm (I)\n\nA-III, B-IV, C-II, D-I.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
