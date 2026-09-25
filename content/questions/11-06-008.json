@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "In rolling without slipping, the velocity of any point is the velocity of the centre plus the velocity due to rotation, with $\\omega R = v$.\n\nTop point $P$: $v + \\omega R = 2v$.\n\nBottom point $Q$ (in contact with the road): $v - \\omega R = 0$.\n\nSo $P$ moves faster than $Q$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
