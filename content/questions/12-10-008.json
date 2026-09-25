@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$\\Delta\\theta = \\frac{1.22\\lambda}{D} = \\frac{1.22 \\times 600 \\times 10^{-9}}{2} = 3.66 \\times 10^{-7}\\ \\text{rad}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The ray emerges normally, so the angle of refraction at the second face is $r_2 = 0$. Since $r_1 + r_2 = A$, $r_1 = A$.\n\nAt the first face, for small angles, $\\sin i \\approx i$ and $\\sin r_1 \\approx r_1$:\n$$i = \\mu r_1 = \\mu A$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

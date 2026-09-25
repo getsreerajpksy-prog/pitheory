@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The point is outside the sphere, so the charge acts as if concentrated at the centre:\n$$E = \\frac{kq}{r^2} = \\frac{9 \\times 10^9 \\times 3.2 \\times 10^{-7}}{(0.15)^2} = \\frac{2880}{0.0225} = 1.28 \\times 10^5\\ \\text{N/C}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

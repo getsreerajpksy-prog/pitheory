@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$1\\ \\text{eV} = 1.6 \\times 10^{-19}$ J, so\n$$E = \\frac{10^{-20}}{1.6 \\times 10^{-19}} = 0.0625\\ \\text{eV} \\approx 0.06\\ \\text{eV}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

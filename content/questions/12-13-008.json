@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$^{235}_{92}\\text{U} + {}^1_0n \\rightarrow {}^{89}_{36}\\text{Kr} + 3\\,{}^1_0n + {}^A_ZX$$\n\nMass number: $236 = 89 + 3 + A$, so $A = 144$.\n\nAtomic number: $92 = 36 + Z$, so $Z = 56$ (barium).\n\nThe product is $^{144}_{56}\\text{Ba}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

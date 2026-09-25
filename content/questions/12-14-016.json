@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Each input passes through a NOT gate, and the outputs go into a NOR gate:\n$$Y = \\overline{\\bar{A} + \\bar{B}} = A \\cdot B$$\n(De Morgan's theorem). The circuit is an AND gate.\n\nAND truth table: $Y = 1$ only when $A = B = 1$. This is option (1).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

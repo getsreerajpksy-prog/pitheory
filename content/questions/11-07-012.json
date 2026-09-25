@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$F = F_0\\left(\\frac{R}{R + h}\\right)^2 = 72\\left(\\frac{R}{1.5R}\\right)^2 = 72 \\times \\frac{4}{9} = 32\\ \\text{N}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

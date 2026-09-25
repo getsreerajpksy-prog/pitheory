@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "New frequency: $\\dfrac{1.5\\nu_0}{2} = 0.75\\nu_0$, which is below the threshold frequency.\n\nNo photoelectrons are emitted at any intensity, so the photocurrent is zero.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

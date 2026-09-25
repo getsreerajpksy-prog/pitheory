@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$9.99 - 0.0099 = 9.9801$ m.\n\nIn subtraction, the result keeps as many decimal places as the least precise number. $9.99$ has two decimal places, so the answer is $9.98$ m.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "For an electron accelerated through $V$ volts: $\\lambda = \\dfrac{1.227}{\\sqrt{V}}$ nm.\n$$\\sqrt{V} = \\frac{1.227}{1.227 \\times 10^{-2}} = 100 \\;\\Rightarrow\\; V = 10^4\\ \\text{V}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

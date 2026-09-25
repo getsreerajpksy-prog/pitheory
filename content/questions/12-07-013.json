@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "L removed: $\\tan\\dfrac{\\pi}{3} = \\dfrac{X_C}{R}$. C removed: $\\tan\\dfrac{\\pi}{3} = \\dfrac{X_L}{R}$.\n\nSo $X_L = X_C$: with all three present the circuit is at resonance, $Z = R$ and $\\phi = 0$.\n\n$$\\cos\\phi = 1$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$\\beta = \\dfrac{\\lambda D}{d}$. Doubling $D$ and halving $d$:\n$$\\beta' = \\frac{\\lambda(2D)}{d/2} = 4\\beta$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

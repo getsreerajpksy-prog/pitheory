@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Average energy densities:\n$$u_E = \\frac{1}{4}\\epsilon_0E_0^2, \\qquad u_B = \\frac{B_0^2}{4\\mu_0}$$\n\nWith $B_0 = \\dfrac{E_0}{c}$ and $c^2 = \\dfrac{1}{\\mu_0\\epsilon_0}$:\n$$u_B = \\frac{E_0^2}{4\\mu_0c^2} = \\frac{1}{4}\\epsilon_0E_0^2 = u_E$$\n\nThe electric and magnetic fields contribute equally: $1 : 1$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

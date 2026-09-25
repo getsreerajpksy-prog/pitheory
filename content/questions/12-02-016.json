@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$E = -\\dfrac{dV}{dr}$. The potential is the same everywhere in the region, so its gradient is zero and $E = 0$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

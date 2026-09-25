@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$\\text{LC} = \\dfrac{\\text{pitch}}{\\text{number of circular divisions}}$, so\n$$\\text{pitch} = 0.01 \\times 50 = 0.5\\ \\text{mm}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

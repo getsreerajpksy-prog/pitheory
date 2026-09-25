@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$\\vec{\\tau} = \\vec{r} \\times \\vec{F} = 2\\hat{k} \\times 3\\hat{j} = 6(\\hat{k} \\times \\hat{j}) = -6\\hat{i}\\ \\text{N m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

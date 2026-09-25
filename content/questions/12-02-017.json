@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Dielectric constant: $K = \\dfrac{30}{6} = 5$.\n\n$$\\epsilon = K\\epsilon_0 = 5 \\times 8.85 \\times 10^{-12} = 44.25 \\times 10^{-12} \\approx 0.44 \\times 10^{-10}\\ \\text{C}^2\\text{N}^{-1}\\text{m}^{-2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
