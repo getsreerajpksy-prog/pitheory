@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Let the bus speed be $v$. Buses in each direction are spaced $vT$ apart.\n\nBuses overtaking her (same direction), relative speed $v - 60$:\n$$\\frac{vT}{v - 60} = \\frac{1}{2}\\ \\text{h}$$\n\nBuses coming towards her, relative speed $v + 60$:\n$$\\frac{vT}{v + 60} = \\frac{1}{6}\\ \\text{h}$$\n\nDividing: $\\dfrac{v + 60}{v - 60} = 3 \\;\\Rightarrow\\; v = 120$ km/h.\n\nThen $vT = \\dfrac{1}{2}(120 - 60) = 30$ km, so $T = \\dfrac{30}{120}$ h $= 15$ min.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
