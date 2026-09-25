@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Parallel: $\\dfrac{R}{4} = 0.25$, so each wire has $R = 1\\ \\Omega$.\n\nSeries: $4R = 4\\ \\Omega$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
