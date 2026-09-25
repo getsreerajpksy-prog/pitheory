@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Open pipe (antinodes at both ends): the $p^{\\text{th}}$ harmonic has length $L = p\\dfrac{\\lambda}{2}$ and contains $p$ nodes. For the $5^{\\text{th}}$ harmonic, $n = 5$.\n\nClosed pipe (node at the closed end, antinode at the open end): the $(2k-1)^{\\text{th}}$ harmonic has $L = (2k-1)\\dfrac{\\lambda}{4}$ and contains $k$ nodes (counting the closed end). For the $9^{\\text{th}}$ harmonic, $2k - 1 = 9$, so $k = 5$ and $m = 5$.\n\n$$\\frac{n}{m} = \\frac{5}{5} = 1$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
