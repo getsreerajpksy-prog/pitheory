@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The first gate is a NAND gate with both inputs joined to $A$, so it acts as a NOT gate: output $\\bar{A}$.\n\nThe second gate is a NOR gate with both inputs joined to $B$, so it also acts as a NOT gate: output $\\bar{B}$.\n\nThe final NOR gate gives\n$$Y = \\overline{\\bar{A} + \\bar{B}} = A \\cdot B$$\n(De Morgan's theorem), which is the AND function.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
