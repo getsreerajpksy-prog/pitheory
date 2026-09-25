@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Taking the $5$ kg particle as origin:\n$$x_{cm} = \\frac{5 \\times 0 + 10 \\times 1}{5 + 10} = \\frac{2}{3}\\ \\text{m} \\approx 67\\ \\text{cm}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
