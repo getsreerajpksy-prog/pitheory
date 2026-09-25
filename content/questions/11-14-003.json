@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Open pipe: $f_o = \\dfrac{v}{2L}$. Closed pipe: $f_c = \\dfrac{v}{4L}$.\n\n$$\\frac{f_o}{f_c} = \\frac{4L}{2L} = 2 : 1$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
