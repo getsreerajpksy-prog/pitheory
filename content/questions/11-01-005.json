@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Least count $= 1\\ \\text{MSD} - 1\\ \\text{VSD} = 0.1 - \\dfrac{9}{10}(0.1) = 0.01$ cm.\n\nWith the jaws closed, the vernier zero is at $+0.1$ cm, so the zero error is $+0.1$ cm.\n\nObserved reading $= 5 + 8 \\times 0.01 = 5.08$ cm.\n\nCorrected diameter $= 5.08 - 0.1 = 4.98$ cm.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
