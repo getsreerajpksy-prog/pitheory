@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Ampère's law with a circle of radius $r$:\n\nInside ($r < R$), the enclosed current is $I\\dfrac{r^2}{R^2}$:\n$$B \\cdot 2\\pi r = \\mu_0 I\\frac{r^2}{R^2} \\;\\Rightarrow\\; B = \\frac{\\mu_0 I r}{2\\pi R^2} \\propto r$$\n\nOutside ($r > R$):\n$$B = \\frac{\\mu_0 I}{2\\pi r} \\propto \\frac{1}{r}$$\n\n$B$ rises linearly from zero to a maximum at $r = R$, then falls as $1/r$. This is option (4).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
