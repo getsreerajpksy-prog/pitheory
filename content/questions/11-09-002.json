@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Terminal velocity (Stokes' law):\n$$v = \\frac{2r^2(\\sigma - \\rho)g}{9\\eta} = \\frac{2r^2\\rho g}{9\\eta}\\left(\\frac{\\sigma}{\\rho} - 1\\right)$$\n\nFor balls of the same radius, $v$ is a straight line in $\\dfrac{\\sigma}{\\rho}$ that becomes zero at $\\dfrac{\\sigma}{\\rho} = 1$ and increases linearly beyond it. (For $\\sigma < \\rho$ the ball does not sink, so there is no falling terminal velocity to measure.)\n\nThis matches option (1).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
