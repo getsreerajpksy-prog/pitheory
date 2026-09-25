@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$V = \\frac{1}{4\\pi\\epsilon_0}\\frac{p\\cos\\theta}{r^2} = \\frac{9 \\times 10^9 \\times 16 \\times 10^{-9} \\times 0.5}{(0.6)^2} = \\frac{72}{0.36} = 200\\ \\text{V}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
