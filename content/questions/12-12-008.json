@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$r_n = n^2r_1$:\n$$r_3 = 9 \\times 0.53\\ \\text{Å} = 4.77\\ \\text{Å}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
