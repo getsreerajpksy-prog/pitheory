@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Amplitude: $B_0 = \\dfrac{E_0}{c} = \\dfrac{60}{3 \\times 10^8} = 2 \\times 10^{-7}$ T.\n\nThe phase $(5x + \\omega t)$ means the wave travels along $-x$. $\\vec{B}$ must be perpendicular to both $\\vec{E}$ (along $z$) and the direction of travel (along $x$), so $\\vec{B}$ is along $y$.\n\nCheck the direction: $\\vec{E} \\times \\vec{B}$ must point along $-x$, and $\\hat{z} \\times \\hat{y} = -\\hat{x}$. So $B_y$ is in phase with $E_z$ (same sign):\n$$B_y = 2 \\times 10^{-7}\\cos(5x + 1.5 \\times 10^9 t)\\ \\text{T}$$\n\n(Also, $\\omega/k = 1.5 \\times 10^9/5 = 3 \\times 10^8\\ \\text{m s}^{-1} = c$, as expected.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
