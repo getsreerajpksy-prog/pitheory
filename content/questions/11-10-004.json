@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Newton's law of cooling (average form): $\\dfrac{\\Delta T}{t} = K(T_{avg} - T_0)$.\n\nFirst case: $\\dfrac{10}{t} = K(85 - 20) = 65K$.\n\nSecond case: $\\dfrac{20}{t'} = K(70 - 20) = 50K$.\n\nDividing:\n$$\\frac{20/t'}{10/t} = \\frac{50}{65} \\;\\Rightarrow\\; \\frac{2t}{t'} = \\frac{10}{13} \\;\\Rightarrow\\; t' = \\frac{13}{5}t$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

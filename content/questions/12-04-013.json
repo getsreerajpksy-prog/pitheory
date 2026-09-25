@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Magnetic moment: $m = NIA$.\n\n(i) Triangle: perimeter $3a$, so $N = \\dfrac{12a}{3a} = 4$ turns, each of area $\\dfrac{\\sqrt{3}}{4}a^2$:\n$$m_1 = 4 \\times I \\times \\frac{\\sqrt{3}}{4}a^2 = \\sqrt{3}Ia^2$$\n\n(ii) Square: perimeter $4a$, so $N = 3$ turns, each of area $a^2$:\n$$m_2 = 3Ia^2$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

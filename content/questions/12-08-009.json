@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$\\vec{E}$ and $\\vec{B}$ must be perpendicular to each other, and $\\vec{E} \\times \\vec{B}$ must point along $+\\hat{i}$.\n\nOptions (1), (2) and (4) have $\\vec{E}$ parallel or antiparallel to $\\vec{B}$, so they are ruled out.\n\nOption (3): $(-\\hat{j} + \\hat{k})\\cdot(-\\hat{j} - \\hat{k}) = 1 - 1 = 0$, so they are perpendicular. And\n$$(-\\hat{j} + \\hat{k}) \\times (-\\hat{j} - \\hat{k}) = \\hat{j}\\times\\hat{k} - \\hat{k}\\times\\hat{j} = \\hat{i} + \\hat{i} = 2\\hat{i}$$\nwhich is along $+x$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

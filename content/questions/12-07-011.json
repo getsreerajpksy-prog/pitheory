@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Resonance:\n$$\\omega_0 = \\frac{1}{\\sqrt{LC}} = \\frac{1}{\\sqrt{5 \\times 80 \\times 10^{-6}}} = \\frac{1}{0.02} = 50\\ \\text{rad/s}$$\n\nThe half-power frequencies are $\\omega_0 \\pm \\dfrac{R}{2L}$:\n$$\\frac{R}{2L} = \\frac{40}{10} = 4\\ \\text{rad/s}$$\n\n$$\\omega = 50 \\pm 4 = 46\\ \\text{rad/s and } 54\\ \\text{rad/s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The remaining $270°$ arc has mass $\\dfrac{3}{4}M$, and all of it is at distance $R$ from the axis:\n$$I = \\frac{3}{4}MR^2 \\;\\Rightarrow\\; K = \\frac{3}{4}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

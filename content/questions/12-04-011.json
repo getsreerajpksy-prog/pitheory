@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Field of the wire at $20$ cm:\n$$B = \\frac{\\mu_0 I}{2\\pi r} = \\frac{2 \\times 10^{-7} \\times 5}{0.2} = 5 \\times 10^{-6}\\ \\text{T}$$\n\nThe electron moves parallel to the wire, perpendicular to $B$:\n$$F = evB = 1.6 \\times 10^{-19} \\times 10^5 \\times 5 \\times 10^{-6} = 8 \\times 10^{-20}\\ \\text{N}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

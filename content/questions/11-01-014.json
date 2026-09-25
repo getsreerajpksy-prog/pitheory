@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Energy $=$ force $\\times$ distance, and distance has the dimensions of acceleration $\\times$ time$^2$:\n$$[E] = [F][L] = [F][A][T^2]$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

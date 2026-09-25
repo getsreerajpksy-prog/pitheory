@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Energy conservation, with $V_e^2 = \\dfrac{2GM}{R}$:\n$$\\frac{1}{2}mk^2V_e^2 - \\frac{GMm}{R} = -\\frac{GMm}{R + h}$$\n$$k^2\\frac{GM}{R} = \\frac{GM}{R} - \\frac{GM}{R + h} = \\frac{GMh}{R(R + h)}$$\n$$k^2(R + h) = h \\;\\Rightarrow\\; h = \\frac{Rk^2}{1 - k^2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Energy of one photon:\n$$E = \\frac{hc}{\\lambda} = \\frac{6.6 \\times 10^{-34} \\times 3 \\times 10^8}{600 \\times 10^{-9}} = 3.3 \\times 10^{-19}\\ \\text{J}$$\n\n$$N = \\frac{P}{E} = \\frac{3.3 \\times 10^{-3}}{3.3 \\times 10^{-19}} = 10^{16}\\ \\text{per second}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

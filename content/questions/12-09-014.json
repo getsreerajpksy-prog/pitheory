@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "A large aperture collects more light (brighter images of faint objects) and gives better resolving power (resolution $\\propto D/\\lambda$). Both improve the quality and visibility of the image, and a large focal length gives a high magnification ($f_o/f_e$).\n\nAll the statements are true.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

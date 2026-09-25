@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The ray strikes the slanting face normally, so it enters without bending.\n\nThe slanting face makes $60°$ with the base, so the ray inside (perpendicular to that face) travels at $30°$ below the horizontal. It meets the vertical face at an angle of incidence of $30°$ (measured from the horizontal normal).\n\nThis is less than the critical angle ($\\sin C = 1/\\sqrt{3}$, $C \\approx 35°$), so the ray emerges. Snell's law at the vertical face:\n$$\\sqrt{3}\\sin 30° = \\sin e \\;\\Rightarrow\\; \\sin e = \\frac{\\sqrt{3}}{2} \\;\\Rightarrow\\; e = 60°$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

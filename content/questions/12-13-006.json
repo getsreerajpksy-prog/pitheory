@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$Z \\to Z - 1$: the atomic number drops by 1, which is $\\beta^+$ emission.\n\n$Z - 1 \\to Z - 3$: the atomic number drops by 2, which is $\\alpha$ emission.\n\n$Z - 3 \\to Z - 2$: the atomic number rises by 1, which is $\\beta^-$ emission.\n\nSequence: $\\beta^+$, $\\alpha$, $\\beta^-$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

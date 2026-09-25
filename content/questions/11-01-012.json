@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$[E] = [\\mathrm{ML^2T^{-2}}]$.\n\nFrom $F = \\dfrac{Gm_1m_2}{r^2}$: $[G] = \\dfrac{[\\mathrm{MLT^{-2}}][\\mathrm{L^2}]}{[\\mathrm{M^2}]} = [\\mathrm{M^{-1}L^3T^{-2}}]$.\n\n$$\\left[\\frac{E}{G}\\right] = \\frac{[\\mathrm{ML^2T^{-2}}]}{[\\mathrm{M^{-1}L^3T^{-2}}]} = [\\mathrm{M^2L^{-1}T^0}]$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

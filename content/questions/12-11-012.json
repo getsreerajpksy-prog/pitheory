@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "With negligible work function, all the photon energy becomes kinetic energy:\n$$\\frac{hc}{\\lambda} = \\frac{p^2}{2m} = \\frac{h^2}{2m\\lambda_d^2}$$\n\n$$\\lambda = \\frac{2mc\\lambda_d^2}{h} = \\left(\\frac{2mc}{h}\\right)\\lambda_d^2$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

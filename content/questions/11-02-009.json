@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The block starts from rest with constant acceleration $a$. Distance in the $n$th second:\n$$S_n = \\frac{a}{2}\\left[n^2 - (n - 1)^2\\right] = \\frac{a}{2}(2n - 1)$$\n\n$$\\frac{S_n}{S_{n+1}} = \\frac{2n - 1}{2(n + 1) - 1} = \\frac{2n - 1}{2n + 1}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

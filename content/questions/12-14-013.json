@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The circuit gives\n$$y = (A \\cdot B) + \\overline{(B \\cdot C)}$$\n(an AND gate on A, B and a NAND gate on B, C, both feeding an OR gate).\n\nFrom the waveforms, B is high only between $t_2$ and $t_4$, and during exactly that interval C is low. So $B$ and $C$ are never high together: $B \\cdot C = 0$ at all times, and the NAND output $\\overline{B \\cdot C} = 1$ throughout.\n\nAn OR gate with one input permanently at 1 gives $y = 1$ at all times: a constant $5$ V, which is option (3).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The given voltages are rms values. Source voltage:\n$$V = \\sqrt{V_R^2 + (V_L - V_C)^2} = \\sqrt{40^2 + (40 - 10)^2} = 50\\ \\text{V}$$\n\nrms current: $I_{rms} = \\dfrac{10\\sqrt{2}}{\\sqrt{2}} = 10$ A.\n\n$$Z = \\frac{V}{I_{rms}} = \\frac{50}{10} = 5\\ \\Omega$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

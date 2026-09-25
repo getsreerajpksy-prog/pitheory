@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Take torques about the wedge at the $40$ cm mark.\n\nAnticlockwise: the $2$ kg mass at $20$ cm, lever arm $20$ cm: $2g \\times 20$.\n\nClockwise: the rod's weight at its centre ($100$ cm), lever arm $60$ cm: $0.5g \\times 60$. And $m$ at $160$ cm, lever arm $120$ cm: $mg \\times 120$.\n\n$$2 \\times 20 = 0.5 \\times 60 + 120m \\;\\Rightarrow\\; 40 = 30 + 120m \\;\\Rightarrow\\; m = \\frac{1}{12}\\ \\text{kg}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

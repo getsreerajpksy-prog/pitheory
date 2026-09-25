@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "At terminal velocity the net force is zero: weight $=$ buoyancy $+$ viscous force.\n\nVolume of ball $= \\dfrac{M}{d}$, so buoyancy $= \\dfrac{M}{d}\\cdot\\dfrac{d}{2}\\cdot g = \\dfrac{Mg}{2}$.\n\n$$F_v = Mg - \\frac{Mg}{2} = \\frac{Mg}{2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

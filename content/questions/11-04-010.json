@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Speed at impact: $v = \\sqrt{2gh} = \\sqrt{200} \\approx 14.1$ m/s. It rebounds to the same height, so it leaves with the same speed upward.\n\n$$J = m(v + v) = 0.15 \\times 2 \\times 14.1 \\approx 4.2\\ \\text{kg m/s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

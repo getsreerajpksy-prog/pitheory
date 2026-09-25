@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Total energy $= mgS$. When $K = 3U$, $K + U = 4U = mgS$, so\n$$U = mgh = \\frac{mgS}{4} \\;\\Rightarrow\\; h = \\frac{S}{4}$$\n\n$$K = \\frac{1}{2}mv^2 = \\frac{3mgS}{4} \\;\\Rightarrow\\; v = \\sqrt{\\frac{3gS}{2}}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
