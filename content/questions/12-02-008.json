@@ -1,0 +1,39 @@
+{
+  "id": "12-02-008",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A thin spherical shell is charged by some source. The potential difference between the two points $C$ and $P$ (in V) shown in the figure is:\n\n(Take $\\dfrac{1}{4\\pi\\epsilon_0} = 9 \\times 10^9$ SI units)",
+  "diagram": "/diagrams/12-02-008.png",
+  "diagram_alt": "Thin spherical shell of radius 3 cm with charge 1 μC; C is the centre and P is a point on the shell",
+  "options": [
+    {
+      "text": "$0.5 \\times 10^5$",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    },
+    {
+      "text": "$3 \\times 10^5$",
+      "image": ""
+    },
+    {
+      "text": "$1 \\times 10^5$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Inside a charged conducting (thin) shell the electric field is zero, so the potential is the same everywhere inside and on the shell:\n$$V = \\frac{1}{4\\pi\\epsilon_0}\\frac{q}{R}$$\n\n$C$ is the centre and $P$ is on the shell, so $V_C = V_P$ and the potential difference is zero.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

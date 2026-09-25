@@ -1,0 +1,39 @@
+{
+  "id": "11-04-006",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A bob is whirled in a horizontal plane by means of a string with an initial speed of $\\omega$ rpm. The tension in the string is $T$. If speed becomes $2\\omega$ while keeping the same radius, the tension in the string becomes :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{T}{4}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{2}T$",
+      "image": ""
+    },
+    {
+      "text": "$T$",
+      "image": ""
+    },
+    {
+      "text": "$4T$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The tension provides the centripetal force: $T = m\\omega^2 r$.\n\nWith the same radius, $T \\propto \\omega^2$. Doubling $\\omega$ gives\n$$T' = 4T$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

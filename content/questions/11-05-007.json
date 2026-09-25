@@ -1,0 +1,39 @@
+{
+  "id": "11-05-007",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "At any instant of time $t$, the displacement of any particle is given by $2t - 1$ (SI unit) under the influence of force of $5$ N. The value of instantaneous power is (in SI unit):",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$7$",
+      "image": ""
+    },
+    {
+      "text": "$6$",
+      "image": ""
+    },
+    {
+      "text": "$10$",
+      "image": ""
+    },
+    {
+      "text": "$5$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$v = \\dfrac{d}{dt}(2t - 1) = 2\\ \\text{m s}^{-1}$.\n\n$$P = Fv = 5 \\times 2 = 10\\ \\text{W}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

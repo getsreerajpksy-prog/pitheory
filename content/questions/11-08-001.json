@@ -1,0 +1,39 @@
+{
+  "id": "11-08-001",
+  "chapter": "mechanical-properties-of-solids",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "The maximum elongation of a steel wire of $1$ m length if the elastic limit of steel and its Young's modulus, respectively, are $8 \\times 10^8\\ \\text{N m}^{-2}$ and $2 \\times 10^{11}\\ \\text{N m}^{-2}$, is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$40$ mm",
+      "image": ""
+    },
+    {
+      "text": "$8$ mm",
+      "image": ""
+    },
+    {
+      "text": "$4$ mm",
+      "image": ""
+    },
+    {
+      "text": "$0.4$ mm",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The maximum stress is the elastic limit. Maximum strain:\n$$\\frac{\\Delta l}{l} = \\frac{\\text{stress}}{Y} = \\frac{8 \\times 10^8}{2 \\times 10^{11}} = 4 \\times 10^{-3}$$\n\n$$\\Delta l = 4 \\times 10^{-3} \\times 1\\ \\text{m} = 4\\ \\text{mm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

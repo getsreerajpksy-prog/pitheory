@@ -1,0 +1,39 @@
+{
+  "id": "12-09-008",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A small telescope has an objective of focal length $140$ cm and an eye piece of focal length $5.0$ cm. The magnifying power of telescope for viewing a distant object is:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$17$",
+      "image": ""
+    },
+    {
+      "text": "$32$",
+      "image": ""
+    },
+    {
+      "text": "$34$",
+      "image": ""
+    },
+    {
+      "text": "$28$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For a distant object (normal adjustment):\n$$M = \\frac{f_o}{f_e} = \\frac{140}{5} = 28$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

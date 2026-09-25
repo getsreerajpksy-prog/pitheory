@@ -1,0 +1,39 @@
+{
+  "id": "11-01-009",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A force defined by $F = \\alpha t^2 + \\beta t$ acts on a particle at a given time $t$. The factor which is dimensionless, if $\\alpha$ and $\\beta$ are constants, is:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\alpha\\beta t$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\alpha\\beta}{t}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\beta t}{\\alpha}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\alpha t}{\\beta}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Terms that are added must have the same dimensions: $[\\alpha t^2] = [\\beta t]$.\n\nDividing both sides by $[\\beta t]$:\n$$\\left[\\frac{\\alpha t}{\\beta}\\right] = 1$$\n\nSo $\\dfrac{\\alpha t}{\\beta}$ is dimensionless.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

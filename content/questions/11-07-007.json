@@ -1,0 +1,39 @@
+{
+  "id": "11-07-007",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "The minimum energy required to launch a satellite of mass $m$ from the surface of earth of mass $M$ and radius $R$ in a circular orbit at an altitude of $2R$ from the surface of the earth is:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{GmM}{2R}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{GmM}{3R}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{5GmM}{6R}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2GmM}{3R}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Orbit radius: $r = R + 2R = 3R$.\n\nEnergy on the surface (at rest): $E_1 = -\\dfrac{GMm}{R}$.\n\nTotal energy in the orbit: $E_2 = -\\dfrac{GMm}{2r} = -\\dfrac{GMm}{6R}$.\n\n$$\\Delta E = E_2 - E_1 = \\frac{GMm}{R} - \\frac{GMm}{6R} = \\frac{5GMm}{6R}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

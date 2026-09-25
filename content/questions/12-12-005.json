@@ -1,0 +1,39 @@
+{
+  "id": "12-12-005",
+  "chapter": "atoms",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "Match List I with List II.\n\nList I (Spectral Lines of Hydrogen for transitions from):\nA. $n_2 = 3$ to $n_1 = 2$\nB. $n_2 = 4$ to $n_1 = 2$\nC. $n_2 = 5$ to $n_1 = 2$\nD. $n_2 = 6$ to $n_1 = 2$\n\nList II (Wavelengths (nm)):\nI. $410.2$\nII. $434.1$\nIII. $656.3$\nIV. $486.1$\n\nChoose the correct answer from the options given below :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "A-IV, B-III, C-I, D-II",
+      "image": ""
+    },
+    {
+      "text": "A-I, B-II, C-III, D-IV",
+      "image": ""
+    },
+    {
+      "text": "A-II, B-I, C-IV, D-III",
+      "image": ""
+    },
+    {
+      "text": "A-III, B-IV, C-II, D-I",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "These are Balmer lines. $\\dfrac{1}{\\lambda} = R\\left(\\dfrac{1}{4} - \\dfrac{1}{n_2^2}\\right)$, so a larger $n_2$ means a larger energy gap and a shorter wavelength.\n\nThe order of wavelengths is therefore $3 \\to 2 > 4 \\to 2 > 5 \\to 2 > 6 \\to 2$:\n\nA ($3 \\to 2$, H-alpha): $656.3$ nm (III)\n\nB ($4 \\to 2$, H-beta): $486.1$ nm (IV)\n\nC ($5 \\to 2$, H-gamma): $434.1$ nm (II)\n\nD ($6 \\to 2$, H-delta): $410.2$ nm (I)\n\nA-III, B-IV, C-II, D-I.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

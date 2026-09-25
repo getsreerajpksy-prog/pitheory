@@ -1,0 +1,39 @@
+{
+  "id": "12-03-009",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "Two heaters A and B have power rating of $1$ kW and $2$ kW, respectively. Those two are first connected in series and then in parallel to a fixed power source. The ratio of power outputs for these two cases is:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1:2$",
+      "image": ""
+    },
+    {
+      "text": "$2:3$",
+      "image": ""
+    },
+    {
+      "text": "$1:1$",
+      "image": ""
+    },
+    {
+      "text": "$2:9$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "With the same rated voltage $V$: $R_A = \\dfrac{V^2}{1000}$ and $R_B = \\dfrac{V^2}{2000}$.\n\nSeries: $R_s = R_A + R_B = \\dfrac{3V^2}{2000}$, so\n$$P_s = \\frac{V^2}{R_s} = \\frac{2000}{3}\\ \\text{W}$$\n\nParallel: the powers add, so\n$$P_p = 1000 + 2000 = 3000\\ \\text{W}$$\n\n$$\\frac{P_s}{P_p} = \\frac{2000/3}{3000} = \\frac{2}{9}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

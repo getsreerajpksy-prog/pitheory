@@ -1,0 +1,39 @@
+{
+  "id": "12-12-006",
+  "chapter": "atoms",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "Given below are two statements :\n\nStatement I : Atoms are electrically neutral as they contain equal number of positive and negative charges.\n\nStatement II : Atoms of each element are stable and emit their characteristic spectrum.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Statement I is correct but Statement II is incorrect.",
+      "image": ""
+    },
+    {
+      "text": "Statement I is incorrect but Statement II is correct.",
+      "image": ""
+    },
+    {
+      "text": "Both Statement I and Statement II are correct.",
+      "image": ""
+    },
+    {
+      "text": "Both Statement I and Statement II are incorrect.",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Statement I: an atom has as many electrons as protons, so it is electrically neutral. Correct.\n\nStatement II: atoms do not emit their characteristic spectrum on their own. They emit only when excited (for example by heating or an electric discharge) and fall back to lower energy levels. Also, not all atoms are stable; radioactive atoms decay. So the statement is incorrect.\n\nStatement I is correct but Statement II is incorrect.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

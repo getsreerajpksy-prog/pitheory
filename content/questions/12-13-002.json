@@ -1,0 +1,39 @@
+{
+  "id": "12-13-002",
+  "chapter": "nuclei",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "$$^{290}_{82}X \\xrightarrow{\\ \\alpha\\ } Y \\xrightarrow{\\ e^+\\ } Z \\xrightarrow{\\ \\beta^-\\ } P \\xrightarrow{\\ e^-\\ } Q$$\n\nIn the nuclear emission stated above, the mass number and atomic number of the product $Q$ respectively, are :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$288,\\ 82$",
+      "image": ""
+    },
+    {
+      "text": "$286,\\ 81$",
+      "image": ""
+    },
+    {
+      "text": "$280,\\ 81$",
+      "image": ""
+    },
+    {
+      "text": "$286,\\ 80$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Alpha emission: $A \\to A - 4$, $Z \\to Z - 2$. Positron ($e^+$) emission: $Z \\to Z - 1$. Beta-minus ($\\beta^-$, same as $e^-$) emission: $Z \\to Z + 1$. The mass number does not change in beta decays.\n\n$X\\ (290, 82) \\xrightarrow{\\alpha} Y\\ (286, 80) \\xrightarrow{e^+} Z\\ (286, 79) \\xrightarrow{\\beta^-} P\\ (286, 80) \\xrightarrow{e^-} Q\\ (286, 81)$\n\nMass number $286$, atomic number $81$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

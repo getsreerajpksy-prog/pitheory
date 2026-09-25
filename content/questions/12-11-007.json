@@ -1,0 +1,39 @@
+{
+  "id": "12-11-007",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "If $c$ is the velocity of light in free space, the correct statements about photon among the following are :\n\nA. The energy of a photon is $E = h\\nu$.\nB. The velocity of a photon is $c$.\nC. The momentum of a photon, $p = \\dfrac{h\\nu}{c}$.\nD. In a photon-electron collision, both total energy and total momentum are conserved.\nE. Photon possesses positive charge.\n\nChoose the correct answer from the options given below :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "A, C and D only",
+      "image": ""
+    },
+    {
+      "text": "A, B, D and E only",
+      "image": ""
+    },
+    {
+      "text": "A and B only",
+      "image": ""
+    },
+    {
+      "text": "A, B, C and D only",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "A: $E = h\\nu$. Correct.\n\nB: Photons travel at speed $c$ in free space. Correct.\n\nC: $p = \\dfrac{E}{c} = \\dfrac{h\\nu}{c}$. Correct.\n\nD: A photon-electron collision (as in the Compton effect) conserves both total energy and total momentum. Correct.\n\nE: Photons are electrically neutral. Incorrect.\n\nSo A, B, C and D only.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

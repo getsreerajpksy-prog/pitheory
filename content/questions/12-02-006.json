@@ -1,0 +1,39 @@
+{
+  "id": "12-02-006",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "In the following circuit, the equivalent capacitance between terminal $A$ and terminal $B$ is :",
+  "diagram": "/diagrams/12-02-006.png",
+  "diagram_alt": "Bridge of five 2 μF capacitors between A and B: two in the top branch, two in the bottom branch and one joining their midpoints",
+  "options": [
+    {
+      "text": "$0.5\\ \\mu$F",
+      "image": ""
+    },
+    {
+      "text": "$4\\ \\mu$F",
+      "image": ""
+    },
+    {
+      "text": "$2\\ \\mu$F",
+      "image": ""
+    },
+    {
+      "text": "$1\\ \\mu$F",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The four outer capacitors form a Wheatstone bridge with the middle $2\\ \\mu$F capacitor as the bridge. All four arms are equal ($2\\ \\mu$F each), so the bridge is balanced: the two middle junctions are at the same potential and the middle capacitor has no charge.\n\nEach outer branch is two $2\\ \\mu$F capacitors in series: $1\\ \\mu$F.\n\nTwo such branches in parallel:\n$$C_{AB} = 1 + 1 = 2\\ \\mu\\text{F}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

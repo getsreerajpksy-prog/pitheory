@@ -1,0 +1,39 @@
+{
+  "id": "12-11-008",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "The graph which shows the variation of $\\left(\\dfrac{1}{\\lambda^2}\\right)$ and its kinetic energy, $E$ is (where $\\lambda$ is de Broglie wavelength of a free particle) :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "",
+      "image": "/diagrams/12-11-008-A.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-11-008-B.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-11-008-C.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-11-008-D.png"
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\lambda = \\dfrac{h}{\\sqrt{2mE}}$, so\n$$\\frac{1}{\\lambda^2} = \\frac{2m}{h^2}E$$\n\n$\\dfrac{1}{\\lambda^2}$ is directly proportional to $E$: a straight line through the origin, which is option (2).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-03-007",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A wire of length '$l$' and resistance $100\\ \\Omega$ is divided into $10$ equal parts. The first $5$ parts are connected in series while the next $5$ parts are connected in parallel. The two combinations are again connected in series. The resistance of this final combination is:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$55\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$60\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$26\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$52\\ \\Omega$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Each part has resistance $\\dfrac{100}{10} = 10\\ \\Omega$.\n\nFive in series: $5 \\times 10 = 50\\ \\Omega$.\n\nFive in parallel: $\\dfrac{10}{5} = 2\\ \\Omega$.\n\nTotal: $50 + 2 = 52\\ \\Omega$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

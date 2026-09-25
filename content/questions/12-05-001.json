@@ -1,0 +1,39 @@
+{
+  "id": "12-05-001",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "In a uniform magnetic field of $0.049$ T, a magnetic needle performs $20$ complete oscillations in $5$ seconds as shown. The moment of inertia of the needle is $9.8 \\times 10^{-6}\\ \\text{kg m}^2$. If the magnitude of magnetic moment of the needle is $x \\times 10^{-5}\\ \\text{A m}^2$; then the value of '$x$' is :",
+  "diagram": "/diagrams/12-05-001.png",
+  "diagram_alt": "Magnetic needle NS suspended by a thread in a uniform horizontal magnetic field B",
+  "options": [
+    {
+      "text": "$50\\pi^2$",
+      "image": ""
+    },
+    {
+      "text": "$1280\\pi^2$",
+      "image": ""
+    },
+    {
+      "text": "$5\\pi^2$",
+      "image": ""
+    },
+    {
+      "text": "$128\\pi^2$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Time period: $T = \\dfrac{5}{20} = 0.25$ s.\n\nFor a magnetic needle oscillating in a field:\n$$T = 2\\pi\\sqrt{\\frac{I}{mB}} \\;\\Rightarrow\\; m = \\frac{4\\pi^2 I}{T^2 B}$$\n\n$$m = \\frac{4\\pi^2 \\times 9.8 \\times 10^{-6}}{(0.25)^2 \\times 0.049} = \\frac{4\\pi^2 \\times 9.8 \\times 10^{-6}}{3.0625 \\times 10^{-3}} = 4\\pi^2 \\times 3.2 \\times 10^{-3}$$\n$$m = 12.8\\pi^2 \\times 10^{-3} = 1280\\pi^2 \\times 10^{-5}\\ \\text{A m}^2$$\n\nSo $x = 1280\\pi^2$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

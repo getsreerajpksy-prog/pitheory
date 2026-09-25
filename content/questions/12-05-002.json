@@ -1,0 +1,39 @@
+{
+  "id": "12-05-002",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "Match List-I with List-II.\n\nList-I (Material):\nA. Diamagnetic\nB. Ferromagnetic\nC. Paramagnetic\nD. Non-magnetic\n\nList-II (Susceptibility ($\\chi$)):\nI. $\\chi = 0$\nII. $0 > \\chi \\geq -1$\nIII. $\\chi >> 1$\nIV. $0 < \\chi < \\varepsilon$ (a small positive number)\n\nChoose the correct answer from the options given below:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "A-III, B-II, C-I, D-IV",
+      "image": ""
+    },
+    {
+      "text": "A-IV, B-III, C-II, D-I",
+      "image": ""
+    },
+    {
+      "text": "A-II, B-III, C-IV, D-I",
+      "image": ""
+    },
+    {
+      "text": "A-II, B-I, C-III, D-IV",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Diamagnetic: small negative susceptibility, $-1 \\leq \\chi < 0$ (II).\n\nFerromagnetic: very large positive susceptibility, $\\chi >> 1$ (III).\n\nParamagnetic: small positive susceptibility (IV).\n\nNon-magnetic: $\\chi = 0$ (I).\n\nA-II, B-III, C-IV, D-I.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

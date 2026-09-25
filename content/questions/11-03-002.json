@@ -1,0 +1,39 @@
+{
+  "id": "11-03-002",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A particle moving with uniform speed in a circular path maintains :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "constant velocity but varying acceleration.",
+      "image": ""
+    },
+    {
+      "text": "varying velocity and varying acceleration.",
+      "image": ""
+    },
+    {
+      "text": "constant velocity.",
+      "image": ""
+    },
+    {
+      "text": "constant acceleration.",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "In uniform circular motion the speed is constant, but the direction of the velocity keeps changing, so the velocity varies.\n\nThe acceleration has constant magnitude $\\dfrac{v^2}{r}$ but always points towards the centre, so its direction also keeps changing. The acceleration varies too.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

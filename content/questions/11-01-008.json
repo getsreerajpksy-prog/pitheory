@@ -1,0 +1,39 @@
+{
+  "id": "11-01-008",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "The quantities which have the same dimensions as those of solid angle are :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "strain and arc",
+      "image": ""
+    },
+    {
+      "text": "angular speed and stress",
+      "image": ""
+    },
+    {
+      "text": "strain and angle",
+      "image": ""
+    },
+    {
+      "text": "stress and angle",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Solid angle (area / radius$^2$) is dimensionless.\n\nStrain (change in length / length) and plane angle (arc / radius) are also dimensionless.\n\nArc has dimension $[\\mathrm{L}]$, angular speed $[\\mathrm{T^{-1}}]$ and stress $[\\mathrm{ML^{-1}T^{-2}}]$, so the other options are ruled out.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

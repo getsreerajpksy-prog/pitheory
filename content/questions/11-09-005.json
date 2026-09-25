@@ -1,0 +1,39 @@
+{
+  "id": "11-09-005",
+  "chapter": "mechanical-properties-of-fluids",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A thin flat circular disc of radius $4.5$ cm is placed gently over the surface of water. If surface tension of water is $0.07\\ \\text{N m}^{-1}$, then the excess force required to take it away from the surface is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.98$ mN",
+      "image": ""
+    },
+    {
+      "text": "$99$ N",
+      "image": ""
+    },
+    {
+      "text": "$19.8$ mN",
+      "image": ""
+    },
+    {
+      "text": "$198$ N",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Surface tension acts along the rim of the disc (the circumference in contact with water):\n$$F = S \\times 2\\pi r = 0.07 \\times 2 \\times 3.14 \\times 0.045 \\approx 0.0198\\ \\text{N} = 19.8\\ \\text{mN}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

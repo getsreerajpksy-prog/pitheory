@@ -1,0 +1,39 @@
+{
+  "id": "12-06-007",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A sheet is placed on a horizontal surface in front of a strong magnetic pole. A force is needed to :\n\nA. hold the sheet there if it is magnetic.\nB. hold the sheet there if it is non-magnetic.\nC. move the sheet away from the pole with uniform velocity if it is conducting.\nD. move the sheet away from the pole with uniform velocity if it is both, non-conducting and non-polar.\n\nChoose the correct statement(s) from the options given below:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "A, C and D only",
+      "image": ""
+    },
+    {
+      "text": "C only",
+      "image": ""
+    },
+    {
+      "text": "B and D only",
+      "image": ""
+    },
+    {
+      "text": "A and C only",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "A: A magnetic sheet is attracted by the pole, so a force is needed to hold it in place. True.\n\nB: A non-magnetic sheet feels no magnetic force, so no force is needed to hold it. False.\n\nC: Moving a conducting sheet through the non-uniform field of the pole changes the flux through it and induces eddy currents. By Lenz's law these oppose the motion, so a force is needed even at uniform velocity. True.\n\nD: A non-conducting, non-polar (non-magnetic) sheet has no eddy currents and no magnetic force, so no force is needed for uniform velocity. False.\n\nA and C only.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

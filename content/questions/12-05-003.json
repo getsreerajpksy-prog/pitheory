@@ -1,0 +1,39 @@
+{
+  "id": "12-05-003",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "An iron bar of length L has magnetic moment M. It is bent at the middle of its length such that the two arms make an angle $60°$ with each other. The magnetic moment of this new magnet is:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2$ M",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{M}{\\sqrt{3}}$",
+      "image": ""
+    },
+    {
+      "text": "M",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{M}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Pole strength $m$ stays the same: $M = mL$.\n\nAfter bending at the middle, each arm has length $\\dfrac{L}{2}$ and the arms make $60°$. The two ends and the bend form an equilateral triangle, so the distance between the poles is $\\dfrac{L}{2}$.\n\n$$M' = m \\cdot \\frac{L}{2} = \\frac{M}{2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

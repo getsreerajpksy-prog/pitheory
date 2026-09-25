@@ -1,0 +1,39 @@
+{
+  "id": "11-02-005",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "The velocity ($v$) – time ($t$) plot of the motion of a body is shown below. The acceleration ($a$) – time ($t$) graph that best suits this motion is :",
+  "diagram": "/diagrams/11-02-005.png",
+  "diagram_alt": "Velocity-time graph shaped like a trapezium: velocity rises linearly, stays constant, then falls linearly to zero",
+  "options": [
+    {
+      "text": "",
+      "image": "/diagrams/11-02-005-A.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-02-005-B.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-02-005-C.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-02-005-D.png"
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Acceleration is the slope of the $v$-$t$ graph.\n\nFirst the velocity is zero, so $a = 0$.\n\nThen $v$ rises linearly: a constant positive acceleration.\n\nThen $v$ stays constant: $a = 0$.\n\nThen $v$ falls linearly to zero: a constant negative acceleration.\n\nFinally $v = 0$ again: $a = 0$.\n\nThe $a$-$t$ graph is therefore zero, a positive step, zero, a negative step, then zero. This is option (1).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

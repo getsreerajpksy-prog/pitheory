@@ -1,0 +1,39 @@
+{
+  "id": "12-02-007",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R.\n\nAssertion A : The potential ($V$) at any axial point, at $2$ m distance ($r$) from the centre of the dipole of dipole moment vector $\\vec{P}$ of magnitude, $4 \\times 10^{-6}$ C m, is $\\pm 9 \\times 10^3$ V.\n\n(Take $\\dfrac{1}{4\\pi\\epsilon_0} = 9 \\times 10^9$ SI units)\n\nReason R : $V = \\pm\\dfrac{2P}{4\\pi\\epsilon_0 r^2}$, where $r$ is the distance of any axial point, situated at $2$ m from the centre of the dipole.\n\nIn the light of the above statements, choose the correct answer from the options given below:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "A is true but R is false.",
+      "image": ""
+    },
+    {
+      "text": "A is false but R is true.",
+      "image": ""
+    },
+    {
+      "text": "Both A and R are true and R is the correct explanation of A.",
+      "image": ""
+    },
+    {
+      "text": "Both A and R are true and R is NOT the correct explanation of A.",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "On the axis of a short dipole:\n$$V = \\pm\\frac{1}{4\\pi\\epsilon_0}\\frac{P}{r^2} = \\pm\\frac{9 \\times 10^9 \\times 4 \\times 10^{-6}}{2^2} = \\pm 9 \\times 10^3\\ \\text{V}$$\nSo A is true (the sign depends on which side of the dipole the point is).\n\nR has an extra factor of 2. $\\dfrac{2P}{4\\pi\\epsilon_0 r^3}$ is the axial electric field, and the axial potential is $\\dfrac{P}{4\\pi\\epsilon_0 r^2}$. So R is false.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

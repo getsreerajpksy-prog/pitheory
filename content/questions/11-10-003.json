@@ -1,0 +1,39 @@
+{
+  "id": "11-10-003",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A metallic bar of Young's modulus, $0.5 \\times 10^{11}\\ \\text{N m}^{-2}$ and coefficient of linear thermal expansion $10^{-5}\\ °\\text{C}^{-1}$, length $1$ m and area of cross-section $10^{-3}\\ \\text{m}^2$ is heated from $0°$C to $100°$C without expansion or bending. The compressive force developed in it is:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$100 \\times 10^3$ N",
+      "image": ""
+    },
+    {
+      "text": "$2 \\times 10^3$ N",
+      "image": ""
+    },
+    {
+      "text": "$5 \\times 10^3$ N",
+      "image": ""
+    },
+    {
+      "text": "$50 \\times 10^3$ N",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The bar is prevented from expanding, so the thermal strain $\\alpha\\Delta T$ is cancelled by an equal compressive strain.\n\n$$F = YA\\alpha\\Delta T = 0.5 \\times 10^{11} \\times 10^{-3} \\times 10^{-5} \\times 100 = 5 \\times 10^4\\ \\text{N} = 50 \\times 10^3\\ \\text{N}$$\n\n(The length of the bar does not matter.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

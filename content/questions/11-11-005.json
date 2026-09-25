@@ -1,0 +1,39 @@
+{
+  "id": "11-11-005",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A thermodynamic system is taken through the cycle $abcda$. The work done by the gas along the path $bc$ is :",
+  "diagram": "/diagrams/11-11-005.png",
+  "diagram_alt": "Rectangular cycle on a P-V graph: a (100 cm³, 100 kPa), b (400 cm³, 100 kPa), c (400 cm³, 300 kPa), d (100 cm³, 300 kPa)",
+  "options": [
+    {
+      "text": "$-90$ J",
+      "image": ""
+    },
+    {
+      "text": "$-60$ J",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    },
+    {
+      "text": "$30$ J",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Along $bc$, the volume stays at $400\\ \\text{cm}^3$ while the pressure rises from $100$ kPa to $300$ kPa. It is an isochoric process, so\n$$W_{bc} = P\\,\\Delta V = 0$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

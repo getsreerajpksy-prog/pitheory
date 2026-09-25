@@ -1,0 +1,39 @@
+{
+  "id": "12-14-006",
+  "chapter": "semiconductor-electronics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "The output ($Y$) of the given logic gate is similar to the output of an/a :",
+  "diagram": "/diagrams/12-14-006.png",
+  "diagram_alt": "Input A into a NAND gate with shorted inputs and input B into a NOR gate with shorted inputs, both feeding a NOR gate with output Y",
+  "options": [
+    {
+      "text": "OR gate",
+      "image": ""
+    },
+    {
+      "text": "AND gate",
+      "image": ""
+    },
+    {
+      "text": "NAND gate",
+      "image": ""
+    },
+    {
+      "text": "NOR gate",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The first gate is a NAND gate with both inputs joined to $A$, so it acts as a NOT gate: output $\\bar{A}$.\n\nThe second gate is a NOR gate with both inputs joined to $B$, so it also acts as a NOT gate: output $\\bar{B}$.\n\nThe final NOR gate gives\n$$Y = \\overline{\\bar{A} + \\bar{B}} = A \\cdot B$$\n(De Morgan's theorem), which is the AND function.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

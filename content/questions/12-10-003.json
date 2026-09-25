@@ -1,0 +1,39 @@
+{
+  "id": "12-10-003",
+  "chapter": "wave-optics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "If the monochromatic source in Young's double slit experiment is replaced by white light, then",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "there will be a central bright white fringe surrounded by a few coloured fringes.",
+      "image": ""
+    },
+    {
+      "text": "all bright fringes will be of equal width.",
+      "image": ""
+    },
+    {
+      "text": "interference pattern will disappear.",
+      "image": ""
+    },
+    {
+      "text": "there will be a central dark fringe surrounded by a few coloured fringes.",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At the centre the path difference is zero for every wavelength, so all colours interfere constructively there and the central fringe is white.\n\nAway from the centre, the fringe positions depend on wavelength (fringe width $\\beta = \\dfrac{\\lambda D}{d}$), so the colours separate into a few coloured fringes. Further out they overlap and the pattern washes out to uniform white.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-07-004",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A $10\\ \\mu$F capacitor is connected to a $210$ V, $50$ Hz source as shown in figure. The peak current in the circuit is nearly ($\\pi = 3.14$):",
+  "diagram": "/diagrams/12-07-004.png",
+  "diagram_alt": "10 μF capacitor connected across a 210 V, 50 Hz ac source",
+  "options": [
+    {
+      "text": "$1.20$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.35$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.58$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.93$ A",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$X_C = \\frac{1}{2\\pi fC} = \\frac{1}{2 \\times 3.14 \\times 50 \\times 10 \\times 10^{-6}} \\approx 318.5\\ \\Omega$$\n\nThe $210$ V is the rms value:\n$$I_{rms} = \\frac{210}{318.5} \\approx 0.66\\ \\text{A}$$\n$$I_0 = \\sqrt{2}\\,I_{rms} \\approx 1.414 \\times 0.66 \\approx 0.93\\ \\text{A}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

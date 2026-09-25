@@ -1,0 +1,39 @@
+{
+  "id": "12-03-008",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "The terminal voltage of the battery, whose emf is $10$ V and internal resistance $1\\ \\Omega$, when connected through an external resistance of $4\\ \\Omega$ as shown in the figure is :",
+  "diagram": "/diagrams/12-03-008.png",
+  "diagram_alt": "Battery of emf 10 V with internal resistance 1 Ω (shown in a dashed box) connected across a 4 Ω resistor",
+  "options": [
+    {
+      "text": "$8$ V",
+      "image": ""
+    },
+    {
+      "text": "$10$ V",
+      "image": ""
+    },
+    {
+      "text": "$4$ V",
+      "image": ""
+    },
+    {
+      "text": "$6$ V",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$I = \\frac{E}{R + r} = \\frac{10}{4 + 1} = 2\\ \\text{A}$$\n\n$$V = E - Ir = 10 - 2 \\times 1 = 8\\ \\text{V}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

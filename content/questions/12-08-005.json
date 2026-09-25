@@ -1,0 +1,39 @@
+{
+  "id": "12-08-005",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A parallel plate capacitor is charged by connecting it to a battery through a resistor. If I is the current in the circuit, then in the gap between the plates :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "displacement current of magnitude equal to I flows in a direction opposite to that of I.",
+      "image": ""
+    },
+    {
+      "text": "displacement current of magnitude greater than I flows but can be in any direction.",
+      "image": ""
+    },
+    {
+      "text": "there is no current.",
+      "image": ""
+    },
+    {
+      "text": "displacement current of magnitude equal to I flows in the same direction as I.",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The conduction current $I$ in the wires continues across the gap as displacement current $I_d = \\epsilon_0\\dfrac{d\\phi_E}{dt}$.\n\nThe total current (conduction + displacement) is continuous, so $I_d = I$. It flows in the same direction as $I$: the field between the plates grows in the direction of the current.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

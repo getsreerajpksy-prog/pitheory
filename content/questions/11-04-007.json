@@ -1,0 +1,39 @@
+{
+  "id": "11-04-007",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A horizontal force $10$ N is applied to a block $A$ as shown in figure. The mass of blocks $A$ and $B$ are $2$ kg and $3$ kg, respectively. The blocks slide over a frictionless surface. The force exerted by block $A$ on block $B$ is :",
+  "diagram": "/diagrams/11-04-007.png",
+  "diagram_alt": "Force of 10 N pushing block A (2 kg), which pushes block B (3 kg), on a frictionless floor",
+  "options": [
+    {
+      "text": "$6$ N",
+      "image": ""
+    },
+    {
+      "text": "$10$ N",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    },
+    {
+      "text": "$4$ N",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Both blocks move together:\n$$a = \\frac{F}{m_A + m_B} = \\frac{10}{5} = 2\\ \\text{m s}^{-2}$$\n\nThe only horizontal force on $B$ is the push from $A$:\n$$F_{AB} = m_B a = 3 \\times 2 = 6\\ \\text{N}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-14-005",
+  "chapter": "semiconductor-electronics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "Consider the following statements A and B and identify the correct answer :\n\nA. For a solar-cell, the I-V characteristics lies in the IV quadrant of the given graph.\nB. In a reverse biased pn junction diode, the current measured in ($\\mu$A), is due to majority charge carriers.",
+  "diagram": "/diagrams/12-14-005.png",
+  "diagram_alt": "I-V axes with quadrants labelled I, II, III and IV",
+  "options": [
+    {
+      "text": "Both A and B are correct.",
+      "image": ""
+    },
+    {
+      "text": "Both A and B are incorrect.",
+      "image": ""
+    },
+    {
+      "text": "A is correct but B is incorrect.",
+      "image": ""
+    },
+    {
+      "text": "A is incorrect but B is correct.",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "A: A solar cell supplies power, so its current flows opposite to the applied voltage. Its I-V curve lies in the fourth quadrant. A is correct.\n\nB: The small reverse current (in $\\mu$A) of a reverse-biased pn junction is due to minority carriers, not majority carriers. B is incorrect.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

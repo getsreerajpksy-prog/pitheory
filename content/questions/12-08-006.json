@@ -1,0 +1,39 @@
+{
+  "id": "12-08-006",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "The property which is not of an electromagnetic wave travelling in free space is that :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "they travel with a speed equal to $\\dfrac{1}{\\sqrt{\\mu_0\\epsilon_0}}$.",
+      "image": ""
+    },
+    {
+      "text": "they originate from charges moving with uniform speed.",
+      "image": ""
+    },
+    {
+      "text": "they are transverse in nature.",
+      "image": ""
+    },
+    {
+      "text": "the energy density in electric field is equal to energy density in magnetic field.",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Electromagnetic waves are produced by accelerated charges. A charge moving with uniform velocity produces steady electric and magnetic fields but does not radiate.\n\nThe other statements are true: EM waves travel at $c = \\dfrac{1}{\\sqrt{\\mu_0\\epsilon_0}}$ in free space, they are transverse, and the average energy densities in the electric and magnetic fields are equal.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

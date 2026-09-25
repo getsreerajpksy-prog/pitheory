@@ -1,0 +1,39 @@
+{
+  "id": "11-06-009",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "The moment of inertia of a thin rod about an axis passing through its mid point and perpendicular to the rod is $2400\\ \\text{g cm}^2$. The length of the $400$ g rod is nearly :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$20.7$ cm",
+      "image": ""
+    },
+    {
+      "text": "$72.0$ cm",
+      "image": ""
+    },
+    {
+      "text": "$8.5$ cm",
+      "image": ""
+    },
+    {
+      "text": "$17.5$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$I = \\frac{ML^2}{12} \\;\\Rightarrow\\; L^2 = \\frac{12I}{M} = \\frac{12 \\times 2400}{400} = 72\\ \\text{cm}^2$$\n\n$$L = \\sqrt{72} \\approx 8.5\\ \\text{cm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

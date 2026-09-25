@@ -1,0 +1,39 @@
+{
+  "id": "12-14-007",
+  "chapter": "semiconductor-electronics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A logic circuit provides the output $Y$ as per the following truth table :\n\n$$\\begin{array}{|c|c|c|}\\hline A & B & Y \\\\ \\hline 0 & 0 & 1 \\\\ 0 & 1 & 0 \\\\ 1 & 0 & 1 \\\\ 1 & 1 & 0 \\\\ \\hline\\end{array}$$\n\nThe expression for the output $Y$ is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\bar{B}$",
+      "image": ""
+    },
+    {
+      "text": "$B$",
+      "image": ""
+    },
+    {
+      "text": "$A \\cdot B + \\bar{A}$",
+      "image": ""
+    },
+    {
+      "text": "$A \\cdot \\bar{B} + \\bar{A}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Look at the table: $Y = 1$ exactly when $B = 0$, and $Y = 0$ exactly when $B = 1$, whatever the value of $A$.\n\nSo $Y = \\bar{B}$.\n\n(Check the other options: $A \\cdot B + \\bar{A}$ gives $1$ for $A = 0, B = 1$, and $A\\cdot\\bar{B} + \\bar{A}$ also gives $1$ for $A = 0, B = 1$; both disagree with the table.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

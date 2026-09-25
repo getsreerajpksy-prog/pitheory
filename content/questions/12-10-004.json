@@ -1,0 +1,39 @@
+{
+  "id": "12-10-004",
+  "chapter": "wave-optics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "An unpolarised light beam strikes a glass surface at Brewster's angle. Then",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "both the reflected and refracted light will be completely polarised.",
+      "image": ""
+    },
+    {
+      "text": "the reflected light will be completely polarised but the refracted light will be partially polarised.",
+      "image": ""
+    },
+    {
+      "text": "the reflected light will be partially polarised.",
+      "image": ""
+    },
+    {
+      "text": "the refracted light will be completely polarised.",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At Brewster's angle, the reflected light contains only the component vibrating perpendicular to the plane of incidence, so it is completely plane polarised.\n\nThe refracted light still contains both components (one is only partly removed), so it is partially polarised.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

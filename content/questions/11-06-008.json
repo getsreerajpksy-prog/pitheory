@@ -1,0 +1,39 @@
+{
+  "id": "11-06-008",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A wheel of a bullock cart is rolling on a level road as shown in the figure below. If its linear speed is $v$ in the direction shown, which one of the following options is correct ($P$ and $Q$ are any highest and lowest points on the wheel, respectively)?",
+  "diagram": "/diagrams/11-06-008.png",
+  "diagram_alt": "Spoked wheel rolling to the right with speed v on a level road; P is the top point and Q the contact point",
+  "options": [
+    {
+      "text": "Both the points $P$ and $Q$ move with equal speed.",
+      "image": ""
+    },
+    {
+      "text": "Point $P$ has zero speed.",
+      "image": ""
+    },
+    {
+      "text": "Point $P$ moves slower than point $Q$.",
+      "image": ""
+    },
+    {
+      "text": "Point $P$ moves faster than point $Q$.",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "In rolling without slipping, the velocity of any point is the velocity of the centre plus the velocity due to rotation, with $\\omega R = v$.\n\nTop point $P$: $v + \\omega R = 2v$.\n\nBottom point $Q$ (in contact with the road): $v - \\omega R = 0$.\n\nSo $P$ moves faster than $Q$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

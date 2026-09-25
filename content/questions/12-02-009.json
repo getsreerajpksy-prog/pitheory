@@ -1,0 +1,39 @@
+{
+  "id": "12-02-009",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "If the plates of a parallel plate capacitor connected to a battery are moved close to each other, then\n\nA. the charge stored in it, increases.\nB. the energy stored in it, decreases.\nC. its capacitance increases.\nD. the ratio of charge to its potential remains the same.\nE. the product of charge and voltage increases.\n\nChoose the most appropriate answer from the options given below:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "B, D and E only",
+      "image": ""
+    },
+    {
+      "text": "A, B and C only",
+      "image": ""
+    },
+    {
+      "text": "A, B and E only",
+      "image": ""
+    },
+    {
+      "text": "A, C and E only",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The battery stays connected, so $V$ is constant. Moving the plates closer increases $C = \\dfrac{\\epsilon_0 A}{d}$ (C true).\n\nA: $Q = CV$ increases. True.\n\nB: $U = \\dfrac{1}{2}CV^2$ increases. False.\n\nD: $\\dfrac{Q}{V} = C$ increases. False.\n\nE: $QV = CV^2$ increases. True.\n\nA, C and E only.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

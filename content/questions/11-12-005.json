@@ -1,0 +1,39 @@
+{
+  "id": "11-12-005",
+  "chapter": "kinetic-theory",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "The following graph represents the T-V curves of an ideal gas (where T is the temperature and $V$ the volume) at three pressures $P_1$, $P_2$ and $P_3$ compared with those of Charles's law represented as dotted lines. Then the correct relation is:",
+  "diagram": "/diagrams/11-12-005.png",
+  "diagram_alt": "Temperature against volume for three pressures P1, P2 and P3; P1 is the steepest and P3 the least steep, with dotted Charles's law lines",
+  "options": [
+    {
+      "text": "$P_2 > P_1 > P_3$",
+      "image": ""
+    },
+    {
+      "text": "$P_1 > P_2 > P_3$",
+      "image": ""
+    },
+    {
+      "text": "$P_3 > P_2 > P_1$",
+      "image": ""
+    },
+    {
+      "text": "$P_1 > P_3 > P_2$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At constant pressure, $PV = nRT$ gives\n$$T = \\frac{P}{nR}V$$\n\nSo the slope of a $T$-$V$ line is proportional to the pressure: the steeper the line, the higher the pressure.\n\n$P_1$ is the steepest, then $P_2$, then $P_3$:\n$$P_1 > P_2 > P_3$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-06-006",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "In the above diagram, a strong bar magnet is moving towards solenoid-2 from solenoid-1. The direction of induced current in solenoid-1 and that in solenoid-2, respectively, are through the directions:",
+  "diagram": "/diagrams/12-06-006.png",
+  "diagram_alt": "Bar magnet (N on the left, S on the right) moving right from solenoid-1 (terminals A, B) towards solenoid-2 (terminals C, D)",
+  "options": [
+    {
+      "text": "$AB$ and $CD$",
+      "image": ""
+    },
+    {
+      "text": "$BA$ and $DC$",
+      "image": ""
+    },
+    {
+      "text": "$AB$ and $DC$",
+      "image": ""
+    },
+    {
+      "text": "$BA$ and $CD$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The magnet moves to the right, with its N pole facing solenoid-1 and its S pole facing solenoid-2.\n\nSolenoid-1: the N pole is moving away. By Lenz's law, the induced current opposes this by attracting the magnet, so the end of solenoid-1 facing the magnet becomes an S pole.\n\nSolenoid-2: the S pole is approaching. The induced current opposes this by repelling the magnet, so the end of solenoid-2 facing the magnet also becomes an S pole.\n\nIn the figure, both solenoids are wound the same way. For this winding, current entering at the left terminal (A or C) makes the right-hand face of the solenoid an S pole.\n\n- Solenoid-1 needs its right face to be S: current flows $A \\to B$.\n- Solenoid-2 needs its left face to be S (so its right face is N): current flows $D \\to C$.\n\nSo the currents are along $AB$ and $DC$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

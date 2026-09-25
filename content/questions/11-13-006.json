@@ -1,0 +1,39 @@
+{
+  "id": "11-13-006",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "If the mass of the bob in a simple pendulum is increased to thrice its original mass and its length is made half its original length, then the new time period of oscillation is $\\dfrac{x}{2}$ times its original time period. Then the value of $x$ is:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2\\sqrt{3}$",
+      "image": ""
+    },
+    {
+      "text": "$4$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{3}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$T = 2\\pi\\sqrt{\\dfrac{l}{g}}$ does not depend on the mass of the bob.\n\n$$T' = T\\sqrt{\\frac{1}{2}} = \\frac{T}{\\sqrt{2}} = \\frac{\\sqrt{2}}{2}T$$\n\nSo $\\dfrac{x}{2} = \\dfrac{\\sqrt{2}}{2}$, giving $x = \\sqrt{2}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

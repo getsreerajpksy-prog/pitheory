@@ -1,0 +1,39 @@
+{
+  "id": "12-09-007",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2024",
+  "question": "A light ray enters through a right angled prism at point $P$ with the angle of incidence $30°$ as shown in figure. It travels through the prism parallel to its base $BC$ and emerges along the face $AC$. The refractive index of the prism is:",
+  "diagram": "/diagrams/12-09-007.png",
+  "diagram_alt": "Right-angled prism ABC with the right angle at A; a ray enters face AB at P at 30°, travels parallel to BC and emerges along face AC",
+  "options": [
+    {
+      "text": "$\\dfrac{\\sqrt{3}}{4}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\sqrt{3}}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\sqrt{5}}{4}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\sqrt{5}}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The prism is right-angled at $A$, so $\\angle B + \\angle C = 90°$.\n\nAt face $AB$: the ray inside is parallel to $BC$, so it makes angle $B$ with face $AB$. The angle of refraction is $r_1 = 90° - B$. Snell's law:\n$$\\sin 30° = \\mu\\sin(90° - B) = \\mu\\cos B \\;\\Rightarrow\\; \\mu\\cos B = \\frac{1}{2}$$\n\nAt face $AC$: the ray (parallel to $BC$) makes angle $C = 90° - B$ with face $AC$, so the angle of incidence is $B$. The ray emerges along the face, so $B$ is the critical angle:\n$$\\mu\\sin B = 1$$\n\nSquaring and adding:\n$$\\mu^2 = 1 + \\frac{1}{4} = \\frac{5}{4} \\;\\Rightarrow\\; \\mu = \\frac{\\sqrt{5}}{2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}
