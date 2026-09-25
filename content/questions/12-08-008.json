@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The displacement current equals the conduction current that charges the plates:\n$$I_d = \\frac{dq}{dt} = C\\frac{dV}{dt} = CV_0\\omega\\cos\\omega t$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
