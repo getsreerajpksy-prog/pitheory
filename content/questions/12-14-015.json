@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "For transistor action, the emitter is heavily doped, the base is very thin and lightly doped, and the collector is moderately doped and large. The emitter junction is forward biased and the collector junction is reverse biased.\n\nA thin, lightly doped base lets most carriers from the emitter cross it to the collector. Only statement (4) is correct.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
