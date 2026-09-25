@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$\\frac{1}{F} = \\frac{1}{f} + \\frac{1}{-f} = 0 \\;\\Rightarrow\\; F = \\infty$$\n\nThe combination behaves like a plane glass plate.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
