@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Lens: $u = -60$ cm, $f = +30$ cm:\n$$\\frac{1}{v} = \\frac{1}{30} - \\frac{1}{60} = \\frac{1}{60} \\;\\Rightarrow\\; v = 60\\ \\text{cm}$$\n\nThe rays would converge $60$ cm beyond the lens, but the mirror is only $40$ cm away. The image point lies $20$ cm behind the mirror and acts as a virtual object for it.\n\nA plane mirror forms the image as far in front as the object is behind: the reflected rays converge to a real image $20$ cm in front of the mirror, i.e. $20$ cm from the lens (between the lens and the mirror).\n\nThis is the intended answer: a real image $20$ cm from the lens.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
