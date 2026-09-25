@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The current is $I = neAv_d = neA\\mu E$. The carrier concentrations are equal, but electrons have a higher mobility than holes ($\\mu_e > \\mu_h$).\n\nSo the current in the n-type semiconductor is greater.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
