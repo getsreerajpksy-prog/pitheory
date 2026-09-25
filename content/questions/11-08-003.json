@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$Y = \\frac{\\text{stress}}{\\text{strain}} = \\frac{Mg/A}{(L_1 - L)/L} = \\frac{MgL}{A(L_1 - L)}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
