@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Flux: $\\phi = BA_0(1 + \\sin t)$. Induced emf:\n$$\\varepsilon = -\\frac{d\\phi}{dt} = -BA_0\\cos t$$\n\nPower dissipated:\n$$P = \\frac{\\varepsilon^2}{R} = \\frac{B^2A_0^2}{R}\\cos^2 t$$\n\n$P$ is maximum at $t = 0$, falls to zero at $t = \\pi/2$, rises to the maximum again at $t = \\pi$, and so on. It never becomes negative.\n\nThis is option (2), which starts at a maximum and dips to zero.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
