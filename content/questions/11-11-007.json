@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The system is thermally insulated, so no heat is exchanged: $Q = 0$. The process is adiabatic (a free expansion).\n\nThe gas expands into vacuum, so it does no work ($W = 0$). Then $\\Delta U = 0$, and for an ideal gas the final temperature equals the initial temperature. But the process is sudden and irreversible, so it is not a quasi-static isothermal process. The volume doubles (not isochoric) and the pressure halves (not isobaric).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
