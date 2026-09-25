@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$F = F_0\\left(\\frac{R}{R + h}\\right)^2 = 48\\left(\\frac{R}{4R/3}\\right)^2 = 48 \\times \\frac{9}{16} = 27\\ \\text{N}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
