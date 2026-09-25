@@ -20,6 +20,7 @@ This repository is the pitheory.in NEET/JEE physics question bank. `build.py` tu
 
 ## Before finishing
 1. Run `python3 build.py` and confirm it reports no skipped questions.
+   Run `python3 tools/find_duplicates.py` and tell the user about any pair that involves a new question. Never delete a duplicate yourself; list both IDs and let the user choose which to keep, then remove the other with `python3 tools/find_duplicates.py --delete <ID>`.
 2. Commit with a message like `Add 11-01-003 to 11-01-012 (drafts)` and push to `main`.
 3. Tell the user which IDs were added, and any question where you were unsure of the transcription or answer.
 
