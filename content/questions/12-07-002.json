@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$Z = \\sqrt{R^2 + (X_L - X_C)^2} = \\sqrt{20^2 + (45 - 25)^2} = 20\\sqrt{2} \\approx 28.3\\ \\Omega$$\n\n$$I = \\frac{220}{28.3} \\approx 7.8\\ \\text{A}$$\n\n$$\\tan\\phi = \\frac{X_L - X_C}{R} = \\frac{20}{20} = 1 \\;\\Rightarrow\\; \\phi = 45°$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

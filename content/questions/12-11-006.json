@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "A: photocurrent is proportional to the number of photons per second, i.e. to the intensity. It is a straight line through the origin, so A is correct. B is wrong.\n\nC and D: for light of fixed intensity, there is no current below the threshold frequency. Above it, the (saturation) current is set by the number of photons, not by their frequency, so it does not rise linearly with frequency. C (current starting from zero frequency) is wrong, and D (linear rise above threshold) describes the stopping potential, not the current.\n\nOnly A is correct.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

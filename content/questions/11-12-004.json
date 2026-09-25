@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The container is isolated, so no heat enters and no work is done: the total internal energy is conserved.\n\nFor an ideal gas, $U = \\dfrac{f}{2}nRT = \\dfrac{f}{2}pV$. With the same gas on both sides:\n$$p(V_1 + V_2) = p_1V_1 + p_2V_2$$\n$$p = \\frac{1 \\times 2 + 2 \\times 3}{2 + 3} = \\frac{8}{5} = 1.6\\ \\text{atm}$$\n\n(The mole numbers are not needed.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

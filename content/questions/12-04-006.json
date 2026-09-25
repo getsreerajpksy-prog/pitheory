@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Lowest state, $n = 1$: $B\\pi r^2 = \\dfrac{h}{e}$, so $r^2 = \\dfrac{h}{\\pi eB}$.\n\nIn the magnetic field, $r = \\dfrac{mv}{eB}$, so $v = \\dfrac{eBr}{m}$.\n\nMagnetic moment of a circulating charge:\n$$\\mu = IA = \\frac{ev}{2\\pi r}\\cdot\\pi r^2 = \\frac{evr}{2} = \\frac{e^2Br^2}{2m}$$\n\nSubstituting $r^2$:\n$$\\mu = \\frac{e^2B}{2m}\\cdot\\frac{h}{\\pi eB} = \\frac{he}{2\\pi m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

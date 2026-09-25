@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Magnetic moment of a coil: $m = NIA = NI\\pi r^2$. With the same current (and the same number of turns),\n$$\\frac{m_1}{m_2} = \\frac{r_1^2}{r_2^2} = \\left(\\frac{1}{2}\\right)^2 = \\frac{1}{4}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

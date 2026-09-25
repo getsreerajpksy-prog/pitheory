@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Speed just before impact: $v_1 = \\sqrt{2gh_1} = \\sqrt{2 \\times 9.8 \\times 40} = 28\\ \\text{m s}^{-1}$ (downward).\n\nSpeed just after impact: $v_2 = \\sqrt{2gh_2} = \\sqrt{2 \\times 9.8 \\times 10} = 14\\ \\text{m s}^{-1}$ (upward).\n\nImpulse = change in momentum (the velocity reverses direction):\n$$J = m(v_2 + v_1) = 0.5 \\times (14 + 28) = 21\\ \\text{N s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

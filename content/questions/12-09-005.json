@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "For a compound microscope with the final image at infinity (normal adjustment):\n$$m = \\frac{L}{f_o}\\cdot\\frac{D}{f_e} = \\frac{40}{2} \\times \\frac{25}{4} = 20 \\times 6.25 = 125$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

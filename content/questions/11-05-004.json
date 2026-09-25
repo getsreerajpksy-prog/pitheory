@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "By the work-energy theorem, the braking force removes all the kinetic energy: $F \\cdot d = K$.\n\n$$F_A = \\frac{100}{1000} = 0.1\\ \\text{N}, \\qquad F_B = \\frac{225}{1500} = 0.15\\ \\text{N}$$\n\n$$\\frac{F_A}{F_B} = \\frac{0.1}{0.15} = \\frac{2}{3}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

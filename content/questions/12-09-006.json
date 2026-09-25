@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "For thin lenses in contact, the powers add:\n$$P = p + p + p + p = 4p$$\n\nFor lenses used in succession, each forms an image that is the object for the next, so the magnifications multiply:\n$$M = m \\times m \\times m \\times m = m^4$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

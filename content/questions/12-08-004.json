@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The displacement current $I_d = \\epsilon_0\\dfrac{d\\phi_E}{dt}$ is constant and spread uniformly over the plate area (radius $R$).\n\nAmpère–Maxwell law at distance $r$ from the axis:\n\nInside ($r < R$): $B \\cdot 2\\pi r = \\mu_0 I_d\\dfrac{r^2}{R^2}$, so $B = \\dfrac{\\mu_0 I_d r}{2\\pi R^2}$, which increases with $r$.\n\nOutside ($r > R$): $B = \\dfrac{\\mu_0 I_d}{2\\pi r}$, which decreases with $r$.\n\nSo $B$ is non-zero everywhere (except on the axis) and is maximum at $r = R$, the cylindrical surface joining the edges of the plates.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

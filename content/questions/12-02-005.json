@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$U = -pE\\cos\\theta$, so\n$$\\Delta U = pE(\\cos 0° - \\cos 60°) = 5 \\times 10^{-6} \\times 4 \\times 10^5 \\times \\left(1 - \\frac{1}{2}\\right) = 2 \\times 0.5 = 1.0\\ \\text{J}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

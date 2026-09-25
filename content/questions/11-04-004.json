@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Starting from rest, $L = \\dfrac{1}{2}at^2$, so $t \\propto \\dfrac{1}{\\sqrt{a}}$.\n\n$t_{\\text{rough}} = 2t_{\\text{smooth}}$ means $a_{\\text{rough}} = \\dfrac{a_{\\text{smooth}}}{4}$:\n$$g(\\sin 45° - \\mu_k\\cos 45°) = \\frac{g\\sin 45°}{4}$$\n\nSince $\\sin 45° = \\cos 45°$:\n$$1 - \\mu_k = \\frac{1}{4} \\;\\Rightarrow\\; \\mu_k = 0.75$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

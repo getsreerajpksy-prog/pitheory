@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Kepler's third law: $T \\propto r^{3/2}$.\n\n$$T_{\\text{Mercury}} = T_{\\text{Mars}}\\left(\\frac{1}{4}\\right)^{3/2} = \\frac{687}{8} \\approx 86\\ \\text{days}$$\n\nThe closest option is $88$ Earth days.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

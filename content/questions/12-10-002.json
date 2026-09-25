@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The middle sheet is at $22.5°$ to the first polaroid, so it is at $90° - 22.5° = 67.5°$ to the second (crossed) polaroid. By Malus's law:\n$$I = I_0\\cos^2 22.5°\\cos^2 67.5° = I_0(\\cos 22.5°\\sin 22.5°)^2 = I_0\\left(\\frac{\\sin 45°}{2}\\right)^2 = I_0 \\times \\frac{1}{8}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

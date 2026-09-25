@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Excess pressure inside the balloon: $\\Delta P = \\dfrac{kS}{r}$ ($k$ is a number, $2$ or $4$).\n\nBernoulli at the outlet: $\\dfrac{1}{2}\\rho v^2 = \\dfrac{kS}{r}$, so\n$$v = \\sqrt{\\frac{2kS}{\\rho r}} \\propto r^{-1/2} \\;\\Rightarrow\\; a = -\\frac{1}{2}$$\n\nRate of volume loss:\n$$-\\frac{d}{dt}\\left(\\frac{4}{3}\\pi r^3\\right) = Av \\;\\Rightarrow\\; -4\\pi r^2\\frac{dr}{dt} = A\\sqrt{\\frac{2kS}{\\rho}}\\,r^{-1/2}$$\n\n$$dt = -\\frac{4\\pi}{A}\\sqrt{\\frac{\\rho}{2kS}}\\,r^{5/2}\\,dr \\;\\Rightarrow\\; T = \\frac{4\\pi}{A}\\sqrt{\\frac{\\rho}{2kS}}\\cdot\\frac{2}{7}R^{7/2}$$\n\nSo $T \\propto S^{-1/2}A^{-1}\\rho^{1/2}R^{7/2}$: $\\alpha = -\\frac{1}{2}$, $\\beta = -1$, $\\gamma = \\frac{1}{2}$, $\\delta = \\frac{7}{2}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

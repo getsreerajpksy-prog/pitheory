@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Brewster's law: $\\tan i_B = n = 1.73 \\approx \\sqrt{3}$, so $i_B = 60°$. The angle of reflection equals the angle of incidence, $60°$.\n\nAt Brewster's angle the reflected light is completely (plane) polarized, while the transmitted light is only partially polarized. The angle of refraction is $90° - 60° = 30°$, but the transmitted light is not completely polarized.\n\nSo the correct statement is (1).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

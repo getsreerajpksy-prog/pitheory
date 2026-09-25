@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Centripetal force: $\\dfrac{mv^2}{r} = F$, so $v^2 \\propto r$.\n\nBohr quantization: $mvr = \\dfrac{nh}{2\\pi}$, so $v \\propto \\dfrac{n}{r}$.\n\nCombining: $\\dfrac{n^2}{r^2} \\propto r \\;\\Rightarrow\\; r^3 \\propto n^2 \\;\\Rightarrow\\; r \\propto n^{2/3}$.\n\nThen $v \\propto \\dfrac{n}{r} \\propto n^{1/3}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
