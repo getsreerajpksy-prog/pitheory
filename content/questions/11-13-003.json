@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Frequency: $\\omega = \\sqrt{k/m}$. As sand leaks out, $m$ decreases, so $\\omega$ increases with time.\n\nAmplitude: the sand leaves vertically, with the same horizontal velocity as the box, so it exerts no horizontal force on the box. The box obeys $m(t)\\ddot{x} = -kx$, i.e. $\\ddot{x} + \\omega(t)^2x = 0$ with $\\omega$ changing slowly.\n\nFor such a slowly changing frequency, the quantity $\\omega A^2$ stays constant (adiabatic invariant), so $A \\propto \\omega^{-1/2}$. As $\\omega$ increases, the amplitude decreases.\n\n(Energy view: each grain of sand carries away its own kinetic energy, so the mechanical energy of the box, $\\tfrac{1}{2}kA^2$, decreases.)\n\nSo $\\omega(t)$ increases and $A(t)$ decreases, as in option (2).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
