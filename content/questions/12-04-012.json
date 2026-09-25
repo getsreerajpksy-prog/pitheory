@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$\\vec{v} \\times \\vec{B} = \\begin{vmatrix} \\hat{i} & \\hat{j} & \\hat{k} \\\\ 2 & 4 & 6 \\\\ B & B & B_0 \\end{vmatrix} = (4B_0 - 6B)\\hat{i} + (6B - 2B_0)\\hat{j} + (2B - 4B)\\hat{k}$$\n\nCompare with $\\vec{F} = 4\\hat{i} - 20\\hat{j} + 12\\hat{k}$:\n\n$\\hat{k}$: $-2B = 12$, so $B = -6$.\n\n$\\hat{i}$: $4B_0 + 36 = 4$, so $B_0 = -8$.\n\nCheck $\\hat{j}$: $6(-6) - 2(-8) = -36 + 16 = -20$. ✓\n\n$$\\vec{B} = -6\\hat{i} - 6\\hat{j} - 8\\hat{k}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
