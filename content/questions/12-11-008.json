@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$\\lambda = \\dfrac{h}{\\sqrt{2mE}}$, so\n$$\\frac{1}{\\lambda^2} = \\frac{2m}{h^2}E$$\n\n$\\dfrac{1}{\\lambda^2}$ is directly proportional to $E$: a straight line through the origin, which is option (2).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
