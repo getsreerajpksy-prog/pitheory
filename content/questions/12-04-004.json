@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "For no deflection, the electric force must cancel the magnetic force: $q\\vec{E} = -q\\vec{v} \\times \\vec{B}$. The magnetic force is perpendicular to $\\vec{B}$, so $\\vec{E}$ must be perpendicular to $\\vec{B}$ (and to $\\vec{v}$).\n\nMagnitude: $eE = evB$, so\n$$E = vB = \\frac{3 \\times 10^8}{100} \\times 9 \\times 10^{-4} = 3 \\times 10^6 \\times 9 \\times 10^{-4} = 27 \\times 10^2\\ \\text{V m}^{-1}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
