@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "On an optical bench, the distance read between two uprights from the scale (using their index marks) is not exactly the true distance between the optical elements (for example, lens and needle tip). The difference is the index error, and every measured distance must be corrected for it.\n\nThis index correction is applied when measuring the focal length of lenses (or mirrors) on an optical bench.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
