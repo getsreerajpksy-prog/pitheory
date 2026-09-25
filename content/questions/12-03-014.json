@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$R_t = R_0(1 + \\alpha t)$:\n$$\\alpha = \\frac{R_t - R_0}{R_0\\,t} = \\frac{6.8 - 2}{2 \\times 80} = \\frac{4.8}{160} = 3 \\times 10^{-2}\\ °\\text{C}^{-1}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
