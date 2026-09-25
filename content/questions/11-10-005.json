@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$Q = mc\\Delta T$ with the same material and $\\Delta T$, so $Q \\propto m \\propto r^3$.\n$$\\frac{Q_1}{Q_2} = (1.5)^3 = \\frac{27}{8}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
