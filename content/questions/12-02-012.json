@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Energy density in an electric field: $u = \\dfrac{1}{2}\\epsilon_0E^2$.\n\nThe field fills the volume $Ad$ between the plates:\n$$U = \\frac{1}{2}\\epsilon_0E^2 \\times Ad$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
