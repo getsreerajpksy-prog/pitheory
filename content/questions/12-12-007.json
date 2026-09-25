@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The shortest wavelength of a series is the series limit ($n_2 \\to \\infty$): $\\dfrac{1}{\\lambda} = \\dfrac{R}{n_1^2}$, so $\\lambda_{min} \\propto n_1^2$.\n\nBalmer: $n_1 = 2$. Brackett: $n_1 = 4$.\n$$\\frac{\\lambda_{\\text{Brackett}}}{\\lambda_{\\text{Balmer}}} = \\frac{16}{4} = 4 \\;\\Rightarrow\\; \\lambda_{\\text{Brackett}} = 4\\lambda$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
