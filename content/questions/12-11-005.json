@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Photon: $\\lambda_{\\text{photon}} = \\dfrac{hc}{E}$. Electron: $\\lambda_{\\text{electron}} = \\dfrac{h}{\\sqrt{2mE}}$.\n\n$$\\frac{\\lambda_{\\text{photon}}}{\\lambda_{\\text{electron}}} = \\frac{hc/E}{h/\\sqrt{2mE}} = \\frac{c\\sqrt{2mE}}{E} = c\\sqrt{\\frac{2m}{E}}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
