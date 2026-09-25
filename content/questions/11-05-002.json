@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Since $\\mu_k(L) = 0$, we get $\\mu_0 - \\alpha L = 0$, so $\\alpha = \\dfrac{\\mu_0}{L}$.\n\nThe friction force at position $x$ is $f = \\mu_k(x)\\,Mg$. The magnitude of work done by friction is\n$$W = \\int_0^L \\left(\\mu_0 - \\frac{\\mu_0 x}{L}\\right) Mg\\,dx = Mg\\left(\\mu_0 L - \\frac{\\mu_0 L}{2}\\right) = \\frac{1}{2}\\mu_0 MgL$$\n\n(Friction opposes the motion, so this work is negative; its magnitude is $\\tfrac{1}{2}\\mu_0 MgL$.)\n\nHence $n = \\dfrac{1}{2}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
