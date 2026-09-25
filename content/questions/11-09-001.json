@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Continuity: $A_P v_P = A_Q v_Q$, so $v_Q = \\dfrac{40}{20}v_P = 2v_P$.\n\nBernoulli (horizontal pipe):\n$$P_P - P_Q = \\frac{1}{2}\\rho\\left(v_Q^2 - v_P^2\\right) = \\frac{1}{2}\\rho\\left(3v_P^2\\right)$$\n$$15 = \\frac{1}{2}(1000)(3v_P^2) \\;\\Rightarrow\\; v_P^2 = 0.01 \\;\\Rightarrow\\; v_P = 0.1\\ \\text{m s}^{-1} = 10\\ \\text{cm s}^{-1}$$\n\nRate of flow:\n$$Q = A_P v_P = 40 \\times 10 = 400\\ \\text{cm}^3\\text{s}^{-1}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
