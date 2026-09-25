@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Errors that occur irregularly and unpredictably, for example from random fluctuations in temperature or supply voltage, are random errors. They can be reduced by taking the mean of many readings.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
