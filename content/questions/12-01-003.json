@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Touching identical spheres share their total charge equally.\n\nThird sphere touches A: each gets $\\dfrac{q}{2}$.\n\nThird sphere (with $\\dfrac{q}{2}$) touches B (with $q$): each gets $\\dfrac{1}{2}\\left(\\dfrac{q}{2} + q\\right) = \\dfrac{3q}{4}$.\n\n$$F' = F\\cdot\\frac{(q/2)(3q/4)}{q^2} = \\frac{3F}{8}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
