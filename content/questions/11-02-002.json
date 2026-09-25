@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$s(t) = t^2 - 6t + 5$, so $v = \\dfrac{ds}{dt} = 2t - 6$. The particle reverses direction at $t = 3$ s.\n\nPositions: $s(0) = 5$ m, $s(3) = 9 - 18 + 5 = -4$ m, $s(6) = 36 - 36 + 5 = 5$ m.\n\nDistance travelled $= |{-4} - 5| + |5 - (-4)| = 9 + 9 = 18$ m.\n\n$$\\text{Average speed} = \\frac{18}{6} = 3\\ \\text{m s}^{-1}$$\n\n(The average velocity is zero because the particle returns to its starting point, but average speed uses total distance.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
