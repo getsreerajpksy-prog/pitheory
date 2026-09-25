@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The current enters at A and leaves at C, which are diametrically opposite. The straight lead wires lie along the line through O, so they give no field at O.\n\nThe two semicircles ABC and ADC are in parallel. Since $R_{ABC} = \\tfrac{1}{2}R_{ADC}$, the current divides as\n$$I_{ABC} = \\frac{2I_0}{3}, \\qquad I_{ADC} = \\frac{I_0}{3}$$\n\nA semicircle carrying current $I$ gives $B = \\dfrac{\\mu_0 I}{4r}$ at the centre. The two halves carry current in opposite senses around O, so their fields oppose:\n$$B = \\frac{\\mu_0}{4r}\\left(\\frac{2I_0}{3} - \\frac{I_0}{3}\\right) = \\frac{\\mu_0 I_0}{12r}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
