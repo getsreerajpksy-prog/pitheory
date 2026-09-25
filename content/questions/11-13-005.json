@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Compare with $x = A\\sin(\\omega t + \\phi)$: $A = 5$ m and $\\omega = \\pi$ rad/s.\n\n$$T = \\frac{2\\pi}{\\omega} = \\frac{2\\pi}{\\pi} = 2\\ \\text{s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
