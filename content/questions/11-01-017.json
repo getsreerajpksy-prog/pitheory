@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$[\\text{stress}] = \\frac{[\\text{force}]}{[\\text{area}]} = \\frac{[\\mathrm{MLT^{-2}}]}{[\\mathrm{L^2}]} = [\\mathrm{ML^{-1}T^{-2}}]$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
