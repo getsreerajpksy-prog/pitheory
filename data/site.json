@@ -1,20 +1,34 @@
 {
   "site_url": "https://pitheory.in",
   "whatsapp": "917012151304",
-  "phones": ["+91 70121 51304", "+91 88914 18892"],
+  "phones": [
+    "+91 70121 51304",
+    "+91 88914 18892"
+  ],
   "email": "pitheorylearning@gmail.com",
   "youtube_channel": "",
   "instagram": "",
-  "videos": ["5w7MjEXhDoE", "v9prHI7hxhM", "waNoDqGPpGw"],
-  "fee_private": "₹900",
+  "videos": [
+    "5w7MjEXhDoE",
+    "v9prHI7hxhM",
+    "waNoDqGPpGw"
+  ],
+  "fee_private": "starts ₹900",
   "fee_private_unit": "per hour",
-  "fee_batch": "₹3000",
+  "fee_batch": "starts ₹3000",
   "fee_batch_unit": "per month",
   "students_taught": "1500+",
   "years_experience": "10+",
   "google_site_verification": "VgJK_i-VfEgrjo6ZoHQVBYomXmi636pTe9s7F5p1HrI",
   "ga_id": "",
   "lead_form_action": "",
-  "lead_form_fields": {"name": "", "phone": "", "exam": "", "cls": "", "country": "", "page": ""},
+  "lead_form_fields": {
+    "name": "",
+    "phone": "",
+    "exam": "",
+    "cls": "",
+    "country": "",
+    "page": ""
+  },
   "testimonials": []
 }
