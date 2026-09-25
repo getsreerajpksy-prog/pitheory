@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The diodes rectify (make the output unidirectional), and the transformer supplies the two halves of the input.\n\nThe capacitor connected across the load acts as a filter. It charges near each peak and discharges slowly through the load between peaks, smoothing out the ac ripple.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
