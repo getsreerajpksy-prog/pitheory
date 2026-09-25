@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "From $PV = \\dfrac{m}{M}RT$:\n$$\\rho = \\frac{PM}{RT} = \\frac{249 \\times 10^3 \\times 2 \\times 10^{-3}}{8.3 \\times 300} = \\frac{498}{2490} = 0.2\\ \\text{kg/m}^3$$\n\n(Molar mass of H$_2$: $M = 2 \\times 10^{-3}$ kg/mol.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
