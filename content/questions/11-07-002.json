@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$v_e = \\sqrt{\\dfrac{2GM}{R}}$, so for equal masses $v_e \\propto \\dfrac{1}{\\sqrt{R}}$.\n\n$$\\frac{v_2}{v_1} = \\sqrt{\\frac{R_1}{R_2}} = \\sqrt{2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
