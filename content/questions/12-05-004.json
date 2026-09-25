@@ -1,0 +1,39 @@
+{
+  "id": "12-05-004",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "The net magnetic flux through any closed surface is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Zero",
+      "image": ""
+    },
+    {
+      "text": "Positive",
+      "image": ""
+    },
+    {
+      "text": "Infinity",
+      "image": ""
+    },
+    {
+      "text": "Negative",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Gauss's law for magnetism: $\\displaystyle\\oint\\vec{B}\\cdot d\\vec{S} = 0$.\n\nMagnetic monopoles do not exist, and magnetic field lines are closed loops. Every line that enters a closed surface also leaves it, so the net flux is zero.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

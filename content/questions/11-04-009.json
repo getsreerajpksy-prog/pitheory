@@ -1,0 +1,39 @@
+{
+  "id": "11-04-009",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "Calculate the maximum acceleration of a moving car so that a body lying on the floor of the car remains stationary. The coefficient of static friction between the body and the floor is $0.15$ ($g = 10\\ \\text{m s}^{-2}$).",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.2\\ \\text{m s}^{-2}$",
+      "image": ""
+    },
+    {
+      "text": "$150\\ \\text{m s}^{-2}$",
+      "image": ""
+    },
+    {
+      "text": "$1.5\\ \\text{m s}^{-2}$",
+      "image": ""
+    },
+    {
+      "text": "$50\\ \\text{m s}^{-2}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Static friction is the only horizontal force on the body, so it must supply $ma$:\n$$ma \\le \\mu_s mg \\;\\Rightarrow\\; a_{max} = \\mu_s g = 0.15 \\times 10 = 1.5\\ \\text{m s}^{-2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

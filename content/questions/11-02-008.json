@@ -1,0 +1,39 @@
+{
+  "id": "11-02-008",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "A horizontal bridge is built across a river. A student standing on the bridge throws a small ball vertically upwards with a velocity $4\\ \\text{m s}^{-1}$. The ball strikes the water surface after $4$ s. The height of bridge above water surface is (Take $g = 10\\ \\text{m s}^{-2}$) :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$56$ m",
+      "image": ""
+    },
+    {
+      "text": "$60$ m",
+      "image": ""
+    },
+    {
+      "text": "$64$ m",
+      "image": ""
+    },
+    {
+      "text": "$68$ m",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Take upward as positive, with the origin at the bridge:\n$$s = ut - \\frac{1}{2}gt^2 = 4 \\times 4 - \\frac{1}{2} \\times 10 \\times 16 = 16 - 80 = -64\\ \\text{m}$$\n\nThe water is $64$ m below the bridge.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

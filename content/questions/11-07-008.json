@@ -1,0 +1,39 @@
+{
+  "id": "11-07-008",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "Two bodies of mass $m$ and $9m$ are placed at a distance $R$. The gravitational potential on the line joining the bodies where the gravitational field equals zero, will be ($G$ = gravitational constant) :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$-\\dfrac{8Gm}{R}$",
+      "image": ""
+    },
+    {
+      "text": "$-\\dfrac{12Gm}{R}$",
+      "image": ""
+    },
+    {
+      "text": "$-\\dfrac{16Gm}{R}$",
+      "image": ""
+    },
+    {
+      "text": "$-\\dfrac{20Gm}{R}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Let the null point be at distance $x$ from $m$:\n$$\\frac{Gm}{x^2} = \\frac{G(9m)}{(R - x)^2} \\;\\Rightarrow\\; \\frac{R - x}{x} = 3 \\;\\Rightarrow\\; x = \\frac{R}{4}$$\n\nPotential there:\n$$V = -\\frac{Gm}{R/4} - \\frac{9Gm}{3R/4} = -\\frac{4Gm}{R} - \\frac{12Gm}{R} = -\\frac{16Gm}{R}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

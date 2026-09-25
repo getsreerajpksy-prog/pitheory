@@ -1,0 +1,39 @@
+{
+  "id": "11-06-011",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "The angular acceleration of a body, moving along the circumference of a circle, is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "along the radius, away from centre",
+      "image": ""
+    },
+    {
+      "text": "along the radius towards the centre",
+      "image": ""
+    },
+    {
+      "text": "along the tangent to its position",
+      "image": ""
+    },
+    {
+      "text": "along the axis of rotation",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Angular velocity and angular acceleration are axial vectors. For motion in a circle they point along the axis of rotation (perpendicular to the plane of the circle), with the direction given by the right-hand rule.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

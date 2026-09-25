@@ -1,0 +1,39 @@
+{
+  "id": "12-07-005",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "A $12$ V, $60$ W lamp is connected to the secondary of a step down transformer, whose primary is connected to ac mains of $220$ V. Assuming the transformer to be ideal, what is the current in the primary winding?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.27$ A",
+      "image": ""
+    },
+    {
+      "text": "$2.7$ A",
+      "image": ""
+    },
+    {
+      "text": "$3.7$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.37$ A",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For an ideal transformer, input power = output power $= 60$ W.\n\n$$I_p = \\frac{P}{V_p} = \\frac{60}{220} \\approx 0.27\\ \\text{A}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

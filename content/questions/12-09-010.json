@@ -1,0 +1,39 @@
+{
+  "id": "12-09-010",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "Two thin lenses are of same focal lengths ($f$), but one is convex and the other one is concave. When they are placed in contact with each other, the equivalent focal length of the combination will be :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Zero",
+      "image": ""
+    },
+    {
+      "text": "$f/4$",
+      "image": ""
+    },
+    {
+      "text": "$f/2$",
+      "image": ""
+    },
+    {
+      "text": "Infinite",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\frac{1}{F} = \\frac{1}{f} + \\frac{1}{-f} = 0 \\;\\Rightarrow\\; F = \\infty$$\n\nThe combination behaves like a plane glass plate.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

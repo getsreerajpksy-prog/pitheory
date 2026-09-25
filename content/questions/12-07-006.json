@@ -1,0 +1,39 @@
+{
+  "id": "12-07-006",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "An ac source is connected to a capacitor C. Due to decrease in its operating frequency :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "capacitive reactance decreases.",
+      "image": ""
+    },
+    {
+      "text": "displacement current increases.",
+      "image": ""
+    },
+    {
+      "text": "displacement current decreases.",
+      "image": ""
+    },
+    {
+      "text": "capacitive reactance remains constant",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$X_C = \\dfrac{1}{2\\pi fC}$, so lowering the frequency increases the reactance.\n\nThe current in the circuit, $I = \\dfrac{V}{X_C}$, therefore decreases. Between the plates, the displacement current equals the conduction current, so the displacement current also decreases.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

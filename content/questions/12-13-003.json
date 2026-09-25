@@ -1,0 +1,39 @@
+{
+  "id": "12-13-003",
+  "chapter": "nuclei",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "The half life of a radioactive substance is $20$ minutes. In how much time, the activity of substance drops to $\\left(\\dfrac{1}{16}\\right)^{th}$ of its initial value?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$20$ minutes",
+      "image": ""
+    },
+    {
+      "text": "$40$ minutes",
+      "image": ""
+    },
+    {
+      "text": "$60$ minutes",
+      "image": ""
+    },
+    {
+      "text": "$80$ minutes",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\dfrac{1}{16} = \\left(\\dfrac{1}{2}\\right)^4$, so 4 half-lives are needed.\n\n$$t = 4 \\times 20 = 80\\ \\text{minutes}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

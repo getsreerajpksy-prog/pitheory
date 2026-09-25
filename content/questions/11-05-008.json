@@ -1,0 +1,39 @@
+{
+  "id": "11-05-008",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "The potential energy of a long spring when stretched by $2$ cm is U. If the spring is stretched by $8$ cm, potential energy stored in it will be :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2$U",
+      "image": ""
+    },
+    {
+      "text": "$4$U",
+      "image": ""
+    },
+    {
+      "text": "$8$U",
+      "image": ""
+    },
+    {
+      "text": "$16$U",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$U = \\dfrac{1}{2}kx^2$, so $U \\propto x^2$.\n\n$$U' = U\\left(\\frac{8}{2}\\right)^2 = 16U$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

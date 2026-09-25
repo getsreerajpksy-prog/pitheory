@@ -1,0 +1,39 @@
+{
+  "id": "11-01-011",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "The errors in the measurement which arise due to unpredictable fluctuations in temperature and voltage supply are :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Instrumental errors",
+      "image": ""
+    },
+    {
+      "text": "Personal errors",
+      "image": ""
+    },
+    {
+      "text": "Least count errors",
+      "image": ""
+    },
+    {
+      "text": "Random errors",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Errors that occur irregularly and unpredictably, for example from random fluctuations in temperature or supply voltage, are random errors. They can be reduced by taking the mean of many readings.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

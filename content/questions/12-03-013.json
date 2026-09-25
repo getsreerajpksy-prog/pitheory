@@ -1,0 +1,39 @@
+{
+  "id": "12-03-013",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "$10$ resistors, each of resistance $R$ are connected in series to a battery of emf $E$ and negligible internal resistance. Then those are connected in parallel to the same battery, the current is increased $n$ times. The value of $n$ is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$10$",
+      "image": ""
+    },
+    {
+      "text": "$100$",
+      "image": ""
+    },
+    {
+      "text": "$1$",
+      "image": ""
+    },
+    {
+      "text": "$1000$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Series: $R_s = 10R$, so $I_s = \\dfrac{E}{10R}$.\n\nParallel: $R_p = \\dfrac{R}{10}$, so $I_p = \\dfrac{10E}{R}$.\n\n$$n = \\frac{I_p}{I_s} = 100$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

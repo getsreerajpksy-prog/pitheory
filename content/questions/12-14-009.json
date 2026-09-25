@@ -1,0 +1,39 @@
+{
+  "id": "12-14-009",
+  "chapter": "semiconductor-electronics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "Given below are two statements:\n\nStatement I : Photovoltaic devices can convert optical radiation into electricity.\n\nStatement II : Zener diode is designed to operate under reverse bias in breakdown region.\n\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Both Statement I and Statement II are correct.",
+      "image": ""
+    },
+    {
+      "text": "Both Statement I and Statement II are incorrect.",
+      "image": ""
+    },
+    {
+      "text": "Statement I is correct but Statement II is incorrect.",
+      "image": ""
+    },
+    {
+      "text": "Statement I is incorrect but Statement II is correct.",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Statement I: photovoltaic devices (solar cells) generate an emf when light falls on them. Correct.\n\nStatement II: a Zener diode is heavily doped and designed to work in reverse breakdown, where it holds a constant voltage. Correct.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "11-02-006",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "A vehicle travels half the distance with speed $\\vartheta$ and the remaining distance with speed $2\\vartheta$. Its average speed is:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{\\vartheta}{3}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2\\vartheta}{3}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{4\\vartheta}{3}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{3\\vartheta}{4}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Let the total distance be $2d$. Time taken:\n$$t = \\frac{d}{\\vartheta} + \\frac{d}{2\\vartheta} = \\frac{3d}{2\\vartheta}$$\n\n$$\\text{Average speed} = \\frac{2d}{3d/(2\\vartheta)} = \\frac{4\\vartheta}{3}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

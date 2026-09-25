@@ -1,0 +1,39 @@
+{
+  "id": "12-06-008",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "The magnetic energy stored in an inductor of inductance $4\\ \\mu$H carrying a current of $2$ A is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4\\ \\mu$J",
+      "image": ""
+    },
+    {
+      "text": "$4$ mJ",
+      "image": ""
+    },
+    {
+      "text": "$8$ mJ",
+      "image": ""
+    },
+    {
+      "text": "$8\\ \\mu$J",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$U = \\frac{1}{2}LI^2 = \\frac{1}{2} \\times 4 \\times 10^{-6} \\times 2^2 = 8 \\times 10^{-6}\\ \\text{J} = 8\\ \\mu\\text{J}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

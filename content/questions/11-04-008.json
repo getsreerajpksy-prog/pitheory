@@ -1,0 +1,39 @@
+{
+  "id": "11-04-008",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "A football player is moving southward and suddenly turns eastward with the same speed to avoid an opponent. The force that acts on the player while turning is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "along eastward",
+      "image": ""
+    },
+    {
+      "text": "along northward",
+      "image": ""
+    },
+    {
+      "text": "along north-east",
+      "image": ""
+    },
+    {
+      "text": "along south-west",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The force is along the change in momentum, $\\Delta\\vec{v} = \\vec{v}_f - \\vec{v}_i$.\n\n$\\vec{v}_i = v$ (south) and $\\vec{v}_f = v$ (east), so\n$$\\Delta\\vec{v} = v\\,\\hat{E} - v\\,\\hat{S} = v\\,\\hat{E} + v\\,\\hat{N}$$\n\nEqual east and north components: the force is towards the north-east.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

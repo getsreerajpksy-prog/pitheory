@@ -1,0 +1,39 @@
+{
+  "id": "12-10-005",
+  "chapter": "wave-optics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "For Young's double slit experiment, two statements are given below:\n\nStatement I : If screen is moved away from the plane of slits, angular separation of the fringes remains constant.\n\nStatement II : If the monochromatic source is replaced by another monochromatic source of larger wavelength, the angular separation of fringes decreases.\n\nIn the light of the above statements, choose the correct answer from the options given below:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Both Statement I and Statement II are true.",
+      "image": ""
+    },
+    {
+      "text": "Both Statement I and Statement II are false.",
+      "image": ""
+    },
+    {
+      "text": "Statement I is true but Statement II is false.",
+      "image": ""
+    },
+    {
+      "text": "Statement I is false but Statement II is true.",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Angular fringe separation: $\\theta = \\dfrac{\\lambda}{d}$.\n\nStatement I: $\\theta$ does not depend on the screen distance $D$. True. (The linear fringe width $\\lambda D/d$ changes, but the angular separation does not.)\n\nStatement II: a larger $\\lambda$ gives a larger angular separation, not a smaller one. False.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

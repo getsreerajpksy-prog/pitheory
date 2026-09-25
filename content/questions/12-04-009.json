@@ -1,0 +1,39 @@
+{
+  "id": "12-04-009",
+  "chapter": "moving-charges-and-magnetism",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "A very long conducting wire is bent in a semi-circular shape from $A$ to $B$ as shown in figure. The magnetic field at point $P$ for steady current configuration is given by :",
+  "diagram": "/diagrams/12-04-009.png",
+  "diagram_alt": "Two long parallel wires with opposite currents ending at A and B, joined by a semicircle of radius R centred at P",
+  "options": [
+    {
+      "text": "$\\dfrac{\\mu_0 i}{4R}$ pointed into the page",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\mu_0 i}{4R}$ pointed away from the page",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\mu_0 i}{4R}\\left[1 - \\dfrac{2}{\\pi}\\right]$ pointed away from page",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\mu_0 i}{4R}\\left[1 - \\dfrac{2}{\\pi}\\right]$ pointed into the page",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "P is the centre of the semicircle AB of radius $R$. The wire has three parts.\n\nSemicircle: the current goes from A (top) round the left side to B (bottom), which is anticlockwise as seen, so its field at P points out of the page:\n$$B_1 = \\frac{\\mu_0 i}{4R}$$\n\nUpper straight wire: semi-infinite, ending at A, directly above P at distance $R$. The current flows to the right and P is below the wire, so the field is into the page:\n$$B_2 = \\frac{\\mu_0 i}{4\\pi R}$$\n\nLower straight wire: semi-infinite, ending at B. The current flows to the left and P is above the wire, so the field is also into the page:\n$$B_3 = \\frac{\\mu_0 i}{4\\pi R}$$\n\nNet field (out of the page positive):\n$$B = \\frac{\\mu_0 i}{4R} - \\frac{2\\mu_0 i}{4\\pi R} = \\frac{\\mu_0 i}{4R}\\left[1 - \\frac{2}{\\pi}\\right]$$\npointing away from (out of) the page.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

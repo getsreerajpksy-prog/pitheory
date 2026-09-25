@@ -1,0 +1,39 @@
+{
+  "id": "12-03-012",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "The magnitude and direction of the current in the following circuit is",
+  "diagram": "/diagrams/12-03-012.png",
+  "diagram_alt": "Loop ABCD: from A, 2 Ω, a 10 V cell, point E, a 5 V cell and 1 Ω to B; 7 Ω from C to D",
+  "options": [
+    {
+      "text": "$0.2$ A from $B$ to $A$ through $E$",
+      "image": ""
+    },
+    {
+      "text": "$0.5$ A from $A$ to $B$ through $E$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{5}{9}$ A from $A$ to $B$ through $E$",
+      "image": ""
+    },
+    {
+      "text": "$1.5$ A from $B$ to $A$ through $E$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The two cells have their positive terminals facing each other at E, so they oppose. The $10$ V cell wins, and the net emf is $10 - 5 = 5$ V.\n\nTotal resistance: $2 + 1 + 7 = 10\\ \\Omega$.\n\n$$I = \\frac{5}{10} = 0.5\\ \\text{A}$$\n\nThe $10$ V cell drives current out of its positive terminal towards E, i.e. from A to B through E.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

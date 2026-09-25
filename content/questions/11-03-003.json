@@ -1,0 +1,39 @@
+{
+  "id": "11-03-003",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "A bullet is fired from a gun at the speed of $280\\ \\text{m s}^{-1}$ in the direction $30°$ above the horizontal. The maximum height attained by the bullet is ($g = 9.8\\ \\text{m s}^{-2}$, $\\sin 30° = 0.5$) :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2800$ m",
+      "image": ""
+    },
+    {
+      "text": "$2000$ m",
+      "image": ""
+    },
+    {
+      "text": "$1000$ m",
+      "image": ""
+    },
+    {
+      "text": "$3000$ m",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$H = \\frac{u^2\\sin^2\\theta}{2g} = \\frac{280^2 \\times 0.25}{2 \\times 9.8} = \\frac{19600}{19.6} = 1000\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

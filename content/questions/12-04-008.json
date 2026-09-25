@@ -1,0 +1,39 @@
+{
+  "id": "12-04-008",
+  "chapter": "moving-charges-and-magnetism",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "A wire carrying a current $I$ along the positive $x$-axis has length $L$. It is kept in a magnetic field $\\vec{B} = (2\\hat{i} + 3\\hat{j} - 4\\hat{k})$ T. The magnitude of the magnetic force acting on the wire is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$3\\,IL$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{5}\\,IL$",
+      "image": ""
+    },
+    {
+      "text": "$5\\,IL$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{3}\\,IL$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\vec{F} = I\\vec{L} \\times \\vec{B} = IL\\,\\hat{i} \\times (2\\hat{i} + 3\\hat{j} - 4\\hat{k}) = IL(3\\hat{k} + 4\\hat{j})$$\n\n(using $\\hat{i}\\times\\hat{i} = 0$, $\\hat{i}\\times\\hat{j} = \\hat{k}$, $\\hat{i}\\times\\hat{k} = -\\hat{j}$).\n\n$$|\\vec{F}| = IL\\sqrt{3^2 + 4^2} = 5\\,IL$$\n\n(The component of $\\vec{B}$ along the wire, $2\\hat{i}$, exerts no force.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-11-010",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "The work functions of Caesium (Cs), Potassium (K) and Sodium (Na) are $2.14$ eV, $2.30$ eV and $2.75$ eV respectively. If incident electromagnetic radiation has an incident energy of $2.20$ eV, which of these photosensitive surfaces may emit photoelectrons?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Cs only",
+      "image": ""
+    },
+    {
+      "text": "Both Na and K",
+      "image": ""
+    },
+    {
+      "text": "K only",
+      "image": ""
+    },
+    {
+      "text": "Na only",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Photoelectrons are emitted only if the photon energy is greater than the work function.\n\n$2.20\\ \\text{eV} > 2.14\\ \\text{eV}$ (Cs), but $2.20\\ \\text{eV} < 2.30\\ \\text{eV}$ (K) and $< 2.75\\ \\text{eV}$ (Na).\n\nOnly caesium emits.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

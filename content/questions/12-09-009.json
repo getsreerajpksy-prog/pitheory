@@ -1,0 +1,39 @@
+{
+  "id": "12-09-009",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "Light travels a distance $x$ in time $t_1$ in air and $10x$ in time $t_2$ in another denser medium. What is the critical angle for this medium?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\sin^{-1}\\left(\\dfrac{t_2}{t_1}\\right)$",
+      "image": ""
+    },
+    {
+      "text": "$\\sin^{-1}\\left(\\dfrac{10t_2}{t_1}\\right)$",
+      "image": ""
+    },
+    {
+      "text": "$\\sin^{-1}\\left(\\dfrac{t_1}{10t_2}\\right)$",
+      "image": ""
+    },
+    {
+      "text": "$\\sin^{-1}\\left(\\dfrac{10t_1}{t_2}\\right)$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Speed in air: $c = \\dfrac{x}{t_1}$. Speed in the medium: $v = \\dfrac{10x}{t_2}$.\n\n$$n = \\frac{c}{v} = \\frac{x/t_1}{10x/t_2} = \\frac{t_2}{10t_1}$$\n\n$$\\sin C = \\frac{1}{n} = \\frac{10t_1}{t_2} \\;\\Rightarrow\\; C = \\sin^{-1}\\left(\\frac{10t_1}{t_2}\\right)$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

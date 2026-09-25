@@ -1,0 +1,39 @@
+{
+  "id": "11-08-002",
+  "chapter": "mechanical-properties-of-solids",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "Let a wire be suspended from the ceiling (rigid support) and stretched by a weight $W$ attached at its free end. The longitudinal stress at any point of cross-sectional area $A$ of the wire is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2W/A$",
+      "image": ""
+    },
+    {
+      "text": "$W/A$",
+      "image": ""
+    },
+    {
+      "text": "$W/2A$",
+      "image": ""
+    },
+    {
+      "text": "Zero",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The (light) wire carries the tension $W$ everywhere along its length.\n\n$$\\text{Longitudinal stress} = \\frac{\\text{force}}{\\text{area}} = \\frac{W}{A}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

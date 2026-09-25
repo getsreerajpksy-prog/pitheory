@@ -1,0 +1,39 @@
+{
+  "id": "12-09-011",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "In the figure shown here, what is the equivalent focal length of the combination of lenses (Assume that all layers are thin)?",
+  "diagram": "/diagrams/12-09-011.png",
+  "diagram_alt": "Biconvex lens of index 1.5 embedded in a rectangular block of index 1.6, with both radii 20 cm",
+  "options": [
+    {
+      "text": "$40$ cm",
+      "image": ""
+    },
+    {
+      "text": "$-40$ cm",
+      "image": ""
+    },
+    {
+      "text": "$-100$ cm",
+      "image": ""
+    },
+    {
+      "text": "$-50$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The combination is a biconvex lens of index $n_1 = 1.5$ with the rest of the block, of index $n_2 = 1.6$, forming two plano-concave lenses on either side. All three are thin and in contact.\n\nBiconvex lens ($n = 1.5$, $R_1 = R_2 = 20$ cm):\n$$\\frac{1}{f_1} = (1.5 - 1)\\left(\\frac{1}{20} + \\frac{1}{20}\\right) = \\frac{1}{20}$$\n\nEach plano-concave lens ($n = 1.6$, one curved surface of radius $20$ cm):\n$$\\frac{1}{f_2} = (1.6 - 1)\\left(-\\frac{1}{20}\\right) = -\\frac{3}{100}$$\n\n$$\\frac{1}{F} = \\frac{1}{20} - \\frac{3}{100} - \\frac{3}{100} = \\frac{5 - 6}{100} = -\\frac{1}{100} \\;\\Rightarrow\\; F = -100\\ \\text{cm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-07-008",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "The net impedance of circuit (as shown in figure) will be :",
+  "diagram": "/diagrams/12-07-008.png",
+  "diagram_alt": "Series circuit of a 50/π mH inductor, a 10³/π μF capacitor and a 10 Ω resistor across a 220 V, 50 Hz source",
+  "options": [
+    {
+      "text": "$10\\sqrt{2}\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$15\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$5\\sqrt{5}\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$25\\ \\Omega$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\omega = 2\\pi \\times 50 = 100\\pi$ rad/s.\n\n$$X_L = \\omega L = 100\\pi \\times \\frac{50}{\\pi} \\times 10^{-3} = 5\\ \\Omega$$\n$$X_C = \\frac{1}{\\omega C} = \\frac{1}{100\\pi \\times \\frac{10^3}{\\pi} \\times 10^{-6}} = \\frac{1}{0.1} = 10\\ \\Omega$$\n\n$$Z = \\sqrt{R^2 + (X_C - X_L)^2} = \\sqrt{10^2 + 5^2} = \\sqrt{125} = 5\\sqrt{5}\\ \\Omega$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

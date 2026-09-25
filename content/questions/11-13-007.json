@@ -1,0 +1,39 @@
+{
+  "id": "11-13-007",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "The $x$-$t$ graph of a particle performing simple harmonic motion is shown in the figure. The acceleration of the particle at $t = 2$ s is :",
+  "diagram": "/diagrams/11-13-007.png",
+  "diagram_alt": "Sine curve of x against t with amplitude 1 m, maximum at t = 2 s, zero at 4 s and period 8 s",
+  "options": [
+    {
+      "text": "$\\dfrac{\\pi^2}{8}\\ \\text{m s}^{-2}$",
+      "image": ""
+    },
+    {
+      "text": "$-\\dfrac{\\pi^2}{8}\\ \\text{m s}^{-2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\pi^2}{16}\\ \\text{m s}^{-2}$",
+      "image": ""
+    },
+    {
+      "text": "$-\\dfrac{\\pi^2}{16}\\ \\text{m s}^{-2}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "From the graph: amplitude $A = 1$ m and period $T = 8$ s, so $\\omega = \\dfrac{2\\pi}{8} = \\dfrac{\\pi}{4}$ rad/s and $x = \\sin\\left(\\dfrac{\\pi t}{4}\\right)$.\n\nAt $t = 2$ s, $x = 1$ m (the positive extreme).\n\n$$a = -\\omega^2x = -\\frac{\\pi^2}{16} \\times 1 = -\\frac{\\pi^2}{16}\\ \\text{m s}^{-2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

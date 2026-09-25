@@ -1,0 +1,39 @@
+{
+  "id": "12-02-011",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "An electric dipole is placed as shown in the figure. The electric potential (in $10^2$ V) at point P due to the dipole is ($\\epsilon_0$ = permittivity of free space and $\\dfrac{1}{4\\pi\\epsilon_0} = K$):",
+  "diagram": "/diagrams/12-02-011.png",
+  "diagram_alt": "Charges −q and +q 3 cm on either side of O, with point P on the axis 5 cm from O beyond +q",
+  "options": [
+    {
+      "text": "$\\left(\\dfrac{3}{8}\\right)qK$",
+      "image": ""
+    },
+    {
+      "text": "$\\left(\\dfrac{5}{8}\\right)qK$",
+      "image": ""
+    },
+    {
+      "text": "$\\left(\\dfrac{8}{5}\\right)qK$",
+      "image": ""
+    },
+    {
+      "text": "$\\left(\\dfrac{8}{3}\\right)qK$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The charges are at $3$ cm on either side of O, and P is $5$ cm from O on the side of $+q$.\n\nDistance of P from $+q$: $5 - 3 = 2$ cm $= 0.02$ m. From $-q$: $5 + 3 = 8$ cm $= 0.08$ m.\n\n$$V = Kq\\left(\\frac{1}{0.02} - \\frac{1}{0.08}\\right) = Kq(50 - 12.5) = 37.5\\,Kq = \\frac{3}{8} \\times 10^2\\,Kq$$\n\nSo $V = \\left(\\dfrac{3}{8}\\right)qK$ in units of $10^2$ V.\n\n(The short-dipole formula does not apply here, because P is not far from the dipole compared with its length.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

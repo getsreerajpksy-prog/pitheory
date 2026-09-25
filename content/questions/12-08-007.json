@@ -1,0 +1,39 @@
+{
+  "id": "12-08-007",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "In a plane electromagnetic wave travelling in free space, the electric field component oscillates sinusoidally at a frequency of $2.0 \\times 10^{10}$ Hz and amplitude $48\\ \\text{V m}^{-1}$. Then the amplitude of oscillating magnetic field is : (Speed of light in free space $= 3 \\times 10^8\\ \\text{m s}^{-1}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.6 \\times 10^{-9}$ T",
+      "image": ""
+    },
+    {
+      "text": "$1.6 \\times 10^{-8}$ T",
+      "image": ""
+    },
+    {
+      "text": "$1.6 \\times 10^{-7}$ T",
+      "image": ""
+    },
+    {
+      "text": "$1.6 \\times 10^{-6}$ T",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$B_0 = \\frac{E_0}{c} = \\frac{48}{3 \\times 10^8} = 1.6 \\times 10^{-7}\\ \\text{T}$$\n\n(The frequency is not needed.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

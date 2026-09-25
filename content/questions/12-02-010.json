@@ -1,0 +1,39 @@
+{
+  "id": "12-02-010",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "The equivalent capacitance of the system shown in the following circuit is :",
+  "diagram": "/diagrams/12-02-010.png",
+  "diagram_alt": "A 3 μF capacitor from A in series with two 3 μF capacitors in parallel, ending at B",
+  "options": [
+    {
+      "text": "$2\\ \\mu$F",
+      "image": ""
+    },
+    {
+      "text": "$3\\ \\mu$F",
+      "image": ""
+    },
+    {
+      "text": "$6\\ \\mu$F",
+      "image": ""
+    },
+    {
+      "text": "$9\\ \\mu$F",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The two $3\\ \\mu$F capacitors on the right are in parallel: $3 + 3 = 6\\ \\mu$F.\n\nThis is in series with the $3\\ \\mu$F capacitor:\n$$C = \\frac{3 \\times 6}{3 + 6} = 2\\ \\mu\\text{F}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

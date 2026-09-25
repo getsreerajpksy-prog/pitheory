@@ -1,0 +1,39 @@
+{
+  "id": "11-09-007",
+  "chapter": "mechanical-properties-of-fluids",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "The venturi-meter works on :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Huygen's principle",
+      "image": ""
+    },
+    {
+      "text": "Bernoulli's principle",
+      "image": ""
+    },
+    {
+      "text": "The principle of parallel axes",
+      "image": ""
+    },
+    {
+      "text": "The principle of perpendicular axes",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "A venturimeter measures the flow speed from the pressure difference between the wide and narrow parts of a pipe. That pressure difference follows from Bernoulli's principle, together with the equation of continuity.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

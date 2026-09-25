@@ -1,0 +1,39 @@
+{
+  "id": "12-12-008",
+  "chapter": "atoms",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "The radius of inner most orbit of hydrogen atom is $5.3 \\times 10^{-11}$ m. What is the radius of third allowed orbit of hydrogen atom?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.53$ Å",
+      "image": ""
+    },
+    {
+      "text": "$1.06$ Å",
+      "image": ""
+    },
+    {
+      "text": "$1.59$ Å",
+      "image": ""
+    },
+    {
+      "text": "$4.77$ Å",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$r_n = n^2r_1$:\n$$r_3 = 9 \\times 0.53\\ \\text{Å} = 4.77\\ \\text{Å}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

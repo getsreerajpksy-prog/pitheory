@@ -1,0 +1,39 @@
+{
+  "id": "12-03-010",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "If the galvanometer $G$ does not show any deflection in the circuit shown, the value of $R$ is given by :",
+  "diagram": "/diagrams/12-03-010.png",
+  "diagram_alt": "10 V battery in series with 400 Ω and R; a 2 V cell in series with galvanometer G is connected across R",
+  "options": [
+    {
+      "text": "$200\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$50\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$100\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$400\\ \\Omega$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "No current flows through $G$, so the $2$ V cell carries no current. The potential difference across $R$ must then equal the emf of the $2$ V cell.\n\nThe $10$ V battery drives a current through $400\\ \\Omega$ and $R$ in series:\n$$I = \\frac{10}{400 + R}$$\n\n$$IR = 2 \\;\\Rightarrow\\; \\frac{10R}{400 + R} = 2 \\;\\Rightarrow\\; 10R = 800 + 2R \\;\\Rightarrow\\; R = 100\\ \\Omega$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

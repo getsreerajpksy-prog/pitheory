@@ -1,0 +1,39 @@
+{
+  "id": "12-11-009",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "The minimum wavelength of $X$-rays produced by an electron accelerated through a potential difference of $V$ volts is proportional to:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\sqrt{V}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{V}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{\\sqrt{V}}$",
+      "image": ""
+    },
+    {
+      "text": "$V^2$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The shortest wavelength is produced when the electron's entire kinetic energy $eV$ goes into one photon:\n$$eV = \\frac{hc}{\\lambda_{min}} \\;\\Rightarrow\\; \\lambda_{min} = \\frac{hc}{eV} \\propto \\frac{1}{V}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

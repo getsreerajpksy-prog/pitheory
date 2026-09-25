@@ -1,0 +1,39 @@
+{
+  "id": "12-14-008",
+  "chapter": "semiconductor-electronics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "A full wave rectifier circuit consists of two p-n junction diodes, a centre-tapped transformer, capacitor and a load resistance. Which of these components remove the ac ripple from the rectified output?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "A centre-tapped transformer",
+      "image": ""
+    },
+    {
+      "text": "p-n junction diodes",
+      "image": ""
+    },
+    {
+      "text": "Capacitor",
+      "image": ""
+    },
+    {
+      "text": "Load resistance",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The diodes rectify (make the output unidirectional), and the transformer supplies the two halves of the input.\n\nThe capacitor connected across the load acts as a filter. It charges near each peak and discharges slowly through the load between peaks, smoothing out the ac ripple.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-14-010",
+  "chapter": "semiconductor-electronics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "For the following logic circuit, the truth table is:",
+  "diagram": "/diagrams/12-14-010.png",
+  "diagram_alt": "Inputs A and B each pass through a NOT gate; both outputs feed a NAND gate with output Y",
+  "options": [
+    {
+      "text": "$\\begin{array}{ccc} A & B & Y \\\\ 0 & 0 & 1 \\\\ 0 & 1 & 1 \\\\ 1 & 0 & 1 \\\\ 1 & 1 & 0 \\end{array}$",
+      "image": ""
+    },
+    {
+      "text": "$\\begin{array}{ccc} A & B & Y \\\\ 0 & 0 & 0 \\\\ 0 & 1 & 1 \\\\ 1 & 0 & 1 \\\\ 1 & 1 & 1 \\end{array}$",
+      "image": ""
+    },
+    {
+      "text": "$\\begin{array}{ccc} A & B & Y \\\\ 0 & 0 & 1 \\\\ 0 & 1 & 0 \\\\ 1 & 0 & 1 \\\\ 1 & 1 & 0 \\end{array}$",
+      "image": ""
+    },
+    {
+      "text": "$\\begin{array}{ccc} A & B & Y \\\\ 0 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 1 & 0 & 0 \\\\ 1 & 1 & 1 \\end{array}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$A$ and $B$ each pass through a NOT gate, and the results go into a NAND gate:\n$$Y = \\overline{\\bar{A} \\cdot \\bar{B}} = A + B$$\n(De Morgan's theorem). The circuit is an OR gate.\n\nOR truth table: $Y = 0$ only when $A = B = 0$, otherwise $Y = 1$. This is option (2).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

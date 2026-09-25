@@ -1,0 +1,39 @@
+{
+  "id": "11-02-007",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "A bullet from a gun is fired on a rectangular wooden block with velocity $u$. When bullet travels $24$ cm through the block along its length horizontally, velocity of bullet becomes $\\dfrac{u}{3}$. Then it further penetrates into the block in the same direction before coming to rest exactly at the other end of the block. The total length of the block is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$27$ cm",
+      "image": ""
+    },
+    {
+      "text": "$24$ cm",
+      "image": ""
+    },
+    {
+      "text": "$28$ cm",
+      "image": ""
+    },
+    {
+      "text": "$30$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Assume uniform retardation $a$.\n\nFirst $24$ cm: $\\left(\\dfrac{u}{3}\\right)^2 = u^2 - 2a(24)$, so $48a = \\dfrac{8u^2}{9}$.\n\nWhole length $L$ (from $u$ to rest): $u^2 = 2aL$.\n\nDividing:\n$$\\frac{2aL}{48a} = \\frac{u^2}{8u^2/9} = \\frac{9}{8} \\;\\Rightarrow\\; L = 24 \\times \\frac{9}{8} = 27\\ \\text{cm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

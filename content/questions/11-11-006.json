@@ -1,0 +1,39 @@
+{
+  "id": "11-11-006",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "A Carnot engine has an efficiency of $50\\%$ when its source is at a temperature $327°$ C. The temperature of the sink is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$27°$ C",
+      "image": ""
+    },
+    {
+      "text": "$15°$ C",
+      "image": ""
+    },
+    {
+      "text": "$100°$ C",
+      "image": ""
+    },
+    {
+      "text": "$200°$ C",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$T_1 = 327 + 273 = 600$ K.\n\n$$\\eta = 1 - \\frac{T_2}{T_1} \\;\\Rightarrow\\; 0.5 = 1 - \\frac{T_2}{600} \\;\\Rightarrow\\; T_2 = 300\\ \\text{K} = 27°\\text{C}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

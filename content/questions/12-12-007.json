@@ -1,0 +1,39 @@
+{
+  "id": "12-12-007",
+  "chapter": "atoms",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "In hydrogen spectrum, the shortest wavelength in the Balmer series is $\\lambda$. The shortest wavelength in the Bracket series is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2\\lambda$",
+      "image": ""
+    },
+    {
+      "text": "$4\\lambda$",
+      "image": ""
+    },
+    {
+      "text": "$9\\lambda$",
+      "image": ""
+    },
+    {
+      "text": "$16\\lambda$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The shortest wavelength of a series is the series limit ($n_2 \\to \\infty$): $\\dfrac{1}{\\lambda} = \\dfrac{R}{n_1^2}$, so $\\lambda_{min} \\propto n_1^2$.\n\nBalmer: $n_1 = 2$. Brackett: $n_1 = 4$.\n$$\\frac{\\lambda_{\\text{Brackett}}}{\\lambda_{\\text{Balmer}}} = \\frac{16}{4} = 4 \\;\\Rightarrow\\; \\lambda_{\\text{Brackett}} = 4\\lambda$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-01-005",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "An electric dipole is placed at an angle of $30°$ with an electric field of intensity $2 \\times 10^5\\ \\text{N C}^{-1}$. It experiences a torque equal to $4$ N m. Calculate the magnitude of charge on the dipole, if the dipole length is $2$ cm.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$8$ mC",
+      "image": ""
+    },
+    {
+      "text": "$6$ mC",
+      "image": ""
+    },
+    {
+      "text": "$4$ mC",
+      "image": ""
+    },
+    {
+      "text": "$2$ mC",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\tau = pE\\sin\\theta = (q \\cdot 2a)E\\sin\\theta$:\n$$4 = q \\times 0.02 \\times 2 \\times 10^5 \\times \\frac{1}{2} = 2000\\,q$$\n$$q = 2 \\times 10^{-3}\\ \\text{C} = 2\\ \\text{mC}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

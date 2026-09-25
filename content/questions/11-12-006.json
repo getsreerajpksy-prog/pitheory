@@ -1,0 +1,39 @@
+{
+  "id": "11-12-006",
+  "chapter": "kinetic-theory",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "The temperature of a gas is $-50°$ C. To what temperature the gas should be heated so that the rms speed is increased by $3$ times?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$669°$ C",
+      "image": ""
+    },
+    {
+      "text": "$3295°$ C",
+      "image": ""
+    },
+    {
+      "text": "$3097$ K",
+      "image": ""
+    },
+    {
+      "text": "$223$ K",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$v_{rms} = \\sqrt{\\dfrac{3RT}{M}}$, so $v_{rms} \\propto \\sqrt{T}$.\n\n\"Increased by 3 times\" means the speed increases by three times its value, so the new speed is $v + 3v = 4v$. Then\n$$T_2 = 16T_1 = 16 \\times (273 - 50) = 16 \\times 223 = 3568\\ \\text{K} = 3295°\\text{C}$$\n\n(If the new speed were only $3v$, the temperature would be $9 \\times 223 = 2007$ K, which is not among the options.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

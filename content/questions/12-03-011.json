@@ -1,0 +1,39 @@
+{
+  "id": "12-03-011",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2023",
+  "question": "Resistance of a carbon resistor determined from colour codes is $(22000 \\pm 5\\%)\\ \\Omega$. The colour of third band must be :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Red",
+      "image": ""
+    },
+    {
+      "text": "Green",
+      "image": ""
+    },
+    {
+      "text": "Orange",
+      "image": ""
+    },
+    {
+      "text": "Yellow",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$22000 = 22 \\times 10^3$.\n\nThe first two bands give the digits $2, 2$ (red, red). The third band is the multiplier $10^3$, which is orange.\n\n(The $\\pm 5\\%$ tolerance is the gold fourth band.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}
