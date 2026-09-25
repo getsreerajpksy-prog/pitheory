@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$I = \\frac{E}{R + r} = \\frac{10}{4 + 1} = 2\\ \\text{A}$$\n\n$$V = E - Ir = 10 - 2 \\times 1 = 8\\ \\text{V}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

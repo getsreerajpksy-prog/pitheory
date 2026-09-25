@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Both blocks move together:\n$$a = \\frac{F}{m_A + m_B} = \\frac{10}{5} = 2\\ \\text{m s}^{-2}$$\n\nThe only horizontal force on $B$ is the push from $A$:\n$$F_{AB} = m_B a = 3 \\times 2 = 6\\ \\text{N}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

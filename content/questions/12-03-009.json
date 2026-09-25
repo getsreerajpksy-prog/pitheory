@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "With the same rated voltage $V$: $R_A = \\dfrac{V^2}{1000}$ and $R_B = \\dfrac{V^2}{2000}$.\n\nSeries: $R_s = R_A + R_B = \\dfrac{3V^2}{2000}$, so\n$$P_s = \\frac{V^2}{R_s} = \\frac{2000}{3}\\ \\text{W}$$\n\nParallel: the powers add, so\n$$P_p = 1000 + 2000 = 3000\\ \\text{W}$$\n\n$$\\frac{P_s}{P_p} = \\frac{2000/3}{3000} = \\frac{2}{9}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

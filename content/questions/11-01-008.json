@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Solid angle (area / radius$^2$) is dimensionless.\n\nStrain (change in length / length) and plane angle (arc / radius) are also dimensionless.\n\nArc has dimension $[\\mathrm{L}]$, angular speed $[\\mathrm{T^{-1}}]$ and stress $[\\mathrm{ML^{-1}T^{-2}}]$, so the other options are ruled out.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$T = 2\\pi\\sqrt{\\dfrac{l}{g}}$ does not depend on the mass of the bob.\n\n$$T' = T\\sqrt{\\frac{1}{2}} = \\frac{T}{\\sqrt{2}} = \\frac{\\sqrt{2}}{2}T$$\n\nSo $\\dfrac{x}{2} = \\dfrac{\\sqrt{2}}{2}$, giving $x = \\sqrt{2}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

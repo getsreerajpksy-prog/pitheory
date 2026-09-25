@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The battery stays connected, so $V$ is constant. Moving the plates closer increases $C = \\dfrac{\\epsilon_0 A}{d}$ (C true).\n\nA: $Q = CV$ increases. True.\n\nB: $U = \\dfrac{1}{2}CV^2$ increases. False.\n\nD: $\\dfrac{Q}{V} = C$ increases. False.\n\nE: $QV = CV^2$ increases. True.\n\nA, C and E only.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

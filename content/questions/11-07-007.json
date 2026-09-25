@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Orbit radius: $r = R + 2R = 3R$.\n\nEnergy on the surface (at rest): $E_1 = -\\dfrac{GMm}{R}$.\n\nTotal energy in the orbit: $E_2 = -\\dfrac{GMm}{2r} = -\\dfrac{GMm}{6R}$.\n\n$$\\Delta E = E_2 - E_1 = \\frac{GMm}{R} - \\frac{GMm}{6R} = \\frac{5GMm}{6R}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

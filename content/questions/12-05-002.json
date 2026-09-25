@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Diamagnetic: small negative susceptibility, $-1 \\leq \\chi < 0$ (II).\n\nFerromagnetic: very large positive susceptibility, $\\chi >> 1$ (III).\n\nParamagnetic: small positive susceptibility (IV).\n\nNon-magnetic: $\\chi = 0$ (I).\n\nA-II, B-III, C-IV, D-I.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

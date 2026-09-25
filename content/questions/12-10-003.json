@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "At the centre the path difference is zero for every wavelength, so all colours interfere constructively there and the central fringe is white.\n\nAway from the centre, the fringe positions depend on wavelength (fringe width $\\beta = \\dfrac{\\lambda D}{d}$), so the colours separate into a few coloured fringes. Further out they overlap and the pattern washes out to uniform white.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

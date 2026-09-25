@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Terms that are added must have the same dimensions: $[\\alpha t^2] = [\\beta t]$.\n\nDividing both sides by $[\\beta t]$:\n$$\\left[\\frac{\\alpha t}{\\beta}\\right] = 1$$\n\nSo $\\dfrac{\\alpha t}{\\beta}$ is dimensionless.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The prism is right-angled at $A$, so $\\angle B + \\angle C = 90°$.\n\nAt face $AB$: the ray inside is parallel to $BC$, so it makes angle $B$ with face $AB$. The angle of refraction is $r_1 = 90° - B$. Snell's law:\n$$\\sin 30° = \\mu\\sin(90° - B) = \\mu\\cos B \\;\\Rightarrow\\; \\mu\\cos B = \\frac{1}{2}$$\n\nAt face $AC$: the ray (parallel to $BC$) makes angle $C = 90° - B$ with face $AC$, so the angle of incidence is $B$. The ray emerges along the face, so $B$ is the critical angle:\n$$\\mu\\sin B = 1$$\n\nSquaring and adding:\n$$\\mu^2 = 1 + \\frac{1}{4} = \\frac{5}{4} \\;\\Rightarrow\\; \\mu = \\frac{\\sqrt{5}}{2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "A: $E = h\\nu$. Correct.\n\nB: Photons travel at speed $c$ in free space. Correct.\n\nC: $p = \\dfrac{E}{c} = \\dfrac{h\\nu}{c}$. Correct.\n\nD: A photon-electron collision (as in the Compton effect) conserves both total energy and total momentum. Correct.\n\nE: Photons are electrically neutral. Incorrect.\n\nSo A, B, C and D only.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

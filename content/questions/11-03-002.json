@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "In uniform circular motion the speed is constant, but the direction of the velocity keeps changing, so the velocity varies.\n\nThe acceleration has constant magnitude $\\dfrac{v^2}{r}$ but always points towards the centre, so its direction also keeps changing. The acceleration varies too.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

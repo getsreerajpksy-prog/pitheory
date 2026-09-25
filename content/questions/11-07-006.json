@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$g = \\dfrac{GM}{R^2}$, so\n$$g_p = g\\cdot\\frac{M_p}{M}\\cdot\\left(\\frac{R}{R_p}\\right)^2 = 9.8 \\times \\frac{1}{10} \\times 2^2 = 3.92\\ \\text{m s}^{-2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

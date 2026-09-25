@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The bar is prevented from expanding, so the thermal strain $\\alpha\\Delta T$ is cancelled by an equal compressive strain.\n\n$$F = YA\\alpha\\Delta T = 0.5 \\times 10^{11} \\times 10^{-3} \\times 10^{-5} \\times 100 = 5 \\times 10^4\\ \\text{N} = 50 \\times 10^3\\ \\text{N}$$\n\n(The length of the bar does not matter.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

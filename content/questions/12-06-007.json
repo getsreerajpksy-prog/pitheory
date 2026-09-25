@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "A: A magnetic sheet is attracted by the pole, so a force is needed to hold it in place. True.\n\nB: A non-magnetic sheet feels no magnetic force, so no force is needed to hold it. False.\n\nC: Moving a conducting sheet through the non-uniform field of the pole changes the flux through it and induces eddy currents. By Lenz's law these oppose the motion, so a force is needed even at uniform velocity. True.\n\nD: A non-conducting, non-polar (non-magnetic) sheet has no eddy currents and no magnetic force, so no force is needed for uniform velocity. False.\n\nA and C only.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

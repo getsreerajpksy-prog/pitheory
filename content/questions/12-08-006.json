@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Electromagnetic waves are produced by accelerated charges. A charge moving with uniform velocity produces steady electric and magnetic fields but does not radiate.\n\nThe other statements are true: EM waves travel at $c = \\dfrac{1}{\\sqrt{\\mu_0\\epsilon_0}}$ in free space, they are transverse, and the average energy densities in the electric and magnetic fields are equal.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$v = \\dfrac{d}{dt}(2t - 1) = 2\\ \\text{m s}^{-1}$.\n\n$$P = Fv = 5 \\times 2 = 10\\ \\text{W}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

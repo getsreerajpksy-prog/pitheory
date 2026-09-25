@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$(N + 1)\\ \\text{VSD} = N\\ \\text{MSD}$, so $1\\ \\text{VSD} = \\dfrac{N}{N + 1}\\ \\text{MSD}$.\n\n$$\\text{VC} = 1\\ \\text{MSD} - 1\\ \\text{VSD} = \\frac{1}{N + 1}\\ \\text{MSD} = \\frac{0.1\\ \\text{mm}}{N + 1} = \\frac{0.01\\ \\text{cm}}{N + 1} = \\frac{1}{100(N + 1)}\\ \\text{cm}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

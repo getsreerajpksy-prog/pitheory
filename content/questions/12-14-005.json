@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "A: A solar cell supplies power, so its current flows opposite to the applied voltage. Its I-V curve lies in the fourth quadrant. A is correct.\n\nB: The small reverse current (in $\\mu$A) of a reverse-biased pn junction is due to minority carriers, not majority carriers. B is incorrect.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "On the axis of a short dipole:\n$$V = \\pm\\frac{1}{4\\pi\\epsilon_0}\\frac{P}{r^2} = \\pm\\frac{9 \\times 10^9 \\times 4 \\times 10^{-6}}{2^2} = \\pm 9 \\times 10^3\\ \\text{V}$$\nSo A is true (the sign depends on which side of the dipole the point is).\n\nR has an extra factor of 2. $\\dfrac{2P}{4\\pi\\epsilon_0 r^3}$ is the axial electric field, and the axial potential is $\\dfrac{P}{4\\pi\\epsilon_0 r^2}$. So R is false.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

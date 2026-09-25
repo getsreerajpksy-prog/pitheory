@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Pole strength $m$ stays the same: $M = mL$.\n\nAfter bending at the middle, each arm has length $\\dfrac{L}{2}$ and the arms make $60°$. The two ends and the bend form an equilateral triangle, so the distance between the poles is $\\dfrac{L}{2}$.\n\n$$M' = m \\cdot \\frac{L}{2} = \\frac{M}{2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
