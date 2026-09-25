@@ -1,0 +1,39 @@
+{
+  "id": "11-01-002",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "JEE Main 2026",
+  "question": "Consider a modified Bernoulli equation.\n\n$$\\left(P + \\frac{A}{Bt^2}\\right) + \\rho g(h + Bt) + \\frac{1}{2}\\rho V^2 = \\text{constant}$$\n\nIf $t$ has the dimension of time then the dimensions of $A$ and $B$ are _____, _____ respectively.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$[\\mathrm{ML^0T^{-1}}]$ and $[\\mathrm{M^0LT}]$",
+      "image": ""
+    },
+    {
+      "text": "$[\\mathrm{ML^0T^{-2}}]$ and $[\\mathrm{M^0LT^{-1}}]$",
+      "image": ""
+    },
+    {
+      "text": "$[\\mathrm{ML^0T^{-2}}]$ and $[\\mathrm{M^0LT^{-2}}]$",
+      "image": ""
+    },
+    {
+      "text": "$[\\mathrm{ML^0T^{-1}}]$ and $[\\mathrm{M^0LT^{-1}}]$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Only quantities with the same dimensions can be added, so every term inside a bracket must match the other term in that bracket.\n\n**Finding $B$:** $Bt$ is added to the height $h$, so $[Bt] = [\\mathrm{L}]$:\n$$[B] = \\frac{[\\mathrm{L}]}{[\\mathrm{T}]} = [\\mathrm{M^0LT^{-1}}]$$\n\n**Finding $A$:** $\\dfrac{A}{Bt^2}$ is added to the pressure $P$, so\n$$\\left[\\frac{A}{Bt^2}\\right] = [P] = [\\mathrm{ML^{-1}T^{-2}}]$$\n$$[A] = [\\mathrm{ML^{-1}T^{-2}}]\\,[B]\\,[t^2] = [\\mathrm{ML^{-1}T^{-2}}][\\mathrm{LT^{-1}}][\\mathrm{T^2}] = [\\mathrm{ML^0T^{-1}}]$$\n\nSo $A = [\\mathrm{ML^0T^{-1}}]$ and $B = [\\mathrm{M^0LT^{-1}}]$, which is option (D).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}
