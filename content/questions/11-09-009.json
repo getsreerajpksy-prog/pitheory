@@ -1,0 +1,39 @@
+{
+  "id": "11-09-009",
+  "chapter": "mechanical-properties-of-fluids",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "A capillary tube of radius r is immersed in water and water rises in it to a height h. The mass of the water in the capillary is $5$ g. Another capillary tube of radius $2$r is immersed in water. The mass of water that will rise in this tube is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2.5$ g",
+      "image": ""
+    },
+    {
+      "text": "$5.0$ g",
+      "image": ""
+    },
+    {
+      "text": "$10.0$ g",
+      "image": ""
+    },
+    {
+      "text": "$20.0$ g",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Capillary rise: $h = \\dfrac{2S\\cos\\theta}{r\\rho g}$, so $h \\propto \\dfrac{1}{r}$.\n\nMass of the raised column: $m = \\pi r^2h\\rho \\propto r^2 \\cdot \\dfrac{1}{r} = r$.\n\nDoubling the radius doubles the mass: $2 \\times 5 = 10$ g.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

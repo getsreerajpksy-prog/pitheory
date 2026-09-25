@@ -1,0 +1,39 @@
+{
+  "id": "12-09-016",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "A ray is incident at an angle of incidence $i$ on one surface of a small angle prism (with angle of prism A) and emerges normally from the opposite surface. If the refractive index of the material of the prism is $\\mu$, then the angle of incidence is nearly equal to :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{A}{2\\mu}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2A}{\\mu}$",
+      "image": ""
+    },
+    {
+      "text": "$\\mu A$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\mu A}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The ray emerges normally, so the angle of refraction at the second face is $r_2 = 0$. Since $r_1 + r_2 = A$, $r_1 = A$.\n\nAt the first face, for small angles, $\\sin i \\approx i$ and $\\sin r_1 \\approx r_1$:\n$$i = \\mu r_1 = \\mu A$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

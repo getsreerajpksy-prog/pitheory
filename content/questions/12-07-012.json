@@ -1,0 +1,39 @@
+{
+  "id": "12-07-012",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "A $40\\ \\mu$F capacitor is connected to a $200$ V, $50$ Hz ac supply. The rms value of the current in the circuit is, nearly :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.7$ A",
+      "image": ""
+    },
+    {
+      "text": "$2.05$ A",
+      "image": ""
+    },
+    {
+      "text": "$2.5$ A",
+      "image": ""
+    },
+    {
+      "text": "$25.1$ A",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$X_C = \\frac{1}{2\\pi fC} = \\frac{1}{2\\pi \\times 50 \\times 40 \\times 10^{-6}} \\approx 79.6\\ \\Omega$$\n\n$$I_{rms} = \\frac{V_{rms}}{X_C} = \\frac{200}{79.6} \\approx 2.5\\ \\text{A}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "11-12-010",
+  "chapter": "kinetic-theory",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "The average thermal energy for a mono-atomic gas is : ($k_B$ is Boltzmann constant and T, absolute temperature)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{1}{2}k_BT$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{3}{2}k_BT$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{5}{2}k_BT$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{7}{2}k_BT$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "A monatomic molecule has 3 translational degrees of freedom, each with average energy $\\dfrac{1}{2}k_BT$:\n$$E = \\frac{3}{2}k_BT$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

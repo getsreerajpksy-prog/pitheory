@@ -1,0 +1,39 @@
+{
+  "id": "11-14-004",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "In a guitar, two strings A and B made of same material are slightly out of tune and produce beats of frequency $6$ Hz. When tension in B is slightly decreased, the beat frequency increases to $7$ Hz. If the frequency of A is $530$ Hz, the original frequency of B will be :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$523$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$524$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$536$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$537$ Hz",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "With a beat frequency of $6$ Hz, $f_B = 530 \\pm 6 = 524$ Hz or $536$ Hz.\n\nDecreasing the tension in B lowers its frequency ($f \\propto \\sqrt{T}$).\n\nIf $f_B = 536$ Hz, lowering it would bring it closer to $530$ Hz and the beats would decrease. If $f_B = 524$ Hz, lowering it moves it further from $530$ Hz, and the beats increase to $7$ Hz. ✓\n\nSo $f_B = 524$ Hz.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

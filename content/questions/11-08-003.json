@@ -1,0 +1,39 @@
+{
+  "id": "11-08-003",
+  "chapter": "mechanical-properties-of-solids",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "A wire of length L, area of cross section A is hanging from a fixed support. The length of the wire changes to $L_1$ when mass M is suspended from its free end. The expression for Young's modulus is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{MgL_1}{AL}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{Mg(L_1 - L)}{AL}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{MgL}{AL_1}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{MgL}{A(L_1 - L)}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$Y = \\frac{\\text{stress}}{\\text{strain}} = \\frac{Mg/A}{(L_1 - L)/L} = \\frac{MgL}{A(L_1 - L)}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

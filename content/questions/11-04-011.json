@@ -1,0 +1,39 @@
+{
+  "id": "11-04-011",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "Two bodies of mass $4$ kg and $6$ kg are tied to the ends of a massless string. The string passes over a pulley which is frictionless (see figure). The acceleration of the system in terms of acceleration due to gravity (g) is :",
+  "diagram": "/diagrams/11-04-011.png",
+  "diagram_alt": "Masses of 4 kg and 6 kg hanging on either side of a frictionless pulley",
+  "options": [
+    {
+      "text": "g",
+      "image": ""
+    },
+    {
+      "text": "g/2",
+      "image": ""
+    },
+    {
+      "text": "g/5",
+      "image": ""
+    },
+    {
+      "text": "g/10",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For an Atwood machine:\n$$a = \\frac{(m_2 - m_1)g}{m_1 + m_2} = \\frac{(6 - 4)g}{10} = \\frac{g}{5}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

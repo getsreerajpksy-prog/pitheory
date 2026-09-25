@@ -1,0 +1,39 @@
+{
+  "id": "11-06-015",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "Find the torque about the origin when a force of $3\\hat{j}$ N acts on a particle whose position vector is $2\\hat{k}$ m.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$6\\hat{i}$ N m",
+      "image": ""
+    },
+    {
+      "text": "$6\\hat{j}$ N m",
+      "image": ""
+    },
+    {
+      "text": "$-6\\hat{i}$ N m",
+      "image": ""
+    },
+    {
+      "text": "$6\\hat{k}$ N m",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\vec{\\tau} = \\vec{r} \\times \\vec{F} = 2\\hat{k} \\times 3\\hat{j} = 6(\\hat{k} \\times \\hat{j}) = -6\\hat{i}\\ \\text{N m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

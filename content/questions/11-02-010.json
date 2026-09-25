@@ -1,0 +1,39 @@
+{
+  "id": "11-02-010",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "A ball is thrown vertically downward with a velocity of $20$ m/s from the top of a tower. It hits the ground after some time with a velocity of $80$ m/s. The height of the tower is : ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$360$ m",
+      "image": ""
+    },
+    {
+      "text": "$340$ m",
+      "image": ""
+    },
+    {
+      "text": "$320$ m",
+      "image": ""
+    },
+    {
+      "text": "$300$ m",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$v^2 = u^2 + 2gh \\;\\Rightarrow\\; 6400 = 400 + 20h \\;\\Rightarrow\\; h = 300\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-13-007",
+  "chapter": "nuclei",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "The energy equivalent of $0.5$ g of a substance is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4.5 \\times 10^{16}$ J",
+      "image": ""
+    },
+    {
+      "text": "$4.5 \\times 10^{13}$ J",
+      "image": ""
+    },
+    {
+      "text": "$1.5 \\times 10^{13}$ J",
+      "image": ""
+    },
+    {
+      "text": "$0.5 \\times 10^{13}$ J",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$E = mc^2 = 0.5 \\times 10^{-3} \\times (3 \\times 10^8)^2 = 0.5 \\times 10^{-3} \\times 9 \\times 10^{16} = 4.5 \\times 10^{13}\\ \\text{J}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

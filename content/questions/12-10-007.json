@@ -1,0 +1,39 @@
+{
+  "id": "12-10-007",
+  "chapter": "wave-optics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "In Young's double slit experiment, if the separation between coherent sources is halved and the distance of the screen from the coherent sources is doubled, then the fringe width becomes :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "double",
+      "image": ""
+    },
+    {
+      "text": "half",
+      "image": ""
+    },
+    {
+      "text": "four times",
+      "image": ""
+    },
+    {
+      "text": "one-fourth",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\beta = \\dfrac{\\lambda D}{d}$. Doubling $D$ and halving $d$:\n$$\\beta' = \\frac{\\lambda(2D)}{d/2} = 4\\beta$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-13-008",
+  "chapter": "nuclei",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "When a uranium isotope $^{235}_{92}\\text{U}$ is bombarded with a neutron, it generates $^{89}_{36}\\text{Kr}$, three neutrons and :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$^{144}_{56}\\text{Ba}$",
+      "image": ""
+    },
+    {
+      "text": "$^{91}_{40}\\text{Zr}$",
+      "image": ""
+    },
+    {
+      "text": "$^{101}_{36}\\text{Kr}$",
+      "image": ""
+    },
+    {
+      "text": "$^{103}_{36}\\text{Kr}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$^{235}_{92}\\text{U} + {}^1_0n \\rightarrow {}^{89}_{36}\\text{Kr} + 3\\,{}^1_0n + {}^A_ZX$$\n\nMass number: $236 = 89 + 3 + A$, so $A = 144$.\n\nAtomic number: $92 = 36 + Z$, so $Z = 56$ (barium).\n\nThe product is $^{144}_{56}\\text{Ba}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "11-01-015",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "A screw gauge has least count of $0.01$ mm and there are $50$ divisions in its circular scale. The pitch of the screw gauge is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.01$ mm",
+      "image": ""
+    },
+    {
+      "text": "$0.25$ mm",
+      "image": ""
+    },
+    {
+      "text": "$0.5$ mm",
+      "image": ""
+    },
+    {
+      "text": "$1.0$ mm",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\text{LC} = \\dfrac{\\text{pitch}}{\\text{number of circular divisions}}$, so\n$$\\text{pitch} = 0.01 \\times 50 = 0.5\\ \\text{mm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

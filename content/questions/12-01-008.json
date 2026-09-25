@@ -1,0 +1,39 @@
+{
+  "id": "12-01-008",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "A spherical conductor of radius $10$ cm has a charge of $3.2 \\times 10^{-7}$ C distributed uniformly. What is the magnitude of electric field at a point $15$ cm from the centre of the sphere ? $\\left(\\dfrac{1}{4\\pi\\epsilon_0} = 9 \\times 10^9\\ \\text{N m}^2/\\text{C}^2\\right)$",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.28 \\times 10^4$ N/C",
+      "image": ""
+    },
+    {
+      "text": "$1.28 \\times 10^5$ N/C",
+      "image": ""
+    },
+    {
+      "text": "$1.28 \\times 10^6$ N/C",
+      "image": ""
+    },
+    {
+      "text": "$1.28 \\times 10^7$ N/C",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The point is outside the sphere, so the charge acts as if concentrated at the centre:\n$$E = \\frac{kq}{r^2} = \\frac{9 \\times 10^9 \\times 3.2 \\times 10^{-7}}{(0.15)^2} = \\frac{2880}{0.0225} = 1.28 \\times 10^5\\ \\text{N/C}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-05-005",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "An iron rod of susceptibility $599$ is subjected to a magnetising field of $1200\\ \\text{A m}^{-1}$. The permeability of the material of the rod is : ($\\mu_0 = 4\\pi \\times 10^{-7}\\ \\text{T m A}^{-1}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2.4\\pi \\times 10^{-4}\\ \\text{T m A}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$8.0 \\times 10^{-5}\\ \\text{T m A}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$2.4\\pi \\times 10^{-5}\\ \\text{T m A}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$2.4\\pi \\times 10^{-7}\\ \\text{T m A}^{-1}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\mu = \\mu_0(1 + \\chi) = 4\\pi \\times 10^{-7} \\times 600 = 2.4\\pi \\times 10^{-4}\\ \\text{T m A}^{-1}$$\n\n(The value of the magnetising field is not needed.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

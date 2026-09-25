@@ -1,0 +1,39 @@
+{
+  "id": "11-06-014",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "Two particles of mass $5$ kg and $10$ kg respectively are attached to the two ends of a rigid rod of length $1$ m with negligible mass. The centre of mass of the system from the $5$ kg particle is nearly at a distance of :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$33$ cm",
+      "image": ""
+    },
+    {
+      "text": "$50$ cm",
+      "image": ""
+    },
+    {
+      "text": "$67$ cm",
+      "image": ""
+    },
+    {
+      "text": "$80$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Taking the $5$ kg particle as origin:\n$$x_{cm} = \\frac{5 \\times 0 + 10 \\times 1}{5 + 10} = \\frac{2}{3}\\ \\text{m} \\approx 67\\ \\text{cm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

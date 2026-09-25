@@ -1,0 +1,39 @@
+{
+  "id": "12-10-006",
+  "chapter": "wave-optics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "The Brewsters angle $i_b$ for an interface should be :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0° < i_b < 30°$",
+      "image": ""
+    },
+    {
+      "text": "$30° < i_b < 45°$",
+      "image": ""
+    },
+    {
+      "text": "$45° < i_b < 90°$",
+      "image": ""
+    },
+    {
+      "text": "$i_b = 90°$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Brewster's law: $\\tan i_b = n$.\n\nFor light going from air into a denser medium, $n > 1$, so $\\tan i_b > 1$. Since $i_b < 90°$,\n$$45° < i_b < 90°$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

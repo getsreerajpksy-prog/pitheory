@@ -1,0 +1,39 @@
+{
+  "id": "12-04-014",
+  "chapter": "moving-charges-and-magnetism",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "A long solenoid of $50$ cm length having $100$ turns carries a current of $2.5$ A. The magnetic field at the centre of the solenoid is : ($\\mu_0 = 4\\pi \\times 10^{-7}\\ \\text{T m A}^{-1}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$6.28 \\times 10^{-4}$ T",
+      "image": ""
+    },
+    {
+      "text": "$3.14 \\times 10^{-4}$ T",
+      "image": ""
+    },
+    {
+      "text": "$6.28 \\times 10^{-5}$ T",
+      "image": ""
+    },
+    {
+      "text": "$3.14 \\times 10^{-5}$ T",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Turns per unit length: $n = \\dfrac{100}{0.5} = 200\\ \\text{m}^{-1}$.\n\n$$B = \\mu_0 nI = 4\\pi \\times 10^{-7} \\times 200 \\times 2.5 = 2\\pi \\times 10^{-4} \\approx 6.28 \\times 10^{-4}\\ \\text{T}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

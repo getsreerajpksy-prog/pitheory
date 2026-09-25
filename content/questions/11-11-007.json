@@ -1,0 +1,39 @@
+{
+  "id": "11-11-007",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "Two cylinders A and B of equal capacity are connected to each other via a stop cock. A contains an ideal gas at standard temperature and pressure. B is completely evacuated. The entire system is thermally insulated. The stop cock is suddenly opened. The process is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "isothermal",
+      "image": ""
+    },
+    {
+      "text": "adiabatic",
+      "image": ""
+    },
+    {
+      "text": "isochoric",
+      "image": ""
+    },
+    {
+      "text": "isobaric",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The system is thermally insulated, so no heat is exchanged: $Q = 0$. The process is adiabatic (a free expansion).\n\nThe gas expands into vacuum, so it does no work ($W = 0$). Then $\\Delta U = 0$, and for an ideal gas the final temperature equals the initial temperature. But the process is sudden and irreversible, so it is not a quasi-static isothermal process. The volume doubles (not isochoric) and the pressure halves (not isobaric).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

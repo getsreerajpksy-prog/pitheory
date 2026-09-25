@@ -1,0 +1,39 @@
+{
+  "id": "11-13-010",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "The phase difference between displacement and acceleration of a particle in a simple harmonic motion is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\pi$ rad",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{3\\pi}{2}$ rad",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\pi}{2}$ rad",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "In SHM, $a = -\\omega^2x$. The acceleration is always opposite to the displacement, so they differ in phase by $\\pi$ rad.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

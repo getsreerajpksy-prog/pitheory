@@ -1,0 +1,39 @@
+{
+  "id": "11-12-009",
+  "chapter": "kinetic-theory",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "The mean free path for a gas, with molecular diameter d and number density n can be expressed as :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{1}{\\sqrt{2}\\,n\\pi d}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{\\sqrt{2}\\,n\\pi d^2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{\\sqrt{2}\\,n^2\\pi d^2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{\\sqrt{2}\\,n^2\\pi^2d^2}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "A molecule sweeps out a collision cylinder of cross-section $\\pi d^2$. Allowing for the motion of the other molecules (the factor $\\sqrt{2}$):\n$$\\lambda = \\frac{1}{\\sqrt{2}\\,n\\pi d^2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

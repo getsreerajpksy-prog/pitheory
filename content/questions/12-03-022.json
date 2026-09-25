@@ -1,0 +1,39 @@
+{
+  "id": "12-03-022",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "A charged particle having drift velocity of $7.5 \\times 10^{-4}\\ \\text{m s}^{-1}$ in an electric field of $3 \\times 10^{-10}\\ \\text{V m}^{-1}$, has a mobility in $\\text{m}^2\\text{V}^{-1}\\text{s}^{-1}$ of :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2.25 \\times 10^{15}$",
+      "image": ""
+    },
+    {
+      "text": "$2.5 \\times 10^6$",
+      "image": ""
+    },
+    {
+      "text": "$2.5 \\times 10^{-6}$",
+      "image": ""
+    },
+    {
+      "text": "$2.25 \\times 10^{-15}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\mu = \\frac{v_d}{E} = \\frac{7.5 \\times 10^{-4}}{3 \\times 10^{-10}} = 2.5 \\times 10^6\\ \\text{m}^2\\text{V}^{-1}\\text{s}^{-1}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

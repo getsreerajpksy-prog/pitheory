@@ -1,0 +1,39 @@
+{
+  "id": "12-03-020",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "Which of the following graph represents the variation of resistivity ($\\rho$) with temperature (T) for copper ?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "",
+      "image": "/diagrams/12-03-020-A.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-03-020-B.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-03-020-C.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-03-020-D.png"
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For a metal such as copper, resistivity rises with temperature. It has a small non-zero value at low temperature and increases more steeply as the temperature rises (it is not a straight line over a wide range).\n\nGraph (3) shows this rising, upward-curving shape.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

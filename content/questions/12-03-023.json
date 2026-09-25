@@ -1,0 +1,39 @@
+{
+  "id": "12-03-023",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "A resistance wire connected in the left gap of a metre bridge balances a $10\\ \\Omega$ resistance in the right gap at a point which divides the bridge wire in the ratio $3 : 2$. If the length of the resistance wire is $1.5$ m, then the length of $1\\ \\Omega$ of the resistance wire is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.0 \\times 10^{-2}$ m",
+      "image": ""
+    },
+    {
+      "text": "$1.0 \\times 10^{-1}$ m",
+      "image": ""
+    },
+    {
+      "text": "$1.5 \\times 10^{-1}$ m",
+      "image": ""
+    },
+    {
+      "text": "$1.5 \\times 10^{-2}$ m",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Balance condition: $\\dfrac{R}{10} = \\dfrac{3}{2}$, so $R = 15\\ \\Omega$.\n\n$15\\ \\Omega$ over $1.5$ m, so $1\\ \\Omega$ corresponds to\n$$\\frac{1.5}{15} = 0.1\\ \\text{m} = 1.0 \\times 10^{-1}\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

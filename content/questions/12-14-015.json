@@ -1,0 +1,39 @@
+{
+  "id": "12-14-015",
+  "chapter": "semiconductor-electronics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "For transistor action, which of the following statements is correct ?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Base, emitter and collector regions should have same doping concentrations.",
+      "image": ""
+    },
+    {
+      "text": "Base, emitter and collector regions should have same size.",
+      "image": ""
+    },
+    {
+      "text": "Both emitter junction as well as the collector junction are forward biased.",
+      "image": ""
+    },
+    {
+      "text": "The base region must be very thin and lightly doped.",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For transistor action, the emitter is heavily doped, the base is very thin and lightly doped, and the collector is moderately doped and large. The emitter junction is forward biased and the collector junction is reverse biased.\n\nA thin, lightly doped base lets most carriers from the emitter cross it to the collector. Only statement (4) is correct.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-08-010",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "The ratio of contributions made by the electric field and magnetic field components to the intensity of an electromagnetic wave is : (c = speed of electromagnetic waves)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "c : 1",
+      "image": ""
+    },
+    {
+      "text": "1 : 1",
+      "image": ""
+    },
+    {
+      "text": "1 : c",
+      "image": ""
+    },
+    {
+      "text": "1 : c$^2$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Average energy densities:\n$$u_E = \\frac{1}{4}\\epsilon_0E_0^2, \\qquad u_B = \\frac{B_0^2}{4\\mu_0}$$\n\nWith $B_0 = \\dfrac{E_0}{c}$ and $c^2 = \\dfrac{1}{\\mu_0\\epsilon_0}$:\n$$u_B = \\frac{E_0^2}{4\\mu_0c^2} = \\frac{1}{4}\\epsilon_0E_0^2 = u_E$$\n\nThe electric and magnetic fields contribute equally: $1 : 1$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

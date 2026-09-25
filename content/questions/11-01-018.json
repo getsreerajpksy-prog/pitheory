@@ -1,0 +1,39 @@
+{
+  "id": "11-01-018",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "Taking into account of the significant figures, what is the value of $9.99$ m $- 0.0099$ m ?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$9.9801$ m",
+      "image": ""
+    },
+    {
+      "text": "$9.98$ m",
+      "image": ""
+    },
+    {
+      "text": "$9.980$ m",
+      "image": ""
+    },
+    {
+      "text": "$9.9$ m",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$9.99 - 0.0099 = 9.9801$ m.\n\nIn subtraction, the result keeps as many decimal places as the least precise number. $9.99$ has two decimal places, so the answer is $9.98$ m.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

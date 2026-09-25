@@ -1,0 +1,39 @@
+{
+  "id": "12-02-018",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "A short electric dipole has a dipole moment of $16 \\times 10^{-9}$ C m. The electric potential due to the dipole at a point at a distance of $0.6$ m from the centre of the dipole, situated on a line making an angle of $60°$ with the dipole axis is : $\\left(\\dfrac{1}{4\\pi\\epsilon_0} = 9 \\times 10^9\\ \\text{N m}^2/\\text{C}^2\\right)$",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$50$ V",
+      "image": ""
+    },
+    {
+      "text": "$200$ V",
+      "image": ""
+    },
+    {
+      "text": "$400$ V",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$V = \\frac{1}{4\\pi\\epsilon_0}\\frac{p\\cos\\theta}{r^2} = \\frac{9 \\times 10^9 \\times 16 \\times 10^{-9} \\times 0.5}{(0.6)^2} = \\frac{72}{0.36} = 200\\ \\text{V}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

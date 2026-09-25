@@ -1,0 +1,39 @@
+{
+  "id": "11-12-008",
+  "chapter": "kinetic-theory",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "A cylinder contains hydrogen gas at pressure of $249$ kPa and temperature $27°$C. Its density is : ($R = 8.3\\ \\text{J mol}^{-1}\\text{K}^{-1}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.5\\ \\text{kg/m}^3$",
+      "image": ""
+    },
+    {
+      "text": "$0.2\\ \\text{kg/m}^3$",
+      "image": ""
+    },
+    {
+      "text": "$0.1\\ \\text{kg/m}^3$",
+      "image": ""
+    },
+    {
+      "text": "$0.02\\ \\text{kg/m}^3$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "From $PV = \\dfrac{m}{M}RT$:\n$$\\rho = \\frac{PM}{RT} = \\frac{249 \\times 10^3 \\times 2 \\times 10^{-3}}{8.3 \\times 300} = \\frac{498}{2490} = 0.2\\ \\text{kg/m}^3$$\n\n(Molar mass of H$_2$: $M = 2 \\times 10^{-3}$ kg/mol.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

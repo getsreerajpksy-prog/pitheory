@@ -1,0 +1,39 @@
+{
+  "id": "12-12-009",
+  "chapter": "atoms",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "For which one of the following, Bohr model is not valid ?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Hydrogen atom",
+      "image": ""
+    },
+    {
+      "text": "Singly ionised helium atom (He$^+$)",
+      "image": ""
+    },
+    {
+      "text": "Deuteron atom",
+      "image": ""
+    },
+    {
+      "text": "Singly ionised neon atom (Ne$^+$)",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Bohr's model applies only to hydrogen-like systems, which have a single electron (H, deuterium, He$^+$, Li$^{2+}$, ...).\n\nSingly ionised neon (Ne$^+$) still has 9 electrons, so the model does not apply to it.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

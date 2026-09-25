@@ -1,0 +1,39 @@
+{
+  "id": "11-10-005",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "The quantities of heat required to raise the temperature of two solid copper spheres of radii $r_1$ and $r_2$ ($r_1 = 1.5r_2$) through $1$ K are in the ratio :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{27}{8}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{9}{4}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{3}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{5}{3}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$Q = mc\\Delta T$ with the same material and $\\Delta T$, so $Q \\propto m \\propto r^3$.\n$$\\frac{Q_1}{Q_2} = (1.5)^3 = \\frac{27}{8}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

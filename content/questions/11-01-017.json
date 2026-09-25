@@ -1,0 +1,39 @@
+{
+  "id": "11-01-017",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "Dimensions of stress are :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$[\\mathrm{MLT^{-2}}]$",
+      "image": ""
+    },
+    {
+      "text": "$[\\mathrm{ML^2T^{-2}}]$",
+      "image": ""
+    },
+    {
+      "text": "$[\\mathrm{ML^0T^{-2}}]$",
+      "image": ""
+    },
+    {
+      "text": "$[\\mathrm{ML^{-1}T^{-2}}]$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$[\\text{stress}] = \\frac{[\\text{force}]}{[\\text{area}]} = \\frac{[\\mathrm{MLT^{-2}}]}{[\\mathrm{L^2}]} = [\\mathrm{ML^{-1}T^{-2}}]$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

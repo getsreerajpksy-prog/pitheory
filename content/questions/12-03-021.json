@@ -1,0 +1,39 @@
+{
+  "id": "12-03-021",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "The color code of a resistance is given below : The values of resistance and tolerance, respectively, are :",
+  "diagram": "/diagrams/12-03-021.png",
+  "diagram_alt": "Resistor with colour bands yellow, violet, brown and gold",
+  "options": [
+    {
+      "text": "$470$ k$\\Omega$, $5\\%$",
+      "image": ""
+    },
+    {
+      "text": "$47$ k$\\Omega$, $10\\%$",
+      "image": ""
+    },
+    {
+      "text": "$4.7$ k$\\Omega$, $5\\%$",
+      "image": ""
+    },
+    {
+      "text": "$470\\ \\Omega$, $5\\%$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Yellow $= 4$, Violet $= 7$, Brown $=$ multiplier $10^1$, Gold $=$ tolerance $\\pm 5\\%$.\n\n$$R = 47 \\times 10 = 470\\ \\Omega,\\ \\pm 5\\%$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

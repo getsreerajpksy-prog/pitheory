@@ -1,0 +1,39 @@
+{
+  "id": "12-10-008",
+  "chapter": "wave-optics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "Assume that light of wavelength $600$ nm is coming from a star. The limit of resolution of telescope whose objective has a diameter of $2$ m is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$3.66 \\times 10^{-7}$ rad",
+      "image": ""
+    },
+    {
+      "text": "$1.83 \\times 10^{-7}$ rad",
+      "image": ""
+    },
+    {
+      "text": "$7.32 \\times 10^{-7}$ rad",
+      "image": ""
+    },
+    {
+      "text": "$6.00 \\times 10^{-7}$ rad",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\Delta\\theta = \\frac{1.22\\lambda}{D} = \\frac{1.22 \\times 600 \\times 10^{-9}}{2} = 3.66 \\times 10^{-7}\\ \\text{rad}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-02-017",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "The capacitance of a parallel plate capacitor with air as medium is $6\\ \\mu$F. With the introduction of a dielectric medium, the capacitance becomes $30\\ \\mu$F. The permittivity of the medium is : ($\\epsilon_0 = 8.85 \\times 10^{-12}\\ \\text{C}^2\\text{N}^{-1}\\text{m}^{-2}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.44 \\times 10^{-13}\\ \\text{C}^2\\text{N}^{-1}\\text{m}^{-2}$",
+      "image": ""
+    },
+    {
+      "text": "$1.77 \\times 10^{-12}\\ \\text{C}^2\\text{N}^{-1}\\text{m}^{-2}$",
+      "image": ""
+    },
+    {
+      "text": "$0.44 \\times 10^{-10}\\ \\text{C}^2\\text{N}^{-1}\\text{m}^{-2}$",
+      "image": ""
+    },
+    {
+      "text": "$5.00\\ \\text{C}^2\\text{N}^{-1}\\text{m}^{-2}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Dielectric constant: $K = \\dfrac{30}{6} = 5$.\n\n$$\\epsilon = K\\epsilon_0 = 5 \\times 8.85 \\times 10^{-12} = 44.25 \\times 10^{-12} \\approx 0.44 \\times 10^{-10}\\ \\text{C}^2\\text{N}^{-1}\\text{m}^{-2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

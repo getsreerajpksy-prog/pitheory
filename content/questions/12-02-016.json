@@ -1,0 +1,39 @@
+{
+  "id": "12-02-016",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "In a certain region of space with volume $0.2\\ \\text{m}^3$, the electric potential is found to be $5$ V throughout. The magnitude of electric field in this region is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "zero",
+      "image": ""
+    },
+    {
+      "text": "$0.5$ N/C",
+      "image": ""
+    },
+    {
+      "text": "$1$ N/C",
+      "image": ""
+    },
+    {
+      "text": "$5$ N/C",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$E = -\\dfrac{dV}{dr}$. The potential is the same everywhere in the region, so its gradient is zero and $E = 0$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

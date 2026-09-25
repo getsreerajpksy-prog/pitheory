@@ -1,0 +1,39 @@
+{
+  "id": "12-11-014",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "An electron is accelerated from rest through a potential difference of V volt. If the de Broglie wavelength of the electron is $1.227 \\times 10^{-2}$ nm, the potential difference is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$10$ V",
+      "image": ""
+    },
+    {
+      "text": "$10^2$ V",
+      "image": ""
+    },
+    {
+      "text": "$10^3$ V",
+      "image": ""
+    },
+    {
+      "text": "$10^4$ V",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For an electron accelerated through $V$ volts: $\\lambda = \\dfrac{1.227}{\\sqrt{V}}$ nm.\n$$\\sqrt{V} = \\frac{1.227}{1.227 \\times 10^{-2}} = 100 \\;\\Rightarrow\\; V = 10^4\\ \\text{V}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

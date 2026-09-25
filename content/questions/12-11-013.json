@@ -1,0 +1,39 @@
+{
+  "id": "12-11-013",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "Light of frequency $1.5$ times the threshold frequency is incident on a photosensitive material. What will be the photoelectric current if the frequency is halved and intensity is doubled ?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "doubled",
+      "image": ""
+    },
+    {
+      "text": "four times",
+      "image": ""
+    },
+    {
+      "text": "one-fourth",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "New frequency: $\\dfrac{1.5\\nu_0}{2} = 0.75\\nu_0$, which is below the threshold frequency.\n\nNo photoelectrons are emitted at any intensity, so the photocurrent is zero.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

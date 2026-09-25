@@ -1,0 +1,39 @@
+{
+  "id": "11-07-012",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "A body weighs $72$ N on the surface of the earth. What is the gravitational force on it, at a height equal to half the radius of the earth ?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$48$ N",
+      "image": ""
+    },
+    {
+      "text": "$32$ N",
+      "image": ""
+    },
+    {
+      "text": "$30$ N",
+      "image": ""
+    },
+    {
+      "text": "$24$ N",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$F = F_0\\left(\\frac{R}{R + h}\\right)^2 = 72\\left(\\frac{R}{1.5R}\\right)^2 = 72 \\times \\frac{4}{9} = 32\\ \\text{N}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

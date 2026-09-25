@@ -1,0 +1,39 @@
+{
+  "id": "12-07-013",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2020",
+  "question": "A series LCR circuit is connected to an ac voltage source. When L is removed from the circuit, the phase difference between current and voltage is $\\dfrac{\\pi}{3}$. If instead C is removed from the circuit, the phase difference is again $\\dfrac{\\pi}{3}$ between current and voltage. The power factor of the circuit is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "zero",
+      "image": ""
+    },
+    {
+      "text": "$0.5$",
+      "image": ""
+    },
+    {
+      "text": "$1.0$",
+      "image": ""
+    },
+    {
+      "text": "$-1.0$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "L removed: $\\tan\\dfrac{\\pi}{3} = \\dfrac{X_C}{R}$. C removed: $\\tan\\dfrac{\\pi}{3} = \\dfrac{X_L}{R}$.\n\nSo $X_L = X_C$: with all three present the circuit is at resonance, $Z = R$ and $\\phi = 0$.\n\n$$\\cos\\phi = 1$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}
