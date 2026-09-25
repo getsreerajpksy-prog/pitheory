@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The reverse-biased Zener is in breakdown, since $5\\ \\text{V} > 3\\ \\text{V}$. An ideal Zener then holds a constant $3$ V across itself (between C and B).\n\nThe rest of the supply voltage appears across the resistor R, which lies between B and A:\n$$|V_B - V_A| = 5 - 3 = 2\\ \\text{V}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
