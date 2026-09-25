@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$v_{max} = A\\omega = A\\sqrt{\\dfrac{k}{m}}$. With equal masses and equal $v_{max}$:\n$$A_P\\sqrt{k_1} = A_Q\\sqrt{k_2} \\;\\Rightarrow\\; \\frac{A_Q}{A_P} = \\sqrt{\\frac{k_1}{k_2}}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
