@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$\\tau = pE\\sin\\theta = (q \\cdot 2a)E\\sin\\theta$:\n$$4 = q \\times 0.02 \\times 2 \\times 10^5 \\times \\frac{1}{2} = 2000\\,q$$\n$$q = 2 \\times 10^{-3}\\ \\text{C} = 2\\ \\text{mC}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
