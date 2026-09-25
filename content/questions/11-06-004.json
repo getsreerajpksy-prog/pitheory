@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The angular momentum about any point P is\n$$\\vec{L}_P = \\vec{L}_{cm} + \\vec{r}_{P\\to cm} \\times M\\vec{v}_{cm}$$\n\nThe disc rotates about its fixed centre, so its centre of mass is at rest: $\\vec{v}_{cm} = 0$. The second term vanishes, and the angular momentum is the same ($I\\omega$) about every point.\n\n$$\\frac{L_A}{L_B} = 1$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
