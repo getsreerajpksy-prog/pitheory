@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The tension provides the centripetal force: $T = m\\omega^2 r$.\n\nWith the same radius, $T \\propto \\omega^2$. Doubling $\\omega$ gives\n$$T' = 4T$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
