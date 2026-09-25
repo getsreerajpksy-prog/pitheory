@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Speed: $v = \\dfrac{c}{\\sqrt{\\epsilon_r}} = \\dfrac{3 \\times 10^8}{3} = 10^8\\ \\text{m s}^{-1}$. Statement (1) is correct.\n\nFrequency: $2\\pi f = 2\\pi \\times 10^6$, so $f = 10^6$ Hz.\n$$\\lambda = \\frac{v}{f} = \\frac{10^8}{10^6} = 100\\ \\text{m}$$\nSo statement (2), which says $300$ m, is incorrect. ($300$ m is the wavelength in vacuum.)\n\nThe phase $(kz - \\omega t)$ shows that the wave travels along $+z$, so statement (4) is correct. With $\\vec{E}$ along $x$ and propagation along $z$, $\\vec{B}$ is along $y$ and in phase with $\\vec{E}$, with amplitude $E_0/v$. Statement (3) describes this; the printed $B_0$ stands for this amplitude.\n\nThe incorrect choice is (2).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
