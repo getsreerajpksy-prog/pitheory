@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "First law: $W = Q - \\Delta U$. Both $Q$ and $\\Delta U$ are the same for the two gases, so the work done is the same.\n\nAt constant pressure, $W = P\\Delta V = P\\pi r^2 x$. With equal $P$:\n$$r_A^2 \\times 16 = r_B^2 \\times 9 \\;\\Rightarrow\\; \\frac{r_A}{r_B} = \\frac{3}{4}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
