@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$I = Mk^2$.\n\nSolid sphere: $\\dfrac{2}{5}MR^2 = Mk_1^2$, so $k_1^2 = \\dfrac{2}{5}R^2$.\n\nHollow sphere: $\\dfrac{2}{3}MR^2 = Mk_2^2$, so $k_2^2 = \\dfrac{2}{3}R^2$.\n\n$$\\frac{k_1^2}{k_2^2} = \\frac{2/5}{2/3} = \\frac{3}{5} \\;\\Rightarrow\\; \\frac{k_1}{k_2} = \\sqrt{\\frac{3}{5}}$$\n\nStrictly, the ratio of the radii of gyration is $\\sqrt{3} : \\sqrt{5}$, which is not among the options. Option (1), $3 : 5$, is the ratio of their squares, $k_1^2 : k_2^2$, and is the intended answer.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
