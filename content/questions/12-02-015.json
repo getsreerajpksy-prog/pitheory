@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Volume is conserved: $27 \\cdot \\dfrac{4}{3}\\pi r^3 = \\dfrac{4}{3}\\pi R^3$, so $R = 3r$.\n\nCharge adds: $Q = 27q$.\n\n$$V' = \\frac{kQ}{R} = \\frac{27kq}{3r} = 9 \\times \\frac{kq}{r} = 9 \\times 220 = 1980\\ \\text{V}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
