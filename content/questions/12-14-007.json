@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Look at the table: $Y = 1$ exactly when $B = 0$, and $Y = 0$ exactly when $B = 1$, whatever the value of $A$.\n\nSo $Y = \\bar{B}$.\n\n(Check the other options: $A \\cdot B + \\bar{A}$ gives $1$ for $A = 0, B = 1$, and $A\\cdot\\bar{B} + \\bar{A}$ also gives $1$ for $A = 0, B = 1$; both disagree with the table.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
