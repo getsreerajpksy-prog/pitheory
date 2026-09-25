@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Let the null point be at distance $x$ from $m$:\n$$\\frac{Gm}{x^2} = \\frac{G(9m)}{(R - x)^2} \\;\\Rightarrow\\; \\frac{R - x}{x} = 3 \\;\\Rightarrow\\; x = \\frac{R}{4}$$\n\nPotential there:\n$$V = -\\frac{Gm}{R/4} - \\frac{9Gm}{3R/4} = -\\frac{4Gm}{R} - \\frac{12Gm}{R} = -\\frac{16Gm}{R}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
