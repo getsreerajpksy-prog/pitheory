@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "In semiconductors and insulators, heating frees more charge carriers across the band gap, so the resistance falls as the temperature rises: a negative temperature coefficient.\n\nIn metals, the carrier number is fixed and more collisions at higher temperature raise the resistance: a positive coefficient.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
