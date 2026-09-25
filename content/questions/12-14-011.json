@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "(A) A Zener diode regulates voltage in reverse breakdown, so it is connected in reverse bias. Correct.\n\n(B) The barrier potential is about $0.7$ V for silicon and about $0.3$ V for germanium. It does not in general lie between $0.1$ V and $0.3$ V. Incorrect.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
