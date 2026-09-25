@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Turns per unit length: $n = \\dfrac{100}{0.5} = 200\\ \\text{m}^{-1}$.\n\n$$B = \\mu_0 nI = 4\\pi \\times 10^{-7} \\times 200 \\times 2.5 = 2\\pi \\times 10^{-4} \\approx 6.28 \\times 10^{-4}\\ \\text{T}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
