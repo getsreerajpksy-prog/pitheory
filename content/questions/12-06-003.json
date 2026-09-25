@@ -1,0 +1,39 @@
+{
+  "id": "12-06-003",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "Consider a long solenoid of length $l$ and radius $r$. If $n$ is the number of turns per unit length and $\\mu_0$ is the permeability of free space, the inductance of the solenoid is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\mu_0 \\pi n^2 r^2 l$",
+      "image": ""
+    },
+    {
+      "text": "$\\mu_0 n^2 r^2 l$",
+      "image": ""
+    },
+    {
+      "text": "$(\\mu_0/2\\pi) n^2 r^2 l$",
+      "image": ""
+    },
+    {
+      "text": "$2\\mu_0 \\pi n^2 r^2 l$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Field inside the solenoid: $B = \\mu_0 n I$. Total turns $N = nl$, cross-section area $A = \\pi r^2$.\n\nFlux linkage:\n$$N\\phi = (nl)(\\mu_0 n I)(\\pi r^2) = \\mu_0 \\pi n^2 r^2 l\\, I$$\n\nSo\n$$L = \\frac{N\\phi}{I} = \\mu_0 \\pi n^2 r^2 l$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

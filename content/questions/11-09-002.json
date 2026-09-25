@@ -1,0 +1,39 @@
+{
+  "id": "11-09-002",
+  "chapter": "mechanical-properties-of-fluids",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "In the measurement of viscosity of liquids using terminal velocity experiment, spherical balls of same radius but having different densities are used. The variation of the terminal velocity ($v$) with the ratio of density of spherical ball ($\\sigma$) to density of the liquid ($\\rho$), is best represented by :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "",
+      "image": "/diagrams/11-09-002-A.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-09-002-B.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-09-002-C.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-09-002-D.png"
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Terminal velocity (Stokes' law):\n$$v = \\frac{2r^2(\\sigma - \\rho)g}{9\\eta} = \\frac{2r^2\\rho g}{9\\eta}\\left(\\frac{\\sigma}{\\rho} - 1\\right)$$\n\nFor balls of the same radius, $v$ is a straight line in $\\dfrac{\\sigma}{\\rho}$ that becomes zero at $\\dfrac{\\sigma}{\\rho} = 1$ and increases linearly beyond it. (For $\\sigma < \\rho$ the ball does not sink, so there is no falling terminal velocity to measure.)\n\nThis matches option (1).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

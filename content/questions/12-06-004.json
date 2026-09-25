@@ -1,0 +1,39 @@
+{
+  "id": "12-06-004",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "A conducting loop of finite resistance lies on the $x$ - $y$ plane. There is a constant magnetic field in the $z$ direction. The area of the loop varies with time $t$, as $A = A_0(1 + \\sin t)$ in appropriate units. The figure that correctly indicates the qualitative behaviour of the power $P$ dissipated in the loop as a function of time is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "",
+      "image": "/diagrams/12-06-004-A.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-06-004-B.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-06-004-C.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-06-004-D.png"
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Flux: $\\phi = BA_0(1 + \\sin t)$. Induced emf:\n$$\\varepsilon = -\\frac{d\\phi}{dt} = -BA_0\\cos t$$\n\nPower dissipated:\n$$P = \\frac{\\varepsilon^2}{R} = \\frac{B^2A_0^2}{R}\\cos^2 t$$\n\n$P$ is maximum at $t = 0$, falls to zero at $t = \\pi/2$, rises to the maximum again at $t = \\pi$, and so on. It never becomes negative.\n\nThis is option (2), which starts at a maximum and dips to zero.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

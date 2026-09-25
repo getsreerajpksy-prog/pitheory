@@ -1,0 +1,39 @@
+{
+  "id": "11-06-002",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "A frictionless circular wire of unit radius is fixed on the horizontal plane. Two point particles of unit mass start moving simultaneously from point $A\\left(\\theta = \\dfrac{\\pi}{2}\\right)$ with identical uniform angular speeds in opposite directions, and meet again at point $B\\left(\\theta = -\\dfrac{\\pi}{2}\\right)$. During this time, which of the following figures schematically represent the magnitude of the total linear momentum $P$ of the system, as a function of $\\theta$ ?",
+  "diagram": "/diagrams/11-06-002.png",
+  "diagram_alt": "Circle with A at the top and B at the bottom; two particles leave A in opposite directions, and θ is measured from the horizontal diameter",
+  "options": [
+    {
+      "text": "",
+      "image": "/diagrams/11-06-002-A.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-06-002-B.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-06-002-C.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-06-002-D.png"
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "By symmetry, the two particles are always at angles $\\theta$ and $\\pi - \\theta$, mirror images about the line AB. Each has speed $v$ along the tangent.\n\nA particle at angle $\\theta$ moving along the circle has velocity components $(\\pm v\\sin\\theta,\\ -v\\cos\\theta)$. For the mirror-image particle, the components along the horizontal diameter are opposite and cancel, while the components along AB add:\n$$P = 2mv\\,|\\cos\\theta|$$\n\nAs $\\theta$ goes from $\\dfrac{\\pi}{2}$ to $-\\dfrac{\\pi}{2}$:\n- $P = 0$ at the start (at A the velocities are equal and opposite),\n- $P$ is maximum ($2mv$) at $\\theta = 0$,\n- $P = 0$ again at B.\n\nSo $P$ rises from zero to a maximum and falls back to zero along a smooth $\\cos\\theta$ curve, which is option (3).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

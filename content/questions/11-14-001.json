@@ -1,0 +1,39 @@
+{
+  "id": "11-14-001",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "For sound waves, if the number of nodes for the $5^{\\text{th}}$ harmonic of an open-ended pipe is $n$ and that for the $9^{\\text{th}}$ harmonic of the same pipe with one of its ends closed is $m$, the ratio $\\dfrac{n}{m}$ is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{5}{9}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{9}{5}$",
+      "image": ""
+    },
+    {
+      "text": "$1$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{3}{5}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Open pipe (antinodes at both ends): the $p^{\\text{th}}$ harmonic has length $L = p\\dfrac{\\lambda}{2}$ and contains $p$ nodes. For the $5^{\\text{th}}$ harmonic, $n = 5$.\n\nClosed pipe (node at the closed end, antinode at the open end): the $(2k-1)^{\\text{th}}$ harmonic has $L = (2k-1)\\dfrac{\\lambda}{4}$ and contains $k$ nodes (counting the closed end). For the $9^{\\text{th}}$ harmonic, $2k - 1 = 9$, so $k = 5$ and $m = 5$.\n\n$$\\frac{n}{m} = \\frac{5}{5} = 1$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

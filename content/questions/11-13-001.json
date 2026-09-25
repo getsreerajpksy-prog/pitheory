@@ -1,0 +1,39 @@
+{
+  "id": "11-13-001",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "A cylindrical cork of uniform density floats in a liquid of density $\\rho_1$. If the cork is depressed slightly and released, it oscillates harmonically with time period $T$. If the same cork floats in another liquid of density $\\rho_2$, then the similar oscillation has time period $2T$. The value of $\\rho_2/\\rho_1$ is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4$",
+      "image": ""
+    },
+    {
+      "text": "$2$",
+      "image": ""
+    },
+    {
+      "text": "$1/2$",
+      "image": ""
+    },
+    {
+      "text": "$1/4$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For a cork of mass $m$ and cross-section area $A$, pushing it down by $y$ adds a buoyant restoring force $\\rho A g y$. So\n$$k = \\rho A g, \\qquad T = 2\\pi\\sqrt{\\frac{m}{\\rho A g}} \\;\\Rightarrow\\; T \\propto \\frac{1}{\\sqrt{\\rho}}$$\n\n$$\\frac{T_2}{T_1} = \\sqrt{\\frac{\\rho_1}{\\rho_2}} = 2 \\;\\Rightarrow\\; \\frac{\\rho_2}{\\rho_1} = \\frac{1}{4}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

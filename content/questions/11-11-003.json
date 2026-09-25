@@ -1,0 +1,39 @@
+{
+  "id": "11-11-003",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "One mole of an ideal monatomic gas undergoes a cyclic process as shown in the figure. The total heat supplied to the gas is :",
+  "diagram": "/diagrams/11-11-003.svg",
+  "diagram_alt": "Rectangular clockwise cycle on a P-V graph with a at (2, 300), b at (5, 300), c at (5, 100) and d at (2, 100)",
+  "options": [
+    {
+      "text": "$400$ J",
+      "image": ""
+    },
+    {
+      "text": "$500$ J",
+      "image": ""
+    },
+    {
+      "text": "$600$ J",
+      "image": ""
+    },
+    {
+      "text": "$800$ J",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For a complete cycle, $\\Delta U = 0$, so the net heat supplied equals the net work done by the gas:\n$$Q = W$$\n\nThe cycle $a \\to b \\to c \\to d \\to a$ is traversed clockwise on the $P$-$V$ diagram, so the work is positive and equals the enclosed area:\n$$W = (300 - 100) \\times (5 - 2) = 200 \\times 3 = 600\\ \\text{J}$$\n\nTotal (net) heat supplied $= 600$ J.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

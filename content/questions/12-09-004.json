@@ -1,0 +1,39 @@
+{
+  "id": "12-09-004",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "The lens combination as shown in the figure, consists of two lenses, $L_1$ and $L_2$, of the focal lengths $+10$ cm and $-10$ cm, respectively. The position of the image formed is :",
+  "diagram": "/diagrams/12-09-004.svg",
+  "diagram_alt": "Object O 30 cm to the left of convex lens L1, with concave lens L2 placed 3 cm to the right of L1",
+  "options": [
+    {
+      "text": "$20$ cm to the left of the concave lens",
+      "image": ""
+    },
+    {
+      "text": "$60$ cm to the left of the concave lens",
+      "image": ""
+    },
+    {
+      "text": "$30$ cm to the right of the concave lens",
+      "image": ""
+    },
+    {
+      "text": "$60$ cm to the right of the concave lens",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Lens $L_1$ ($f = +10$ cm, $u = -30$ cm):\n$$\\frac{1}{v_1} = \\frac{1}{f} + \\frac{1}{u} = \\frac{1}{10} - \\frac{1}{30} = \\frac{1}{15} \\;\\Rightarrow\\; v_1 = +15\\ \\text{cm}$$\n\nThis image is $15$ cm to the right of $L_1$, i.e. $15 - 3 = 12$ cm to the right of $L_2$. It acts as a virtual object for $L_2$: $u_2 = +12$ cm.\n\nLens $L_2$ ($f = -10$ cm):\n$$\\frac{1}{v_2} = -\\frac{1}{10} + \\frac{1}{12} = -\\frac{1}{60} \\;\\Rightarrow\\; v_2 = -60\\ \\text{cm}$$\n\nThe final image is $60$ cm to the left of the concave lens.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

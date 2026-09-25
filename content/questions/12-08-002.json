@@ -1,0 +1,39 @@
+{
+  "id": "12-08-002",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "The following table presents the part of the electromagnetic spectrum and their corresponding major applications.\n\nPart of the electromagnetic spectrum:\nP. Microwave\nQ. UV rays\nR. Gamma rays\nS. Radio wave\n\nApplications:\nI. For purifying the water\nII. For warming the food\nIII. For AM and FM communication systems\nIV. For treating the Cancer cells\n\nThe correct option is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "P-I, Q-II, R-III, S-IV",
+      "image": ""
+    },
+    {
+      "text": "P-I, Q-IV, R-II, S-III",
+      "image": ""
+    },
+    {
+      "text": "P-II, Q-I, R-IV, S-III",
+      "image": ""
+    },
+    {
+      "text": "P-II, Q-IV, R-III, S-I",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Microwaves are used in microwave ovens for warming food: P-II.\n\nUV rays kill germs and are used for purifying water: Q-I.\n\nGamma rays are used in radiotherapy for treating cancer cells: R-IV.\n\nRadio waves are used for AM and FM communication: S-III.\n\nCorrect matching: P-II, Q-I, R-IV, S-III.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

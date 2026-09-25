@@ -1,0 +1,39 @@
+{
+  "id": "11-13-002",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "Consider a spring-mass simple harmonic oscillator in one dimension. The mass of the particle is $m$ kg and the spring constant is $k\\ \\text{N m}^{-1}$. At a given instant, the extension of the spring is $x$ meter and the speed of the particle is $v\\ \\text{m s}^{-1}$. On the $x$ - $v$ plane, if the graph of $v$ as a function of $x$ is a circle, then the correct option is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$k = \\dfrac{1}{m}$",
+      "image": ""
+    },
+    {
+      "text": "$k = m$",
+      "image": ""
+    },
+    {
+      "text": "$k = m^2$",
+      "image": ""
+    },
+    {
+      "text": "$k = \\sqrt{m}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Energy conservation: $\\dfrac{1}{2}mv^2 + \\dfrac{1}{2}kx^2 = \\dfrac{1}{2}kA^2$, which gives\n$$x^2 + \\frac{m}{k}v^2 = A^2$$\n\nThis is an ellipse in general. It is a circle when the coefficients of $x^2$ and $v^2$ are equal:\n$$\\frac{m}{k} = 1 \\;\\Rightarrow\\; k = m$$\n\n(numerically, in SI units; this is the case $\\omega = 1\\ \\text{rad s}^{-1}$).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "11-12-001",
+  "chapter": "kinetic-theory",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "The mean free path of molecules in an ideal gas A is half that of another ideal gas B. The diameter of the spherical molecules of gas A is twice the diameter of the molecules of B. If number densities of the gases A and B are $n_A$ and $n_B$, respectively, then the correct option is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$n_A = n_B$",
+      "image": ""
+    },
+    {
+      "text": "$n_A = 2n_B$",
+      "image": ""
+    },
+    {
+      "text": "$n_A = \\dfrac{1}{4}n_B$",
+      "image": ""
+    },
+    {
+      "text": "$n_A = \\dfrac{1}{2}n_B$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Mean free path: $\\lambda = \\dfrac{1}{\\sqrt{2}\\,\\pi d^2 n}$, so $\\lambda \\propto \\dfrac{1}{d^2 n}$.\n\n$$\\frac{\\lambda_A}{\\lambda_B} = \\frac{d_B^2\\, n_B}{d_A^2\\, n_A} = \\frac{d_B^2\\, n_B}{4d_B^2\\, n_A} = \\frac{n_B}{4n_A}$$\n\nGiven $\\dfrac{\\lambda_A}{\\lambda_B} = \\dfrac{1}{2}$:\n$$\\frac{n_B}{4n_A} = \\frac{1}{2} \\;\\Rightarrow\\; n_A = \\frac{1}{2}n_B$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

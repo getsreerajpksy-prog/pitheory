@@ -1,0 +1,39 @@
+{
+  "id": "12-09-003",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "Consider three media P, Q and R with refractive indices $1$, $1.25$, and $1.5$, respectively. The medium Q having a thickness of $5$ cm is placed between extended media P and R as shown in the figure. An object O is placed at the center of medium Q. If viewed from medium P near the normal direction, the apparent depth of O is $h_1$. For similar observation from medium R, the apparent depth is $h_2$. The value of $|h_1 - h_2|$, in cm, is :",
+  "diagram": "/diagrams/12-09-003.svg",
+  "diagram_alt": "A 5 cm thick layer Q of refractive index 1.25 with object O at its centre, between medium P of index 1 above and medium R of index 1.5 below",
+  "options": [
+    {
+      "text": "$0$",
+      "image": ""
+    },
+    {
+      "text": "$1$",
+      "image": ""
+    },
+    {
+      "text": "$2$",
+      "image": ""
+    },
+    {
+      "text": "$3$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The object is at the centre of Q, so its real depth from either face is $2.5$ cm.\n\nFor near-normal viewing, apparent depth $= \\text{real depth} \\times \\dfrac{n_{\\text{observer}}}{n_{\\text{object}}}$.\n\nFrom P: $h_1 = 2.5 \\times \\dfrac{1}{1.25} = 2$ cm\n\nFrom R: $h_2 = 2.5 \\times \\dfrac{1.5}{1.25} = 3$ cm\n\n$$|h_1 - h_2| = 1\\ \\text{cm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

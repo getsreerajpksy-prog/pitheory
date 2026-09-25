@@ -1,0 +1,39 @@
+{
+  "id": "12-12-002",
+  "chapter": "atoms",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "Consider that an electron is revolving in an excited state of Hydrogen atom with velocity $\\sqrt{25.6} \\times 10^5\\ \\text{m s}^{-1}$. The radius of the orbit is $x \\times 10^{-9}$ m. The value of $x$ is :\n\n[Take the mass of electron to be $9 \\times 10^{-31}$ kg, charge of electron $= -1.6 \\times 10^{-19}$ C and $\\dfrac{1}{4\\pi\\epsilon_0} = 9 \\times 10^9\\ \\text{N m}^2\\text{C}^{-2}$]",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4$",
+      "image": ""
+    },
+    {
+      "text": "$3$",
+      "image": ""
+    },
+    {
+      "text": "$2$",
+      "image": ""
+    },
+    {
+      "text": "$1$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The Coulomb force provides the centripetal force:\n$$\\frac{mv^2}{r} = \\frac{1}{4\\pi\\epsilon_0}\\frac{e^2}{r^2} \\;\\Rightarrow\\; r = \\frac{1}{4\\pi\\epsilon_0}\\frac{e^2}{mv^2}$$\n\n$$r = \\frac{9 \\times 10^9 \\times (1.6 \\times 10^{-19})^2}{9 \\times 10^{-31} \\times 25.6 \\times 10^{10}} = \\frac{9 \\times 2.56 \\times 10^{-29}}{9 \\times 2.56 \\times 10^{-20}} = 10^{-9}\\ \\text{m}$$\n\nSo $x = 1$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

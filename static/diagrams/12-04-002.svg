@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 320" width="300" height="320">
+<rect width="300" height="320" fill="#fff"/>
+<path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M150.0,20.0 L150.0,80.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M150.0,240.0 L150.0,300.0"/>
+<circle cx="150" cy="160" r="80" fill="none" stroke="#111" stroke-width="3.5"/>
+<path d="M150.0,74.0 L144.5,64.5 L155.5,64.5 Z" fill="#111"/>
+<path d="M150.0,270.0 L144.5,260.5 L155.5,260.5 Z" fill="#111"/>
+<path d="M150.0,80.0 L150.0,240.0" fill="none" stroke="#111" stroke-width="1.2" stroke-dasharray="3 4"/>
+<circle cx="150" cy="160" r="3" fill="#111" stroke="#111" stroke-width="2"/>
+<path d="M150,160 L193.4,212.3" stroke="#111" stroke-width="1.5" stroke-dasharray="3 3"/>
+<path d="M201.4,221.3 L192.0,217.9 L199.7,211.4 Z" fill="#111"/>
+<text x="136" y="74" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="end">A</text>
+<text x="136" y="260" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="end">C</text>
+<text x="58" y="166" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="end">B</text>
+<text x="242" y="166" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="start">D</text>
+<text x="138" y="166" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="end">O</text>
+<text x="180" y="194" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle" font-style="italic">r</text>
+<text x="160" y="40" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="start" font-style="italic">I<tspan font-size="12" dy="4">0</tspan></text>
+<text x="160" y="290" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="start" font-style="italic">I<tspan font-size="12" dy="4">0</tspan></text>
+</svg>

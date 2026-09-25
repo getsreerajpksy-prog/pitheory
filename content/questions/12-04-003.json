@@ -1,0 +1,39 @@
+{
+  "id": "12-04-003",
+  "chapter": "moving-charges-and-magnetism",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "Two infinitely long parallel conducting wires A and B carry currents $I$ and $2I$, respectively, in the same direction. The wire A has uniform mass per unit length $\\lambda$ and lies on an insulated floor. The wire B is kept fixed at a height $h$ above the floor. The minimum magnitude of $h$ so that the wire A does not rise from the floor is :\n\n[$g$ is the acceleration due to gravity and $\\mu_0$ is the permeability of free space.]",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{\\mu_0 I^2}{2\\pi\\lambda g}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\mu_0 I^2}{\\pi\\lambda g}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2\\mu_0 I^2}{\\pi\\lambda g}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{4\\mu_0 I^2}{\\pi\\lambda g}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Currents in the same direction attract, so wire A is pulled upward towards B. Force per unit length on A:\n$$\\frac{F}{l} = \\frac{\\mu_0 (I)(2I)}{2\\pi h} = \\frac{\\mu_0 I^2}{\\pi h}$$\n\nA does not rise as long as this does not exceed its weight per unit length $\\lambda g$:\n$$\\frac{\\mu_0 I^2}{\\pi h} \\le \\lambda g \\;\\Rightarrow\\; h \\ge \\frac{\\mu_0 I^2}{\\pi\\lambda g}$$\n\nMinimum $h = \\dfrac{\\mu_0 I^2}{\\pi\\lambda g}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

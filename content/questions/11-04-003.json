@@ -1,0 +1,39 @@
+{
+  "id": "11-04-003",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "A car travels on a circular racetrack of radius $50$ m, which is banked at an angle $\\theta$. If the car travels at a speed $10\\ \\text{m s}^{-1}$, then the wear and tear on its tyres is minimum. Taking the acceleration due to gravity to be $10\\ \\text{m s}^{-2}$, the value of $\\theta$ is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\tan^{-1}\\left(\\dfrac{1}{5}\\right)$",
+      "image": ""
+    },
+    {
+      "text": "$\\tan^{-1}\\left(\\dfrac{2}{5}\\right)$",
+      "image": ""
+    },
+    {
+      "text": "$\\tan^{-1}\\left(\\sqrt{3}/2\\right)$",
+      "image": ""
+    },
+    {
+      "text": "$\\tan^{-1}\\left(2\\sqrt{3}\\right)$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Wear and tear is minimum when no friction is needed, i.e. at the optimum banking speed:\n$$\\tan\\theta = \\frac{v^2}{rg} = \\frac{10^2}{50 \\times 10} = \\frac{1}{5}$$\n\n$$\\theta = \\tan^{-1}\\left(\\frac{1}{5}\\right)$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

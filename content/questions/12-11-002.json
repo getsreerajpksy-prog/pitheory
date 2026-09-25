@@ -1,0 +1,39 @@
+{
+  "id": "12-11-002",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "A beam of light falls on a metal surface such that photo-electrons are generated. If power of the light source starts to decrease linearly with time $t$, then variation of the photocurrent $I$ and magnitude of the stopping potential $|V|$ with time is best represented by :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "",
+      "image": "/diagrams/12-11-002-A.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-11-002-B.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-11-002-C.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-11-002-D.png"
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The frequency of the light does not change, only its power (intensity).\n\nPhotocurrent is proportional to the number of photons arriving per second, which is proportional to the power. So $I$ decreases linearly with time.\n\nThe stopping potential depends only on the frequency: $e|V| = h\\nu - \\phi$. So $|V|$ stays constant.\n\nThe graph with $I$ decreasing linearly and $|V|$ constant is option (1).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

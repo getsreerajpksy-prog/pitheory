@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 230" width="420" height="230">
+<rect width="420" height="230" fill="#fff"/>
+<path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M40.0,50.0 L125.0,50.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M153,37 L127,50 L153,63 Z"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M127.0,37.0 L127.0,63.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M127,37 L121,31 M127,63 L133,69"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M153.0,50.0 L210.0,50.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M210.0,50.0 L214.4,58.0 L223.1,42.0 L231.9,58.0 L240.6,42.0 L249.4,58.0 L258.1,42.0 L266.9,58.0 L275.6,42.0 L280.0,50.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M280.0,50.0 L380.0,50.0 L380.0,190.0 L216.0,190.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M204.0,170.0 L204.0,210.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M216,180 L216,200"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M204.0,190.0 L40.0,190.0 L40.0,50.0"/>
+<circle cx="60" cy="50" r="4" fill="#111" stroke="#111" stroke-width="2"/>
+<circle cx="190" cy="50" r="4" fill="#111" stroke="#111" stroke-width="2"/>
+<circle cx="300" cy="50" r="4" fill="#111" stroke="#111" stroke-width="2"/>
+<text x="60" y="36" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle" font-style="italic">C</text>
+<text x="190" y="36" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle" font-style="italic">B</text>
+<text x="245" y="30" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle" font-style="italic">R</text>
+<text x="300" y="36" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle" font-style="italic">A</text>
+<text x="210" y="226" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle" font-style="italic">V<tspan font-size="12" dy="4">i</tspan></text>
+</svg>

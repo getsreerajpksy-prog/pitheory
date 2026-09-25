@@ -1,0 +1,39 @@
+{
+  "id": "11-10-001",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "The temperature of a metallic sphere of radius $R$ is increased by a small amount $\\Delta T$. If the linear coefficient of thermal expansion of the metal is $\\alpha$, the approximate increase in the volume of the sphere is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2\\pi R^3 \\alpha \\Delta T$",
+      "image": ""
+    },
+    {
+      "text": "$3\\pi R^3 \\alpha \\Delta T$",
+      "image": ""
+    },
+    {
+      "text": "$4\\pi R^3 \\alpha \\Delta T$",
+      "image": ""
+    },
+    {
+      "text": "$6\\pi R^3 \\alpha \\Delta T$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Volume expansion coefficient $\\gamma = 3\\alpha$.\n\n$$\\Delta V = \\gamma V \\Delta T = 3\\alpha \\cdot \\frac{4}{3}\\pi R^3 \\cdot \\Delta T = 4\\pi R^3 \\alpha \\Delta T$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

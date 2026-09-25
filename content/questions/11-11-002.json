@@ -1,0 +1,39 @@
+{
+  "id": "11-11-002",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "In an adiabatic expansion, the temperature of one mole of an ideal monatomic gas ($\\gamma = 5/3$) decreases from $60$ K to $50$ K. The work done by the gas in the process is :\n\n(Take the universal gas constant as $R = 8.3\\ \\text{J mol}^{-1}\\text{K}^{-1}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$41.5$ J",
+      "image": ""
+    },
+    {
+      "text": "$83$ J",
+      "image": ""
+    },
+    {
+      "text": "$124.5$ J",
+      "image": ""
+    },
+    {
+      "text": "$166$ J",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For an adiabatic process, work done by the gas:\n$$W = \\frac{nR(T_1 - T_2)}{\\gamma - 1} = \\frac{1 \\times 8.3 \\times (60 - 50)}{5/3 - 1} = \\frac{83}{2/3} = 124.5\\ \\text{J}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

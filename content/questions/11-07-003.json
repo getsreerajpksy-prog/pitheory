@@ -1,0 +1,39 @@
+{
+  "id": "11-07-003",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "In a solar system, the time-period of revolution of a planet tracing a circular orbit of radius $R$ is proportional to :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$R^{1/2}$",
+      "image": ""
+    },
+    {
+      "text": "$R^{3/2}$",
+      "image": ""
+    },
+    {
+      "text": "$R^2$",
+      "image": ""
+    },
+    {
+      "text": "$R^3$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Gravity provides the centripetal force:\n$$\\frac{GMm}{R^2} = m\\omega^2 R = m\\frac{4\\pi^2}{T^2}R \\;\\Rightarrow\\; T^2 = \\frac{4\\pi^2}{GM}R^3$$\n\nSo $T \\propto R^{3/2}$ (Kepler's third law).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

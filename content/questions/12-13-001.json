@@ -1,0 +1,39 @@
+{
+  "id": "12-13-001",
+  "chapter": "nuclei",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "Consider the following nuclear reaction :\n\n$$^{238}\\text{U} \\rightarrow {}^{234}\\text{Th} + {}^{4}\\text{He}$$\n\nTake masses of $^{238}\\text{U}$, $^{234}\\text{Th}$ and $^{4}\\text{He}$ as $238.050$ u, $234.043$ u and $4.003$ u, respectively. The Q value for the reaction, in keV, is :\n\n[Given : $1\\ \\text{u} = 931.5\\ \\text{MeV}\\,c^{-2}$]",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$3726$",
+      "image": ""
+    },
+    {
+      "text": "$3730$",
+      "image": ""
+    },
+    {
+      "text": "$3736$",
+      "image": ""
+    },
+    {
+      "text": "$3740$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Mass defect:\n$$\\Delta m = 238.050 - (234.043 + 4.003) = 0.004\\ \\text{u}$$\n\n$$Q = \\Delta m \\times 931.5\\ \\text{MeV} = 0.004 \\times 931.5 = 3.726\\ \\text{MeV} = 3726\\ \\text{keV}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

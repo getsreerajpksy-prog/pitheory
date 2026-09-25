@@ -1,0 +1,39 @@
+{
+  "id": "12-06-002",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "Two identical inductors are connected in two different configurations P and Q, where a time varying current $I(t)$ is flowing, as shown in the figure. The induced emf between points $a$ and $b$ for configuration P is $E_P$ and that for configuration Q is $E_Q$. The ratio $E_P/E_Q$ is :\n\n[Neglect the effect of mutual inductance.]",
+  "diagram": "/diagrams/12-06-002.svg",
+  "diagram_alt": "Configuration P: two inductors in series with a above the first and b between them; configuration Q: two inductors in parallel between a and b",
+  "options": [
+    {
+      "text": "$1/4$",
+      "image": ""
+    },
+    {
+      "text": "$1/2$",
+      "image": ""
+    },
+    {
+      "text": "$1$",
+      "image": ""
+    },
+    {
+      "text": "$2$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Let each inductor have inductance $L$.\n\nConfiguration P: points $a$ and $b$ are across one inductor, which carries the full current $I(t)$:\n$$E_P = L\\frac{dI}{dt}$$\n\nConfiguration Q: the two inductors are in parallel between $a$ and $b$, so each carries $I/2$:\n$$E_Q = L\\frac{d(I/2)}{dt} = \\frac{L}{2}\\frac{dI}{dt}$$\n\n(Equivalently, the parallel combination has inductance $L/2$.)\n\n$$\\frac{E_P}{E_Q} = 2$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

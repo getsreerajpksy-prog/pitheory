@@ -1,0 +1,39 @@
+{
+  "id": "11-01-003",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "One main scale division of a Vernier calliper is equal to $1$ mm and the number of divisions on the Vernier scale is $10$. When both the jaws touch each other, the Vernier scale shifts to the left of zero of the main scale in such a way that $4^{\\text{th}}$ Vernier division coincides with a division of the main scale. If this Vernier calliper measures the length of a wire to be $1$ cm, the actual length of the wire is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.60$ cm",
+      "image": ""
+    },
+    {
+      "text": "$0.96$ cm",
+      "image": ""
+    },
+    {
+      "text": "$1.00$ cm",
+      "image": ""
+    },
+    {
+      "text": "$1.04$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Least count $= \\dfrac{1\\ \\text{mm}}{10} = 0.1$ mm.\n\nThe Vernier zero lies to the left of the main-scale zero, so the zero error is negative. Taking the zero error as $-(4 \\times 0.1) = -0.4$ mm (the convention the options follow):\n\n$$\\text{Actual length} = \\text{reading} - \\text{zero error} = 10\\ \\text{mm} - (-0.4\\ \\text{mm}) = 10.4\\ \\text{mm} = 1.04\\ \\text{cm}$$\n\nNote: in the stricter convention for a negative zero error, the error is $-(10 - 4) \\times 0.1 = -0.6$ mm, which would give $1.06$ cm. That value is not among the options, so the intended answer is $1.04$ cm.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

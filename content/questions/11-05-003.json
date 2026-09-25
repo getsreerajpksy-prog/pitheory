@@ -1,0 +1,39 @@
+{
+  "id": "11-05-003",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "Bob $B$ of mass $m$ at rest is hanging vertically from the ceiling via a massless string of length $10$ m, as shown in the figure. Point mass $A$ of mass $m$ travelling horizontally with speed $10\\ \\text{m s}^{-1}$ hits bob $B$ elastically. The bob $B$ rises $h$ meter after the collision. Taking the acceleration due to gravity $g = 10\\ \\text{m s}^{-2}$ and neglecting the size of the bob, the value of $h$ is :",
+  "diagram": "/diagrams/11-05-003.svg",
+  "diagram_alt": "Bob B hanging at rest on a 10 m string, with point mass A approaching horizontally at 10 m/s",
+  "options": [
+    {
+      "text": "$8$",
+      "image": ""
+    },
+    {
+      "text": "$7$",
+      "image": ""
+    },
+    {
+      "text": "$5$",
+      "image": ""
+    },
+    {
+      "text": "$2.5$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "In a one-dimensional elastic collision between equal masses, the velocities are exchanged. So A stops and B moves off with $10\\ \\text{m s}^{-1}$.\n\nEnergy conservation for the bob:\n$$h = \\frac{v^2}{2g} = \\frac{10^2}{2 \\times 10} = 5\\ \\text{m}$$\n\nSince $h = 5$ m is less than the string length ($10$ m), the string stays taut and the bob simply swings up to this height.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

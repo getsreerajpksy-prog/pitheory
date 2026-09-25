@@ -1,0 +1,39 @@
+{
+  "id": "12-11-003",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "A ray of light with wavelength $\\lambda$ is incident on three different photoelectric cells namely 1, 2 and 3. The threshold wavelength of these photoelectric cells are $\\lambda_1$, $\\lambda_2$, and $\\lambda_3$, respectively and the magnitude of stopping potentials of these cells are $V_1$, $V_2$ and $V_3$, respectively. The relation between $\\lambda$ and threshold wavelengths are $\\lambda_1 < \\lambda$, $\\lambda_2 > \\lambda$ and $\\lambda_3 >> \\lambda$. The correct option is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$V_1 = 0,\\ V_2 < V_3$",
+      "image": ""
+    },
+    {
+      "text": "$V_1 = 0,\\ V_2 > V_3$",
+      "image": ""
+    },
+    {
+      "text": "$V_1 > V_2,\\ V_3 = 0$",
+      "image": ""
+    },
+    {
+      "text": "$V_1 < V_2,\\ V_3 = 0$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Emission occurs only if $\\lambda$ is less than the threshold wavelength.\n\nCell 1: $\\lambda > \\lambda_1$, so there is no emission and $V_1 = 0$.\n\nCells 2 and 3: $\\lambda < \\lambda_2$ and $\\lambda < \\lambda_3$, so both emit. The stopping potential is\n$$eV = hc\\left(\\frac{1}{\\lambda} - \\frac{1}{\\lambda_0}\\right)$$\nA larger threshold wavelength $\\lambda_0$ means a smaller work function and a larger $V$. Since $\\lambda_3 > \\lambda_2$, $V_3 > V_2$.\n\nSo $V_1 = 0$ and $V_2 < V_3$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

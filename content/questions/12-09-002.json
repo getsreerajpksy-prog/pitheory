@@ -1,0 +1,39 @@
+{
+  "id": "12-09-002",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "Which of the following measurements require 'index correction' ?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Measurement of resistance of a wire using meter bridge",
+      "image": ""
+    },
+    {
+      "text": "Measurement of gravitational acceleration using simple pendulum",
+      "image": ""
+    },
+    {
+      "text": "Measurement of focal length of lenses using optical bench",
+      "image": ""
+    },
+    {
+      "text": "Measurement of speed of sound using resonance tube",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "On an optical bench, the distance read between two uprights from the scale (using their index marks) is not exactly the true distance between the optical elements (for example, lens and needle tip). The difference is the index error, and every measured distance must be corrected for it.\n\nThis index correction is applied when measuring the focal length of lenses (or mirrors) on an optical bench.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

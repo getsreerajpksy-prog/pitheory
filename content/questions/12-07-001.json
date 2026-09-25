@@ -1,0 +1,39 @@
+{
+  "id": "12-07-001",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "An ac voltage $V = 220\\sin(2 \\times 10^3 t)$ Volt is applied to a series LCR circuit. Then the current amplitude in this circuit is :\n\n(Given : $L = 10$ mH, $C = 25\\ \\mu$F, $R = 100\\ \\Omega$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2.2$ A",
+      "image": ""
+    },
+    {
+      "text": "$5.5$ A",
+      "image": ""
+    },
+    {
+      "text": "$11.0$ A",
+      "image": ""
+    },
+    {
+      "text": "$22.0$ A",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\omega = 2 \\times 10^3\\ \\text{rad s}^{-1}$.\n\n$$X_L = \\omega L = 2000 \\times 10 \\times 10^{-3} = 20\\ \\Omega$$\n$$X_C = \\frac{1}{\\omega C} = \\frac{1}{2000 \\times 25 \\times 10^{-6}} = 20\\ \\Omega$$\n\n$X_L = X_C$, so the circuit is at resonance and $Z = R = 100\\ \\Omega$.\n\n$$I_0 = \\frac{V_0}{Z} = \\frac{220}{100} = 2.2\\ \\text{A}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

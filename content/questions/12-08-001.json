@@ -1,0 +1,39 @@
+{
+  "id": "12-08-001",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "An electromagnetic wave travelling in a lossless dielectric medium having a dielectric constant, $\\epsilon_r = 9$, has the electric field, $E_x = E_0\\sin(kz - 2\\pi \\times 10^6 t)\\ \\text{V m}^{-1}$ where $E_0$ is the amplitude and $k$ is the wave vector. Among the following options, the incorrect choice is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "The speed of the electromagnetic wave inside the medium is $10^8\\ \\text{m s}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "The wavelength of the electromagnetic wave inside the medium is $300$ m",
+      "image": ""
+    },
+    {
+      "text": "The magnetic field is given by the relation $B_y = \\dfrac{B_0}{v}\\sin(kz - 2\\pi \\times 10^6 t)$ where $v$ is the speed of the electromagnetic wave inside the medium",
+      "image": ""
+    },
+    {
+      "text": "The direction of propagation of the electromagnetic wave is along $+z$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Speed: $v = \\dfrac{c}{\\sqrt{\\epsilon_r}} = \\dfrac{3 \\times 10^8}{3} = 10^8\\ \\text{m s}^{-1}$. Statement (1) is correct.\n\nFrequency: $2\\pi f = 2\\pi \\times 10^6$, so $f = 10^6$ Hz.\n$$\\lambda = \\frac{v}{f} = \\frac{10^8}{10^6} = 100\\ \\text{m}$$\nSo statement (2), which says $300$ m, is incorrect. ($300$ m is the wavelength in vacuum.)\n\nThe phase $(kz - \\omega t)$ shows that the wave travels along $+z$, so statement (4) is correct. With $\\vec{E}$ along $x$ and propagation along $z$, $\\vec{B}$ is along $y$ and in phase with $\\vec{E}$, with amplitude $E_0/v$. Statement (3) describes this; the printed $B_0$ stands for this amplitude.\n\nThe incorrect choice is (2).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

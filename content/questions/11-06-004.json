@@ -1,0 +1,39 @@
+{
+  "id": "11-06-004",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "A thin horizontal disc is rotating about a vertical axis passing through its fixed centre $O$. Its angular momentum is $L_A$ and $L_B$ computed about points $A$ and $B$, respectively, with $OB = 2 \\times OA$. The value of $\\dfrac{L_A}{L_B}$ is :",
+  "diagram": "/diagrams/11-06-004.svg",
+  "diagram_alt": "Disc rotating about its centre O, with points A and B on a line from O and OB equal to twice OA",
+  "options": [
+    {
+      "text": "$\\dfrac{1}{4}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$1$",
+      "image": ""
+    },
+    {
+      "text": "$2$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The angular momentum about any point P is\n$$\\vec{L}_P = \\vec{L}_{cm} + \\vec{r}_{P\\to cm} \\times M\\vec{v}_{cm}$$\n\nThe disc rotates about its fixed centre, so its centre of mass is at rest: $\\vec{v}_{cm} = 0$. The second term vanishes, and the angular momentum is the same ($I\\omega$) about every point.\n\n$$\\frac{L_A}{L_B} = 1$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

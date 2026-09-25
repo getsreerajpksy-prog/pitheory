@@ -1,0 +1,39 @@
+{
+  "id": "11-02-002",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "Consider a particle moving along a straight line, whose position as a function of time is given by $s(t) = \\alpha t^2 - \\beta t + \\gamma$, where $\\alpha = 1\\ \\text{m s}^{-2}$, $\\beta = 6\\ \\text{m s}^{-1}$ and $\\gamma = 5\\ \\text{m}$. The average speed of the particle, in $\\text{m s}^{-1}$, from $t = 0$ to $t = 6$ s is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$12$",
+      "image": ""
+    },
+    {
+      "text": "$6$",
+      "image": ""
+    },
+    {
+      "text": "$3$",
+      "image": ""
+    },
+    {
+      "text": "$0$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$s(t) = t^2 - 6t + 5$, so $v = \\dfrac{ds}{dt} = 2t - 6$. The particle reverses direction at $t = 3$ s.\n\nPositions: $s(0) = 5$ m, $s(3) = 9 - 18 + 5 = -4$ m, $s(6) = 36 - 36 + 5 = 5$ m.\n\nDistance travelled $= |{-4} - 5| + |5 - (-4)| = 9 + 9 = 18$ m.\n\n$$\\text{Average speed} = \\frac{18}{6} = 3\\ \\text{m s}^{-1}$$\n\n(The average velocity is zero because the particle returns to its starting point, but average speed uses total distance.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

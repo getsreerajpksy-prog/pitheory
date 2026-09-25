@@ -1,0 +1,39 @@
+{
+  "id": "11-07-002",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "Two planets $P_1$ and $P_2$ with equal mass have radii $R_1$ and $R_2$, respectively, where $R_2 = \\dfrac{R_1}{2}$. The escape speeds of $P_1$ and $P_2$ are $v_1$ and $v_2$, respectively. Then $\\dfrac{v_2}{v_1}$ is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{1}{\\sqrt{2}}$",
+      "image": ""
+    },
+    {
+      "text": "$1$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{2}$",
+      "image": ""
+    },
+    {
+      "text": "$2$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$v_e = \\sqrt{\\dfrac{2GM}{R}}$, so for equal masses $v_e \\propto \\dfrac{1}{\\sqrt{R}}$.\n\n$$\\frac{v_2}{v_1} = \\sqrt{\\frac{R_1}{R_2}} = \\sqrt{2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

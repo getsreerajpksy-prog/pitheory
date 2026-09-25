@@ -1,0 +1,39 @@
+{
+  "id": "12-12-001",
+  "chapter": "atoms",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "In Geiger-Marsden experiment, the number of scattered $\\alpha$-particles $N(\\theta)$ is plotted as a function of scattering angle $\\theta$. Which of the following options represents the correct plot ?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "",
+      "image": "/diagrams/12-12-001-A.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-12-001-B.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-12-001-C.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-12-001-D.png"
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Rutherford's scattering formula gives\n$$N(\\theta) \\propto \\frac{1}{\\sin^4(\\theta/2)}$$\n\nMost $\\alpha$-particles pass almost undeflected, so $N(\\theta)$ is very large at small angles. It falls steeply as $\\theta$ increases, and only a very few particles are scattered back ($\\theta$ near $180^\\circ$).\n\nThis steadily and sharply decreasing curve is option (3).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

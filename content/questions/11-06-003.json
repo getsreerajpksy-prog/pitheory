@@ -1,0 +1,39 @@
+{
+  "id": "11-06-003",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "A solid sphere $A$ of radius $R$ and mass $M$ is attached at a point to a smaller solid sphere $B$ of radius $r < R$ and mass $m < M$. Assume that the line joining their centres lies along the horizontal. The moment of inertia of the system calculated about a vertical axis passing through the centre of $A$ is $I_A$ and that calculated about a vertical axis passing through the centre of $B$ is $I_B$. The difference $I_A - I_B$ is :",
+  "diagram": "/diagrams/11-06-003.png",
+  "diagram_alt": "Large sphere A touching small sphere B, with a vertical axis through the centre of A in one figure and through the centre of B in the other",
+  "options": [
+    {
+      "text": "$(M - m)(R + r)^2$",
+      "image": ""
+    },
+    {
+      "text": "$(m - M)(R + r)^2$",
+      "image": ""
+    },
+    {
+      "text": "$(m - M)(R - r)^2$",
+      "image": ""
+    },
+    {
+      "text": "$0$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The spheres touch, so their centres are $d = R + r$ apart.\n\nAbout the axis through the centre of A (parallel axis theorem for B):\n$$I_A = \\frac{2}{5}MR^2 + \\frac{2}{5}mr^2 + m(R + r)^2$$\n\nAbout the axis through the centre of B:\n$$I_B = \\frac{2}{5}MR^2 + M(R + r)^2 + \\frac{2}{5}mr^2$$\n\n$$I_A - I_B = (m - M)(R + r)^2$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -32,7 +32,7 @@
   "answer": "D",
   "numerical_answer": "",
   "tolerance": "",
-  "solution": "Only quantities with the same dimensions can be added, so every term inside a bracket must match the other term in that bracket.\n\n**Finding $B$:** $Bt$ is added to the height $h$, so $[Bt] = [\\mathrm{L}]$:\n$$[B] = \\frac{[\\mathrm{L}]}{[\\mathrm{T}]} = [\\mathrm{M^0LT^{-1}}]$$\n\n**Finding $A$:** $\\dfrac{A}{Bt^2}$ is added to the pressure $P$, so\n$$\\left[\\frac{A}{Bt^2}\\right] = [P] = [\\mathrm{ML^{-1}T^{-2}}]$$\n$$[A] = [\\mathrm{ML^{-1}T^{-2}}]\\,[B]\\,[t^2] = [\\mathrm{ML^{-1}T^{-2}}][\\mathrm{LT^{-1}}][\\mathrm{T^2}] = [\\mathrm{ML^0T^{-1}}]$$\n\nSo $A = [\\mathrm{ML^0T^{-1}}]$ and $B = [\\mathrm{M^0LT^{-1}}]$, which is option (D).",
+  "solution": "Only quantities with the same dimensions can be added, so every term inside a bracket must match the other term in that bracket.\n\nTo find $B$: $Bt$ is added to the height $h$, so $[Bt] = [\\mathrm{L}]$:\n$$[B] = \\frac{[\\mathrm{L}]}{[\\mathrm{T}]} = [\\mathrm{M^0LT^{-1}}]$$\n\nTo find $A$: $\\dfrac{A}{Bt^2}$ is added to the pressure $P$, so\n$$\\left[\\frac{A}{Bt^2}\\right] = [P] = [\\mathrm{ML^{-1}T^{-2}}]$$\n$$[A] = [\\mathrm{ML^{-1}T^{-2}}]\\,[B]\\,[t^2] = [\\mathrm{ML^{-1}T^{-2}}][\\mathrm{LT^{-1}}][\\mathrm{T^2}] = [\\mathrm{ML^0T^{-1}}]$$\n\nSo $A = [\\mathrm{ML^0T^{-1}}]$ and $B = [\\mathrm{M^0LT^{-1}}]$, which is option (D).",
   "solution_diagram": "",
   "status": "draft",
   "updated": "2026-09-25"

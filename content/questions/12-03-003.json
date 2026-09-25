@@ -1,0 +1,39 @@
+{
+  "id": "12-03-003",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "Consider two circuits, (A) and (B), each having two resistors. One of them has a positive temperature coefficient of resistance, $+\\alpha$, while the other one has a negative temperature of coefficient, $-\\alpha$, as shown in the figure. The current through these circuits are denoted by $I_A$ and $I_B$. At initial temperature, the resistance of the two resistors is $R_0$. As the temperature is increased, the correct option that describes the variation of current in these circuits is :",
+  "diagram": "/diagrams/12-03-003.svg",
+  "diagram_alt": "Circuit A: battery with resistors R0(1−αΔT) and R0(1+αΔT) in series; circuit B: battery with the same two resistors in parallel",
+  "options": [
+    {
+      "text": "$I_A$ remains constant while $I_B$ increases",
+      "image": ""
+    },
+    {
+      "text": "$I_A$ decreases while $I_B$ increases",
+      "image": ""
+    },
+    {
+      "text": "$I_A$ increases while $I_B$ decreases",
+      "image": ""
+    },
+    {
+      "text": "both $I_A$ and $I_B$ remain constant",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Circuit (A), series:\n$$R_A = R_0(1 - \\alpha\\Delta T) + R_0(1 + \\alpha\\Delta T) = 2R_0$$\nThis does not change, so $I_A$ remains constant.\n\nCircuit (B), parallel:\n$$R_B = \\frac{R_0(1 - \\alpha\\Delta T)\\,R_0(1 + \\alpha\\Delta T)}{2R_0} = \\frac{R_0}{2}\\left(1 - \\alpha^2\\Delta T^2\\right)$$\nThis decreases as $\\Delta T$ increases, so $I_B$ increases.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

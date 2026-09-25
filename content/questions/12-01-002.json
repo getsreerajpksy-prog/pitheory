@@ -1,0 +1,39 @@
+{
+  "id": "12-01-002",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "A point charge Q is placed inside a cavity within a solid isolated conducting sphere. Consider points A, B and C as shown in the figure, where the magnitudes of the electric fields are $E_A$, $E_B$ and $E_C$, respectively. The points B and C are at the same distance from the center of the solid sphere. The correct option is :",
+  "diagram": "/diagrams/12-01-002.png",
+  "diagram_alt": "Solid conducting sphere with an off-centre cavity containing charge Q and point A; points C and B are outside the sphere at equal distances on either side",
+  "options": [
+    {
+      "text": "$E_A = 0,\\ E_B = E_C$",
+      "image": ""
+    },
+    {
+      "text": "$E_A \\neq 0,\\ E_B = E_C$",
+      "image": ""
+    },
+    {
+      "text": "$E_A = 0,\\ E_B > E_C$",
+      "image": ""
+    },
+    {
+      "text": "$E_A \\neq 0,\\ E_B < E_C$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Point A is inside the cavity, near the charge Q. The field there comes from Q and the induced charge on the cavity wall, and it is not zero: $E_A \\neq 0$.\n\nCharge $-Q$ is induced on the cavity wall and $+Q$ on the outer surface. The conductor shields the outside from the cavity, so the charge $+Q$ on the outer surface spreads uniformly, whatever the position of Q inside.\n\nOutside, the field is therefore that of a point charge $Q$ at the centre of the sphere, $E = \\dfrac{Q}{4\\pi\\epsilon_0 r^2}$. B and C are at equal distances from the centre, so $E_B = E_C$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

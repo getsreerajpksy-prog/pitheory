@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 290" width="420" height="290">
+<rect width="420" height="290" fill="#fff"/>
+<path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M70.0,240.0 L400.0,240.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M70.0,240.0 L70.0,30.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M180.0,54.0 L345.0,54.0 L345.0,178.0 L180.0,178.0 L180.0,54.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M64.0,178.0 L70.0,178.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M64.0,54.0 L70.0,54.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M180.0,240.0 L180.0,246.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M345.0,240.0 L345.0,246.0"/>
+<path d="M404.0,240.0 L394.5,245.5 L394.5,234.5 Z" fill="#111"/>
+<path d="M70.0,26.0 L75.5,35.5 L64.5,35.5 Z" fill="#111"/>
+<path d="M268.5,54.0 L259.0,59.5 L259.0,48.5 Z" fill="#111"/>
+<path d="M345.0,122.0 L339.5,112.5 L350.5,112.5 Z" fill="#111"/>
+<path d="M256.5,178.0 L266.0,172.5 L266.0,183.5 Z" fill="#111"/>
+<path d="M180.0,110.0 L185.5,119.5 L174.5,119.5 Z" fill="#111"/>
+<path d="M70.0,178.0 L180.0,178.0" fill="none" stroke="#111" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="60" y="184.0" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="16" text-anchor="end">100</text>
+<path d="M70.0,54.0 L180.0,54.0" fill="none" stroke="#111" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="60" y="60.0" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="16" text-anchor="end">300</text>
+<path d="M180.0,240.0 L180.0,178.0" fill="none" stroke="#111" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="180" y="266" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="16" text-anchor="middle">2</text>
+<path d="M345.0,240.0 L345.0,178.0" fill="none" stroke="#111" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="345" y="266" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="16" text-anchor="middle">5</text>
+<text x="172" y="44.0" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="end" font-style="italic">a</text>
+<text x="353" y="44.0" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="start" font-style="italic">b</text>
+<text x="353" y="198.0" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="start" font-style="italic">c</text>
+<text x="172" y="198.0" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="end" font-style="italic">d</text>
+<text x="62" y="22" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="16" text-anchor="end">P (N/m²)</text>
+<text x="404" y="266" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="16" text-anchor="end">V (m³)</text>
+</svg>

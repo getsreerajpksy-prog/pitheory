@@ -1,0 +1,39 @@
+{
+  "id": "12-02-002",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2026",
+  "question": "A unit positive point charge is taken slowly through an infinitesimally thin tube that is inside a charged dielectric sphere of radius $R$, having uniform positive charge density $\\rho$, as shown in the figure. The initial and final positions of the charge are marked by $A$ and $B$ at distances $2R$ and $3R$ respectively, from the centre of the sphere. In this process, the magnitude of the total work done on the point charge is $\\dfrac{\\rho R^2}{n\\epsilon_0}$. The value of $n$ is :\n\n($\\epsilon_0$ is the permittivity of vacuum)",
+  "diagram": "/diagrams/12-02-002.png",
+  "diagram_alt": "Charged sphere of radius R with centre O; a thin tube runs through the sphere from A at distance 2R to B at distance 3R",
+  "options": [
+    {
+      "text": "$2$",
+      "image": ""
+    },
+    {
+      "text": "$6$",
+      "image": ""
+    },
+    {
+      "text": "$9$",
+      "image": ""
+    },
+    {
+      "text": "$18$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The electric field is conservative, so the work done in moving the charge slowly depends only on the end points A and B, not on the path through the sphere.\n\nTotal charge: $Q = \\dfrac{4}{3}\\pi R^3 \\rho$. Outside the sphere,\n$$V(r) = \\frac{Q}{4\\pi\\epsilon_0 r} = \\frac{\\rho R^3}{3\\epsilon_0 r}$$\n\n$$V_A = V(2R) = \\frac{\\rho R^2}{6\\epsilon_0}, \\qquad V_B = V(3R) = \\frac{\\rho R^2}{9\\epsilon_0}$$\n\nWork done by the external agent on the unit charge:\n$$|W| = |V_B - V_A| = \\frac{\\rho R^2}{\\epsilon_0}\\left(\\frac{1}{6} - \\frac{1}{9}\\right) = \\frac{\\rho R^2}{18\\epsilon_0}$$\n\nSo $n = 18$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}
