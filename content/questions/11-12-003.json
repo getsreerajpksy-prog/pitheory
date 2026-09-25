@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Gauge pressure $11$ atm means absolute pressure $P = 11 + 1 = 12$ atm $= 12 \\times 1.01 \\times 10^5 = 12.12 \\times 10^5$ Pa.\n\nMoles left, with $V = 30 \\times 10^{-3}\\ \\text{m}^3$ and $T = 300$ K:\n$$n_2 = \\frac{PV}{RT} = \\frac{12.12 \\times 10^5 \\times 30 \\times 10^{-3}}{\\frac{100}{12} \\times 300} = \\frac{36360}{2500} = 14.54\\ \\text{mol}$$\n\nMoles withdrawn: $18.20 - 14.54 = 3.66$ mol.\n\nMass withdrawn: $3.66 \\times 32 = 117$ g $\\approx 0.116$ kg.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
