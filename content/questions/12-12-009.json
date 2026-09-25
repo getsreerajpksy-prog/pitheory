@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Bohr's model applies only to hydrogen-like systems, which have a single electron (H, deuterium, He$^+$, Li$^{2+}$, ...).\n\nSingly ionised neon (Ne$^+$) still has 9 electrons, so the model does not apply to it.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
