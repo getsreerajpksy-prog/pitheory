@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The electric field is conservative, so the work done in moving the charge slowly depends only on the end points A and B, not on the path through the sphere.\n\nTotal charge: $Q = \\dfrac{4}{3}\\pi R^3 \\rho$. Outside the sphere,\n$$V(r) = \\frac{Q}{4\\pi\\epsilon_0 r} = \\frac{\\rho R^3}{3\\epsilon_0 r}$$\n\n$$V_A = V(2R) = \\frac{\\rho R^2}{6\\epsilon_0}, \\qquad V_B = V(3R) = \\frac{\\rho R^2}{9\\epsilon_0}$$\n\nWork done by the external agent on the unit charge:\n$$|W| = |V_B - V_A| = \\frac{\\rho R^2}{\\epsilon_0}\\left(\\frac{1}{6} - \\frac{1}{9}\\right) = \\frac{\\rho R^2}{18\\epsilon_0}$$\n\nSo $n = 18$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
