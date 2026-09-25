@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$\\rho = \\dfrac{m}{\\pi r^2 l}$, so\n$$\\frac{\\Delta\\rho}{\\rho} = \\frac{\\Delta m}{m} + 2\\frac{\\Delta r}{r} + \\frac{\\Delta l}{l}$$\n\n$$= \\frac{0.002}{0.4} + 2 \\times \\frac{0.001}{0.3} + \\frac{0.02}{5} = 0.005 + 0.00667 + 0.004 = 0.01567$$\n\nPercentage error $\\approx 1.6\\%$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
