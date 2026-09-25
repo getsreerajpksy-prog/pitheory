@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Loss in potential energy = gain in kinetic energy:\n$$\\frac{1}{2}mv^2 = \\frac{Qq}{4\\pi\\epsilon_0}\\left(\\frac{1}{R} - \\frac{1}{3R}\\right) = \\frac{Qq}{4\\pi\\epsilon_0}\\cdot\\frac{2}{3R}$$\n\n$$v^2 = \\frac{4Qq}{3 \\cdot 4\\pi\\epsilon_0 mR} = \\frac{Qq}{3\\pi\\epsilon_0 mR}$$\n\n$$v = \\sqrt{\\frac{Qq}{3\\pi\\epsilon_0 mR}}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
