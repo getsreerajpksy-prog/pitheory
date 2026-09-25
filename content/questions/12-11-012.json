@@ -1,0 +1,39 @@
+{
+  "id": "12-11-012",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "An electromagnetic wave of wavelength '$\\lambda$' is incident on a photosensitive surface of negligible work function. If 'm' mass is of photoelectron emitted from the surface has de-Broglie wavelength $\\lambda_d$, then :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\lambda = \\left(\\dfrac{2h}{mc}\\right)\\lambda_d^2$",
+      "image": ""
+    },
+    {
+      "text": "$\\lambda = \\left(\\dfrac{2m}{hc}\\right)\\lambda_d^2$",
+      "image": ""
+    },
+    {
+      "text": "$\\lambda_d = \\left(\\dfrac{2mc}{h}\\right)\\lambda^2$",
+      "image": ""
+    },
+    {
+      "text": "$\\lambda = \\left(\\dfrac{2mc}{h}\\right)\\lambda_d^2$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "With negligible work function, all the photon energy becomes kinetic energy:\n$$\\frac{hc}{\\lambda} = \\frac{p^2}{2m} = \\frac{h^2}{2m\\lambda_d^2}$$\n\n$$\\lambda = \\frac{2mc\\lambda_d^2}{h} = \\left(\\frac{2mc}{h}\\right)\\lambda_d^2$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

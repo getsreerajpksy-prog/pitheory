@@ -1,0 +1,39 @@
+{
+  "id": "12-02-012",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A parallel plate capacitor has a uniform electric field '$\\vec{E}$' in the space between the plates. If the distance between the plates is 'd' and the area of each plate is 'A', the energy stored in the capacitor is : ($\\epsilon_0$ = permittivity of free space)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{E^2Ad}{\\epsilon_0}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{2}\\epsilon_0E^2$",
+      "image": ""
+    },
+    {
+      "text": "$\\epsilon_0EAd$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{2}\\epsilon_0E^2Ad$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Energy density in an electric field: $u = \\dfrac{1}{2}\\epsilon_0E^2$.\n\nThe field fills the volume $Ad$ between the plates:\n$$U = \\frac{1}{2}\\epsilon_0E^2 \\times Ad$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

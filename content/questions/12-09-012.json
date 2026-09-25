@@ -1,0 +1,39 @@
+{
+  "id": "12-09-012",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "Find the value of the angle of emergence from the prism. Refractive index of the glass is $\\sqrt{3}$.",
+  "diagram": "/diagrams/12-09-012.png",
+  "diagram_alt": "Right-angled prism with a 60° angle at the bottom right; a ray falls normally on the slanting face",
+  "options": [
+    {
+      "text": "$90°$",
+      "image": ""
+    },
+    {
+      "text": "$60°$",
+      "image": ""
+    },
+    {
+      "text": "$30°$",
+      "image": ""
+    },
+    {
+      "text": "$45°$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The ray strikes the slanting face normally, so it enters without bending.\n\nThe slanting face makes $60°$ with the base, so the ray inside (perpendicular to that face) travels at $30°$ below the horizontal. It meets the vertical face at an angle of incidence of $30°$ (measured from the horizontal normal).\n\nThis is less than the critical angle ($\\sin C = 1/\\sqrt{3}$, $C \\approx 35°$), so the ray emerges. Snell's law at the vertical face:\n$$\\sqrt{3}\\sin 30° = \\sin e \\;\\Rightarrow\\; \\sin e = \\frac{\\sqrt{3}}{2} \\;\\Rightarrow\\; e = 60°$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

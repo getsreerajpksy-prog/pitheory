@@ -1,0 +1,39 @@
+{
+  "id": "12-09-013",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A convex lens 'A' of focal length $20$ cm and a concave lens 'B' of focal length $5$ cm are kept along the same axis with a distance 'd' between them. If a parallel beam of light falling on 'A' leaves 'B' as a parallel beam, then the distance 'd' in cm will be :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$30$",
+      "image": ""
+    },
+    {
+      "text": "$25$",
+      "image": ""
+    },
+    {
+      "text": "$15$",
+      "image": ""
+    },
+    {
+      "text": "$50$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Lens A brings the parallel beam towards its focus, $20$ cm beyond A. For B to send it out parallel, that point must be at B's (virtual) focus, $5$ cm beyond B.\n\n$$d = 20 - 5 = 15\\ \\text{cm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

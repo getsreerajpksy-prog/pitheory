@@ -1,0 +1,39 @@
+{
+  "id": "12-04-013",
+  "chapter": "moving-charges-and-magnetism",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A uniform conducting wire of length $12a$ and resistance 'R' is wound up as a current carrying coil in the shape of,\n\n(i) an equilateral triangle of side 'a'.\n\n(ii) a square of side 'a'.\n\nThe magnetic dipole moments of the coil in each case respectively are :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4Ia^2$ and $3Ia^2$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{3}Ia^2$ and $3Ia^2$",
+      "image": ""
+    },
+    {
+      "text": "$3Ia^2$ and $Ia^2$",
+      "image": ""
+    },
+    {
+      "text": "$3Ia^2$ and $4Ia^2$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Magnetic moment: $m = NIA$.\n\n(i) Triangle: perimeter $3a$, so $N = \\dfrac{12a}{3a} = 4$ turns, each of area $\\dfrac{\\sqrt{3}}{4}a^2$:\n$$m_1 = 4 \\times I \\times \\frac{\\sqrt{3}}{4}a^2 = \\sqrt{3}Ia^2$$\n\n(ii) Square: perimeter $4a$, so $N = 3$ turns, each of area $a^2$:\n$$m_2 = 3Ia^2$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

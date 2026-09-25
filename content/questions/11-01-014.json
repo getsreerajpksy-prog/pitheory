@@ -1,0 +1,39 @@
+{
+  "id": "11-01-014",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "If force [F], acceleration [A] and time [T] are chosen as the fundamental physical quantities. Find the dimensions of energy.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$[F][A^{-1}][T]$",
+      "image": ""
+    },
+    {
+      "text": "$[F][A][T]$",
+      "image": ""
+    },
+    {
+      "text": "$[F][A][T^2]$",
+      "image": ""
+    },
+    {
+      "text": "$[F][A][T^{-1}]$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Energy $=$ force $\\times$ distance, and distance has the dimensions of acceleration $\\times$ time$^2$:\n$$[E] = [F][L] = [F][A][T^2]$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

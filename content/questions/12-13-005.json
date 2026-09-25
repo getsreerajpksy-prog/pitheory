@@ -1,0 +1,39 @@
+{
+  "id": "12-13-005",
+  "chapter": "nuclei",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "The half-life of a radioactive nuclide is $100$ hours. The fraction of original activity that will remain after $150$ hours would be :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{2}{3\\sqrt{2}}$",
+      "image": ""
+    },
+    {
+      "text": "$1/2$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{2\\sqrt{2}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2}{3}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$150$ hours is $1.5$ half-lives:\n$$\\frac{A}{A_0} = \\left(\\frac{1}{2}\\right)^{150/100} = \\left(\\frac{1}{2}\\right)^{3/2} = \\frac{1}{2\\sqrt{2}}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

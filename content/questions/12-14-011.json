@@ -1,0 +1,39 @@
+{
+  "id": "12-14-011",
+  "chapter": "semiconductor-electronics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "Consider the following statements (A) and (B) and identify the correct answer.\n\n(A) A zener diode is connected in reverse bias, when used as a voltage regulator.\n\n(B) The potential barrier of p-n junction lies between $0.1$ V to $0.3$ V.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "(A) is incorrect but (B) is correct.",
+      "image": ""
+    },
+    {
+      "text": "(A) and (B) both are correct.",
+      "image": ""
+    },
+    {
+      "text": "(A) and (B) both are incorrect.",
+      "image": ""
+    },
+    {
+      "text": "(A) is correct and (B) is incorrect.",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "(A) A Zener diode regulates voltage in reverse breakdown, so it is connected in reverse bias. Correct.\n\n(B) The barrier potential is about $0.7$ V for silicon and about $0.3$ V for germanium. It does not in general lie between $0.1$ V and $0.3$ V. Incorrect.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

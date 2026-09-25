@@ -1,0 +1,39 @@
+{
+  "id": "11-13-009",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A spring is stretched by $5$ cm by a force $10$ N. The time period of the oscillations when a mass of $2$ kg is suspended by it is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.628$ s",
+      "image": ""
+    },
+    {
+      "text": "$0.0628$ s",
+      "image": ""
+    },
+    {
+      "text": "$6.28$ s",
+      "image": ""
+    },
+    {
+      "text": "$3.14$ s",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$k = \\frac{F}{x} = \\frac{10}{0.05} = 200\\ \\text{N/m}$$\n\n$$T = 2\\pi\\sqrt{\\frac{m}{k}} = 2\\pi\\sqrt{\\frac{2}{200}} = \\frac{2\\pi}{10} = 0.628\\ \\text{s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

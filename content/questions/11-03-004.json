@@ -1,0 +1,39 @@
+{
+  "id": "11-03-004",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A particle moving in a circle of radius R with a uniform speed takes a time T to complete one revolution.\n\nIf this particle were projected with the same speed at an angle '$\\theta$' to the horizontal, the maximum height attained by it equals $4$R. The angle of projection, $\\theta$, is then given by :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\theta = \\sin^{-1}\\left(\\dfrac{2gT^2}{\\pi^2R}\\right)^{1/2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\theta = \\cos^{-1}\\left(\\dfrac{gT^2}{\\pi^2R}\\right)^{1/2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\theta = \\cos^{-1}\\left(\\dfrac{\\pi^2R}{gT^2}\\right)^{1/2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\theta = \\sin^{-1}\\left(\\dfrac{\\pi^2R}{gT^2}\\right)^{1/2}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Speed: $v = \\dfrac{2\\pi R}{T}$.\n\n$$H = \\frac{v^2\\sin^2\\theta}{2g} = 4R \\;\\Rightarrow\\; \\sin^2\\theta = \\frac{8gR}{v^2} = \\frac{8gR\\,T^2}{4\\pi^2R^2} = \\frac{2gT^2}{\\pi^2R}$$\n\n$$\\theta = \\sin^{-1}\\left(\\frac{2gT^2}{\\pi^2R}\\right)^{1/2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

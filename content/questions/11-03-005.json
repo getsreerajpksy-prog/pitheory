@@ -1,0 +1,39 @@
+{
+  "id": "11-03-005",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A car starts from rest and accelerates at $5\\ \\text{m/s}^2$. At $t = 4$ s, a ball is dropped out of a window by a person sitting in the car. What is the velocity and acceleration of the ball at $t = 6$ s ? (Take $g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$20\\sqrt{2}$ m/s, $10\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$20$ m/s, $5\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$20$ m/s, $0$",
+      "image": ""
+    },
+    {
+      "text": "$20\\sqrt{2}$ m/s, $0$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At $t = 4$ s the car's speed is $5 \\times 4 = 20$ m/s, so the ball leaves the window with a horizontal velocity of $20$ m/s. Once released, the only force on it is gravity.\n\nAt $t = 6$ s (2 s after release):\n\nHorizontal velocity: $20$ m/s. Vertical velocity: $g \\times 2 = 20$ m/s.\n\n$$v = \\sqrt{20^2 + 20^2} = 20\\sqrt{2}\\ \\text{m/s}$$\n\nAcceleration $= g = 10\\ \\text{m/s}^2$ (downward).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

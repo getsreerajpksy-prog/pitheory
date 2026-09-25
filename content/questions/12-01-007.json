@@ -1,0 +1,39 @@
+{
+  "id": "12-01-007",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A dipole is placed in an electric field as shown. In which direction will it move ?",
+  "diagram": "/diagrams/12-01-007.png",
+  "diagram_alt": "Dipole with +q on the left and −q on the right in an electric field E whose lines spread out to the right",
+  "options": [
+    {
+      "text": "towards the right as its potential energy will increase.",
+      "image": ""
+    },
+    {
+      "text": "towards the left as its potential energy will increase.",
+      "image": ""
+    },
+    {
+      "text": "towards the right as its potential energy will decrease.",
+      "image": ""
+    },
+    {
+      "text": "towards the left as its potential energy will decrease.",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The field lines spread out to the right, so the field is non-uniform: stronger on the left and weaker on the right.\n\n$+q$ is on the left, where the field is stronger, and is pushed right with force $qE_{\\text{left}}$. $-q$ is on the right, where the field is weaker, and is pulled left with the smaller force $qE_{\\text{right}}$. The net force is to the right.\n\nEquivalently, $\\vec{p}$ (from $-q$ to $+q$) points to the left, opposite to $\\vec{E}$, so $U = -\\vec{p}\\cdot\\vec{E} = +pE$. Moving right into the weaker field lowers $U$. The dipole moves to the right and its potential energy decreases.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

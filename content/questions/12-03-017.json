@@ -1,0 +1,39 @@
+{
+  "id": "12-03-017",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "Column - I gives certain physical terms associated with flow of current through a metallic conductor. Column - II gives some mathematical relations involving electrical quantities. Match Column - I and Column - II with appropriate relations.\n\nColumn - I:\n(A) Drift Velocity\n(B) Electrical Resistivity\n(C) Relaxation Period\n(D) Current Density\n\nColumn - II:\n(P) $\\dfrac{m}{ne^2\\rho}$\n(Q) $nev_d$\n(R) $\\dfrac{eE}{m}\\tau$\n(S) $\\dfrac{E}{J}$",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "(A)-(R), (B)-(Q), (C)-(S), (D)-(P)",
+      "image": ""
+    },
+    {
+      "text": "(A)-(R), (B)-(S), (C)-(P), (D)-(Q)",
+      "image": ""
+    },
+    {
+      "text": "(A)-(R), (B)-(S), (C)-(Q), (D)-(P)",
+      "image": ""
+    },
+    {
+      "text": "(A)-(R), (B)-(P), (C)-(S), (D)-(Q)",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "(A) Drift velocity: $v_d = \\dfrac{eE}{m}\\tau$ (R).\n\n(B) Resistivity: $\\rho = \\dfrac{E}{J}$ (from $J = \\sigma E$) (S).\n\n(C) Relaxation time: from $\\rho = \\dfrac{m}{ne^2\\tau}$, $\\tau = \\dfrac{m}{ne^2\\rho}$ (P).\n\n(D) Current density: $J = nev_d$ (Q).\n\n(A)-(R), (B)-(S), (C)-(P), (D)-(Q).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

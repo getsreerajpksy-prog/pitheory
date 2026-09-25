@@ -1,0 +1,39 @@
+{
+  "id": "11-01-012",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "If E and G respectively denote energy and gravitational constant, then $\\dfrac{E}{G}$ has the dimensions of :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$[\\mathrm{M^2}][\\mathrm{L^{-2}}][\\mathrm{T^{-1}}]$",
+      "image": ""
+    },
+    {
+      "text": "$[\\mathrm{M^2}][\\mathrm{L^{-1}}][\\mathrm{T^0}]$",
+      "image": ""
+    },
+    {
+      "text": "$[\\mathrm{M}][\\mathrm{L^{-1}}][\\mathrm{T^{-1}}]$",
+      "image": ""
+    },
+    {
+      "text": "$[\\mathrm{M}][\\mathrm{L^0}][\\mathrm{T^0}]$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$[E] = [\\mathrm{ML^2T^{-2}}]$.\n\nFrom $F = \\dfrac{Gm_1m_2}{r^2}$: $[G] = \\dfrac{[\\mathrm{MLT^{-2}}][\\mathrm{L^2}]}{[\\mathrm{M^2}]} = [\\mathrm{M^{-1}L^3T^{-2}}]$.\n\n$$\\left[\\frac{E}{G}\\right] = \\frac{[\\mathrm{ML^2T^{-2}}]}{[\\mathrm{M^{-1}L^3T^{-2}}]} = [\\mathrm{M^2L^{-1}T^0}]$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

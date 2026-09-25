@@ -1,0 +1,39 @@
+{
+  "id": "11-12-007",
+  "chapter": "kinetic-theory",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "Match Column - I and Column - II and choose the correct match from the given choices.\n\nColumn - I:\n(A) Root mean square speed of gas molecules\n(B) Pressure exerted by ideal gas\n(C) Average kinetic energy of a molecule\n(D) Total internal energy of 1 mole of a diatomic gas\n\nColumn - II:\n(P) $\\dfrac{1}{3}nm\\bar{v}^2$\n(Q) $\\sqrt{\\dfrac{3RT}{M}}$\n(R) $\\dfrac{5}{2}RT$\n(S) $\\dfrac{3}{2}k_BT$",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "(A)-(R), (B)-(Q), (C)-(P), (D)-(S)",
+      "image": ""
+    },
+    {
+      "text": "(A)-(R), (B)-(P), (C)-(S), (D)-(Q)",
+      "image": ""
+    },
+    {
+      "text": "(A)-(Q), (B)-(R), (C)-(S), (D)-(P)",
+      "image": ""
+    },
+    {
+      "text": "(A)-(Q), (B)-(P), (C)-(S), (D)-(R)",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "(A) $v_{rms} = \\sqrt{\\dfrac{3RT}{M}}$ (Q).\n\n(B) Pressure: $P = \\dfrac{1}{3}nm\\bar{v}^2$ (P).\n\n(C) Average (translational) kinetic energy of a molecule: $\\dfrac{3}{2}k_BT$ (S).\n\n(D) Internal energy of 1 mole of a diatomic gas (5 degrees of freedom): $\\dfrac{5}{2}RT$ (R).\n\n(A)-(Q), (B)-(P), (C)-(S), (D)-(R).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

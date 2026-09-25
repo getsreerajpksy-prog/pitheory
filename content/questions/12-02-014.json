@@ -1,0 +1,39 @@
+{
+  "id": "12-02-014",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "The equivalent capacitance of the combination shown in the figure is :",
+  "diagram": "/diagrams/12-02-014.png",
+  "diagram_alt": "Two capacitors C in parallel between the terminals, with a third capacitor C connected between the two branches on their right-hand side",
+  "options": [
+    {
+      "text": "$3C/2$",
+      "image": ""
+    },
+    {
+      "text": "$3C$",
+      "image": ""
+    },
+    {
+      "text": "$2C$",
+      "image": ""
+    },
+    {
+      "text": "$C/2$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Both plates of the middle capacitor are connected, by plain wires, to the right-hand junction. It is short-circuited and stores no charge.\n\nThe remaining two capacitors $C$ are in parallel between the two terminals:\n$$C_{eq} = C + C = 2C$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

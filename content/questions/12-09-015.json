@@ -1,0 +1,39 @@
+{
+  "id": "12-09-015",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A point object is placed at a distance of $60$ cm from a convex lens of focal length $30$ cm. If a plane mirror were put perpendicular to the principal axis of the lens and at a distance of $40$ cm from it, the final image would be formed at a distance of :",
+  "diagram": "/diagrams/12-09-015.png",
+  "diagram_alt": "Point object 60 cm to the left of a convex lens, with a plane mirror 40 cm to the right of the lens",
+  "options": [
+    {
+      "text": "$20$ cm from the plane mirror, it would be a virtual image.",
+      "image": ""
+    },
+    {
+      "text": "$20$ cm from the lens, it would be a real image.",
+      "image": ""
+    },
+    {
+      "text": "$30$ cm from the lens, it would be a real image.",
+      "image": ""
+    },
+    {
+      "text": "$30$ cm from the plane mirror, it would be a virtual image.",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Lens: $u = -60$ cm, $f = +30$ cm:\n$$\\frac{1}{v} = \\frac{1}{30} - \\frac{1}{60} = \\frac{1}{60} \\;\\Rightarrow\\; v = 60\\ \\text{cm}$$\n\nThe rays would converge $60$ cm beyond the lens, but the mirror is only $40$ cm away. The image point lies $20$ cm behind the mirror and acts as a virtual object for it.\n\nA plane mirror forms the image as far in front as the object is behind: the reflected rays converge to a real image $20$ cm in front of the mirror, i.e. $20$ cm from the lens (between the lens and the mirror).\n\nThis is the intended answer: a real image $20$ cm from the lens.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

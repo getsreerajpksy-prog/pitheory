@@ -1,0 +1,39 @@
+{
+  "id": "11-07-010",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "The escape velocity from the Earth's surface is $v$. The escape velocity from the surface of another planet having a radius, four times that of Earth and same mass density is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4v$",
+      "image": ""
+    },
+    {
+      "text": "$v$",
+      "image": ""
+    },
+    {
+      "text": "$2v$",
+      "image": ""
+    },
+    {
+      "text": "$3v$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$v_e = \\sqrt{\\frac{2GM}{R}} = \\sqrt{\\frac{2G \\cdot \\frac{4}{3}\\pi R^3\\rho}{R}} = R\\sqrt{\\frac{8\\pi G\\rho}{3}} \\propto R$$\n\nWith the same density and $4$ times the radius: $v_e' = 4v$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

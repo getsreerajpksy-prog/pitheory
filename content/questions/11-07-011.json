@@ -1,0 +1,39 @@
+{
+  "id": "11-07-011",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A particle of mass 'm' is projected with a velocity $v = kV_e$ ($k < 1$) from the surface of the earth. ($V_e$ = escape velocity) The maximum height above the surface reached by the particle is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{Rk^2}{1 - k^2}$",
+      "image": ""
+    },
+    {
+      "text": "$R\\left(\\dfrac{k}{1 - k}\\right)^2$",
+      "image": ""
+    },
+    {
+      "text": "$R\\left(\\dfrac{k}{1 + k}\\right)^2$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{R^2k}{1 + k}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Energy conservation, with $V_e^2 = \\dfrac{2GM}{R}$:\n$$\\frac{1}{2}mk^2V_e^2 - \\frac{GMm}{R} = -\\frac{GMm}{R + h}$$\n$$k^2\\frac{GM}{R} = \\frac{GM}{R} - \\frac{GM}{R + h} = \\frac{GMh}{R(R + h)}$$\n$$k^2(R + h) = h \\;\\Rightarrow\\; h = \\frac{Rk^2}{1 - k^2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

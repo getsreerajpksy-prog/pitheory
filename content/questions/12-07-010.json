@@ -1,0 +1,39 @@
+{
+  "id": "12-07-010",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A step down transformer connected to an ac mains supply of $220$ V is made to operate at $11$ V, $44$ W lamp. Ignoring power losses in the transformer, what is the current in the primary circuit ?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.2$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.4$ A",
+      "image": ""
+    },
+    {
+      "text": "$2$ A",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "No losses, so primary power = $44$ W:\n$$I_p = \\frac{44}{220} = 0.2\\ \\text{A}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

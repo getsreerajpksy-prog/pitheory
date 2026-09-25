@@ -1,0 +1,39 @@
+{
+  "id": "12-03-016",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "The effective resistance of a parallel connection that consists of four wires of equal length, equal area of cross-section and same material is $0.25\\ \\Omega$. What will be the effective resistance if they are connected in series ?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$0.25\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$0.5\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$1\\ \\Omega$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Parallel: $\\dfrac{R}{4} = 0.25$, so each wire has $R = 1\\ \\Omega$.\n\nSeries: $4R = 4\\ \\Omega$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

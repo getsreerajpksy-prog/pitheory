@@ -1,0 +1,39 @@
+{
+  "id": "12-04-012",
+  "chapter": "moving-charges-and-magnetism",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "In the product\n\n$$\\vec{F} = q(\\vec{v} \\times \\vec{B}) = q\\vec{v} \\times \\left(B\\hat{i} + B\\hat{j} + B_0\\hat{k}\\right)$$\n\nFor $q = 1$ and $\\vec{v} = 2\\hat{i} + 4\\hat{j} + 6\\hat{k}$ and $\\vec{F} = 4\\hat{i} - 20\\hat{j} + 12\\hat{k}$\n\nWhat will be the complete expression for $\\vec{B}$ ?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$6\\hat{i} + 6\\hat{j} - 8\\hat{k}$",
+      "image": ""
+    },
+    {
+      "text": "$-8\\hat{i} - 8\\hat{j} - 6\\hat{k}$",
+      "image": ""
+    },
+    {
+      "text": "$-6\\hat{i} - 6\\hat{j} - 8\\hat{k}$",
+      "image": ""
+    },
+    {
+      "text": "$8\\hat{i} + 8\\hat{j} - 6\\hat{k}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\vec{v} \\times \\vec{B} = \\begin{vmatrix} \\hat{i} & \\hat{j} & \\hat{k} \\\\ 2 & 4 & 6 \\\\ B & B & B_0 \\end{vmatrix} = (4B_0 - 6B)\\hat{i} + (6B - 2B_0)\\hat{j} + (2B - 4B)\\hat{k}$$\n\nCompare with $\\vec{F} = 4\\hat{i} - 20\\hat{j} + 12\\hat{k}$:\n\n$\\hat{k}$: $-2B = 12$, so $B = -6$.\n\n$\\hat{i}$: $4B_0 + 36 = 4$, so $B_0 = -8$.\n\nCheck $\\hat{j}$: $6(-6) - 2(-8) = -36 + 16 = -20$. ✓\n\n$$\\vec{B} = -6\\hat{i} - 6\\hat{j} - 8\\hat{k}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

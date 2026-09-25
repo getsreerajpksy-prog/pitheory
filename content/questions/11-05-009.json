@@ -1,0 +1,39 @@
+{
+  "id": "11-05-009",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A particle is released from height S from the surface of the Earth. At a certain height its kinetic energy is three times its potential energy. The height from the surface of earth and the speed of the particle at that instant are respectively :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{S}{4},\\ \\sqrt{\\dfrac{3gS}{2}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{S}{4},\\ \\dfrac{3gS}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{S}{4},\\ \\dfrac{\\sqrt{3gS}}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{S}{2},\\ \\dfrac{\\sqrt{3gS}}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Total energy $= mgS$. When $K = 3U$, $K + U = 4U = mgS$, so\n$$U = mgh = \\frac{mgS}{4} \\;\\Rightarrow\\; h = \\frac{S}{4}$$\n\n$$K = \\frac{1}{2}mv^2 = \\frac{3mgS}{4} \\;\\Rightarrow\\; v = \\sqrt{\\frac{3gS}{2}}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

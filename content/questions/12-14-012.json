@@ -1,0 +1,39 @@
+{
+  "id": "12-14-012",
+  "chapter": "semiconductor-electronics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "The electron concentration in an n-type semiconductor is the same as hole concentration in a p-type semiconductor. An external field (electric) is applied across each of them. Compare the currents in them.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "No current will flow in p-type, current will only flow in n-type.",
+      "image": ""
+    },
+    {
+      "text": "current in n-type = current in p-type.",
+      "image": ""
+    },
+    {
+      "text": "current in p-type > current in n-type.",
+      "image": ""
+    },
+    {
+      "text": "current in n-type > current in p-type.",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The current is $I = neAv_d = neA\\mu E$. The carrier concentrations are equal, but electrons have a higher mobility than holes ($\\mu_e > \\mu_h$).\n\nSo the current in the n-type semiconductor is greater.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

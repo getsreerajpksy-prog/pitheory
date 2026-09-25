@@ -1,0 +1,39 @@
+{
+  "id": "12-13-004",
+  "chapter": "nuclei",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A nucleus with mass number $240$ breaks into two fragments each of mass number $120$, the binding energy per nucleon of unfragmented nuclei is $7.6$ MeV while that of fragments is $8.5$ MeV. The total gain in the Binding Energy in the process is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$216$ MeV",
+      "image": ""
+    },
+    {
+      "text": "$0.9$ MeV",
+      "image": ""
+    },
+    {
+      "text": "$9.4$ MeV",
+      "image": ""
+    },
+    {
+      "text": "$804$ MeV",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Initial binding energy: $240 \\times 7.6 = 1824$ MeV.\n\nFinal binding energy: $2 \\times 120 \\times 8.5 = 2040$ MeV.\n\nGain: $2040 - 1824 = 216$ MeV.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

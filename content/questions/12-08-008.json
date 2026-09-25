@@ -1,0 +1,39 @@
+{
+  "id": "12-08-008",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A capacitor of capacitance 'C', is connected across an ac source of voltage V, given by\n\n$V = V_0\\sin\\omega t$\n\nThe displacement current between the plates of the capacitor, would then be given by :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$I_d = V_0\\omega C\\sin\\omega t$",
+      "image": ""
+    },
+    {
+      "text": "$I_d = V_0\\omega C\\cos\\omega t$",
+      "image": ""
+    },
+    {
+      "text": "$I_d = \\dfrac{V_0}{\\omega C}\\cos\\omega t$",
+      "image": ""
+    },
+    {
+      "text": "$I_d = \\dfrac{V_0}{\\omega C}\\sin\\omega t$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The displacement current equals the conduction current that charges the plates:\n$$I_d = \\frac{dq}{dt} = C\\frac{dV}{dt} = CV_0\\omega\\cos\\omega t$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

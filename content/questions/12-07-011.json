@@ -1,0 +1,39 @@
+{
+  "id": "12-07-011",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A series LCR circuit containing $5.0$ H inductor, $80\\ \\mu$F capacitor and $40\\ \\Omega$ resistor is connected to $230$ V variable frequency ac source. The angular frequencies of the source at which power transferred to the circuit is half the power at the resonant angular frequency are likely to be :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$42$ rad/s and $58$ rad/s",
+      "image": ""
+    },
+    {
+      "text": "$25$ rad/s and $75$ rad/s",
+      "image": ""
+    },
+    {
+      "text": "$50$ rad/s and $25$ rad/s",
+      "image": ""
+    },
+    {
+      "text": "$46$ rad/s and $54$ rad/s",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Resonance:\n$$\\omega_0 = \\frac{1}{\\sqrt{LC}} = \\frac{1}{\\sqrt{5 \\times 80 \\times 10^{-6}}} = \\frac{1}{0.02} = 50\\ \\text{rad/s}$$\n\nThe half-power frequencies are $\\omega_0 \\pm \\dfrac{R}{2L}$:\n$$\\frac{R}{2L} = \\frac{40}{10} = 4\\ \\text{rad/s}$$\n\n$$\\omega = 50 \\pm 4 = 46\\ \\text{rad/s and } 54\\ \\text{rad/s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

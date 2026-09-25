@@ -1,0 +1,39 @@
+{
+  "id": "12-13-006",
+  "chapter": "nuclei",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A radioactive nucleus $^A_ZX$ undergoes spontaneous decay in the sequence\n\n$$^A_ZX \\rightarrow {}_{Z-1}B \\rightarrow {}_{Z-3}C \\rightarrow {}_{Z-2}D$$\n\nwhere Z is the atomic number of element X. The possible decay particles in the sequence are :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\beta^-,\\ \\alpha,\\ \\beta^+$",
+      "image": ""
+    },
+    {
+      "text": "$\\alpha,\\ \\beta^-,\\ \\beta^+$",
+      "image": ""
+    },
+    {
+      "text": "$\\alpha,\\ \\beta^+,\\ \\beta^-$",
+      "image": ""
+    },
+    {
+      "text": "$\\beta^+,\\ \\alpha,\\ \\beta^-$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$Z \\to Z - 1$: the atomic number drops by 1, which is $\\beta^+$ emission.\n\n$Z - 1 \\to Z - 3$: the atomic number drops by 2, which is $\\alpha$ emission.\n\n$Z - 3 \\to Z - 2$: the atomic number rises by 1, which is $\\beta^-$ emission.\n\nSequence: $\\beta^+$, $\\alpha$, $\\beta^-$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-03-018",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "Three resistors having resistances $r_1$, $r_2$ and $r_3$ are connected as shown in the given circuit. The ratio $\\dfrac{i_3}{i_1}$ of currents in terms of resistances used in the circuit is :",
+  "diagram": "/diagrams/12-03-018.png",
+  "diagram_alt": "Current i1 from A through r1, then splitting into i2 through r2 and i3 through r3 in parallel, rejoining towards B",
+  "options": [
+    {
+      "text": "$\\dfrac{r_2}{r_1 + r_3}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{r_1}{r_2 + r_3}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{r_2}{r_2 + r_3}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{r_1}{r_1 + r_2}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$i_1$ splits between $r_2$ and $r_3$, which are in parallel. The current divides in inverse ratio of resistance:\n$$i_3 = i_1\\frac{r_2}{r_2 + r_3} \\;\\Rightarrow\\; \\frac{i_3}{i_1} = \\frac{r_2}{r_2 + r_3}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

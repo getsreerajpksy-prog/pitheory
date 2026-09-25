@@ -1,0 +1,39 @@
+{
+  "id": "11-10-004",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A cup of coffee cools from $90°$C to $80°$C in t minutes, when the room temperature is $20°$C. The time taken by a similar cup of coffee to cool from $80°$C to $60°$C at a room temperature same at $20°$C is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{5}{13}t$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{13}{10}t$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{13}{5}t$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{10}{13}t$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Newton's law of cooling (average form): $\\dfrac{\\Delta T}{t} = K(T_{avg} - T_0)$.\n\nFirst case: $\\dfrac{10}{t} = K(85 - 20) = 65K$.\n\nSecond case: $\\dfrac{20}{t'} = K(70 - 20) = 50K$.\n\nDividing:\n$$\\frac{20/t'}{10/t} = \\frac{50}{65} \\;\\Rightarrow\\; \\frac{2t}{t'} = \\frac{10}{13} \\;\\Rightarrow\\; t' = \\frac{13}{5}t$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "11-06-013",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A uniform rod of length $200$ cm and mass $500$ g is balanced on a wedge placed at $40$ cm mark. A mass of $2$ kg is suspended from the rod at $20$ cm and another unknown mass 'm' is suspended from the rod at $160$ cm mark as shown in the figure. Find the value of 'm' such that the rod is in equilibrium. ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "/diagrams/11-06-013.png",
+  "diagram_alt": "Rod 200 cm long on a wedge at the 40 cm mark, with 2 kg hanging at 20 cm and mass m at 160 cm",
+  "options": [
+    {
+      "text": "$\\dfrac{1}{12}$ kg",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{2}$ kg",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{3}$ kg",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{6}$ kg",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Take torques about the wedge at the $40$ cm mark.\n\nAnticlockwise: the $2$ kg mass at $20$ cm, lever arm $20$ cm: $2g \\times 20$.\n\nClockwise: the rod's weight at its centre ($100$ cm), lever arm $60$ cm: $0.5g \\times 60$. And $m$ at $160$ cm, lever arm $120$ cm: $mg \\times 120$.\n\n$$2 \\times 20 = 0.5 \\times 60 + 120m \\;\\Rightarrow\\; 40 = 30 + 120m \\;\\Rightarrow\\; m = \\frac{1}{12}\\ \\text{kg}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

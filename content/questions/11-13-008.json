@@ -1,0 +1,39 @@
+{
+  "id": "11-13-008",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A body is executing simple harmonic motion with frequency 'n', the frequency of its potential energy is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4$n",
+      "image": ""
+    },
+    {
+      "text": "n",
+      "image": ""
+    },
+    {
+      "text": "$2$n",
+      "image": ""
+    },
+    {
+      "text": "$3$n",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$x = A\\sin(\\omega t)$, so\n$$U = \\frac{1}{2}kx^2 = \\frac{1}{2}kA^2\\sin^2\\omega t = \\frac{1}{4}kA^2(1 - \\cos 2\\omega t)$$\n\nThe potential energy oscillates at angular frequency $2\\omega$, i.e. with frequency $2n$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

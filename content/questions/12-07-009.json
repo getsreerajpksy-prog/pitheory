@@ -1,0 +1,39 @@
+{
+  "id": "12-07-009",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "An inductor of inductance L, a capacitor of capacitance C and a resistor of resistance 'R' are connected in series to an ac source of potential difference 'V' volts as shown in figure.\n\nPotential difference across L, C and R is $40$ V, $10$ V and $40$ V, respectively. The amplitude of current flowing through LCR series circuit is $10\\sqrt{2}$ A. The impedance of the circuit is :",
+  "diagram": "/diagrams/12-07-009.png",
+  "diagram_alt": "Series LCR circuit across an ac source V, with 40 V across L, 10 V across C and 40 V across R",
+  "options": [
+    {
+      "text": "$5\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$4\\sqrt{2}\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$5/\\sqrt{2}\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$4\\ \\Omega$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The given voltages are rms values. Source voltage:\n$$V = \\sqrt{V_R^2 + (V_L - V_C)^2} = \\sqrt{40^2 + (40 - 10)^2} = 50\\ \\text{V}$$\n\nrms current: $I_{rms} = \\dfrac{10\\sqrt{2}}{\\sqrt{2}} = 10$ A.\n\n$$Z = \\frac{V}{I_{rms}} = \\frac{50}{10} = 5\\ \\Omega$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-04-011",
+  "chapter": "moving-charges-and-magnetism",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "An infinitely long straight conductor carries a current of $5$ A as shown. An electron is moving with a speed of $10^5$ m/s parallel to the conductor. The perpendicular distance between the electron and the conductor is $20$ cm at an instant. Calculate the magnitude of the force experienced by the electron at that instant.",
+  "diagram": "/diagrams/12-04-011.png",
+  "diagram_alt": "Electron moving at 10^5 m/s parallel to a long wire PQ carrying 5 A, at a distance of 20 cm",
+  "options": [
+    {
+      "text": "$8 \\times 10^{-20}$ N",
+      "image": ""
+    },
+    {
+      "text": "$4 \\times 10^{-20}$ N",
+      "image": ""
+    },
+    {
+      "text": "$8\\pi \\times 10^{-20}$ N",
+      "image": ""
+    },
+    {
+      "text": "$4\\pi \\times 10^{-20}$ N",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Field of the wire at $20$ cm:\n$$B = \\frac{\\mu_0 I}{2\\pi r} = \\frac{2 \\times 10^{-7} \\times 5}{0.2} = 5 \\times 10^{-6}\\ \\text{T}$$\n\nThe electron moves parallel to the wire, perpendicular to $B$:\n$$F = evB = 1.6 \\times 10^{-19} \\times 10^5 \\times 5 \\times 10^{-6} = 8 \\times 10^{-20}\\ \\text{N}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

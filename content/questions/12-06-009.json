@@ -1,0 +1,39 @@
+{
+  "id": "12-06-009",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "Two conducting circular loops of radii $R_1$ and $R_2$ are placed in the same plane with their centres coinciding. If $R_1 >> R_2$, the mutual inductance M between them will be directly proportional to :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{R_2^2}{R_1}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{R_1}{R_2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{R_2}{R_1}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{R_1^2}{R_2}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "A current $I$ in the large loop gives a field $B = \\dfrac{\\mu_0 I}{2R_1}$ at the centre, which is nearly uniform over the small loop.\n\nFlux through the small loop:\n$$\\phi = \\frac{\\mu_0 I}{2R_1}\\pi R_2^2$$\n\n$$M = \\frac{\\phi}{I} = \\frac{\\mu_0\\pi R_2^2}{2R_1} \\propto \\frac{R_2^2}{R_1}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

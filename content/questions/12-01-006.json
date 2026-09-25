@@ -1,0 +1,39 @@
+{
+  "id": "12-01-006",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "Polar molecules are the molecules :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "having a permanent electric dipole moment.",
+      "image": ""
+    },
+    {
+      "text": "having zero dipole moment.",
+      "image": ""
+    },
+    {
+      "text": "acquire a dipole moment only in the presence of electric field due to displacement of charges.",
+      "image": ""
+    },
+    {
+      "text": "acquire a dipole moment only when magnetic field is absent.",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "In a polar molecule (for example H$_2$O or HCl), the centres of positive and negative charge do not coincide even without an external field, so it has a permanent electric dipole moment.\n\nNon-polar molecules have zero dipole moment and acquire one (induced) only in an electric field.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

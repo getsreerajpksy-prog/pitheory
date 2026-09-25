@@ -1,0 +1,39 @@
+{
+  "id": "11-02-009",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A small block slides down on a smooth inclined plane, starting from rest at time $t = 0$. Let $S_n$ be the distance travelled by the block in the interval $t = n - 1$ to $t = n$. Then, the ratio $\\dfrac{S_n}{S_{n+1}}$ is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{2n}{2n - 1}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2n - 1}{2n}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2n - 1}{2n + 1}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2n + 1}{2n - 1}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The block starts from rest with constant acceleration $a$. Distance in the $n$th second:\n$$S_n = \\frac{a}{2}\\left[n^2 - (n - 1)^2\\right] = \\frac{a}{2}(2n - 1)$$\n\n$$\\frac{S_n}{S_{n+1}} = \\frac{2n - 1}{2(n + 1) - 1} = \\frac{2n - 1}{2n + 1}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

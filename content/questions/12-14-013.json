@@ -1,0 +1,39 @@
+{
+  "id": "12-14-013",
+  "chapter": "semiconductor-electronics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "For the given circuit, the input digital signals are applied at the terminals A, B and C. What would be the output at the terminal $y$ ?",
+  "diagram": "/diagrams/12-14-013.png",
+  "diagram_alt": "Input waveforms A, B and C against time t1 to t6, and a circuit where an AND gate (A, B) and a NAND gate (B, C) feed an OR gate with output y",
+  "options": [
+    {
+      "text": "",
+      "image": "/diagrams/12-14-013-A.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-14-013-B.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-14-013-C.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/12-14-013-D.png"
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The circuit gives\n$$y = (A \\cdot B) + \\overline{(B \\cdot C)}$$\n(an AND gate on A, B and a NAND gate on B, C, both feeding an OR gate).\n\nFrom the waveforms, B is high only between $t_2$ and $t_4$, and during exactly that interval C is low. So $B$ and $C$ are never high together: $B \\cdot C = 0$ at all times, and the NAND output $\\overline{B \\cdot C} = 1$ throughout.\n\nAn OR gate with one input permanently at 1 gives $y = 1$ at all times: a constant $5$ V, which is option (3).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

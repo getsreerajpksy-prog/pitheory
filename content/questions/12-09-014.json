@@ -1,0 +1,39 @@
+{
+  "id": "12-09-014",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A lens of large focal length and large aperture is best suited as an objective of an astronomical telescope since :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "a large aperture contributes to the quality and visibility of the images.",
+      "image": ""
+    },
+    {
+      "text": "a large area of the objective ensures better light gathering power.",
+      "image": ""
+    },
+    {
+      "text": "a large aperture provides a better resolution.",
+      "image": ""
+    },
+    {
+      "text": "all of the above.",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "A large aperture collects more light (brighter images of faint objects) and gives better resolving power (resolution $\\propto D/\\lambda$). Both improve the quality and visibility of the image, and a large focal length gives a high magnification ($f_o/f_e$).\n\nAll the statements are true.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

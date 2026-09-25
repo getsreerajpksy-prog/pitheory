@@ -1,0 +1,39 @@
+{
+  "id": "12-08-009",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "For a plane electromagnetic wave propagating in $x$-direction, which one of the following combination gives the correct possible directions for electric field (E) and magnetic field (B) respectively ?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$-\\hat{j} + \\hat{k},\\ -\\hat{j} + \\hat{k}$",
+      "image": ""
+    },
+    {
+      "text": "$\\hat{j} + \\hat{k},\\ \\hat{j} + \\hat{k}$",
+      "image": ""
+    },
+    {
+      "text": "$-\\hat{j} + \\hat{k},\\ -\\hat{j} - \\hat{k}$",
+      "image": ""
+    },
+    {
+      "text": "$\\hat{j} + \\hat{k},\\ -\\hat{j} - \\hat{k}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\vec{E}$ and $\\vec{B}$ must be perpendicular to each other, and $\\vec{E} \\times \\vec{B}$ must point along $+\\hat{i}$.\n\nOptions (1), (2) and (4) have $\\vec{E}$ parallel or antiparallel to $\\vec{B}$, so they are ruled out.\n\nOption (3): $(-\\hat{j} + \\hat{k})\\cdot(-\\hat{j} - \\hat{k}) = 1 - 1 = 0$, so they are perpendicular. And\n$$(-\\hat{j} + \\hat{k}) \\times (-\\hat{j} - \\hat{k}) = \\hat{j}\\times\\hat{k} - \\hat{k}\\times\\hat{j} = \\hat{i} + \\hat{i} = 2\\hat{i}$$\nwhich is along $+x$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-02-013",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "Two charged spherical conductors of radius $R_1$ and $R_2$ are connected by a wire. Then the ratio of surface charge densities of the spheres ($\\sigma_1/\\sigma_2$) is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{R_1^2}{R_2^2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{R_1}{R_2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{R_2}{R_1}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{\\dfrac{R_1}{R_2}}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Connected conductors reach the same potential:\n$$\\frac{q_1}{4\\pi\\epsilon_0R_1} = \\frac{q_2}{4\\pi\\epsilon_0R_2} \\;\\Rightarrow\\; \\frac{q_1}{q_2} = \\frac{R_1}{R_2}$$\n\n$$\\frac{\\sigma_1}{\\sigma_2} = \\frac{q_1/4\\pi R_1^2}{q_2/4\\pi R_2^2} = \\frac{R_1}{R_2}\\cdot\\frac{R_2^2}{R_1^2} = \\frac{R_2}{R_1}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

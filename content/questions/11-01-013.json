@@ -1,0 +1,39 @@
+{
+  "id": "11-01-013",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A screw gauge gives the following readings when used to measure the diameter of a wire\n\nMain scale reading : $0$ mm\n\nCircular scale reading : $52$ divisions\n\nGiven that $1$ mm on main scale corresponds to $100$ divisions on the circular scale. The diameter of the wire from the above data is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.052$ cm",
+      "image": ""
+    },
+    {
+      "text": "$0.52$ cm",
+      "image": ""
+    },
+    {
+      "text": "$0.026$ cm",
+      "image": ""
+    },
+    {
+      "text": "$0.26$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Least count $= \\dfrac{1\\ \\text{mm}}{100} = 0.01$ mm.\n\n$$d = 0 + 52 \\times 0.01 = 0.52\\ \\text{mm} = 0.052\\ \\text{cm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

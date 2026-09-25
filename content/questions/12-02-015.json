@@ -1,0 +1,39 @@
+{
+  "id": "12-02-015",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "Twenty seven drops of same size are charged at $220$ V each. They combine to form a bigger drop. Calculate the potential of the bigger drop.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1980$ V",
+      "image": ""
+    },
+    {
+      "text": "$660$ V",
+      "image": ""
+    },
+    {
+      "text": "$1320$ V",
+      "image": ""
+    },
+    {
+      "text": "$1520$ V",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Volume is conserved: $27 \\cdot \\dfrac{4}{3}\\pi r^3 = \\dfrac{4}{3}\\pi R^3$, so $R = 3r$.\n\nCharge adds: $Q = 27q$.\n\n$$V' = \\frac{kQ}{R} = \\frac{27kq}{3r} = 9 \\times \\frac{kq}{r} = 9 \\times 220 = 1980\\ \\text{V}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

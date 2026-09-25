@@ -1,0 +1,39 @@
+{
+  "id": "11-04-010",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2021",
+  "question": "A ball of mass $0.15$ kg is dropped from a height $10$ m, strikes the ground and rebounds to the same height. The magnitude of impulse imparted to the ball is ($g = 10\\ \\text{m/s}^2$) nearly :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.4$ kg m/s",
+      "image": ""
+    },
+    {
+      "text": "$0$ kg m/s",
+      "image": ""
+    },
+    {
+      "text": "$4.2$ kg m/s",
+      "image": ""
+    },
+    {
+      "text": "$2.1$ kg m/s",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Speed at impact: $v = \\sqrt{2gh} = \\sqrt{200} \\approx 14.1$ m/s. It rebounds to the same height, so it leaves with the same speed upward.\n\n$$J = m(v + v) = 0.15 \\times 2 \\times 14.1 \\approx 4.2\\ \\text{kg m/s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}
