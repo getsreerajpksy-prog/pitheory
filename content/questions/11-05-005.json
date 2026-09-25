@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "At P the bob is at height $l\\sin\\theta$ above O, i.e. $l(1 + \\sin\\theta)$ above the lowest point.\n\nThe string becomes slack when the tension becomes zero. Then the radial component of gravity alone provides the centripetal force:\n$$mg\\sin\\theta = \\frac{mv^2}{l} \\;\\Rightarrow\\; v^2 = gl\\sin\\theta$$\n\nEnergy conservation from the lowest point to P:\n$$v_0^2 = v^2 + 2gl(1 + \\sin\\theta) = gl\\sin\\theta + 2gl + 2gl\\sin\\theta = gl(2 + 3\\sin\\theta)$$\n\n$$\\frac{v}{v_0} = \\left(\\frac{\\sin\\theta}{2 + 3\\sin\\theta}\\right)^{1/2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
