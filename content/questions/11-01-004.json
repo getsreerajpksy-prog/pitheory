@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Stefan-Boltzmann constant ($E = \\sigma T^4$, energy per unit area per unit time):\n$$[\\sigma_s] = \\frac{[\\mathrm{ML^2T^{-2}}]}{[\\mathrm{L^2}][\\mathrm{T}][\\mathrm{K^4}]} = [\\mathrm{MT^{-3}K^{-4}}]$$\n\nBoltzmann constant (energy per kelvin): $[k_B] = [\\mathrm{ML^2T^{-2}K^{-1}}]$\n\nWien's constant ($\\lambda_m T = b$): $[b] = [\\mathrm{LK}]$\n\n$$[\\sigma_s k_B^{-1} b] = \\frac{[\\mathrm{MT^{-3}K^{-4}}][\\mathrm{LK}]}{[\\mathrm{ML^2T^{-2}K^{-1}}]} = [\\mathrm{L^{-1}T^{-1}K^{-2}}]$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
