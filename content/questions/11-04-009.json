@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Static friction is the only horizontal force on the body, so it must supply $ma$:\n$$ma \\le \\mu_s mg \\;\\Rightarrow\\; a_{max} = \\mu_s g = 0.15 \\times 10 = 1.5\\ \\text{m s}^{-2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
