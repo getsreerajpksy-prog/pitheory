@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "A current $I$ in the large loop gives a field $B = \\dfrac{\\mu_0 I}{2R_1}$ at the centre, which is nearly uniform over the small loop.\n\nFlux through the small loop:\n$$\\phi = \\frac{\\mu_0 I}{2R_1}\\pi R_2^2$$\n\n$$M = \\frac{\\phi}{I} = \\frac{\\mu_0\\pi R_2^2}{2R_1} \\propto \\frac{R_2^2}{R_1}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
