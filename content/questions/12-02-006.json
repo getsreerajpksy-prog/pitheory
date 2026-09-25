@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The four outer capacitors form a Wheatstone bridge with the middle $2\\ \\mu$F capacitor as the bridge. All four arms are equal ($2\\ \\mu$F each), so the bridge is balanced: the two middle junctions are at the same potential and the middle capacitor has no charge.\n\nEach outer branch is two $2\\ \\mu$F capacitors in series: $1\\ \\mu$F.\n\nTwo such branches in parallel:\n$$C_{AB} = 1 + 1 = 2\\ \\mu\\text{F}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
