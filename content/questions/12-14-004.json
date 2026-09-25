@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "At $t = 15$ ms: $100\\pi \\times 0.015 = 1.5\\pi$, and $\\sin(1.5\\pi) = -1$. The input is at its negative peak, i.e. in the negative half cycle.\n\nIn a centre-tap full wave rectifier, $D_1$ conducts during the positive half cycle and $D_2$ during the negative half cycle.\n\nSo at $t = 15$ ms, $D_1$ is reverse biased and $D_2$ is forward biased.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
