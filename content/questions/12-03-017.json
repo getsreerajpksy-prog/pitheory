@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "(A) Drift velocity: $v_d = \\dfrac{eE}{m}\\tau$ (R).\n\n(B) Resistivity: $\\rho = \\dfrac{E}{J}$ (from $J = \\sigma E$) (S).\n\n(C) Relaxation time: from $\\rho = \\dfrac{m}{ne^2\\tau}$, $\\tau = \\dfrac{m}{ne^2\\rho}$ (P).\n\n(D) Current density: $J = nev_d$ (Q).\n\n(A)-(R), (B)-(S), (C)-(P), (D)-(Q).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
