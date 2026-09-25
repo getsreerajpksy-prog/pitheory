@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The Coulomb force provides the centripetal force:\n$$\\frac{mv^2}{r} = \\frac{1}{4\\pi\\epsilon_0}\\frac{e^2}{r^2} \\;\\Rightarrow\\; r = \\frac{1}{4\\pi\\epsilon_0}\\frac{e^2}{mv^2}$$\n\n$$r = \\frac{9 \\times 10^9 \\times (1.6 \\times 10^{-19})^2}{9 \\times 10^{-31} \\times 25.6 \\times 10^{10}} = \\frac{9 \\times 2.56 \\times 10^{-29}}{9 \\times 2.56 \\times 10^{-20}} = 10^{-9}\\ \\text{m}$$\n\nSo $x = 1$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

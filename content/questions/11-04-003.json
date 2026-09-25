@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Wear and tear is minimum when no friction is needed, i.e. at the optimum banking speed:\n$$\\tan\\theta = \\frac{v^2}{rg} = \\frac{10^2}{50 \\times 10} = \\frac{1}{5}$$\n\n$$\\theta = \\tan^{-1}\\left(\\frac{1}{5}\\right)$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

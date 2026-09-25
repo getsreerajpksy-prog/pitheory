@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Mass defect:\n$$\\Delta m = 238.050 - (234.043 + 4.003) = 0.004\\ \\text{u}$$\n\n$$Q = \\Delta m \\times 931.5\\ \\text{MeV} = 0.004 \\times 931.5 = 3.726\\ \\text{MeV} = 3726\\ \\text{keV}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

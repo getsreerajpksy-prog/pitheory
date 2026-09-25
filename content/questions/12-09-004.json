@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Lens $L_1$ ($f = +10$ cm, $u = -30$ cm):\n$$\\frac{1}{v_1} = \\frac{1}{f} + \\frac{1}{u} = \\frac{1}{10} - \\frac{1}{30} = \\frac{1}{15} \\;\\Rightarrow\\; v_1 = +15\\ \\text{cm}$$\n\nThis image is $15$ cm to the right of $L_1$, i.e. $15 - 3 = 12$ cm to the right of $L_2$. It acts as a virtual object for $L_2$: $u_2 = +12$ cm.\n\nLens $L_2$ ($f = -10$ cm):\n$$\\frac{1}{v_2} = -\\frac{1}{10} + \\frac{1}{12} = -\\frac{1}{60} \\;\\Rightarrow\\; v_2 = -60\\ \\text{cm}$$\n\nThe final image is $60$ cm to the left of the concave lens.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$E = 20\\ \\text{eV} = 20 \\times 1.6 \\times 10^{-19} = 3.2 \\times 10^{-18}$ J.\n\nPhoton: $p_{Ph} = \\dfrac{E}{c} = \\dfrac{3.2 \\times 10^{-18}}{3 \\times 10^8} = 1.07 \\times 10^{-26}\\ \\text{kg m s}^{-1}$\n\nElectron (non-relativistic): $p_e = \\sqrt{2mE} = \\sqrt{2 \\times 9 \\times 10^{-31} \\times 3.2 \\times 10^{-18}} = \\sqrt{5.76 \\times 10^{-48}} = 2.4 \\times 10^{-24}\\ \\text{kg m s}^{-1}$\n\n$$\\frac{p_e}{p_{Ph}} = \\frac{\\sqrt{2mE}}{E/c} = c\\sqrt{\\frac{2m}{E}} = \\frac{2.4 \\times 10^{-24} \\times 3 \\times 10^8}{3.2 \\times 10^{-18}} = 225$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

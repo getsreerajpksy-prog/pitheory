@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "For a complete cycle, $\\Delta U = 0$, so the net heat supplied equals the net work done by the gas:\n$$Q = W$$\n\nThe cycle $a \\to b \\to c \\to d \\to a$ is traversed clockwise on the $P$-$V$ diagram, so the work is positive and equals the enclosed area:\n$$W = (300 - 100) \\times (5 - 2) = 200 \\times 3 = 600\\ \\text{J}$$\n\nTotal (net) heat supplied $= 600$ J.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

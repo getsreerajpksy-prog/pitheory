@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "In a one-dimensional elastic collision between equal masses, the velocities are exchanged. So A stops and B moves off with $10\\ \\text{m s}^{-1}$.\n\nEnergy conservation for the bob:\n$$h = \\frac{v^2}{2g} = \\frac{10^2}{2 \\times 10} = 5\\ \\text{m}$$\n\nSince $h = 5$ m is less than the string length ($10$ m), the string stays taut and the bob simply swings up to this height.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

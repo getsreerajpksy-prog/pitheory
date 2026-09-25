@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Each vibrational mode contributes 2 degrees of freedom (kinetic and potential energy). The total number of degrees of freedom is\n$$F = 3 + 3 + 2f$$\n\n$$\\gamma = 1 + \\frac{2}{F} = \\frac{8}{7} \\;\\Rightarrow\\; \\frac{2}{F} = \\frac{1}{7} \\;\\Rightarrow\\; F = 14$$\n\n$$6 + 2f = 14 \\;\\Rightarrow\\; f = 4$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

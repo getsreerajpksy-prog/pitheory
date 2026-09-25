@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The object is at the centre of Q, so its real depth from either face is $2.5$ cm.\n\nFor near-normal viewing, apparent depth $= \\text{real depth} \\times \\dfrac{n_{\\text{observer}}}{n_{\\text{object}}}$.\n\nFrom P: $h_1 = 2.5 \\times \\dfrac{1}{1.25} = 2$ cm\n\nFrom R: $h_2 = 2.5 \\times \\dfrac{1.5}{1.25} = 3$ cm\n\n$$|h_1 - h_2| = 1\\ \\text{cm}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

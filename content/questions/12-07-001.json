@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$\\omega = 2 \\times 10^3\\ \\text{rad s}^{-1}$.\n\n$$X_L = \\omega L = 2000 \\times 10 \\times 10^{-3} = 20\\ \\Omega$$\n$$X_C = \\frac{1}{\\omega C} = \\frac{1}{2000 \\times 25 \\times 10^{-6}} = 20\\ \\Omega$$\n\n$X_L = X_C$, so the circuit is at resonance and $Z = R = 100\\ \\Omega$.\n\n$$I_0 = \\frac{V_0}{Z} = \\frac{220}{100} = 2.2\\ \\text{A}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

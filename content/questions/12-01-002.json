@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Point A is inside the cavity, near the charge Q. The field there comes from Q and the induced charge on the cavity wall, and it is not zero: $E_A \\neq 0$.\n\nCharge $-Q$ is induced on the cavity wall and $+Q$ on the outer surface. The conductor shields the outside from the cavity, so the charge $+Q$ on the outer surface spreads uniformly, whatever the position of Q inside.\n\nOutside, the field is therefore that of a point charge $Q$ at the centre of the sphere, $E = \\dfrac{Q}{4\\pi\\epsilon_0 r^2}$. B and C are at equal distances from the centre, so $E_B = E_C$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

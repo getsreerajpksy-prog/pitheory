@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The frequency of the light does not change, only its power (intensity).\n\nPhotocurrent is proportional to the number of photons arriving per second, which is proportional to the power. So $I$ decreases linearly with time.\n\nThe stopping potential depends only on the frequency: $e|V| = h\\nu - \\phi$. So $|V|$ stays constant.\n\nThe graph with $I$ decreasing linearly and $|V|$ constant is option (1).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

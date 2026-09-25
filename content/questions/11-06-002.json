@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "By symmetry, the two particles are always at angles $\\theta$ and $\\pi - \\theta$, mirror images about the line AB. Each has speed $v$ along the tangent.\n\nA particle at angle $\\theta$ moving along the circle has velocity components $(\\pm v\\sin\\theta,\\ -v\\cos\\theta)$. For the mirror-image particle, the components along the horizontal diameter are opposite and cancel, while the components along AB add:\n$$P = 2mv\\,|\\cos\\theta|$$\n\nAs $\\theta$ goes from $\\dfrac{\\pi}{2}$ to $-\\dfrac{\\pi}{2}$:\n- $P = 0$ at the start (at A the velocities are equal and opposite),\n- $P$ is maximum ($2mv$) at $\\theta = 0$,\n- $P = 0$ again at B.\n\nSo $P$ rises from zero to a maximum and falls back to zero along a smooth $\\cos\\theta$ curve, which is option (3).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

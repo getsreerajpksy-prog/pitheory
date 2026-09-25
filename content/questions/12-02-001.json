@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$P$ and $Q$ are in series (equivalent $C/2$), and this combination is in parallel with $S$ across the battery.\n\nCharge on $P$ (and $Q$): $q = \\dfrac{C}{2}V$, so\n$$U_P = \\frac{q^2}{2C} = \\frac{C^2V^2/4}{2C} = \\frac{CV^2}{8}$$\n\nEquivalent capacitance: $C_{eq} = \\dfrac{C}{2} + C = \\dfrac{3C}{2}$, so\n$$U_T = \\frac{1}{2}\\cdot\\frac{3C}{2}V^2 = \\frac{3CV^2}{4}$$\n\n$$\\frac{U_P}{U_T} = \\frac{1/8}{3/4} = \\frac{1}{6}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

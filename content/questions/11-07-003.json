@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Gravity provides the centripetal force:\n$$\\frac{GMm}{R^2} = m\\omega^2 R = m\\frac{4\\pi^2}{T^2}R \\;\\Rightarrow\\; T^2 = \\frac{4\\pi^2}{GM}R^3$$\n\nSo $T \\propto R^{3/2}$ (Kepler's third law).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }

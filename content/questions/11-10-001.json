@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Volume expansion coefficient $\\gamma = 3\\alpha$.\n\n$$\\Delta V = \\gamma V \\Delta T = 3\\alpha \\cdot \\frac{4}{3}\\pi R^3 \\cdot \\Delta T = 4\\pi R^3 \\alpha \\Delta T$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
