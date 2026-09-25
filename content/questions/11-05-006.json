@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Momentum conservation (the bodies stick together):\n$$mv_1 = (m + m)v_2 \\;\\Rightarrow\\; v_2 = \\frac{v_1}{2}$$\n\n$v_1 : v_2 = 2 : 1$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
