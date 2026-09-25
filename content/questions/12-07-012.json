@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$X_C = \\frac{1}{2\\pi fC} = \\frac{1}{2\\pi \\times 50 \\times 40 \\times 10^{-6}} \\approx 79.6\\ \\Omega$$\n\n$$I_{rms} = \\frac{V_{rms}}{X_C} = \\frac{200}{79.6} \\approx 2.5\\ \\text{A}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
