@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$v_{rms} = \\sqrt{\\dfrac{3RT}{M}}$, so $v_{rms} \\propto \\sqrt{T}$.\n\n\"Increased by 3 times\" means the speed increases by three times its value, so the new speed is $v + 3v = 4v$. Then\n$$T_2 = 16T_1 = 16 \\times (273 - 50) = 16 \\times 223 = 3568\\ \\text{K} = 3295°\\text{C}$$\n\n(If the new speed were only $3v$, the temperature would be $9 \\times 223 = 2007$ K, which is not among the options.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
