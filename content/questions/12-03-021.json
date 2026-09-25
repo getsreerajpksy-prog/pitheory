@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Yellow $= 4$, Violet $= 7$, Brown $=$ multiplier $10^1$, Gold $=$ tolerance $\\pm 5\\%$.\n\n$$R = 47 \\times 10 = 470\\ \\Omega,\\ \\pm 5\\%$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-25"
 }
