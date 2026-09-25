@@ -1,0 +1,39 @@
+{
+  "id": "12-01-003",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "Two identical charged conducting spheres A and B have their centres separated by a certain distance. Charge on each sphere is q and the force of repulsion between them is F. A third identical uncharged conducting sphere is brought in contact with sphere A first and then with B and finally removed from both. New force of repulsion between spheres A and B (Radii of A and B are negligible compared to the distance of separation so that for calculating force between them they can be considered as point charges) is best given as :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{3F}{5}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2F}{3}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{F}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{3F}{8}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Touching identical spheres share their total charge equally.\n\nThird sphere touches A: each gets $\\dfrac{q}{2}$.\n\nThird sphere (with $\\dfrac{q}{2}$) touches B (with $q$): each gets $\\dfrac{1}{2}\\left(\\dfrac{q}{2} + q\\right) = \\dfrac{3q}{4}$.\n\n$$F' = F\\cdot\\frac{(q/2)(3q/4)}{q^2} = \\frac{3F}{8}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

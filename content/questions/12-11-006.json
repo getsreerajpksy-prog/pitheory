@@ -1,0 +1,39 @@
+{
+  "id": "12-11-006",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "Which of the following options represent the variation of photoelectric current with property of light shown on the x-axis?",
+  "diagram": "/diagrams/12-11-006.png",
+  "diagram_alt": "Four graphs of photoelectric current: A rises linearly with intensity, B is constant with intensity, C rises linearly with frequency from zero, D rises linearly with frequency above a threshold",
+  "options": [
+    {
+      "text": "A only",
+      "image": ""
+    },
+    {
+      "text": "A and C",
+      "image": ""
+    },
+    {
+      "text": "A and D",
+      "image": ""
+    },
+    {
+      "text": "B and D",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "A: photocurrent is proportional to the number of photons per second, i.e. to the intensity. It is a straight line through the origin, so A is correct. B is wrong.\n\nC and D: for light of fixed intensity, there is no current below the threshold frequency. Above it, the (saturation) current is set by the number of photons, not by their frequency, so it does not rise linearly with frequency. C (current starting from zero frequency) is wrong, and D (linear rise above threshold) describes the stopping potential, not the current.\n\nOnly A is correct.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

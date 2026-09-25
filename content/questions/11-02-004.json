@@ -1,0 +1,39 @@
+{
+  "id": "11-02-004",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "Two cities X and Y are connected by a regular bus service with a bus leaving in either direction every T min. A girl is driving scooty with a speed of $60$ km/h in the direction X to Y notices that a bus goes past her every $30$ minutes in the direction of her motion, and every $10$ minutes in the opposite direction. Choose the correct option for the period T of the bus service and the speed (assumed constant) of the buses.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$9$ min, $40$ km/h",
+      "image": ""
+    },
+    {
+      "text": "$25$ min, $100$ km/h",
+      "image": ""
+    },
+    {
+      "text": "$10$ min, $90$ km/h",
+      "image": ""
+    },
+    {
+      "text": "$15$ min, $120$ km/h",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Let the bus speed be $v$. Buses in each direction are spaced $vT$ apart.\n\nBuses overtaking her (same direction), relative speed $v - 60$:\n$$\\frac{vT}{v - 60} = \\frac{1}{2}\\ \\text{h}$$\n\nBuses coming towards her, relative speed $v + 60$:\n$$\\frac{vT}{v + 60} = \\frac{1}{6}\\ \\text{h}$$\n\nDividing: $\\dfrac{v + 60}{v - 60} = 3 \\;\\Rightarrow\\; v = 120$ km/h.\n\nThen $vT = \\dfrac{1}{2}(120 - 60) = 30$ km, so $T = \\dfrac{30}{120}$ h $= 15$ min.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

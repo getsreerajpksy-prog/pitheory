@@ -1,0 +1,39 @@
+{
+  "id": "12-04-004",
+  "chapter": "moving-charges-and-magnetism",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "An electron (mass $9 \\times 10^{-31}$ kg and charge $1.6 \\times 10^{-19}$ C) moving with speed $c/100$ ($c$ = speed of light) is injected into a magnetic field $\\vec{B}$ of magnitude $9 \\times 10^{-4}$ T perpendicular to its direction of motion. We wish to apply an uniform electric field $\\vec{E}$ together with the magnetic field so that the electron does not deflect from its path. Then (speed of light $c = 3 \\times 10^8\\ \\text{m s}^{-1}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\vec{E}$ is perpendicular to $\\vec{B}$ and its magnitude is $27 \\times 10^4\\ \\text{V m}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$\\vec{E}$ is perpendicular to $\\vec{B}$ and its magnitude is $27 \\times 10^2\\ \\text{V m}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$\\vec{E}$ is parallel to $\\vec{B}$ and its magnitude is $27 \\times 10^2\\ \\text{V m}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$\\vec{E}$ is parallel to $\\vec{B}$ and its magnitude is $27 \\times 10^4\\ \\text{V m}^{-1}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For no deflection, the electric force must cancel the magnetic force: $q\\vec{E} = -q\\vec{v} \\times \\vec{B}$. The magnetic force is perpendicular to $\\vec{B}$, so $\\vec{E}$ must be perpendicular to $\\vec{B}$ (and to $\\vec{v}$).\n\nMagnitude: $eE = evB$, so\n$$E = vB = \\frac{3 \\times 10^8}{100} \\times 9 \\times 10^{-4} = 3 \\times 10^6 \\times 9 \\times 10^{-4} = 27 \\times 10^2\\ \\text{V m}^{-1}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

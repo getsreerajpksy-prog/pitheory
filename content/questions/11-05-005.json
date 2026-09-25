@@ -1,0 +1,39 @@
+{
+  "id": "11-05-005",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "A bob of heavy mass $m$ is suspended by a light string of length $l$. The bob is given a horizontal velocity $v_0$ as shown in figure. If the string gets slack at some point $P$ making an angle $\\theta$ from the horizontal, the ratio of the speed $v$ of the bob at point $P$ to its initial speed $v_0$ is:",
+  "diagram": "/diagrams/11-05-005.png",
+  "diagram_alt": "Bob of mass m hanging on a string of length l below O, given horizontal velocity v0; the string slackens at P, at angle θ above the horizontal",
+  "options": [
+    {
+      "text": "$(\\sin\\theta)^{1/2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\left(\\dfrac{1}{2 + 3\\sin\\theta}\\right)^{1/2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\left(\\dfrac{\\cos\\theta}{2 + 3\\sin\\theta}\\right)^{1/2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\left(\\dfrac{\\sin\\theta}{2 + 3\\sin\\theta}\\right)^{1/2}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At P the bob is at height $l\\sin\\theta$ above O, i.e. $l(1 + \\sin\\theta)$ above the lowest point.\n\nThe string becomes slack when the tension becomes zero. Then the radial component of gravity alone provides the centripetal force:\n$$mg\\sin\\theta = \\frac{mv^2}{l} \\;\\Rightarrow\\; v^2 = gl\\sin\\theta$$\n\nEnergy conservation from the lowest point to P:\n$$v_0^2 = v^2 + 2gl(1 + \\sin\\theta) = gl\\sin\\theta + 2gl + 2gl\\sin\\theta = gl(2 + 3\\sin\\theta)$$\n\n$$\\frac{v}{v_0} = \\left(\\frac{\\sin\\theta}{2 + 3\\sin\\theta}\\right)^{1/2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

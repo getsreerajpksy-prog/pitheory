@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 110" width="520" height="110">
+<rect width="520" height="110" fill="#fff"/>
+<path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M40.0,50.0 L130.0,50.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M100,50 L90,42 M100,50 L90,58"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M130,50 a12,12 0 1 1 20,0 a12,12 0 1 1 20,0 a12,12 0 1 1 20,0 a12,12 0 1 1 20,0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M210.0,50.0 L274.0,50.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M274.0,30.0 L274.0,70.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M286,40 L286,60"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M286.0,50.0 L340.0,50.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M340.0,50.0 L344.4,58.0 L353.1,42.0 L361.9,58.0 L370.6,42.0 L379.4,58.0 L388.1,42.0 L396.9,58.0 L405.6,42.0 L410.0,50.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M410.0,50.0 L480.0,50.0"/>
+<circle cx="40" cy="50" r="6" fill="#111" stroke="#111" stroke-width="2"/>
+<circle cx="480" cy="50" r="6" fill="#111" stroke="#111" stroke-width="2"/>
+<text x="20" y="57" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle">A</text>
+<text x="502" y="57" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle">B</text>
+<text x="95" y="32" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle" font-style="italic">i</text>
+<text x="170" y="92" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle">1 H</text>
+<text x="280" y="98" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle">5 V</text>
+<text x="375" y="92" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle">2 Ω</text>
+</svg>

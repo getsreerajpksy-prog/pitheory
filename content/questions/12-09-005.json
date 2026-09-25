@@ -1,0 +1,39 @@
+{
+  "id": "12-09-005",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "A microscope has an objective of focal length $2$ cm, eyepiece of focal length $4$ cm and the tube length of $40$ cm. If the distance of distinct vision of eye is $25$ cm, the magnification in the microscope is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$100$",
+      "image": ""
+    },
+    {
+      "text": "$125$",
+      "image": ""
+    },
+    {
+      "text": "$150$",
+      "image": ""
+    },
+    {
+      "text": "$250$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For a compound microscope with the final image at infinity (normal adjustment):\n$$m = \\frac{L}{f_o}\\cdot\\frac{D}{f_e} = \\frac{40}{2} \\times \\frac{25}{4} = 20 \\times 6.25 = 125$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

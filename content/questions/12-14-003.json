@@ -1,0 +1,39 @@
+{
+  "id": "12-14-003",
+  "chapter": "semiconductor-electronics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "The output (Y) of the given logic implementation is similar to the output of an/a _______ gate.",
+  "diagram": "/diagrams/12-14-003.png",
+  "diagram_alt": "A NOR gate and a NAND gate, both fed by inputs A and B, drive a final AND gate with output Y",
+  "options": [
+    {
+      "text": "AND",
+      "image": ""
+    },
+    {
+      "text": "NAND",
+      "image": ""
+    },
+    {
+      "text": "OR",
+      "image": ""
+    },
+    {
+      "text": "NOR",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The upper gate is a NOR gate: its output is $\\overline{A + B}$.\n\nThe lower gate is a NAND gate: its output is $\\overline{A \\cdot B}$.\n\nThe final AND gate gives\n$$Y = \\overline{A + B}\\cdot\\overline{A \\cdot B} = (\\bar{A}\\bar{B})(\\bar{A} + \\bar{B}) = \\bar{A}\\bar{B}$$\nsince $\\bar{A}\\bar{B}\\bar{A} = \\bar{A}\\bar{B}$ and $\\bar{A}\\bar{B}\\bar{B} = \\bar{A}\\bar{B}$.\n\n$Y = \\bar{A}\\bar{B} = \\overline{A + B}$, which is the NOR function.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

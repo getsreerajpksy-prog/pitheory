@@ -1,0 +1,39 @@
+{
+  "id": "11-01-005",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "Consider the diameter of a spherical object being measured with the help of a Vernier callipers. Suppose its $10$ Vernier Scale Divisions (V.S.D.) are equal to its $9$ Main Scale Divisions (M.S.D.). The least division in the M.S. is $0.1$ cm and the zero of V.S. is at $x = 0.1$ cm when the jaws of Vernier callipers are closed.\n\nIf the main scale reading for the diameter is $M = 5$ cm and the number of coinciding vernier division is $8$, the measured diameter after zero error correction, is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$5.18$ cm",
+      "image": ""
+    },
+    {
+      "text": "$5.08$ cm",
+      "image": ""
+    },
+    {
+      "text": "$4.98$ cm",
+      "image": ""
+    },
+    {
+      "text": "$5.00$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Least count $= 1\\ \\text{MSD} - 1\\ \\text{VSD} = 0.1 - \\dfrac{9}{10}(0.1) = 0.01$ cm.\n\nWith the jaws closed, the vernier zero is at $+0.1$ cm, so the zero error is $+0.1$ cm.\n\nObserved reading $= 5 + 8 \\times 0.01 = 5.08$ cm.\n\nCorrected diameter $= 5.08 - 0.1 = 4.98$ cm.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

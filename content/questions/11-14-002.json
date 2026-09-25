@@ -1,0 +1,39 @@
+{
+  "id": "11-14-002",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "A pipe open at both ends has a fundamental frequency $f$ in air. The pipe is now dipped vertically in a water drum to half of its length. The fundamental frequency of the air column is now equal to :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{f}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$f$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{3f}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$2f$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Open pipe of length $L$: $f = \\dfrac{v}{2L}$.\n\nAfter dipping, the air column has length $\\dfrac{L}{2}$ and is closed at the water surface. Closed pipe fundamental:\n$$f' = \\frac{v}{4(L/2)} = \\frac{v}{2L} = f$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

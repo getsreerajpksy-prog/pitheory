@@ -1,0 +1,39 @@
+{
+  "id": "11-10-002",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "Three identical heat conducting rods are connected in series as shown in the figure. The rods on the sides have thermal conductivity $2K$ while that in the middle has thermal conductivity $K$. The left end of the combination is maintained at temperature $3T$ and the right end at $T$. The rods are thermally insulated from outside. In steady state, temperature at the left junction is $T_1$ and that at the right junction is $T_2$. The ratio $T_1/T_2$ is",
+  "diagram": "/diagrams/11-10-002.svg",
+  "diagram_alt": "Three rods in series between walls at 3T and T: 2K, K and 2K, with junction temperatures T1 and T2",
+  "options": [
+    {
+      "text": "$\\dfrac{3}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{4}{3}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{5}{3}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{5}{4}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Thermal resistance $R_{th} = \\dfrac{l}{KA}$. If each outer rod ($2K$) has resistance $R$, the middle rod ($K$) has $2R$. Total: $R + 2R + R = 4R$.\n\nHeat current: $H = \\dfrac{3T - T}{4R} = \\dfrac{T}{2R}$.\n\n$$T_1 = 3T - HR = 3T - \\frac{T}{2} = \\frac{5T}{2}$$\n$$T_2 = T + HR = T + \\frac{T}{2} = \\frac{3T}{2}$$\n\n$$\\frac{T_1}{T_2} = \\frac{5}{3}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

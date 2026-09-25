@@ -1,0 +1,39 @@
+{
+  "id": "12-07-002",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "To an ac power supply of $220$ V at $50$ Hz, a resistor of $20\\ \\Omega$, a capacitor of reactance $25\\ \\Omega$ and an inductor of reactance $45\\ \\Omega$ are connected in series. The corresponding current in the circuit and the phase angle between the current and the voltage is, respectively -",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$7.8$ A and $30°$",
+      "image": ""
+    },
+    {
+      "text": "$7.8$ A and $45°$",
+      "image": ""
+    },
+    {
+      "text": "$15.6$ A and $30°$",
+      "image": ""
+    },
+    {
+      "text": "$15.6$ A and $45°$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$Z = \\sqrt{R^2 + (X_L - X_C)^2} = \\sqrt{20^2 + (45 - 25)^2} = 20\\sqrt{2} \\approx 28.3\\ \\Omega$$\n\n$$I = \\frac{220}{28.3} \\approx 7.8\\ \\text{A}$$\n\n$$\\tan\\phi = \\frac{X_L - X_C}{R} = \\frac{20}{20} = 1 \\;\\Rightarrow\\; \\phi = 45°$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

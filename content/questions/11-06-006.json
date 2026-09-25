@@ -1,0 +1,39 @@
+{
+  "id": "11-06-006",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "A uniform rod of mass $20$ kg and length $5$ m leans against a smooth vertical wall making an angle of $60°$ with it. The other end rests on a rough horizontal floor. The friction force that the floor exerts on the rod is\n\n(take $g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$100$ N",
+      "image": ""
+    },
+    {
+      "text": "$100\\sqrt{3}$ N",
+      "image": ""
+    },
+    {
+      "text": "$200$ N",
+      "image": ""
+    },
+    {
+      "text": "$200\\sqrt{3}$ N",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The smooth wall gives only a horizontal normal force $N_w$. Horizontal equilibrium: friction $f = N_w$.\n\nThe rod makes $60°$ with the wall. Its top is at height $L\\cos 60°$, and its centre is a horizontal distance $\\dfrac{L}{2}\\sin 60°$ from the foot.\n\nTorques about the foot of the rod:\n$$N_w \\cdot L\\cos 60° = mg\\cdot\\frac{L}{2}\\sin 60°$$\n$$N_w = \\frac{mg}{2}\\tan 60° = \\frac{200}{2}\\sqrt{3} = 100\\sqrt{3}\\ \\text{N}$$\n\nSo the friction force is $f = 100\\sqrt{3}$ N.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

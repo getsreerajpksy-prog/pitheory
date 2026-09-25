@@ -1,0 +1,39 @@
+{
+  "id": "11-09-004",
+  "chapter": "mechanical-properties-of-fluids",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "A balloon is made of a material of surface tension $S$ and its inflation outlet (from where gas is filled in it) has small area $A$. It is filled with a gas of density $\\rho$ and takes a spherical shape of radius $R$. When the gas is allowed to flow freely out of it, its radius $r$ changes from $R$ to $0$ (zero) in time $T$. If the speed $v(r)$ of gas coming out of the balloon depends on $r$ as $r^a$ and $T \\propto S^\\alpha A^\\beta \\rho^\\gamma R^\\delta$ then",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$a = \\frac{1}{2},\\ \\alpha = \\frac{1}{2},\\ \\beta = -1,\\ \\gamma = +1,\\ \\delta = \\frac{3}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$a = -\\frac{1}{2},\\ \\alpha = -\\frac{1}{2},\\ \\beta = -1,\\ \\gamma = -\\frac{1}{2},\\ \\delta = \\frac{5}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$a = -\\frac{1}{2},\\ \\alpha = -\\frac{1}{2},\\ \\beta = -1,\\ \\gamma = \\frac{1}{2},\\ \\delta = \\frac{7}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$a = \\frac{1}{2},\\ \\alpha = \\frac{1}{2},\\ \\beta = -\\frac{1}{2},\\ \\gamma = \\frac{1}{2},\\ \\delta = \\frac{7}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Excess pressure inside the balloon: $\\Delta P = \\dfrac{kS}{r}$ ($k$ is a number, $2$ or $4$).\n\nBernoulli at the outlet: $\\dfrac{1}{2}\\rho v^2 = \\dfrac{kS}{r}$, so\n$$v = \\sqrt{\\frac{2kS}{\\rho r}} \\propto r^{-1/2} \\;\\Rightarrow\\; a = -\\frac{1}{2}$$\n\nRate of volume loss:\n$$-\\frac{d}{dt}\\left(\\frac{4}{3}\\pi r^3\\right) = Av \\;\\Rightarrow\\; -4\\pi r^2\\frac{dr}{dt} = A\\sqrt{\\frac{2kS}{\\rho}}\\,r^{-1/2}$$\n\n$$dt = -\\frac{4\\pi}{A}\\sqrt{\\frac{\\rho}{2kS}}\\,r^{5/2}\\,dr \\;\\Rightarrow\\; T = \\frac{4\\pi}{A}\\sqrt{\\frac{\\rho}{2kS}}\\cdot\\frac{2}{7}R^{7/2}$$\n\nSo $T \\propto S^{-1/2}A^{-1}\\rho^{1/2}R^{7/2}$: $\\alpha = -\\frac{1}{2}$, $\\beta = -1$, $\\gamma = \\frac{1}{2}$, $\\delta = \\frac{7}{2}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

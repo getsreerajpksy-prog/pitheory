@@ -1,0 +1,39 @@
+{
+  "id": "11-04-005",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "A ball of mass $0.5$ kg is dropped from a height of $40$ m. The ball hits the ground and rises to a height of $10$ m. The impulse imparted to the ball during its collision with the ground is (Take $g = 9.8\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$21$ N s",
+      "image": ""
+    },
+    {
+      "text": "$7$ N s",
+      "image": ""
+    },
+    {
+      "text": "$0$",
+      "image": ""
+    },
+    {
+      "text": "$84$ N s",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Speed just before impact: $v_1 = \\sqrt{2gh_1} = \\sqrt{2 \\times 9.8 \\times 40} = 28\\ \\text{m s}^{-1}$ (downward).\n\nSpeed just after impact: $v_2 = \\sqrt{2gh_2} = \\sqrt{2 \\times 9.8 \\times 10} = 14\\ \\text{m s}^{-1}$ (upward).\n\nImpulse = change in momentum (the velocity reverses direction):\n$$J = m(v_2 + v_1) = 0.5 \\times (14 + 28) = 21\\ \\text{N s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

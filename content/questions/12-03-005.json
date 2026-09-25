@@ -1,0 +1,39 @@
+{
+  "id": "12-03-005",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "A wire of resistance R is cut into $8$ equal pieces. From these pieces two equivalent resistances are made by adding four of these together in parallel. Then these two sets are added in series. The net effective resistance of the combination is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{R}{64}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{R}{32}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{R}{16}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{R}{8}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Each piece has resistance $\\dfrac{R}{8}$.\n\nFour in parallel: $\\dfrac{R/8}{4} = \\dfrac{R}{32}$.\n\nTwo such sets in series: $2 \\times \\dfrac{R}{32} = \\dfrac{R}{16}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

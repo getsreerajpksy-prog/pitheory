@@ -1,0 +1,39 @@
+{
+  "id": "12-10-001",
+  "chapter": "wave-optics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "An unpolarized light beam travelling in air is incident on a medium of refractive index $1.73$ at Brewster's angle. Then-",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "reflected light is completely polarized and the angle of reflection is close to $60°$",
+      "image": ""
+    },
+    {
+      "text": "reflected light is partially polarized and the angle of reflection is close to $30°$",
+      "image": ""
+    },
+    {
+      "text": "both reflected and transmitted light are perfectly polarized with angles of reflection and refraction close to $60°$ and $30°$, respectively.",
+      "image": ""
+    },
+    {
+      "text": "transmitted light is completely polarized with angle of refraction close to $30°$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Brewster's law: $\\tan i_B = n = 1.73 \\approx \\sqrt{3}$, so $i_B = 60°$. The angle of reflection equals the angle of incidence, $60°$.\n\nAt Brewster's angle the reflected light is completely (plane) polarized, while the transmitted light is only partially polarized. The angle of refraction is $90° - 60° = 30°$, but the transmitted light is not completely polarized.\n\nSo the correct statement is (1).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

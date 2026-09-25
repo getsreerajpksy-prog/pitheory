@@ -1,0 +1,39 @@
+{
+  "id": "12-04-006",
+  "chapter": "moving-charges-and-magnetism",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "A model for quantized motion of an electron in a uniform magnetic field $B$ states that the flux passing through the orbit of the electron is $n(h/e)$ where $n$ is an integer, $h$ is Planck's constant and $e$ is the magnitude of electron's charge. According to the model, the magnetic moment of an electron in its lowest energy state will be ($m$ is the mass of the electron)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{he}{\\pi m}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{he}{2\\pi m}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{heB}{\\pi m}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{heB}{2\\pi m}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Lowest state, $n = 1$: $B\\pi r^2 = \\dfrac{h}{e}$, so $r^2 = \\dfrac{h}{\\pi eB}$.\n\nIn the magnetic field, $r = \\dfrac{mv}{eB}$, so $v = \\dfrac{eBr}{m}$.\n\nMagnetic moment of a circulating charge:\n$$\\mu = IA = \\frac{ev}{2\\pi r}\\cdot\\pi r^2 = \\frac{evr}{2} = \\frac{e^2Br^2}{2m}$$\n\nSubstituting $r^2$:\n$$\\mu = \\frac{e^2B}{2m}\\cdot\\frac{h}{\\pi eB} = \\frac{he}{2\\pi m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

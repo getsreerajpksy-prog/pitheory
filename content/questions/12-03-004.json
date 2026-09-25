@@ -1,0 +1,39 @@
+{
+  "id": "12-03-004",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "The current passing through the battery in the given circuit, is:",
+  "diagram": "/diagrams/12-03-004.png",
+  "diagram_alt": "Resistor network A-B-C-D-E-F with a 6 Ω diagonal from A to D, fed from B through 1.5 Ω and 5.5 Ω and from E through 1/3 Ω by a 5 V battery",
+  "options": [
+    {
+      "text": "$2.0$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.5$ A",
+      "image": ""
+    },
+    {
+      "text": "$2.5$ A",
+      "image": ""
+    },
+    {
+      "text": "$1.5$ A",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "A and F are joined by a plain wire, and so are C and D. The network between B and E therefore has:\n\n$R_{BA} = 5\\ \\Omega$, $R_{BD} = 2.5\\ \\Omega$ (through C), $R_{AE} = 3\\ \\Omega$ (through F), $R_{DE} = 1.5\\ \\Omega$, and $R_{AD} = 6\\ \\Omega$ as the bridge.\n\nCheck the Wheatstone condition:\n$$\\frac{R_{BA}}{R_{BD}} = \\frac{5}{2.5} = 2, \\qquad \\frac{R_{AE}}{R_{DE}} = \\frac{3}{1.5} = 2$$\nThe bridge is balanced, so no current flows through the $6\\ \\Omega$ resistor.\n\n$$R_{BE} = (5 + 3) \\parallel (2.5 + 1.5) = \\frac{8 \\times 4}{8 + 4} = \\frac{8}{3}\\ \\Omega$$\n\nTotal resistance in the battery loop:\n$$R = \\frac{8}{3} + 1.5 + 5.5 + \\frac{1}{3} = 3 + 7 = 10\\ \\Omega$$\n\n$$I = \\frac{5}{10} = 0.5\\ \\text{A}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

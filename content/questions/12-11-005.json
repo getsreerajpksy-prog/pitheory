@@ -1,0 +1,39 @@
+{
+  "id": "12-11-005",
+  "chapter": "dual-nature-of-radiation-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "A photon and an electron (mass $m$) have the same energy $E$. The ratio ($\\lambda_{\\text{photon}}/\\lambda_{\\text{electron}}$) of their de Broglie wavelengths is: ($c$ is the speed of light)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\sqrt{\\dfrac{E}{2m}}$",
+      "image": ""
+    },
+    {
+      "text": "$c\\sqrt{2mE}$",
+      "image": ""
+    },
+    {
+      "text": "$c\\sqrt{\\dfrac{2m}{E}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{c}\\sqrt{\\dfrac{E}{2m}}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Photon: $\\lambda_{\\text{photon}} = \\dfrac{hc}{E}$. Electron: $\\lambda_{\\text{electron}} = \\dfrac{h}{\\sqrt{2mE}}$.\n\n$$\\frac{\\lambda_{\\text{photon}}}{\\lambda_{\\text{electron}}} = \\frac{hc/E}{h/\\sqrt{2mE}} = \\frac{c\\sqrt{2mE}}{E} = c\\sqrt{\\frac{2m}{E}}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-03-006",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "A constant voltage of $50$ V is maintained between the points A and B of the circuit shown in the figure. The current through the branch CD of the circuit is :",
+  "diagram": "/diagrams/12-03-006.svg",
+  "diagram_alt": "1 Ω (to C) and 3 Ω (to D) from A, 2 Ω (from C) and 4 Ω (from D) to B, with C and D joined by a wire and 50 V across A and B",
+  "options": [
+    {
+      "text": "$1.5$ A",
+      "image": ""
+    },
+    {
+      "text": "$2.0$ A",
+      "image": ""
+    },
+    {
+      "text": "$2.5$ A",
+      "image": ""
+    },
+    {
+      "text": "$3.0$ A",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "C and D are joined by a wire, so they are at the same potential. The circuit is ($1\\ \\Omega \\parallel 3\\ \\Omega$) in series with ($2\\ \\Omega \\parallel 4\\ \\Omega$):\n$$R = \\frac{1 \\times 3}{4} + \\frac{2 \\times 4}{6} = \\frac{3}{4} + \\frac{4}{3} = \\frac{25}{12}\\ \\Omega$$\n$$I = \\frac{50}{25/12} = 24\\ \\text{A}$$\n\nCurrent through $1\\ \\Omega$ (into C): $24 \\times \\dfrac{3}{4} = 18$ A.\n\nCurrent through $2\\ \\Omega$ (out of C): $24 \\times \\dfrac{4}{6} = 16$ A.\n\nCurrent in CD $= 18 - 16 = 2.0$ A (from C to D).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

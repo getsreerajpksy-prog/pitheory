@@ -1,0 +1,39 @@
+{
+  "id": "11-01-006",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "A physical quantity $P$ is related to four observations $a$, $b$, $c$ and $d$ as follows:\n\n$$P = a^3b^2/c\\sqrt{d}$$\n\nThe percentage errors of measurement in $a$, $b$, $c$ and $d$ are $1\\%$, $3\\%$, $2\\%$, and $4\\%$ respectively. The percentage error in the quantity $P$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$10\\%$",
+      "image": ""
+    },
+    {
+      "text": "$2\\%$",
+      "image": ""
+    },
+    {
+      "text": "$13\\%$",
+      "image": ""
+    },
+    {
+      "text": "$15\\%$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\frac{\\Delta P}{P} = 3\\frac{\\Delta a}{a} + 2\\frac{\\Delta b}{b} + \\frac{\\Delta c}{c} + \\frac{1}{2}\\frac{\\Delta d}{d}$$\n\n$$= 3(1\\%) + 2(3\\%) + 2\\% + \\frac{1}{2}(4\\%) = 3 + 6 + 2 + 2 = 13\\%$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

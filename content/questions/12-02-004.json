@@ -1,0 +1,39 @@
+{
+  "id": "12-02-004",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "The plates of a parallel plate capacitor are separated by $d$. Two slabs of different dielectric constant $K_1$ and $K_2$ with thickness $\\dfrac{3}{8}d$ and $\\dfrac{d}{2}$, respectively are inserted in the capacitor. Due to this, the capacitance becomes two times larger than when there is nothing between the plates.\n\nIf $K_1 = 1.25K_2$, the value of $K_1$ is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2.66$",
+      "image": ""
+    },
+    {
+      "text": "$2.33$",
+      "image": ""
+    },
+    {
+      "text": "$1.60$",
+      "image": ""
+    },
+    {
+      "text": "$1.33$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The slabs fill $\\dfrac{3d}{8} + \\dfrac{d}{2} = \\dfrac{7d}{8}$, leaving an air gap of $\\dfrac{d}{8}$. For slabs stacked between the plates:\n$$C = \\frac{\\epsilon_0 A}{\\dfrac{d}{8} + \\dfrac{3d}{8K_1} + \\dfrac{d}{2K_2}}$$\n\n$C = 2C_0 = \\dfrac{2\\epsilon_0 A}{d}$, so the denominator equals $\\dfrac{d}{2}$:\n$$\\frac{1}{8} + \\frac{3}{8K_1} + \\frac{1}{2K_2} = \\frac{1}{2} \\;\\Rightarrow\\; \\frac{3}{8K_1} + \\frac{1}{2K_2} = \\frac{3}{8}$$\n\nWith $K_2 = \\dfrac{K_1}{1.25}$: $\\dfrac{1}{2K_2} = \\dfrac{1.25}{2K_1} = \\dfrac{5}{8K_1}$.\n$$\\frac{3}{8K_1} + \\frac{5}{8K_1} = \\frac{1}{K_1} = \\frac{3}{8} \\;\\Rightarrow\\; K_1 = \\frac{8}{3} \\approx 2.66$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

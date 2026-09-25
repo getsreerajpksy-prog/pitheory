@@ -1,0 +1,39 @@
+{
+  "id": "12-02-005",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "An electric dipole with dipole moment $5 \\times 10^{-6}$ C m is aligned with the direction of a uniform electric field of magnitude $4 \\times 10^5$ N/C. The dipole is then rotated through an angle of $60°$ with respect to the electric field. The change in the potential energy of the dipole is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.8$ J",
+      "image": ""
+    },
+    {
+      "text": "$1.0$ J",
+      "image": ""
+    },
+    {
+      "text": "$1.2$ J",
+      "image": ""
+    },
+    {
+      "text": "$1.5$ J",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$U = -pE\\cos\\theta$, so\n$$\\Delta U = pE(\\cos 0° - \\cos 60°) = 5 \\times 10^{-6} \\times 4 \\times 10^5 \\times \\left(1 - \\frac{1}{2}\\right) = 2 \\times 0.5 = 1.0\\ \\text{J}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

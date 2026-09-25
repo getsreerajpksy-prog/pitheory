@@ -1,0 +1,39 @@
+{
+  "id": "11-11-004",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "Two gases $A$ and $B$ are filled at the same pressure in separate cylinders with movable pistons of radius $r_A$ and $r_B$, respectively. On supplying an equal amount of heat to both the systems reversibly under constant pressure, the pistons of gas $A$ and $B$ are displaced by $16$ cm and $9$ cm, respectively. If the change in their internal energy is the same, then the ratio $r_A/r_B$ is equal to",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{4}{3}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{3}{4}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2}{\\sqrt{3}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\sqrt{3}}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "First law: $W = Q - \\Delta U$. Both $Q$ and $\\Delta U$ are the same for the two gases, so the work done is the same.\n\nAt constant pressure, $W = P\\Delta V = P\\pi r^2 x$. With equal $P$:\n$$r_A^2 \\times 16 = r_B^2 \\times 9 \\;\\Rightarrow\\; \\frac{r_A}{r_B} = \\frac{3}{4}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

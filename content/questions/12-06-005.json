@@ -1,0 +1,39 @@
+{
+  "id": "12-06-005",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "AB is a part of an electrical circuit (see figure). The potential difference $V_A - V_B$, at the instant when current $i = 2$ A and is increasing at a rate of $1$ amp / second is:",
+  "diagram": "/diagrams/12-06-005.svg",
+  "diagram_alt": "Branch from A to B: current i through a 1 H inductor, a 5 V battery with its positive plate towards A, and a 2 Ω resistor",
+  "options": [
+    {
+      "text": "$5$ volt",
+      "image": ""
+    },
+    {
+      "text": "$6$ volt",
+      "image": ""
+    },
+    {
+      "text": "$9$ volt",
+      "image": ""
+    },
+    {
+      "text": "$10$ volt",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Go from A to B along the current and add up the potential drops.\n\nInductor: drop $= L\\dfrac{di}{dt} = 1 \\times 1 = 1$ V.\n\nBattery: the current enters at the positive (longer) plate and leaves at the negative plate, so the potential drops by $5$ V.\n\nResistor: drop $= iR = 2 \\times 2 = 4$ V.\n\n$$V_A - V_B = 1 + 5 + 4 = 10\\ \\text{V}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

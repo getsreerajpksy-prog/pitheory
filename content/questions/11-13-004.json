@@ -1,0 +1,39 @@
+{
+  "id": "11-13-004",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "Two identical point masses P and Q, suspended from two separate massless springs of spring constants $k_1$ and $k_2$, respectively, oscillate vertically. If their maximum speeds are the same, the ratio ($A_Q/A_P$) of the amplitude $A_Q$ of mass $Q$ to the amplitude $A_P$ of mass $P$ is:",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{k_2}{k_1}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{k_1}{k_2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{\\dfrac{k_2}{k_1}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{\\dfrac{k_1}{k_2}}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$v_{max} = A\\omega = A\\sqrt{\\dfrac{k}{m}}$. With equal masses and equal $v_{max}$:\n$$A_P\\sqrt{k_1} = A_Q\\sqrt{k_2} \\;\\Rightarrow\\; \\frac{A_Q}{A_P} = \\sqrt{\\frac{k_1}{k_2}}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

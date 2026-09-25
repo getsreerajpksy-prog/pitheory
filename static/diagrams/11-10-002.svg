@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 170" width="460" height="170">
+<rect width="460" height="170" fill="#fff"/>
+<path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M80.0,50.0 L380.0,50.0 L380.0,110.0 L80.0,110.0 L80.0,50.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M180.0,50.0 L180.0,110.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M280.0,50.0 L280.0,110.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M80.0,30.0 L80.0,130.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M380.0,30.0 L380.0,130.0"/>
+<path d="M80,34 L68,44 M380,34 L392,44" stroke="#111" stroke-width="1.5"/>
+<path d="M80,44 L68,54 M380,44 L392,54" stroke="#111" stroke-width="1.5"/>
+<path d="M80,54 L68,64 M380,54 L392,64" stroke="#111" stroke-width="1.5"/>
+<path d="M80,64 L68,74 M380,64 L392,74" stroke="#111" stroke-width="1.5"/>
+<path d="M80,74 L68,84 M380,74 L392,84" stroke="#111" stroke-width="1.5"/>
+<path d="M80,84 L68,94 M380,84 L392,94" stroke="#111" stroke-width="1.5"/>
+<path d="M80,94 L68,104 M380,94 L392,104" stroke="#111" stroke-width="1.5"/>
+<path d="M80,104 L68,114 M380,104 L392,114" stroke="#111" stroke-width="1.5"/>
+<path d="M80,114 L68,124 M380,114 L392,124" stroke="#111" stroke-width="1.5"/>
+<path d="M80,124 L68,134 M380,124 L392,134" stroke="#111" stroke-width="1.5"/>
+<text x="130" y="87" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle" font-style="italic">2K</text>
+<text x="230" y="87" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle" font-style="italic">K</text>
+<text x="330" y="87" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle" font-style="italic">2K</text>
+<text x="40" y="87" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle" font-style="italic">3T</text>
+<text x="420" y="87" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle" font-style="italic">T</text>
+<text x="180" y="140" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle" font-style="italic">T<tspan font-size="12" dy="4">1</tspan></text>
+<text x="280" y="140" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle" font-style="italic">T<tspan font-size="12" dy="4">2</tspan></text>
+</svg>

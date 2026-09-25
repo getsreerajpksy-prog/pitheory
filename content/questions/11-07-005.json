@@ -1,0 +1,39 @@
+{
+  "id": "11-07-005",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "A body weighs $48$ N on the surface of the earth. The gravitational force experienced by the body due to the earth at a height equal to one-third the radius of the earth from its surface is :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$16$ N",
+      "image": ""
+    },
+    {
+      "text": "$27$ N",
+      "image": ""
+    },
+    {
+      "text": "$32$ N",
+      "image": ""
+    },
+    {
+      "text": "$36$ N",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$F = F_0\\left(\\frac{R}{R + h}\\right)^2 = 48\\left(\\frac{R}{4R/3}\\right)^2 = 48 \\times \\frac{9}{16} = 27\\ \\text{N}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

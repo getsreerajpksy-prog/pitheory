@@ -1,0 +1,39 @@
+{
+  "id": "12-10-002",
+  "chapter": "wave-optics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "The intensity of transmitted light when a polaroid sheet, placed between two crossed polaroids at $22.5°$ from the polarization axis of one of the polaroid, is ($I_0$ is the intensity of polarised light after passing through the first polaroid):",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{I_0}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{I_0}{4}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{I_0}{8}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{I_0}{16}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The middle sheet is at $22.5°$ to the first polaroid, so it is at $90° - 22.5° = 67.5°$ to the second (crossed) polaroid. By Malus's law:\n$$I = I_0\\cos^2 22.5°\\cos^2 67.5° = I_0(\\cos 22.5°\\sin 22.5°)^2 = I_0\\left(\\frac{\\sin 45°}{2}\\right)^2 = I_0 \\times \\frac{1}{8}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "11-12-004",
+  "chapter": "kinetic-theory",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "A container has two chambers of volumes $V_1 = 2$ litres and $V_2 = 3$ litres separated by a partition made of a thermal insulator. The chambers contains $n_1 = 5$ and $n_2 = 4$ moles of ideal gas at pressures $p_1 = 1$ atm and $p_2 = 2$ atm, respectively. When the partition is removed, the mixture attains an equilibrium pressure of :",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.3$ atm",
+      "image": ""
+    },
+    {
+      "text": "$1.6$ atm",
+      "image": ""
+    },
+    {
+      "text": "$1.4$ atm",
+      "image": ""
+    },
+    {
+      "text": "$1.8$ atm",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The container is isolated, so no heat enters and no work is done: the total internal energy is conserved.\n\nFor an ideal gas, $U = \\dfrac{f}{2}nRT = \\dfrac{f}{2}pV$. With the same gas on both sides:\n$$p(V_1 + V_2) = p_1V_1 + p_2V_2$$\n$$p = \\frac{1 \\times 2 + 2 \\times 3}{2 + 3} = \\frac{8}{5} = 1.6\\ \\text{atm}$$\n\n(The mole numbers are not needed.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

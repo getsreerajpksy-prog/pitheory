@@ -1,0 +1,39 @@
+{
+  "id": "11-12-003",
+  "chapter": "kinetic-theory",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "An oxygen cylinder of volume $30$ litre has $18.20$ moles of oxygen. After some oxygen is withdrawn from the cylinder, its gauge pressure drops to $11$ atmospheric pressure at temperature $27°$C. The mass of the oxygen withdrawn from the cylinder is nearly equal to :\n\n[Given, $R = \\dfrac{100}{12}\\ \\text{J mol}^{-1}\\text{K}^{-1}$, and molecular mass of $O_2 = 32$, $1$ atm pressure $= 1.01 \\times 10^5\\ \\text{N/m}^2$]",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.125$ kg",
+      "image": ""
+    },
+    {
+      "text": "$0.144$ kg",
+      "image": ""
+    },
+    {
+      "text": "$0.116$ kg",
+      "image": ""
+    },
+    {
+      "text": "$0.156$ kg",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Gauge pressure $11$ atm means absolute pressure $P = 11 + 1 = 12$ atm $= 12 \\times 1.01 \\times 10^5 = 12.12 \\times 10^5$ Pa.\n\nMoles left, with $V = 30 \\times 10^{-3}\\ \\text{m}^3$ and $T = 300$ K:\n$$n_2 = \\frac{PV}{RT} = \\frac{12.12 \\times 10^5 \\times 30 \\times 10^{-3}}{\\frac{100}{12} \\times 300} = \\frac{36360}{2500} = 14.54\\ \\text{mol}$$\n\nMoles withdrawn: $18.20 - 14.54 = 3.66$ mol.\n\nMass withdrawn: $3.66 \\times 32 = 117$ g $\\approx 0.116$ kg.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

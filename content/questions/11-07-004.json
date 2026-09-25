@@ -1,0 +1,39 @@
+{
+  "id": "11-07-004",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "The radius of Martian orbit around the Sun is about $4$ times the radius of the orbit of Mercury. The Martian year is $687$ Earth days. Then which of the following is the length of $1$ year on Mercury ?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$88$ earth days",
+      "image": ""
+    },
+    {
+      "text": "$225$ earth days",
+      "image": ""
+    },
+    {
+      "text": "$172$ earth days",
+      "image": ""
+    },
+    {
+      "text": "$124$ earth days",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Kepler's third law: $T \\propto r^{3/2}$.\n\n$$T_{\\text{Mercury}} = T_{\\text{Mars}}\\left(\\frac{1}{4}\\right)^{3/2} = \\frac{687}{8} \\approx 86\\ \\text{days}$$\n\nThe closest option is $88$ Earth days.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

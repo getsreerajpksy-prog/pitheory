@@ -1,0 +1,39 @@
+{
+  "id": "11-09-003",
+  "chapter": "mechanical-properties-of-fluids",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "Consider a water tank shown in the figure. It has one wall at $x = L$ and can be taken to be very wide in the $z$ direction. When filled with a liquid of surface tension $S$ and density $\\rho$, the liquid surface makes angle $\\theta_0$ ($\\theta_0 << 1$) with the $x$-axis at $x = L$. If $y(x)$ is the height of the surface then the equation for $y(x)$ is :\n\n(take $\\theta(x) = \\sin\\theta(x) = \\tan\\theta(x) = \\dfrac{dy}{dx}$, $g$ is the acceleration due to gravity)",
+  "diagram": "/diagrams/11-09-003.png",
+  "diagram_alt": "Liquid surface y(x) rising towards the wall at x = L, where it makes a small angle θ0 with the horizontal",
+  "options": [
+    {
+      "text": "$\\dfrac{d^2y}{dx^2} = \\dfrac{\\rho g}{S}x$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{d^2y}{dx^2} = \\dfrac{\\rho g}{S}y$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{d^2y}{dx^2} = \\sqrt{\\dfrac{\\rho g}{S}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{dy}{dx} = \\sqrt{\\dfrac{\\rho g}{S}}x$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Take a thin strip of the liquid surface between $x$ and $x + dx$ (unit length along $z$). Measure $y$ from the level of the flat liquid surface far away, where the pressure just below the surface is atmospheric.\n\nSurface tension pulls along the surface at both edges of the strip. Its net vertical component is\n$$S\\sin\\theta(x + dx) - S\\sin\\theta(x) = S\\frac{d\\theta}{dx}dx = S\\frac{d^2y}{dx^2}dx$$\n\nJust below a surface at height $y$, the liquid pressure is lower than atmospheric by $\\rho g y$. So the atmosphere pushes the strip down with a net force $\\rho g y\\,dx$.\n\nFor equilibrium:\n$$S\\frac{d^2y}{dx^2} = \\rho g y \\;\\Rightarrow\\; \\frac{d^2y}{dx^2} = \\frac{\\rho g}{S}y$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

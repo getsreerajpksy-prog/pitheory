@@ -1,0 +1,39 @@
+{
+  "id": "12-12-004",
+  "chapter": "atoms",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "De-Broglie wavelength of an electron orbiting in the $n = 2$ state of hydrogen atom is close to (Given Bohr radius $= 0.052$ nm)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.067$ nm",
+      "image": ""
+    },
+    {
+      "text": "$0.67$ nm",
+      "image": ""
+    },
+    {
+      "text": "$1.67$ nm",
+      "image": ""
+    },
+    {
+      "text": "$2.67$ nm",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Radius of the $n = 2$ orbit: $r_2 = n^2a_0 = 4 \\times 0.052 = 0.208$ nm.\n\nBohr's condition means the orbit holds a whole number of wavelengths: $2\\pi r_n = n\\lambda$.\n$$\\lambda = \\frac{2\\pi r_2}{2} = \\pi \\times 0.208 \\approx 0.65\\ \\text{nm}$$\n\nThe closest option is $0.67$ nm.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

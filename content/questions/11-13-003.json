@@ -1,0 +1,39 @@
+{
+  "id": "11-13-003",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "In an oscillating spring mass system, a spring is connected to a box filled with sand. As the box oscillates, sand leaks slowly out of the box vertically so that the average frequency $\\omega(t)$ and average amplitude $A(t)$ of the system change with time $t$. Which one of the following options schematically depicts these changes correctly?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "",
+      "image": "/diagrams/11-13-003-A.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-13-003-B.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-13-003-C.png"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-13-003-D.png"
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Frequency: $\\omega = \\sqrt{k/m}$. As sand leaks out, $m$ decreases, so $\\omega$ increases with time.\n\nAmplitude: the sand leaves vertically, with the same horizontal velocity as the box, so it exerts no horizontal force on the box. The box obeys $m(t)\\ddot{x} = -kx$, i.e. $\\ddot{x} + \\omega(t)^2x = 0$ with $\\omega$ changing slowly.\n\nFor such a slowly changing frequency, the quantity $\\omega A^2$ stays constant (adiabatic invariant), so $A \\propto \\omega^{-1/2}$. As $\\omega$ increases, the amplitude decreases.\n\n(Energy view: each grain of sand carries away its own kinetic energy, so the mechanical energy of the box, $\\tfrac{1}{2}kA^2$, decreases.)\n\nSo $\\omega(t)$ increases and $A(t)$ decreases, as in option (2).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12-09-006",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "In a certain camera, a combination of four similar thin convex lenses are arranged axially in contact. Then the power of the combination and the total magnification in comparison to the power ($p$) and magnification ($m$) for each lens will be, respectively –",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4p$ and $4m$",
+      "image": ""
+    },
+    {
+      "text": "$p^4$ and $4m$",
+      "image": ""
+    },
+    {
+      "text": "$4p$ and $m^4$",
+      "image": ""
+    },
+    {
+      "text": "$p^4$ and $m^4$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For thin lenses in contact, the powers add:\n$$P = p + p + p + p = 4p$$\n\nFor lenses used in succession, each forms an image that is the object for the next, so the magnifications multiply:\n$$M = m \\times m \\times m \\times m = m^4$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

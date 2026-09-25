@@ -1,0 +1,39 @@
+{
+  "id": "12-14-004",
+  "chapter": "semiconductor-electronics",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "A full wave rectifier circuit with diodes ($D_1$) and ($D_2$) is shown in the figure. If input supply voltage $V_{in} = 220\\sin(100\\pi t)$ volt, then at $t = 15$ msec",
+  "diagram": "/diagrams/12-14-004.png",
+  "diagram_alt": "Centre-tap full wave rectifier: transformer secondary feeding diodes D1 and D2 into load resistor RL",
+  "options": [
+    {
+      "text": "$D_1$ is forward biased, $D_2$ is reverse biased",
+      "image": ""
+    },
+    {
+      "text": "$D_1$ is reverse biased, $D_2$ is forward biased",
+      "image": ""
+    },
+    {
+      "text": "$D_1$ and $D_2$ both are forward biased",
+      "image": ""
+    },
+    {
+      "text": "$D_1$ and $D_2$ both are reverse biased",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At $t = 15$ ms: $100\\pi \\times 0.015 = 1.5\\pi$, and $\\sin(1.5\\pi) = -1$. The input is at its negative peak, i.e. in the negative half cycle.\n\nIn a centre-tap full wave rectifier, $D_1$ conducts during the positive half cycle and $D_2$ during the negative half cycle.\n\nSo at $t = 15$ ms, $D_1$ is reverse biased and $D_2$ is forward biased.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "11-06-007",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "NEET 2025",
+  "question": "A sphere of radius $R$ is cut from a larger solid sphere of radius $2R$ as shown in the figure. The ratio of the moment of inertia of the smaller sphere to that of the rest part of the sphere about the Y-axis is :",
+  "diagram": "/diagrams/11-06-007.png",
+  "diagram_alt": "Solid sphere of radius 2R centred on the Y-axis, with a sphere of radius R removed so that it touches the centre and the right edge",
+  "options": [
+    {
+      "text": "$\\dfrac{7}{8}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{7}{40}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{7}{57}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{7}{64}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Let the small sphere have mass $m$. The large sphere has 8 times its volume, so mass $8m$.\n\nThe Y-axis passes through the centre of the large sphere. The small sphere's centre is a distance $R$ from it.\n\nSmall sphere: $I_s = \\dfrac{2}{5}mR^2 + mR^2 = \\dfrac{7}{5}mR^2$\n\nFull large sphere: $I_L = \\dfrac{2}{5}(8m)(2R)^2 = \\dfrac{64}{5}mR^2$\n\nRemaining part: $I_{\\text{rest}} = \\dfrac{64}{5}mR^2 - \\dfrac{7}{5}mR^2 = \\dfrac{57}{5}mR^2$\n\n$$\\frac{I_s}{I_{\\text{rest}}} = \\frac{7}{57}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-25"
+}
