@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "For both a sum and a difference, the maximum possible absolute errors add:\n$$Z = A \\pm B \\;\\Rightarrow\\; \\Delta Z = \\Delta A + \\Delta B = a + b$$\n\nErrors never cancel in the worst case, even when the quantities are subtracted. This is a very common trap.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
