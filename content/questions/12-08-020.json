@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$v = \\dfrac{c}{\\sqrt{\\mu_r\\epsilon_r}} = \\dfrac{3 \\times 10^8}{2} = 1.5 \\times 10^8$ m/s. (Refractive index $2$.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
