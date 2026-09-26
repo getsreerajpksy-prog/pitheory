@@ -1,0 +1,39 @@
+{
+  "id": "11-01-019",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 1986 (Engineering)",
+  "question": "Dimensional analysis of the equation\n$$(\\text{Velocity})^x = (\\text{Pressure difference})^{3/2}\\,(\\text{Density})^{-3/2}$$\ngives the value of $x$ as",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1$",
+      "image": ""
+    },
+    {
+      "text": "$2$",
+      "image": ""
+    },
+    {
+      "text": "$3$",
+      "image": ""
+    },
+    {
+      "text": "$-3$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Combine the right-hand side first: $\\dfrac{\\text{Pressure}}{\\text{Density}} = \\dfrac{[ML^{-1}T^{-2}]}{[ML^{-3}]} = [L^2T^{-2}]$\n\nSo the right-hand side is $\\left(\\dfrac{P}{\\rho}\\right)^{3/2} = [L^2T^{-2}]^{3/2} = [L^3T^{-3}] = [LT^{-1}]^3$\n\nThat is (velocity)$^3$, so $x = 3$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

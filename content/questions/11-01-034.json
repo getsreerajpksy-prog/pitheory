@@ -1,0 +1,40 @@
+{
+  "id": "11-01-034",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The length of a rod is measured five times as $5.62\\ \\text{cm}$, $5.58\\ \\text{cm}$, $5.65\\ \\text{cm}$, $5.55\\ \\text{cm}$ and $5.60\\ \\text{cm}$. The percentage error in the measurement, based on the mean absolute error, is closest to",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.5\\%$",
+      "image": ""
+    },
+    {
+      "text": "$0.05\\%$",
+      "image": ""
+    },
+    {
+      "text": "$5\\%$",
+      "image": ""
+    },
+    {
+      "text": "$0.25\\%$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Mean value: $\\bar{l} = \\dfrac{5.62 + 5.58 + 5.65 + 5.55 + 5.60}{5} = \\dfrac{28.00}{5} = 5.60\\ \\text{cm}$\n\nAbsolute errors: $0.02,\\ 0.02,\\ 0.05,\\ 0.05,\\ 0.00$\n\nMean absolute error: $\\Delta\\bar{l} = \\dfrac{0.14}{5} = 0.028\\ \\text{cm}$\n\nPercentage error: $\\dfrac{0.028}{5.60}\\times 100 = 0.5\\%$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

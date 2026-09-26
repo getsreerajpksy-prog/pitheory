@@ -1,0 +1,22 @@
+{
+  "id": "11-01-041",
+  "chapter": "units-and-measurements",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "In a new system of units, the unit of mass is $2\\ \\text{kg}$, the unit of length is $5\\ \\text{m}$ and the unit of time is $10\\ \\text{s}$. Find the numerical value of an energy of $100\\ \\text{J}$ in this system.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "200",
+  "tolerance": "0",
+  "solution": "Energy has dimensions $[ML^2T^{-2}]$, and $n_1 u_1 = n_2 u_2$:\n$$n_2 = n_1\\left(\\frac{M_1}{M_2}\\right)\\left(\\frac{L_1}{L_2}\\right)^2\\left(\\frac{T_1}{T_2}\\right)^{-2}$$\n$$= 100\\times\\frac{1}{2}\\times\\left(\\frac{1}{5}\\right)^2\\times\\left(\\frac{1}{10}\\right)^{-2} = 100\\times 0.5\\times 0.04\\times 100 = 200$$\n\nThe new unit of energy is smaller than a joule, so the number gets bigger.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

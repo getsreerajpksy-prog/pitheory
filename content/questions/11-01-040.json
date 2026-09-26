@@ -1,0 +1,40 @@
+{
+  "id": "11-01-040",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The radius of a sphere is measured as $2.50\\ \\text{cm}$. Its volume, with due regard to significant figures, is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$65.45\\ \\text{cm}^3$",
+      "image": ""
+    },
+    {
+      "text": "$65.4\\ \\text{cm}^3$",
+      "image": ""
+    },
+    {
+      "text": "$65\\ \\text{cm}^3$",
+      "image": ""
+    },
+    {
+      "text": "$65.5\\ \\text{cm}^3$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$V = \\frac{4}{3}\\pi r^3 = \\frac{4}{3}\\pi (2.50)^3 = 65.449\\ldots\\ \\text{cm}^3$$\n\nThe radius has 3 significant figures ($\\tfrac43$ and $\\pi$ are exact), so the volume is rounded to 3 significant figures: $65.4\\ \\text{cm}^3$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

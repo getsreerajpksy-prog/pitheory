@@ -1,0 +1,40 @@
+{
+  "id": "11-01-035",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "The main scale of a vernier callipers is graduated in half-millimetres ($1\\ \\text{MSD} = 0.5\\ \\text{mm}$). 25 divisions of the vernier scale coincide with 24 divisions of the main scale. The least count of the instrument is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.01\\ \\text{mm}$",
+      "image": ""
+    },
+    {
+      "text": "$0.05\\ \\text{mm}$",
+      "image": ""
+    },
+    {
+      "text": "$0.02\\ \\text{mm}$",
+      "image": ""
+    },
+    {
+      "text": "$0.1\\ \\text{mm}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$25\\ \\text{VSD} = 24\\ \\text{MSD} \\Rightarrow 1\\ \\text{VSD} = \\dfrac{24}{25}\\ \\text{MSD}$\n\n$$\\text{LC} = 1\\ \\text{MSD} - 1\\ \\text{VSD} = \\frac{1}{25}\\ \\text{MSD} = \\frac{0.5}{25}\\ \\text{mm} = 0.02\\ \\text{mm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "11-01-043",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The energy of a system is given by $E = A\\,e^{-\\beta x^2/(kT)}$, where $x$ is a distance, $k$ is Boltzmann's constant and $T$ is temperature. The dimensions of $A\\beta$ are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$[ML^2T^{-2}]$",
+      "image": ""
+    },
+    {
+      "text": "$[M^2L^2T^{-4}]$",
+      "image": ""
+    },
+    {
+      "text": "$[MT^{-2}]$",
+      "image": ""
+    },
+    {
+      "text": "$[M^2L^4T^{-4}]$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The exponent must be dimensionless. Since $kT$ is an energy:\n$$[\\beta][L^2] = [ML^2T^{-2}] \\Rightarrow [\\beta] = [MT^{-2}]$$\n\nThe exponential is dimensionless, so $A$ has the dimensions of energy: $[A] = [ML^2T^{-2}]$.\n$$[A\\beta] = [ML^2T^{-2}][MT^{-2}] = [M^2L^2T^{-4}]$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

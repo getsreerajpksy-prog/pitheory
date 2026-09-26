@@ -1,0 +1,39 @@
+{
+  "id": "11-01-042",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The force on a particle is given by $F = a\\sqrt{x} + bt^2$, where $x$ is position and $t$ is time. The dimensions of $\\dfrac{a}{b}$ are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$[L^{1/2}T^{2}]$",
+      "image": ""
+    },
+    {
+      "text": "$[L^{-1/2}T^{2}]$",
+      "image": ""
+    },
+    {
+      "text": "$[L^{1/2}T^{-2}]$",
+      "image": ""
+    },
+    {
+      "text": "$[MLT^{-2}]$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Each term has the dimensions of force.\n\n$[a][L^{1/2}] = [MLT^{-2}] \\Rightarrow [a] = [ML^{1/2}T^{-2}]$\n\n$[b][T^2] = [MLT^{-2}] \\Rightarrow [b] = [MLT^{-4}]$\n\n$$\\left[\\frac{a}{b}\\right] = \\frac{[ML^{1/2}T^{-2}]}{[MLT^{-4}]} = [L^{-1/2}T^{2}]$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

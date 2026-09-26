@@ -1,0 +1,39 @@
+{
+  "id": "11-01-022",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2011 (Engineering)",
+  "question": "The dimensional formula of $\\dfrac{1}{2}\\mu_0 H^2$ ($\\mu_0$ is the permeability of free space and $H$ is the magnetic field intensity) is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$[MLT^{-1}]$",
+      "image": ""
+    },
+    {
+      "text": "$[ML^2T^{-2}]$",
+      "image": ""
+    },
+    {
+      "text": "$[ML^{-1}T^{-2}]$",
+      "image": ""
+    },
+    {
+      "text": "$[ML^2T^{-1}]$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\tfrac12\\mu_0H^2$ is the energy stored per unit volume in a magnetic field (since $B = \\mu_0 H$, it equals $\\dfrac{B^2}{2\\mu_0}$).\n\n$$\\left[\\tfrac12\\mu_0H^2\\right] = \\frac{[\\text{Energy}]}{[\\text{Volume}]} = \\frac{[ML^2T^{-2}]}{[L^3]} = [ML^{-1}T^{-2}]$$\n\nTip: energy density always has the same dimensions as pressure.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

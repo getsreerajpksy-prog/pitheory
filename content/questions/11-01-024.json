@@ -1,0 +1,39 @@
+{
+  "id": "11-01-024",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2009 (Engineering)",
+  "question": "When a wave traverses a medium, the displacement of a particle located at $x$ at time $t$ is given by $y = a\\sin(bt - cx)$, where $a$, $b$ and $c$ are constants of the wave. Which of the following is a quantity with dimensions?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{y}{a}$",
+      "image": ""
+    },
+    {
+      "text": "$bt$",
+      "image": ""
+    },
+    {
+      "text": "$cx$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{b}{c}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The argument of a sine must be dimensionless, so $bt$ and $cx$ are dimensionless. Also $y$ and $a$ are both lengths, so $y/a$ is dimensionless.\n\nThat leaves\n$$\\left[\\frac{b}{c}\\right] = \\frac{[T^{-1}]}{[L^{-1}]} = [LT^{-1}]$$\nwhich is a velocity. In fact $b/c = \\omega/k$ is the speed of the wave.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

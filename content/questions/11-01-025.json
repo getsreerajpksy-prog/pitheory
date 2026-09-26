@@ -1,0 +1,39 @@
+{
+  "id": "11-01-025",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "EAMCET 2008 (Engineering)",
+  "question": "Energy ($E$), angular momentum ($L$) and the universal gravitational constant ($G$) are chosen as fundamental quantities. The power of $G$ in the dimensional formula of Planck's constant ($h$) is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0$",
+      "image": ""
+    },
+    {
+      "text": "$-1$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{5}{3}$",
+      "image": ""
+    },
+    {
+      "text": "$1$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Planck's constant has dimensions $[ML^2T^{-1}]$, which are exactly the dimensions of angular momentum (for example, $L = nh/2\\pi$ in Bohr's model).\n\nSo $h = E^0\\,L^1\\,G^0$, and the power of $G$ is $0$.\n\nYou can confirm by writing $[ML^2T^{-1}] = [ML^2T^{-2}]^a[ML^2T^{-1}]^b[M^{-1}L^3T^{-2}]^c$ and solving: $a = 0$, $b = 1$, $c = 0$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

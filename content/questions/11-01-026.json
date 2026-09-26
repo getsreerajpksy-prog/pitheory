@@ -1,0 +1,39 @@
+{
+  "id": "11-01-026",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "EAMCET 2014 (Medical)",
+  "question": "If the absolute errors in two physical quantities $A$ and $B$ are $a$ and $b$ respectively, then the absolute error in the value of $A - B$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$a - b$",
+      "image": ""
+    },
+    {
+      "text": "$b - a$",
+      "image": ""
+    },
+    {
+      "text": "$ab$",
+      "image": ""
+    },
+    {
+      "text": "$a + b$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For both a sum and a difference, the maximum possible absolute errors add:\n$$Z = A \\pm B \\;\\Rightarrow\\; \\Delta Z = \\Delta A + \\Delta B = a + b$$\n\nErrors never cancel in the worst case, even when the quantities are subtracted. This is a very common trap.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

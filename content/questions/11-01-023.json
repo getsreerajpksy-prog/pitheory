@@ -1,0 +1,39 @@
+{
+  "id": "11-01-023",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2010 (Engineering)",
+  "question": "If the force is given by $F = at + bt^2$, with $t$ as time, the dimensions of $a$ and $b$ are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$[MLT^{-4}],\\ [MLT^{-2}]$",
+      "image": ""
+    },
+    {
+      "text": "$[MLT^{-3}],\\ [MLT^{-4}]$",
+      "image": ""
+    },
+    {
+      "text": "$[ML^2T^{-3}],\\ [ML^2T^{-2}]$",
+      "image": ""
+    },
+    {
+      "text": "$[ML^2T^{-3}],\\ [ML^3T^{-4}]$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Each term must have the dimensions of force, $[MLT^{-2}]$.\n\n$[a][T] = [MLT^{-2}] \\Rightarrow [a] = [MLT^{-3}]$\n\n$[b][T^2] = [MLT^{-2}] \\Rightarrow [b] = [MLT^{-4}]$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

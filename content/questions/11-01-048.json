@@ -1,0 +1,40 @@
+{
+  "id": "11-01-048",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The potential difference across a resistor is $(50 \\pm 1)\\ \\text{V}$ and its resistance is $(25 \\pm 0.5)\\ \\Omega$. The power dissipated, $P = \\dfrac{V^2}{R}$, is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$(100 \\pm 3)\\ \\text{W}$",
+      "image": ""
+    },
+    {
+      "text": "$(100 \\pm 4)\\ \\text{W}$",
+      "image": ""
+    },
+    {
+      "text": "$(100 \\pm 6)\\ \\text{W}$",
+      "image": ""
+    },
+    {
+      "text": "$(100 \\pm 2)\\ \\text{W}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$P = \\dfrac{50^2}{25} = 100\\ \\text{W}$\n$$\\frac{\\Delta P}{P}\\times 100 = 2\\,\\frac{\\Delta V}{V}\\times 100 + \\frac{\\Delta R}{R}\\times 100 = 2(2\\%) + 2\\% = 6\\%$$\n\nSo $\\Delta P = 6\\%$ of $100\\ \\text{W} = 6\\ \\text{W}$, and $P = (100 \\pm 6)\\ \\text{W}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

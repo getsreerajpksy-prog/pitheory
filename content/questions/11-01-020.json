@@ -1,0 +1,39 @@
+{
+  "id": "11-01-020",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 1985 (Engineering)",
+  "question": "In the equation $F = A^a v^b d^c$, $F$ is force, $A$ is area, $v$ is velocity and $d$ is density. Dimensional analysis gives the exponents as",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$a=1,\\ b=2,\\ c=1$",
+      "image": ""
+    },
+    {
+      "text": "$a=2,\\ b=1,\\ c=1$",
+      "image": ""
+    },
+    {
+      "text": "$a=1,\\ b=1,\\ c=2$",
+      "image": ""
+    },
+    {
+      "text": "$a=0,\\ b=1,\\ c=1$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Write the dimensions of each side:\n$$[MLT^{-2}] = [L^2]^a\\,[LT^{-1}]^b\\,[ML^{-3}]^c = M^{c}\\,L^{2a+b-3c}\\,T^{-b}$$\n\nCompare powers:\nM: $c = 1$\nT: $-b = -2 \\Rightarrow b = 2$\nL: $2a + b - 3c = 1 \\Rightarrow 2a + 2 - 3 = 1 \\Rightarrow a = 1$\n\nSo $F = A v^2 d$, the familiar form of the force of a fluid jet.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

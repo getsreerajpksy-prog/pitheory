@@ -1,0 +1,39 @@
+{
+  "id": "11-01-027",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2011 (Medical)",
+  "question": "The velocity $v$ (in cm/s) of a particle is given in terms of time $t$ (in s) by the equation\n$$v = at + \\frac{b}{t + c}$$\nThe dimensions of $a$, $b$ and $c$ are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$[L],\\ [T],\\ [LT^{-2}]$",
+      "image": ""
+    },
+    {
+      "text": "$[LT^{-2}],\\ [LT],\\ [L]$",
+      "image": ""
+    },
+    {
+      "text": "$[LT^{-2}],\\ [L],\\ [T]$",
+      "image": ""
+    },
+    {
+      "text": "$[L],\\ [LT],\\ [T^2]$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Only like quantities can be added, so $c$ has the dimensions of time: $[c] = [T]$.\n\n$at$ is a velocity: $[a] = \\dfrac{[LT^{-1}]}{[T]} = [LT^{-2}]$\n\n$\\dfrac{b}{t+c}$ is a velocity: $[b] = [LT^{-1}][T] = [L]$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

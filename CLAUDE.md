@@ -10,7 +10,8 @@ This repository is the pitheory.in NEET/JEE physics question bank. `build.py` tu
 - `exams`: any of `NEET`, `JEE Main`, `JEE Advanced`.
 - `source`: exam and date for previous year questions, e.g. `JEE Main 2024 (27 Jan, Shift 1)`, only if the user states it; otherwise `PiTheory original`.
 - Maths in KaTeX: inline `$...$`, display `$$...$$`. Blank line between paragraphs.
-- Transcribe the question and options exactly. Write a clear step-by-step solution and double-check the answer; if your answer disagrees with an answer key the user gives, tell the user instead of guessing.
+- Only previous year exam questions (NEET, JEE Main/Advanced, AIEEE, AIPMT, EAMCET, KCET and similar entrance exams, with the exam and year known) may be transcribed exactly. Never copy questions from coaching modules, textbooks or other websites, even if they are widely shared; for those, write a genuinely new question on the same concept and level (new situation, numbers and wording), with source `PiTheory original`.
+- Write a clear step-by-step solution in your own words and double-check the answer yourself; if your answer disagrees with an answer key the user gives, tell the user instead of guessing.
 - New questions always get `"status": "draft"` and `"updated"` = today's date (YYYY-MM-DD). The user publishes them after checking.
 
 ## Diagrams

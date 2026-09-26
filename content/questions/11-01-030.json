@@ -1,0 +1,39 @@
+{
+  "id": "11-01-030",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2008 (Medical)",
+  "question": "If power ($P$), surface tension ($T$) and Planck's constant ($h$) are arranged so that the dimensions of time in their dimensional formulae are in ascending order, then which of the following is correct?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$P,\\ T,\\ h$",
+      "image": ""
+    },
+    {
+      "text": "$P,\\ h,\\ T$",
+      "image": ""
+    },
+    {
+      "text": "$T,\\ P,\\ h$",
+      "image": ""
+    },
+    {
+      "text": "$T,\\ h,\\ P$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Write the power of time in each:\n\nPower: $[ML^2T^{-3}]$, so $-3$\nSurface tension: $[MT^{-2}]$, so $-2$\nPlanck's constant: $[ML^2T^{-1}]$, so $-1$\n\nIn ascending order: $-3 < -2 < -1$, which gives $P,\\ T,\\ h$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

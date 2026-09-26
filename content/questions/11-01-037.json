@@ -1,0 +1,22 @@
+{
+  "id": "11-01-037",
+  "chapter": "units-and-measurements",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A screw gauge has a pitch of $0.5\\ \\text{mm}$ and 50 divisions on its circular scale. It has a positive zero error of 3 circular divisions. While measuring the diameter of a wire, the main scale reading is $1.5\\ \\text{mm}$ and the circular scale reading is 36 divisions. Find the corrected diameter of the wire in mm.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "1.83",
+  "tolerance": "0",
+  "solution": "Least count $= \\dfrac{\\text{pitch}}{\\text{number of circular divisions}} = \\dfrac{0.5}{50} = 0.01\\ \\text{mm}$\n\nObserved reading $= 1.5 + 36\\times 0.01 = 1.86\\ \\text{mm}$\n\nZero error $= +3\\times 0.01 = +0.03\\ \\text{mm}$, which is subtracted:\n$$d = 1.86 - 0.03 = 1.83\\ \\text{mm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

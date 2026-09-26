@@ -1,0 +1,40 @@
+{
+  "id": "11-01-032",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The momentum of a body is measured with an error of $2\\%$ and its mass with an error of $1\\%$. The maximum percentage error in its kinetic energy, calculated using $K = \\dfrac{p^2}{2m}$, is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$3\\%$",
+      "image": ""
+    },
+    {
+      "text": "$4\\%$",
+      "image": ""
+    },
+    {
+      "text": "$5\\%$",
+      "image": ""
+    },
+    {
+      "text": "$1\\%$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\frac{\\Delta K}{K}\\times 100 = 2\\,\\frac{\\Delta p}{p}\\times 100 + \\frac{\\Delta m}{m}\\times 100 = 2(2) + 1 = 5\\%$$\n\nThe constant $\\tfrac12$ has no error, so it contributes nothing.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

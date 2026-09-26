@@ -1,0 +1,39 @@
+{
+  "id": "11-01-028",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2010 (Medical)",
+  "question": "A body weighs $22.42\\ \\text{g}$ and has a measured volume of $4.7\\ \\text{cc}$. The possible errors in the measurement of mass and volume are $0.01\\ \\text{g}$ and $0.1\\ \\text{cc}$. The maximum percentage error in the density will be",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$22\\%$",
+      "image": ""
+    },
+    {
+      "text": "$2.2\\%$",
+      "image": ""
+    },
+    {
+      "text": "$0.22\\%$",
+      "image": ""
+    },
+    {
+      "text": "$0.022\\%$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\rho = \\dfrac{M}{V}$, so percentage errors add:\n$$\\frac{\\Delta\\rho}{\\rho}\\times 100 = \\frac{0.01}{22.42}\\times 100 + \\frac{0.1}{4.7}\\times 100 \\approx 0.045\\% + 2.13\\% \\approx 2.2\\%$$\n\nAlmost all of the error comes from the volume, which was measured much less precisely.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

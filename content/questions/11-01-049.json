@@ -1,0 +1,40 @@
+{
+  "id": "11-01-049",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The length and breadth of a rectangular sheet are $(12.0 \\pm 0.1)\\ \\text{cm}$ and $(5.0 \\pm 0.1)\\ \\text{cm}$. Its area, with the error limit, is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$(60 \\pm 0.2)\\ \\text{cm}^2$",
+      "image": ""
+    },
+    {
+      "text": "$(60 \\pm 1.7)\\ \\text{cm}^2$",
+      "image": ""
+    },
+    {
+      "text": "$(60 \\pm 0.5)\\ \\text{cm}^2$",
+      "image": ""
+    },
+    {
+      "text": "$(60 \\pm 1.2)\\ \\text{cm}^2$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$A = 12.0\\times 5.0 = 60\\ \\text{cm}^2$\n\nFor a product, the fractional errors add:\n$$\\frac{\\Delta A}{A} = \\frac{0.1}{12.0} + \\frac{0.1}{5.0} = 0.0083 + 0.020 = 0.0283$$\n$$\\Delta A = 0.0283\\times 60 \\approx 1.7\\ \\text{cm}^2$$\n\nSo $A = (60 \\pm 1.7)\\ \\text{cm}^2$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

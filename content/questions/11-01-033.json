@@ -1,0 +1,22 @@
+{
+  "id": "11-01-033",
+  "chapter": "units-and-measurements",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "In a simple pendulum experiment, the length is measured as $1.000\\ \\text{m}$ with an error of $1\\ \\text{mm}$, and the time period as $2.00\\ \\text{s}$ with an error of $0.02\\ \\text{s}$. Find the maximum percentage error in the value of $g$.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "2.1",
+  "tolerance": "0.05",
+  "solution": "$g = \\dfrac{4\\pi^2 L}{T^2}$, so\n$$\\frac{\\Delta g}{g}\\times 100 = \\frac{\\Delta L}{L}\\times 100 + 2\\,\\frac{\\Delta T}{T}\\times 100$$\n$$= \\frac{0.001}{1.000}\\times 100 + 2\\times\\frac{0.02}{2.00}\\times 100 = 0.1\\% + 2\\% = 2.1\\%$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

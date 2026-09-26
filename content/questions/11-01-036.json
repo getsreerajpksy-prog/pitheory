@@ -1,0 +1,40 @@
+{
+  "id": "11-01-036",
+  "chapter": "units-and-measurements",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A vernier callipers has a least count of $0.01\\ \\text{cm}$. When the jaws are closed, the zero of the vernier scale lies to the right of the zero of the main scale, and the 6th vernier division coincides with a main scale division. While measuring the diameter of a rod, the main scale reading is $2.3\\ \\text{cm}$ and the 4th vernier division coincides. The corrected diameter of the rod is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2.34\\ \\text{cm}$",
+      "image": ""
+    },
+    {
+      "text": "$2.40\\ \\text{cm}$",
+      "image": ""
+    },
+    {
+      "text": "$2.28\\ \\text{cm}$",
+      "image": ""
+    },
+    {
+      "text": "$2.30\\ \\text{cm}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Vernier zero to the right of main scale zero means a positive zero error:\n$$\\text{Zero error} = +6 \\times 0.01 = +0.06\\ \\text{cm}$$\n\nObserved reading $= 2.3 + 4\\times 0.01 = 2.34\\ \\text{cm}$\n\nA positive zero error is subtracted:\n$$\\text{Corrected reading} = 2.34 - 0.06 = 2.28\\ \\text{cm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

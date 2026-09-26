@@ -136,7 +136,7 @@ def load_questions():
             "id": qid, "type": qtype, "c": c, "cls": c["class"], "exams": q.get("exams") or [],
             "difficulty": (q.get("difficulty") or "").capitalize(),
             "important": bool(q.get("important")),
-            "pyq": bool(re.search(r"(NEET|JEE|AIPMT|AIEEE).*\b(19|20)\d\d\b", src, re.I)),
+            "pyq": bool(re.search(r"(NEET|JEE|AIPMT|AIEEE|AIIMS|EAMCET|KCET|MHT[- ]?CET|BITSAT|WBJEE|COMEDK).*\b(19|20)\d\d\b", src, re.I)),
             "plain": plain(q["question"]),
             "path": f"/physics/{c['slug']}/{qid}/",
         })
