@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Disconnected, so $Q$ is fixed. $C$ becomes $KC$, $V = \\dfrac{Q}{C}$ becomes $\\dfrac{V}{K}$, and $U = \\dfrac{Q^2}{2C}$ becomes $\\dfrac{U}{K}$. (The slab is pulled in, and the field does work.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
