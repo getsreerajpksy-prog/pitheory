@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$C = \\frac{\\epsilon_0A}{d - t + t/K} = \\frac{\\epsilon_0A}{d - \\frac{d}{2} + \\frac{d}{8}} = \\frac{\\epsilon_0A}{5d/8} = \\frac{8}{5}C_0$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
