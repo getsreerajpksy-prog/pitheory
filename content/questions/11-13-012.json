@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\omega = \\dfrac{2\\pi}{T} = \\pi$ rad/s.\n$$v = \\omega\\sqrt{A^2 - x^2} = \\pi\\sqrt{100 - 36} = 8\\pi\\ \\text{cm/s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
