@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$6\\ \\Omega \\parallel 3\\ \\Omega = 2\\ \\Omega$. Total $= 5\\ \\Omega$, so $I = \\dfrac{6}{5} = 1.2$ A.\n\nVoltage across the parallel pair $= 1.2 \\times 2 = 2.4$ V, so the $6\\ \\Omega$ resistor carries $\\dfrac{2.4}{6} = 0.4$ A.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
