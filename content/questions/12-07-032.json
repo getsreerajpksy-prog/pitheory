@@ -17,6 +17,6 @@
   "tolerance": "0.02",
   "solution": "Lamp resistance $R = \\dfrac{220^2}{100} = 484\\ \\Omega$. At $110$ V across it, $I = \\dfrac{110}{484}$ A.\n\n$V_L = \\sqrt{220^2 - 110^2} = 110\\sqrt{3}$ V, so $X_L = \\dfrac{V_L}{I} = 484\\sqrt{3} \\approx 838.3\\ \\Omega$.\n$$L = \\frac{X_L}{2\\pi f} = \\frac{838.3}{314} \\approx 2.67\\ \\text{H}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
