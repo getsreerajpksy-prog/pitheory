@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$$\\sigma = Y\\alpha\\Delta T = 2 \\times 10^{11} \\times 1.2 \\times 10^{-5} \\times 50 = 1.2 \\times 10^8\\ \\text{Pa}$$\n\n(The length does not matter.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
