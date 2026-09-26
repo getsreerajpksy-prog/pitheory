@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Wien's law: $\\lambda_m T = $ constant, so doubling $T$ halves $\\lambda_m$ (the colour shifts towards blue).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
