@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "In equilibrium, with tension $T$ at angle $\\theta$ to the vertical:\n$$T\\sin\\theta = F, \\qquad T\\cos\\theta = Mg \\;\\Rightarrow\\; F = Mg\\tan\\theta$$\n$$F = Mg\\tan 60° = \\sqrt{3}\\,Mg$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
