@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Let length $= c^a G^b h^p$:\n$$[L] = [LT^{-1}]^a\\,[M^{-1}L^3T^{-2}]^b\\,[ML^2T^{-1}]^p$$\n\nM: $-b + p = 0$\nL: $a + 3b + 2p = 1$\nT: $-a - 2b - p = 0$\n\nFrom M, $p = b$. Then T gives $a = -3b$, and L gives $-3b + 3b + 2b = 1 \\Rightarrow b = \\tfrac12$.\n\nSo $p = \\tfrac12$ and $a = -\\tfrac32$:\n$$\\text{Length} = \\sqrt{\\frac{hG}{c^3}}$$\nThis is the Planck length, about $10^{-35}\\ \\text{m}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
