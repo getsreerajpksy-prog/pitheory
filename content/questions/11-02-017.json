@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Rising to the maximum height $H$ takes time $t$, and falling from rest through $H$ also takes $t$:\n$$H = \\frac{1}{2}gt^2$$\n\nOn the way down, the body falls $\\dfrac{H}{2}$ from the top to reach half the maximum height. If this takes $t'$:\n$$\\frac{H}{2} = \\frac{1}{2}gt'^2 \\;\\Rightarrow\\; t'^2 = \\frac{t^2}{2} \\;\\Rightarrow\\; t' = \\frac{t}{\\sqrt{2}}$$\n\nTotal time from projection:\n$$t + \\frac{t}{\\sqrt{2}} = \\left(1 + \\frac{1}{\\sqrt{2}}\\right)t$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
