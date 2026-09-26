@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$f_0 \\propto \\dfrac{1}{\\sqrt{LC}}$; $LC$ becomes $4$ times, so $f$ halves.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
