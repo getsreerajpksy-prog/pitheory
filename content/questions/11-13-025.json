@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "In the car's frame the bob feels gravity $g$ downward and a pseudo force $ma$ backward. The effective gravity is their vector sum, $g_{eff} = \\sqrt{g^2 + a^2}$:\n$$T = 2\\pi\\sqrt{\\frac{l}{\\sqrt{g^2 + a^2}}}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
