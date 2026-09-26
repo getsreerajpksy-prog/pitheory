@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Let the horizontal shot be in flight for $t_1$ and the inclined shot for $t_2$ when they meet.\n\nHorizontal positions must match:\n$$5\\sqrt{3}\\,t_1 = 5\\sqrt{3}\\cos 60°\\,t_2 \\;\\Rightarrow\\; t_2 = 2t_1$$\n\nVertical positions must match ($5\\sqrt{3}\\sin 60° = 7.5$ m/s):\n$$10 - 5t_1^2 = 10 + 7.5t_2 - 5t_2^2 \\;\\Rightarrow\\; -5t_1^2 = 15t_1 - 20t_1^2 \\;\\Rightarrow\\; t_1 = 1\\ \\text{s}$$\n\nSo $t_2 = 2$ s: the inclined gun fires first and the other fires $1$ s later.\n\nP: $x = 5\\sqrt{3}(1) = 5\\sqrt{3}$ m, $y = 10 - 5(1)^2 = 5$ m.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
