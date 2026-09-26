@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "At the highest point the shell (mass $2m$) moves horizontally with speed $v$. The part that retraces the path must move with velocity $-v$.\n\nMomentum conservation: $2mv = m(-v) + mv_2 \\Rightarrow v_2 = 3v$.\n$$\\frac{E_2}{E_1} = \\frac{\\frac{1}{2}m(3v)^2}{\\frac{1}{2}mv^2} = 9 \\;\\Rightarrow\\; E_2 = 9E_1$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
