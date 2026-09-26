@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\mu_r < 1$ means $\\chi = \\mu_r - 1 = -5 \\times 10^{-4}$, small and negative: diamagnetic.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
