@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Each half has twice the force constant: $k' = 2k$. $T \\propto \\dfrac{1}{\\sqrt{k}}$, so $T' = \\dfrac{T}{\\sqrt{2}}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
