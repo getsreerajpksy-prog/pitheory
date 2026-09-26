@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Vernier zero to the right of main scale zero means a positive zero error:\n$$\\text{Zero error} = +6 \\times 0.01 = +0.06\\ \\text{cm}$$\n\nObserved reading $= 2.3 + 4\\times 0.01 = 2.34\\ \\text{cm}$\n\nA positive zero error is subtracted:\n$$\\text{Corrected reading} = 2.34 - 0.06 = 2.28\\ \\text{cm}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
