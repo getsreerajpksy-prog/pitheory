@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "At the top of the loop (height $2R$) it needs at least $v^2 = gR$:\n$$mgh = mg(2R) + \\frac{1}{2}m(gR) \\;\\Rightarrow\\; h = 2.5R$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
