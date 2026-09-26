@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\vec{s} = (4 - 1)\\hat{i} + (-1 - 2)\\hat{j} + (3 - 0)\\hat{k} = 3\\hat{i} - 3\\hat{j} + 3\\hat{k}$$\n$$W = \\vec{F}\\cdot\\vec{s} = 6 - 9 - 3 = -6\\ \\text{J}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
