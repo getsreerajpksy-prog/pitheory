@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The difference $300$ Hz would be $f_1$ for an open pipe, but $450$ is not a multiple of $300$. For a closed pipe only odd harmonics exist and successive ones differ by $2f_1$: $f_1 = 150$ Hz, and $450 = 3f_1$, $750 = 5f_1$. ✓",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
