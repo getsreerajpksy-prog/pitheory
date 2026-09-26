@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Each term must have the dimensions of force, $[MLT^{-2}]$.\n\n$[a][T] = [MLT^{-2}] \\Rightarrow [a] = [MLT^{-3}]$\n\n$[b][T^2] = [MLT^{-2}] \\Rightarrow [b] = [MLT^{-4}]$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
