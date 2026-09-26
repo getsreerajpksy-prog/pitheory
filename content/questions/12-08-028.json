@@ -1,0 +1,22 @@
+{
+  "id": "12-08-028",
+  "chapter": "electromagnetic-waves",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An FM radio station broadcasts at $100$ MHz. Find the wavelength of the waves, in metres.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "3",
+  "tolerance": "0",
+  "solution": "$\\lambda = \\dfrac{c}{f} = \\dfrac{3 \\times 10^8}{10^8} = 3$ m.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

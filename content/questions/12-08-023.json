@@ -1,0 +1,40 @@
+{
+  "id": "12-08-023",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "An EM wave of intensity $6\\ \\text{W/cm}^2$ falls normally on a perfectly reflecting surface. The radiation pressure on it is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2 \\times 10^{-4}$ Pa",
+      "image": ""
+    },
+    {
+      "text": "$2 \\times 10^{-8}$ Pa",
+      "image": ""
+    },
+    {
+      "text": "$4 \\times 10^{-8}$ Pa",
+      "image": ""
+    },
+    {
+      "text": "$4 \\times 10^{-4}$ Pa",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$I = 6 \\times 10^4\\ \\text{W/m}^2$. For perfect reflection $P = \\dfrac{2I}{c} = \\dfrac{1.2 \\times 10^5}{3 \\times 10^8} = 4 \\times 10^{-4}$ Pa. (Half this for a perfect absorber.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

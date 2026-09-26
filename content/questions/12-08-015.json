@@ -1,0 +1,40 @@
+{
+  "id": "12-08-015",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An electromagnetic wave has a frequency of $3 \\times 10^{10}$ Hz in vacuum. It belongs to the",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "infrared region",
+      "image": ""
+    },
+    {
+      "text": "radio wave region",
+      "image": ""
+    },
+    {
+      "text": "X-ray region",
+      "image": ""
+    },
+    {
+      "text": "microwave region",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\lambda = \\dfrac{c}{f} = \\dfrac{3 \\times 10^8}{3 \\times 10^{10}} = 1$ cm, which is in the microwave region.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

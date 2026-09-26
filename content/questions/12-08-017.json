@@ -1,0 +1,40 @@
+{
+  "id": "12-08-017",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The waves used in night-vision devices and TV remote controls are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "X-rays",
+      "image": ""
+    },
+    {
+      "text": "infrared",
+      "image": ""
+    },
+    {
+      "text": "ultraviolet",
+      "image": ""
+    },
+    {
+      "text": "microwaves",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Warm bodies emit infrared, which night-vision devices detect. Remote controls use infrared LEDs.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

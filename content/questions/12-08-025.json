@@ -1,0 +1,40 @@
+{
+  "id": "12-08-025",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Electromagnetic waves are produced by",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "neutral particles only",
+      "image": ""
+    },
+    {
+      "text": "accelerated charges",
+      "image": ""
+    },
+    {
+      "text": "charges at rest",
+      "image": ""
+    },
+    {
+      "text": "charges moving with constant velocity",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Only accelerating (or oscillating) charges radiate. A static charge gives a pure electric field and a steadily moving charge gives steady fields.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

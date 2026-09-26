@@ -1,0 +1,40 @@
+{
+  "id": "12-08-016",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The radiation used to destroy cancer cells and to sterilise medical equipment is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "gamma rays",
+      "image": ""
+    },
+    {
+      "text": "infrared rays",
+      "image": ""
+    },
+    {
+      "text": "microwaves",
+      "image": ""
+    },
+    {
+      "text": "radio waves",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Gamma rays are highly penetrating and ionising, so they are used in radiotherapy and for sterilisation.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

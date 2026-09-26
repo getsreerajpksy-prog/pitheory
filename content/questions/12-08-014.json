@@ -1,0 +1,40 @@
+{
+  "id": "12-08-014",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Which of the following is the correct order of increasing wavelength?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "microwaves, infrared, visible, ultraviolet, X-rays, gamma rays",
+      "image": ""
+    },
+    {
+      "text": "gamma rays, ultraviolet, X-rays, visible, microwaves, infrared",
+      "image": ""
+    },
+    {
+      "text": "gamma rays, X-rays, ultraviolet, visible, infrared, microwaves",
+      "image": ""
+    },
+    {
+      "text": "X-rays, gamma rays, visible, ultraviolet, microwaves, infrared",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "From shortest to longest: gamma rays < X-rays < ultraviolet < visible < infrared < microwaves < radio waves.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-08-022",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The peak electric field of sunlight at the Earth is about $1000$ V/m. The average intensity of the radiation is about ($c = 3 \\times 10^8$ m/s, $\\epsilon_0 = 8.85 \\times 10^{-12}$ F/m)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.66\\ \\text{kW/m}^2$",
+      "image": ""
+    },
+    {
+      "text": "$13.3\\ \\text{kW/m}^2$",
+      "image": ""
+    },
+    {
+      "text": "$1.33\\ \\text{kW/m}^2$",
+      "image": ""
+    },
+    {
+      "text": "$2.66\\ \\text{kW/m}^2$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$I = \\dfrac{1}{2}\\epsilon_0E_0^2c = 0.5 \\times 8.85 \\times 10^{-12} \\times 10^6 \\times 3 \\times 10^8 \\approx 1.33 \\times 10^3\\ \\text{W/m}^2$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

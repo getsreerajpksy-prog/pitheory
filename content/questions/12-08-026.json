@@ -1,0 +1,40 @@
+{
+  "id": "12-08-026",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Maxwell modified Ampère's circuital law by adding a term to make it consistent for",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "permanent magnets",
+      "image": ""
+    },
+    {
+      "text": "steady currents in closed loops",
+      "image": ""
+    },
+    {
+      "text": "time-varying fields, such as in a charging capacitor",
+      "image": ""
+    },
+    {
+      "text": "static magnetic fields",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "In a charging capacitor, no conduction current crosses the gap, yet a magnetic field exists there. Maxwell added the displacement current $\\epsilon_0\\dfrac{d\\phi_E}{dt}$, which makes the total current continuous.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

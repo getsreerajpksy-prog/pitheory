@@ -1,0 +1,22 @@
+{
+  "id": "12-08-029",
+  "chapter": "electromagnetic-waves",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A point source emits $100$ W of electromagnetic radiation uniformly in all directions. Find the peak electric field, in V/m, at a distance of $2$ m, to the nearest whole number. ($c = 3 \\times 10^8$ m/s, $\\epsilon_0 = 8.85 \\times 10^{-12}$ F/m)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "39",
+  "tolerance": "1",
+  "solution": "$I = \\dfrac{100}{4\\pi(2)^2} \\approx 1.99\\ \\text{W/m}^2$.\n$$E_0 = \\sqrt{\\frac{2I}{\\epsilon_0c}} = \\sqrt{\\frac{2 \\times 1.99}{8.85 \\times 10^{-12} \\times 3 \\times 10^8}} \\approx 38.7 \\approx 39\\ \\text{V/m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

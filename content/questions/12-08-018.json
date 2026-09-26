@@ -1,0 +1,40 @@
+{
+  "id": "12-08-018",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The ozone layer in the atmosphere protects life on Earth mainly by absorbing",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "visible light",
+      "image": ""
+    },
+    {
+      "text": "microwaves",
+      "image": ""
+    },
+    {
+      "text": "ultraviolet radiation",
+      "image": ""
+    },
+    {
+      "text": "infrared radiation",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Ozone strongly absorbs harmful ultraviolet radiation from the Sun.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-08-027",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A plane EM wave travels along the $+x$ direction and its electric field at an instant points along $+y$. At that instant, the magnetic field points along",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$-z$",
+      "image": ""
+    },
+    {
+      "text": "$+y$",
+      "image": ""
+    },
+    {
+      "text": "$-x$",
+      "image": ""
+    },
+    {
+      "text": "$+z$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The direction of travel is along $\\vec{E} \\times \\vec{B}$. With $\\vec{E}$ along $\\hat{j}$, we need $\\hat{j} \\times \\vec{B} = \\hat{i}$, which gives $\\vec{B}$ along $\\hat{k}$ ($\\hat{j} \\times \\hat{k} = \\hat{i}$): the $+z$ direction.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

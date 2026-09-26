@@ -1,0 +1,40 @@
+{
+  "id": "12-08-019",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "In an electromagnetic wave in free space, the amplitude of the magnetic field is $5 \\times 10^{-8}$ T. The amplitude of the electric field is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.5$ V/m",
+      "image": ""
+    },
+    {
+      "text": "$150$ V/m",
+      "image": ""
+    },
+    {
+      "text": "$0.15$ V/m",
+      "image": ""
+    },
+    {
+      "text": "$15$ V/m",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$E_0 = cB_0 = 3 \\times 10^8 \\times 5 \\times 10^{-8} = 15$ V/m.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

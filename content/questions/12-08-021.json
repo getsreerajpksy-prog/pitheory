@@ -1,0 +1,40 @@
+{
+  "id": "12-08-021",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The electric field of a plane EM wave is $E_y = 30\\sin(2 \\times 10^{7}t - kx)$ V/m. The wave number $k$ and wavelength are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$6 \\times 10^{15}\\ \\text{m}^{-1}$ and $30$ m",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{15}\\ \\text{m}^{-1}$ and $30\\pi$ m",
+      "image": ""
+    },
+    {
+      "text": "$15\\ \\text{m}^{-1}$ and $30\\pi$ m",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{15}\\ \\text{m}^{-1}$ and $15$ m",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$k = \\dfrac{\\omega}{c} = \\dfrac{2 \\times 10^7}{3 \\times 10^8} = \\dfrac{1}{15}\\ \\text{m}^{-1}$, so $\\lambda = \\dfrac{2\\pi}{k} = 30\\pi \\approx 94$ m.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

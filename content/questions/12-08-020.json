@@ -1,0 +1,40 @@
+{
+  "id": "12-08-020",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The speed of an electromagnetic wave in a medium of relative permittivity $4$ and relative permeability $1$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.5 \\times 10^8$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$0.75 \\times 10^8$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$3 \\times 10^8$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$6 \\times 10^8$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$v = \\dfrac{c}{\\sqrt{\\mu_r\\epsilon_r}} = \\dfrac{3 \\times 10^8}{2} = 1.5 \\times 10^8$ m/s. (Refractive index $2$.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

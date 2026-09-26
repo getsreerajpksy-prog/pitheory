@@ -1,0 +1,40 @@
+{
+  "id": "12-08-013",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A parallel plate capacitor with plates of area $0.01\\ \\text{m}^2$ has the field between them changing at $10^{12}$ V m$^{-1}$ s$^{-1}$. The displacement current is ($\\epsilon_0 = 8.85 \\times 10^{-12}$ F/m)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.00885$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.0885$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.885$ A",
+      "image": ""
+    },
+    {
+      "text": "$8.85$ A",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$I_d = \\epsilon_0A\\dfrac{dE}{dt} = 8.85 \\times 10^{-12} \\times 0.01 \\times 10^{12} = 0.0885$ A.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

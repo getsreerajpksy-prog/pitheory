@@ -1,0 +1,40 @@
+{
+  "id": "12-08-024",
+  "chapter": "electromagnetic-waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The direction of propagation of an EM wave is along",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\vec{E} \\times \\vec{B}$",
+      "image": ""
+    },
+    {
+      "text": "$\\vec{B} \\times \\vec{E}$",
+      "image": ""
+    },
+    {
+      "text": "$\\vec{E}$",
+      "image": ""
+    },
+    {
+      "text": "$\\vec{B}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The Poynting vector $\\vec{S} = \\dfrac{1}{\\mu_0}\\vec{E} \\times \\vec{B}$ points in the direction of propagation.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
