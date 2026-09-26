@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Cutting along the axis halves the pole strength and keeps the length, so each piece has moment $\\dfrac{M_1}{2}$.\n\nAt right angles: $M_2 = \\sqrt{2}\\cdot\\dfrac{M_1}{2} = \\dfrac{M_1}{\\sqrt{2}}$, so $\\dfrac{M_1}{M_2} = \\sqrt{2}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
