@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Equilibrium: $F = -\\dfrac{dU}{dx} = -(3x^2 - 12) = 0 \\Rightarrow x = \\pm 2$ m.\n\nStable equilibrium is a minimum of $U$: $\\dfrac{d^2U}{dx^2} = 6x > 0$ at $x = 2$. (At $x = -2$ it is a maximum, which is unstable.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
