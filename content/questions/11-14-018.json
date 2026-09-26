@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "A closed pipe has only odd harmonics: $f, 3f, 5f, \\dots$ The second overtone is $5f = 1000$ Hz.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

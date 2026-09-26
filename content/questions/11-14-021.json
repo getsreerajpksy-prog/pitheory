@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The second fork is $256 \\pm 4$ Hz. Wax lowers its frequency. If it were $252$ Hz, lowering it would increase the beats. Since the beats decrease, it must have been $260$ Hz.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

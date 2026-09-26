@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$\\mu = \\dfrac{0.005}{0.5} = 0.01$ kg/m, $v = \\sqrt{\\dfrac{400}{0.01}} = 200$ m/s.\n$$f_1 = \\frac{v}{2L} = \\frac{200}{1} = 200\\ \\text{Hz}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

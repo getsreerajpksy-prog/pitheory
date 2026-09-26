@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Compare with $y = A\\sin 2\\pi\\left(\\dfrac{t}{T} - \\dfrac{x}{\\lambda}\\right)$: $\\lambda = 40$ cm and $T = 0.04$ s, so $f = 25$ Hz.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$f' = f\\dfrac{v}{v - v_s} = 500 \\times \\dfrac{330}{300} = 550$ Hz.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

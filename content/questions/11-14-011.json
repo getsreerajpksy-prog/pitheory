@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The tension at height $x$ supports the rope below: $T = \\dfrac{m}{L}xg$. With $\\mu = \\dfrac{m}{L}$: $v = \\sqrt{\\dfrac{T}{\\mu}} = \\sqrt{gx}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

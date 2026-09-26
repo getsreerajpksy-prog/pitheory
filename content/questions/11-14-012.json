@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$v \\propto \\sqrt{T}$ (in kelvin). Doubling $v$ needs $4T$: $4 \\times 300 = 1200$ K $= 927°$C.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

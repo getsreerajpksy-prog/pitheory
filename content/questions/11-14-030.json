@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "Open pipe first overtone $= 600$ Hz. Closed pipe first overtone $= \\dfrac{3v}{4L} = 600$:\n$$L = \\frac{3 \\times 330}{4 \\times 600} = 0.4125\\ \\text{m} = 41.25\\ \\text{cm}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
