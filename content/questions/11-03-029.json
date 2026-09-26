@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Shortest time: head straight across. $t_1 = \\dfrac{120}{5} = 24$ s (the boat drifts downstream).\n\nShortest path: head upstream so that the resultant is straight across. Crossing speed $= \\sqrt{5^2 - 3^2} = 4$ m/s, so $t_2 = \\dfrac{120}{4} = 30$ s.\n\nDifference $= 30 - 24 = 6$ s.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
