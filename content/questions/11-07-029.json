@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Total energy in orbit $r$: $E = -\\dfrac{GMm}{2r}$.\n$$W = E_2 - E_1 = -\\frac{GMm}{8R} + \\frac{GMm}{4R} = \\frac{GMm}{8R}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
