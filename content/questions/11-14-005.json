@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\omega = 4\\pi$ rad/s and $k = 0.5\\pi$ rad/m: $v = \\dfrac{\\omega}{k} = \\dfrac{4\\pi}{0.5\\pi} = 8$ m/s (along $+x$).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
