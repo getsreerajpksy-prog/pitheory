@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$T = 2\\pi\\sqrt{\\frac{I}{mgd}} = 2\\pi\\sqrt{\\frac{mL^2/3}{mg(L/2)}} = 2\\pi\\sqrt{\\frac{2L}{3g}}$$\n\nThis equals a simple pendulum of length $\\dfrac{2L}{3}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
