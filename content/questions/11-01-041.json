@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "Energy has dimensions $[ML^2T^{-2}]$, and $n_1 u_1 = n_2 u_2$:\n$$n_2 = n_1\\left(\\frac{M_1}{M_2}\\right)\\left(\\frac{L_1}{L_2}\\right)^2\\left(\\frac{T_1}{T_2}\\right)^{-2}$$\n$$= 100\\times\\frac{1}{2}\\times\\left(\\frac{1}{5}\\right)^2\\times\\left(\\frac{1}{10}\\right)^{-2} = 100\\times 0.5\\times 0.04\\times 100 = 200$$\n\nThe new unit of energy is smaller than a joule, so the number gets bigger.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
