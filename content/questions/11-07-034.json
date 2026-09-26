@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Inside a uniform solid sphere the field grows linearly with distance from the centre: $E = \\dfrac{GMr}{R^3}$.\n$$E\\left(\\frac{R}{2}\\right) = \\frac{GM}{2R^2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
