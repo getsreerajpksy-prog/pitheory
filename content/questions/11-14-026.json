@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\Delta L = 10\\log_{10}\\dfrac{I_2}{I_1} = 10\\log_{10}100 = 20$ dB.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
