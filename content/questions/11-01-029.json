@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Surface tension is force per unit length: $[S] = [MT^{-2}]$.\n\nLet $S = E^a v^b T^c$:\n$$[MT^{-2}] = [ML^2T^{-2}]^a\\,[LT^{-1}]^b\\,[T]^c$$\n\nM: $a = 1$\nL: $2a + b = 0 \\Rightarrow b = -2$\nT: $-2a - b + c = -2 \\Rightarrow -2 + 2 + c = -2 \\Rightarrow c = -2$\n\nSo $[S] = [Ev^{-2}T^{-2}]$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
