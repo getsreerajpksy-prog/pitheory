@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$\\tfrac12\\mu_0H^2$ is the energy stored per unit volume in a magnetic field (since $B = \\mu_0 H$, it equals $\\dfrac{B^2}{2\\mu_0}$).\n\n$$\\left[\\tfrac12\\mu_0H^2\\right] = \\frac{[\\text{Energy}]}{[\\text{Volume}]} = \\frac{[ML^2T^{-2}]}{[L^3]} = [ML^{-1}T^{-2}]$$\n\nTip: energy density always has the same dimensions as pressure.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
