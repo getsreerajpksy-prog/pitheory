@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Let the interval between drops be $\\tau$. When the $4^{\\text{th}}$ drop starts, the $1^{\\text{st}}$ has fallen for $3\\tau$ and just reached the floor:\n$$4.5 = \\frac{1}{2}g(3\\tau)^2$$\n\nThe $2^{\\text{nd}}$ drop has fallen for $2\\tau$:\n$$h_2 = \\frac{1}{2}g(2\\tau)^2 = \\frac{4}{9} \\times 4.5 = 2\\ \\text{m below the tap}$$\n\nHeight above the floor $= 4.5 - 2 = 2.5$ m.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
