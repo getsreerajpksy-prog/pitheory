@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The force equals the rate at which momentum is given to the bullets:\n$$F = n\\,mv = 4 \\times 35 \\times 10^{-3} \\times 400 = 56\\ \\text{N}$$\n\n(The mass of the rifle is not needed.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
