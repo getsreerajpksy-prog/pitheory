@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\dfrac{1}{C} = \\dfrac{1}{2} + \\dfrac{1}{3} + \\dfrac{1}{6} = 1$, so $C = 1\\ \\mu$F and $Q = CV = 12\\ \\mu$C (the same on each in series).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
