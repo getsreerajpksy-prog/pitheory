@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Inside the Earth $g' = g\\dfrac{r}{R}$, so the force is proportional to $-r$: SHM with $\\omega^2 = \\dfrac{g}{R}$.\n$$T = 2\\pi\\sqrt{\\frac{R}{g}} = 2\\pi\\sqrt{6.4 \\times 10^5} \\approx 2\\pi \\times 800 \\approx 5030\\ \\text{s} \\approx 84\\ \\text{minutes}$$\n\n(The same as the period of a satellite skimming the surface.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
