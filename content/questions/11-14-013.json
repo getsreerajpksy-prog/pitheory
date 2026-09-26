@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$v = \\sqrt{\\dfrac{\\gamma RT}{M}}$ with the same $\\gamma$ and $T$: $\\dfrac{v_H}{v_O} = \\sqrt{\\dfrac{32}{2}} = 4$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
