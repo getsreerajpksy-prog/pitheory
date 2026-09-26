@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$$v_e = \\sqrt{\\frac{2GM}{R}} = \\sqrt{\\frac{2 \\times 6.67 \\times 10^{-11} \\times 6 \\times 10^{24}}{6.67 \\times 10^6}} = \\sqrt{1.2 \\times 10^8} \\approx 1.10 \\times 10^4\\ \\text{m/s}$$\n\nAbout $11$ km/s.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
