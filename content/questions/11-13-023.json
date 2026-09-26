@@ -1,0 +1,40 @@
+{
+  "id": "11-13-023",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The length of a seconds pendulum (period $2$ s) at a place where $g = \\pi^2\\ \\text{m/s}^2$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1$ m",
+      "image": ""
+    },
+    {
+      "text": "$2$ m",
+      "image": ""
+    },
+    {
+      "text": "$0.5$ m",
+      "image": ""
+    },
+    {
+      "text": "$0.25$ m",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$T = 2\\pi\\sqrt{\\frac{l}{g}} \\;\\Rightarrow\\; l = \\frac{gT^2}{4\\pi^2} = \\frac{\\pi^2 \\times 4}{4\\pi^2} = 1\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

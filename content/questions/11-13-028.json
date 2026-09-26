@@ -1,0 +1,39 @@
+{
+  "id": "11-13-028",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A liquid column of total length $L$ in a U-tube of uniform cross-section is disturbed slightly and oscillates. Its period is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\pi\\sqrt{\\dfrac{L}{g}}$",
+      "image": ""
+    },
+    {
+      "text": "$2\\pi\\sqrt{\\dfrac{L}{2g}}$",
+      "image": ""
+    },
+    {
+      "text": "$2\\pi\\sqrt{\\dfrac{L}{g}}$",
+      "image": ""
+    },
+    {
+      "text": "$2\\pi\\sqrt{\\dfrac{2L}{g}}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "If one side rises by $y$, the level difference is $2y$ and the restoring force is $2y\\rho gA$. The moving mass is $\\rho AL$:\n$$\\rho AL\\,\\ddot{y} = -2\\rho gA\\,y \\;\\Rightarrow\\; \\omega^2 = \\frac{2g}{L} \\;\\Rightarrow\\; T = 2\\pi\\sqrt{\\frac{L}{2g}}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-13-018",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The displacement of a particle is $x = 3\\sin\\omega t + 4\\cos\\omega t$ cm. Its motion is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "SHM of amplitude $7$ cm",
+      "image": ""
+    },
+    {
+      "text": "SHM of amplitude $1$ cm",
+      "image": ""
+    },
+    {
+      "text": "not simple harmonic",
+      "image": ""
+    },
+    {
+      "text": "SHM of amplitude $5$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Two SHMs of the same frequency, $90°$ out of phase, combine into a single SHM of the same frequency with amplitude\n$$A = \\sqrt{3^2 + 4^2} = 5\\ \\text{cm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

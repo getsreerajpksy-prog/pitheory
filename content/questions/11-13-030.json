@@ -1,0 +1,39 @@
+{
+  "id": "11-13-030",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A block of mass $M$ on a smooth floor is attached to a spring and oscillates with amplitude $A$. When it passes through the mean position, a lump of putty of mass $m$ is dropped vertically onto it and sticks. The new amplitude is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$A\\dfrac{M}{M + m}$",
+      "image": ""
+    },
+    {
+      "text": "$A$",
+      "image": ""
+    },
+    {
+      "text": "$A\\sqrt{\\dfrac{M + m}{M}}$",
+      "image": ""
+    },
+    {
+      "text": "$A\\sqrt{\\dfrac{M}{M + m}}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At the mean position the speed is $A\\omega = A\\sqrt{\\dfrac{k}{M}}$. The putty adds no horizontal momentum:\n$$MA\\sqrt{\\frac{k}{M}} = (M + m)v' \\;\\Rightarrow\\; v' = \\frac{A\\sqrt{kM}}{M + m}$$\n\nNew amplitude: $A' = \\dfrac{v'}{\\omega'} = \\dfrac{A\\sqrt{kM}}{M + m}\\sqrt{\\dfrac{M + m}{k}} = A\\sqrt{\\dfrac{M}{M + m}}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

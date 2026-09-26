@@ -1,0 +1,40 @@
+{
+  "id": "11-13-027",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A pendulum clock keeps correct time on the Earth. On the Moon, where $g$ is $\\dfrac{1}{6}$ of its value on Earth, the period of its pendulum becomes",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\sqrt{6}$ times",
+      "image": ""
+    },
+    {
+      "text": "$6$ times",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{\\sqrt{6}}$ times",
+      "image": ""
+    },
+    {
+      "text": "unchanged",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$T \\propto \\dfrac{1}{\\sqrt{g}}$, so $T_{moon} = \\sqrt{6}\\,T_{earth}$ and the clock runs slow.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-13-020",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A mass on a spring oscillates with period $T$. The spring is cut into two equal halves and the same mass is attached to one half. The new period is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2T$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{T}{\\sqrt{2}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{2}\\,T$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{T}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Each half has twice the force constant: $k' = 2k$. $T \\propto \\dfrac{1}{\\sqrt{k}}$, so $T' = \\dfrac{T}{\\sqrt{2}}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-13-011",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A particle executes SHM given by $x = 0.05\\sin\\left(4\\pi t + \\dfrac{\\pi}{6}\\right)$ m. Its amplitude, frequency and initial phase are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$5$ cm, $2$ Hz, $\\dfrac{\\pi}{6}$",
+      "image": ""
+    },
+    {
+      "text": "$5$ cm, $4$ Hz, $\\dfrac{\\pi}{6}$",
+      "image": ""
+    },
+    {
+      "text": "$0.05$ cm, $2$ Hz, $\\dfrac{\\pi}{3}$",
+      "image": ""
+    },
+    {
+      "text": "$5$ cm, $4\\pi$ Hz, $\\dfrac{\\pi}{6}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Compare with $x = A\\sin(\\omega t + \\phi)$: $A = 0.05$ m $= 5$ cm, $\\omega = 4\\pi$ rad/s, $\\phi = \\dfrac{\\pi}{6}$.\n$$f = \\frac{\\omega}{2\\pi} = 2\\ \\text{Hz}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

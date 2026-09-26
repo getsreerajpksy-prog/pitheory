@@ -1,0 +1,40 @@
+{
+  "id": "11-13-031",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A tunnel is dug along a diameter of the Earth. A ball dropped into it would perform SHM. Its period is about (radius of Earth $= 6.4 \\times 10^6$ m, $g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$84$ minutes",
+      "image": ""
+    },
+    {
+      "text": "$24$ hours",
+      "image": ""
+    },
+    {
+      "text": "$42$ minutes",
+      "image": ""
+    },
+    {
+      "text": "$1$ minute",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Inside the Earth $g' = g\\dfrac{r}{R}$, so the force is proportional to $-r$: SHM with $\\omega^2 = \\dfrac{g}{R}$.\n$$T = 2\\pi\\sqrt{\\frac{R}{g}} = 2\\pi\\sqrt{6.4 \\times 10^5} \\approx 2\\pi \\times 800 \\approx 5030\\ \\text{s} \\approx 84\\ \\text{minutes}$$\n\n(The same as the period of a satellite skimming the surface.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

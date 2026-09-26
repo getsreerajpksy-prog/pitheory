@@ -1,0 +1,22 @@
+{
+  "id": "11-13-035",
+  "chapter": "oscillations",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $0.2$ kg block on a spring of force constant $80$ N/m oscillates with amplitude $5$ cm. Find the maximum speed of the block, in m/s.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "1",
+  "tolerance": "0",
+  "solution": "$\\omega = \\sqrt{\\dfrac{k}{m}} = \\sqrt{400} = 20$ rad/s.\n$$v_{max} = A\\omega = 0.05 \\times 20 = 1\\ \\text{m/s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

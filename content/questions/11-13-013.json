@@ -1,0 +1,40 @@
+{
+  "id": "11-13-013",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The maximum speed and maximum acceleration of a particle in SHM are $4$ m/s and $16\\ \\text{m/s}^2$. Its amplitude is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.25$ m",
+      "image": ""
+    },
+    {
+      "text": "$2$ m",
+      "image": ""
+    },
+    {
+      "text": "$1$ m",
+      "image": ""
+    },
+    {
+      "text": "$4$ m",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$v_{max} = A\\omega$ and $a_{max} = A\\omega^2$, so $\\omega = \\dfrac{a_{max}}{v_{max}} = 4$ rad/s and $A = \\dfrac{v_{max}}{\\omega} = 1$ m.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

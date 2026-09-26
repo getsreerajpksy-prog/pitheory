@@ -1,0 +1,40 @@
+{
+  "id": "11-13-019",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Two springs of force constants $k_1 = 200$ N/m and $k_2 = 300$ N/m are joined in series. The force constant of the combination is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$120$ N/m",
+      "image": ""
+    },
+    {
+      "text": "$500$ N/m",
+      "image": ""
+    },
+    {
+      "text": "$250$ N/m",
+      "image": ""
+    },
+    {
+      "text": "$100$ N/m",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\frac{1}{k} = \\frac{1}{200} + \\frac{1}{300} = \\frac{5}{600} \\;\\Rightarrow\\; k = 120\\ \\text{N/m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

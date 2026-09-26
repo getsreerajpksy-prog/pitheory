@@ -1,0 +1,40 @@
+{
+  "id": "11-13-021",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A block hangs from a light spring, which stretches it by $4$ cm at equilibrium. If the block is pulled down slightly and released, its period of oscillation is ($g = \\pi^2\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.8$ s",
+      "image": ""
+    },
+    {
+      "text": "$4$ s",
+      "image": ""
+    },
+    {
+      "text": "$0.4$ s",
+      "image": ""
+    },
+    {
+      "text": "$0.2$ s",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At equilibrium $kx_0 = mg$, so $\\dfrac{m}{k} = \\dfrac{x_0}{g}$.\n$$T = 2\\pi\\sqrt{\\frac{x_0}{g}} = 2\\pi\\sqrt{\\frac{0.04}{\\pi^2}} = 2 \\times 0.2 = 0.4\\ \\text{s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

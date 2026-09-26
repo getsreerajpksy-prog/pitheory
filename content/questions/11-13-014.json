@@ -1,0 +1,40 @@
+{
+  "id": "11-13-014",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "In SHM of amplitude $A$, at what displacement from the mean position is the kinetic energy equal to the potential energy?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{A}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{A}{\\sqrt{3}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\sqrt{3}A}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{A}{\\sqrt{2}}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$U = \\dfrac{1}{2}kx^2$ and $K = \\dfrac{1}{2}k(A^2 - x^2)$. Setting them equal: $x^2 = A^2 - x^2 \\Rightarrow x = \\dfrac{A}{\\sqrt{2}}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

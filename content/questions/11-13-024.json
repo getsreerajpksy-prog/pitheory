@@ -1,0 +1,40 @@
+{
+  "id": "11-13-024",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A simple pendulum has period $T$ in a stationary lift. If the lift accelerates upward at $\\dfrac{g}{3}$, the period becomes",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$T$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\sqrt{3}}{2}T$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2}{\\sqrt{3}}T$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{\\dfrac{3}{2}}\\,T$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Effective gravity in the lift: $g_{eff} = g + \\dfrac{g}{3} = \\dfrac{4g}{3}$.\n$$T' = T\\sqrt{\\frac{g}{g_{eff}}} = T\\sqrt{\\frac{3}{4}} = \\frac{\\sqrt{3}}{2}T$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

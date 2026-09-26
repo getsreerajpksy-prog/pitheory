@@ -1,0 +1,40 @@
+{
+  "id": "11-13-034",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A system with natural frequency $f_0$ is driven by a periodic force of frequency $f$. The amplitude of the forced oscillations is largest when",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$f = 2f_0$",
+      "image": ""
+    },
+    {
+      "text": "$f \\ll f_0$",
+      "image": ""
+    },
+    {
+      "text": "$f \\gg f_0$",
+      "image": ""
+    },
+    {
+      "text": "$f = f_0$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Resonance occurs when the driving frequency equals the natural frequency; the amplitude is then largest (limited only by damping).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

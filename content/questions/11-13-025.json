@@ -1,0 +1,39 @@
+{
+  "id": "11-13-025",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A simple pendulum of length $l$ hangs from the roof of a car moving on a straight level road with acceleration $a$. Its period of small oscillation is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2\\pi\\sqrt{\\dfrac{l}{g - a}}$",
+      "image": ""
+    },
+    {
+      "text": "$2\\pi\\sqrt{\\dfrac{l}{g}}$",
+      "image": ""
+    },
+    {
+      "text": "$2\\pi\\sqrt{\\dfrac{l}{\\sqrt{g^2 + a^2}}}$",
+      "image": ""
+    },
+    {
+      "text": "$2\\pi\\sqrt{\\dfrac{l}{g + a}}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "In the car's frame the bob feels gravity $g$ downward and a pseudo force $ma$ backward. The effective gravity is their vector sum, $g_{eff} = \\sqrt{g^2 + a^2}$:\n$$T = 2\\pi\\sqrt{\\frac{l}{\\sqrt{g^2 + a^2}}}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

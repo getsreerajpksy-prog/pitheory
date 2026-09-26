@@ -1,0 +1,40 @@
+{
+  "id": "11-13-026",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "If the length of a simple pendulum is increased by $44\\%$, its period increases by",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$44\\%$",
+      "image": ""
+    },
+    {
+      "text": "$22\\%$",
+      "image": ""
+    },
+    {
+      "text": "$10\\%$",
+      "image": ""
+    },
+    {
+      "text": "$20\\%$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$T \\propto \\sqrt{l}$: $\\dfrac{T'}{T} = \\sqrt{1.44} = 1.2$, an increase of $20\\%$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-13-032",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The acceleration of a particle is related to its displacement by $a = -16x$ (SI units). If its maximum displacement is $0.5$ m, its maximum speed is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.5$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$2$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$4$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$8$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$a = -\\omega^2x$ gives $\\omega = 4$ rad/s. $v_{max} = A\\omega = 0.5 \\times 4 = 2$ m/s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

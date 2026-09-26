@@ -1,0 +1,22 @@
+{
+  "id": "11-13-036",
+  "chapter": "oscillations",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A particle executes SHM of amplitude $4$ cm. Its speed at the mean position is $12$ cm/s. Find its speed, in cm/s, when it is $2\\sqrt{3}$ cm from the mean position.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "6",
+  "tolerance": "0",
+  "solution": "$\\omega = \\dfrac{12}{4} = 3$ rad/s.\n$$v = \\omega\\sqrt{A^2 - x^2} = 3\\sqrt{16 - 12} = 6\\ \\text{cm/s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

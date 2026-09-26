@@ -1,0 +1,40 @@
+{
+  "id": "11-13-033",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "In damped oscillations of a lightly damped oscillator, which quantity decreases exponentially with time?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "period",
+      "image": ""
+    },
+    {
+      "text": "phase constant",
+      "image": ""
+    },
+    {
+      "text": "amplitude",
+      "image": ""
+    },
+    {
+      "text": "frequency",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For light damping, $x = A_0e^{-bt/2m}\\cos(\\omega' t + \\phi)$. The amplitude decays exponentially, while the frequency stays (almost) constant.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

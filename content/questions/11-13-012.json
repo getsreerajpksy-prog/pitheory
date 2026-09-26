@@ -1,0 +1,40 @@
+{
+  "id": "11-13-012",
+  "chapter": "oscillations",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A particle in SHM has amplitude $10$ cm and period $2$ s. Its speed when it is $6$ cm from the mean position is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4\\pi$ cm/s",
+      "image": ""
+    },
+    {
+      "text": "$8\\pi$ cm/s",
+      "image": ""
+    },
+    {
+      "text": "$6\\pi$ cm/s",
+      "image": ""
+    },
+    {
+      "text": "$10\\pi$ cm/s",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\omega = \\dfrac{2\\pi}{T} = \\pi$ rad/s.\n$$v = \\omega\\sqrt{A^2 - x^2} = \\pi\\sqrt{100 - 36} = 8\\pi\\ \\text{cm/s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
