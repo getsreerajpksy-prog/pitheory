@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$T = 2\\pi\\sqrt{\\frac{r^3}{GM}}, \\qquad r = R + h$$\n\n$T$ depends on the mass of the Earth, on the radius of the orbit, and so on the height above the surface. (It does not depend on the mass of the satellite.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
