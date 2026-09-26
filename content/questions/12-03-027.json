@@ -1,0 +1,40 @@
+{
+  "id": "12-03-027",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A wire of resistance $R$ is stretched until its radius becomes half. Its new resistance is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4R$",
+      "image": ""
+    },
+    {
+      "text": "$8R$",
+      "image": ""
+    },
+    {
+      "text": "$2R$",
+      "image": ""
+    },
+    {
+      "text": "$16R$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Halving the radius makes $A$ one-fourth; constant volume makes $L$ four times. $R' = R \\times 4 \\times 4 = 16R$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

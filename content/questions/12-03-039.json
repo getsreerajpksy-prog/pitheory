@@ -1,0 +1,40 @@
+{
+  "id": "12-03-039",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A potentiometer wire $4$ m long has a potential difference of $2$ V across it. A cell balances at $2.5$ m. Its emf is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.8$ V",
+      "image": ""
+    },
+    {
+      "text": "$2$ V",
+      "image": ""
+    },
+    {
+      "text": "$1.6$ V",
+      "image": ""
+    },
+    {
+      "text": "$1.25$ V",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Potential gradient $= \\dfrac{2}{4} = 0.5$ V/m. $E = 0.5 \\times 2.5 = 1.25$ V.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

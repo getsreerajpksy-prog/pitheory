@@ -1,0 +1,40 @@
+{
+  "id": "12-03-034",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Two cells of emf $2$ V and $4$ V, with internal resistances $1\\ \\Omega$ and $2\\ \\Omega$, are connected in parallel (like terminals together). The emf of the combination is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$6$ V",
+      "image": ""
+    },
+    {
+      "text": "$2$ V",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{8}{3}$ V",
+      "image": ""
+    },
+    {
+      "text": "$3$ V",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$E_{eq} = \\dfrac{E_1/r_1 + E_2/r_2}{1/r_1 + 1/r_2} = \\dfrac{2 + 2}{1 + 0.5} = \\dfrac{8}{3}$ V.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

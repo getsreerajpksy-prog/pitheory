@@ -1,0 +1,40 @@
+{
+  "id": "12-03-036",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "In a Wheatstone bridge, $P = 10\\ \\Omega$, $Q = 20\\ \\Omega$ and $R = 15\\ \\Omega$. For balance, the fourth resistance $S$ must be",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$30\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$7.5\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$15\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$20\\ \\Omega$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Balance: $\\dfrac{P}{Q} = \\dfrac{R}{S} \\Rightarrow S = \\dfrac{QR}{P} = \\dfrac{20 \\times 15}{10} = 30\\ \\Omega$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

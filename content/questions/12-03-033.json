@@ -1,0 +1,40 @@
+{
+  "id": "12-03-033",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Four identical cells, each of emf $1.5$ V and internal resistance $0.5\\ \\Omega$, are connected in series across a $4\\ \\Omega$ resistor. The current through the resistor is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.25$ A",
+      "image": ""
+    },
+    {
+      "text": "$1$ A",
+      "image": ""
+    },
+    {
+      "text": "$1.5$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.75$ A",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$E = 6$ V, internal resistance $= 2\\ \\Omega$. $I = \\dfrac{6}{4 + 2} = 1$ A.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

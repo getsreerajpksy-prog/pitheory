@@ -1,0 +1,22 @@
+{
+  "id": "12-03-046",
+  "chapter": "current-electricity",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The resistivity of a wire is $1.7 \\times 10^{-8}\\ \\Omega$ m. Find the resistance, in ohm, of $100$ m of it with cross-section $1\\ \\text{mm}^2$.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "1.7",
+  "tolerance": "0",
+  "solution": "$R = \\dfrac{\\rho L}{A} = \\dfrac{1.7 \\times 10^{-8} \\times 100}{10^{-6}} = 1.7\\ \\Omega$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-03-042",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "A $60$ W bulb and a $100$ W bulb, both rated for $220$ V, are connected in series to a $220$ V supply. Which bulb glows brighter?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "both equally",
+      "image": ""
+    },
+    {
+      "text": "neither glows",
+      "image": ""
+    },
+    {
+      "text": "the $60$ W bulb",
+      "image": ""
+    },
+    {
+      "text": "the $100$ W bulb",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$R = \\dfrac{V^2}{P}$, so the $60$ W bulb has the larger resistance. In series the current is the same, and $P = I^2R$ is larger for the larger resistance: the $60$ W bulb glows brighter.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

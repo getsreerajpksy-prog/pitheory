@@ -1,0 +1,40 @@
+{
+  "id": "12-03-031",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A cell gives $0.5$ A through a $4\\ \\Omega$ resistor and $0.9$ A through a $2\\ \\Omega$ resistor. Its internal resistance is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$0.25\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$2\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$0.5\\ \\Omega$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$E = 0.5(4 + r) = 0.9(2 + r) \\Rightarrow 2 + 0.5r = 1.8 + 0.9r \\Rightarrow r = 0.5\\ \\Omega$ (and $E = 2.25$ V).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

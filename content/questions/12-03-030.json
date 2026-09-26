@@ -1,0 +1,40 @@
+{
+  "id": "12-03-030",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A cell of emf $2$ V and internal resistance $0.5\\ \\Omega$ is connected to a $3.5\\ \\Omega$ resistor. The current and terminal voltage are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.57$ A and $2$ V",
+      "image": ""
+    },
+    {
+      "text": "$1$ A and $1.5$ V",
+      "image": ""
+    },
+    {
+      "text": "$0.5$ A and $1.75$ V",
+      "image": ""
+    },
+    {
+      "text": "$0.5$ A and $2$ V",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$I = \\dfrac{2}{3.5 + 0.5} = 0.5$ A. $V = E - Ir = 2 - 0.25 = 1.75$ V.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

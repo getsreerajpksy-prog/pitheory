@@ -1,0 +1,40 @@
+{
+  "id": "12-03-041",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $100$ W, $220$ V bulb is operated on a $110$ V supply. The power it consumes is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$12.5$ W",
+      "image": ""
+    },
+    {
+      "text": "$25$ W",
+      "image": ""
+    },
+    {
+      "text": "$50$ W",
+      "image": ""
+    },
+    {
+      "text": "$100$ W",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$R = \\dfrac{V^2}{P}$ is fixed, so $P \\propto V^2$: $100 \\times \\left(\\dfrac{1}{2}\\right)^2 = 25$ W.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

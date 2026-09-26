@@ -1,0 +1,40 @@
+{
+  "id": "12-03-040",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A cell balances at $60$ cm on a potentiometer when on open circuit, and at $50$ cm when a $5\\ \\Omega$ resistor is connected across it. Its internal resistance is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$0.5\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$2\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$6\\ \\Omega$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$r = R\\left(\\dfrac{l_1}{l_2} - 1\\right) = 5\\left(\\dfrac{60}{50} - 1\\right) = 1\\ \\Omega$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

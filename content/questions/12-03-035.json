@@ -1,0 +1,40 @@
+{
+  "id": "12-03-035",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $6$ V battery of negligible internal resistance is connected across $3\\ \\Omega$ in series with a parallel combination of $6\\ \\Omega$ and $3\\ \\Omega$. The current through the $6\\ \\Omega$ resistor is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.8$ A",
+      "image": ""
+    },
+    {
+      "text": "$1.2$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.6$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.4$ A",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$6\\ \\Omega \\parallel 3\\ \\Omega = 2\\ \\Omega$. Total $= 5\\ \\Omega$, so $I = \\dfrac{6}{5} = 1.2$ A.\n\nVoltage across the parallel pair $= 1.2 \\times 2 = 2.4$ V, so the $6\\ \\Omega$ resistor carries $\\dfrac{2.4}{6} = 0.4$ A.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

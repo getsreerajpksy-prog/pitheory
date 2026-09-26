@@ -1,0 +1,40 @@
+{
+  "id": "12-03-043",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An electric heater of $1$ kW is used for $2$ hours a day for $30$ days. At ₹$6$ per unit, the cost is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "₹$60$",
+      "image": ""
+    },
+    {
+      "text": "₹$180$",
+      "image": ""
+    },
+    {
+      "text": "₹$720$",
+      "image": ""
+    },
+    {
+      "text": "₹$360$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Energy $= 1 \\times 2 \\times 30 = 60$ kWh (units). Cost $= 60 \\times 6 = $ ₹$360$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

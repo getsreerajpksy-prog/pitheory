@@ -1,0 +1,40 @@
+{
+  "id": "12-03-028",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $12\\ \\Omega$ wire is bent into a circle. The resistance between two points at the ends of a diameter is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$3\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$6\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$12\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$2.67\\ \\Omega$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The two semicircles ($6\\ \\Omega$ each) are in parallel: $\\dfrac{6 \\times 6}{12} = 3\\ \\Omega$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

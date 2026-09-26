@@ -1,0 +1,40 @@
+{
+  "id": "12-03-037",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "In a metre bridge, the null point is at $40$ cm from the left end when a $6\\ \\Omega$ resistor is in the left gap. The resistance in the right gap is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$15\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$9\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$4\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$2.4\\ \\Omega$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\dfrac{6}{S} = \\dfrac{40}{60} \\Rightarrow S = 9\\ \\Omega$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

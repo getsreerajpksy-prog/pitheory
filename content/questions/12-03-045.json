@@ -1,0 +1,22 @@
+{
+  "id": "12-03-045",
+  "chapter": "current-electricity",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Using Kirchhoff's laws, find the current, in amperes, through a $2\\ \\Omega$ resistor connected between the positive terminals of two cells whose negative terminals are joined, with emfs $10$ V and $4$ V and negligible internal resistance.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "3",
+  "tolerance": "0",
+  "solution": "The loop has net emf $10 - 4 = 6$ V (the cells oppose each other around the loop) and resistance $2\\ \\Omega$: $I = 3$ A.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

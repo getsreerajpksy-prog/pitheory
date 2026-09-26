@@ -1,0 +1,40 @@
+{
+  "id": "12-03-032",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A battery of emf $E$ and internal resistance $r$ delivers maximum power to an external resistor $R$ when",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$R = r$",
+      "image": ""
+    },
+    {
+      "text": "$R = 2r$",
+      "image": ""
+    },
+    {
+      "text": "$R = \\dfrac{r}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$R \\to \\infty$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$P = \\dfrac{E^2R}{(R + r)^2}$ is maximum when $\\dfrac{dP}{dR} = 0$, which gives $R = r$. Then $P_{max} = \\dfrac{E^2}{4r}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-03-044",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A heater coil boils a certain amount of water in $10$ min. If the coil is cut in half and one half is used on the same supply, the same water boils in",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$5$ min",
+      "image": ""
+    },
+    {
+      "text": "$20$ min",
+      "image": ""
+    },
+    {
+      "text": "$10$ min",
+      "image": ""
+    },
+    {
+      "text": "$2.5$ min",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Half the length gives half the resistance, so $P = \\dfrac{V^2}{R}$ doubles and the time halves: $5$ min.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

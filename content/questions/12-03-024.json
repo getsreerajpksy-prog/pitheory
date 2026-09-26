@@ -1,0 +1,40 @@
+{
+  "id": "12-03-024",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A current of $3.2$ A flows through a wire. The number of electrons crossing any cross-section per second is ($e = 1.6 \\times 10^{-19}$ C)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2 \\times 10^{19}$",
+      "image": ""
+    },
+    {
+      "text": "$5 \\times 10^{18}$",
+      "image": ""
+    },
+    {
+      "text": "$2 \\times 10^{18}$",
+      "image": ""
+    },
+    {
+      "text": "$3.2 \\times 10^{19}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$n = \\dfrac{I}{e} = \\dfrac{3.2}{1.6 \\times 10^{-19}} = 2 \\times 10^{19}$ per second.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

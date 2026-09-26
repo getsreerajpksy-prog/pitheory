@@ -1,0 +1,40 @@
+{
+  "id": "12-03-029",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $12\\ \\Omega$ wire is bent into a circle. The resistance between two points that subtend $90°$ at the centre is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.5\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$2.25\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$3\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$4\\ \\Omega$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The arcs are $3\\ \\Omega$ and $9\\ \\Omega$ in parallel: $\\dfrac{3 \\times 9}{12} = 2.25\\ \\Omega$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

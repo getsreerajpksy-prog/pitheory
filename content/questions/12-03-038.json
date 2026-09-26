@@ -1,0 +1,40 @@
+{
+  "id": "12-03-038",
+  "chapter": "current-electricity",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The emfs of two cells are compared with a potentiometer. The balancing lengths are $300$ cm and $200$ cm when used singly, and the cells are then connected in series so as to aid each other. The balancing length for the combination is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$250$ cm",
+      "image": ""
+    },
+    {
+      "text": "$600$ cm",
+      "image": ""
+    },
+    {
+      "text": "$500$ cm",
+      "image": ""
+    },
+    {
+      "text": "$100$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$E \\propto l$, so aiding emfs add: $300 + 200 = 500$ cm.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
