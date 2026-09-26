@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$X_C = \\dfrac{1}{2\\pi fC} \\propto \\dfrac{1}{f}$, so doubling $f$ halves $X_C$. (An inductor's reactance would double.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
