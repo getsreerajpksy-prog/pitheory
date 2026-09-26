@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$TV^{\\gamma - 1} = $ constant: $T_2 = T_1\\left(\\dfrac{V_1}{V_2}\\right)^{\\gamma - 1} = 300 \\times 8^{2/3} = 300 \\times 4 = 1200$ K.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
