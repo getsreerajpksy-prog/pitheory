@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The exponent must be dimensionless. Since $kT$ is an energy:\n$$[\\beta][L^2] = [ML^2T^{-2}] \\Rightarrow [\\beta] = [MT^{-2}]$$\n\nThe exponential is dimensionless, so $A$ has the dimensions of energy: $[A] = [ML^2T^{-2}]$.\n$$[A\\beta] = [ML^2T^{-2}][MT^{-2}] = [M^2L^2T^{-4}]$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
