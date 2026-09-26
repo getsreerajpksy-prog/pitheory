@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$x = A\\sin\\omega t = \\dfrac{A}{2} \\Rightarrow \\omega t = \\dfrac{\\pi}{6} \\Rightarrow t = \\dfrac{\\pi/6}{2\\pi/T} = \\dfrac{T}{12}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
