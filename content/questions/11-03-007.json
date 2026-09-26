@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\vec{A} + \\vec{B} = 5\\hat{i} - 4\\hat{j} + 3\\hat{k}, \\qquad |\\vec{A} + \\vec{B}| = \\sqrt{25 + 16 + 9} = 5\\sqrt{2}$$\n\nThe direction cosine with the $x$-axis is\n$$\\cos\\alpha = \\frac{5}{5\\sqrt{2}} = \\frac{1}{\\sqrt{2}} \\;\\Rightarrow\\; \\alpha = 45°$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
