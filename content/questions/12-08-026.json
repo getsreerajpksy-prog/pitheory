@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "In a charging capacitor, no conduction current crosses the gap, yet a magnetic field exists there. Maxwell added the displacement current $\\epsilon_0\\dfrac{d\\phi_E}{dt}$, which makes the total current continuous.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
