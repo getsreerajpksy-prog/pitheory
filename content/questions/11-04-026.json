@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Same distance from rest, so $a_{smooth} = 4\\,a_{rough}$:\n$$g\\sin 45° = 4g(\\sin 45° - \\mu_k\\cos 45°) \\;\\Rightarrow\\; 1 = 4(1 - \\mu_k) \\;\\Rightarrow\\; \\mu_k = 0.75$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
