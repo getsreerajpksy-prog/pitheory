@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "From $F = ma$, we get $m = \\dfrac{F}{a}$. Acceleration has dimensions $[LT^{-2}]$, so\n$$[m] = \\frac{[F]}{[LT^{-2}]} = [FL^{-1}T^{2}]$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
