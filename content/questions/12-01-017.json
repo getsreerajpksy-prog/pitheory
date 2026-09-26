@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "For a thin sheet, flux leaves through both faces of a Gaussian pillbox: $2EA = \\dfrac{\\sigma A}{\\epsilon_0}$, so $E = \\dfrac{\\sigma}{2\\epsilon_0}$. (Near a conductor's surface it would be $\\dfrac{\\sigma}{\\epsilon_0}$.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
