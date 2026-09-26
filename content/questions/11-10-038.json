@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The faulty scale has $100$ divisions between the fixed points, so\n$$\\frac{C - 0}{100} = \\frac{52 - 2}{102 - 2} \\;\\Rightarrow\\; C = 50°\\text{C}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
