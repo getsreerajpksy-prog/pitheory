@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Isothermal: $\\dfrac{dP}{dV} = -\\dfrac{P}{V}$. Adiabatic: $\\dfrac{dP}{dV} = -\\gamma\\dfrac{P}{V}$. The adiabatic slope is $\\gamma$ times steeper.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
