@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "A permanent magnet must keep its magnetisation (high retentivity) and resist being demagnetised (high coercivity), e.g. steel or alnico. Electromagnet cores and transformer cores need the opposite: low coercivity and small hysteresis loss.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
