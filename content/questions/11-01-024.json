@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The argument of a sine must be dimensionless, so $bt$ and $cx$ are dimensionless. Also $y$ and $a$ are both lengths, so $y/a$ is dimensionless.\n\nThat leaves\n$$\\left[\\frac{b}{c}\\right] = \\frac{[T^{-1}]}{[L^{-1}]} = [LT^{-1}]$$\nwhich is a velocity. In fact $b/c = \\omega/k$ is the speed of the wave.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
