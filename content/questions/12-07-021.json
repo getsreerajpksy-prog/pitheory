@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$Z = 50\\ \\Omega$, $I = 2$ A. Only the resistor consumes power: $P = I^2R = 4 \\times 30 = 120$ W.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
