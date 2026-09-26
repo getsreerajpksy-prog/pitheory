@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\dfrac{1}{f} \\propto \\left(\\dfrac{\\mu_g}{\\mu_m} - 1\\right)$: in air $0.5$, in water $\\dfrac{1.5}{4/3} - 1 = \\dfrac{1}{8}$.\n$$f_w = 20 \\times \\frac{0.5}{1/8} = 80\\ \\text{cm}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
