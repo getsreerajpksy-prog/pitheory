@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Take $\\vec{A}$ along $x$ and let $\\theta$ be the angle between the forces. The resultant has components $(A + B\\cos\\theta,\\ B\\sin\\theta)$.\n\nPerpendicular to $\\vec{A}$: $A + B\\cos\\theta = 0$, so $\\cos\\theta < 0$.\n\nMagnitude: $R = B\\sin\\theta = \\dfrac{B}{2}$, so $\\sin\\theta = \\dfrac{1}{2}$.\n\nWith $\\cos\\theta$ negative, $\\theta = 150°$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
