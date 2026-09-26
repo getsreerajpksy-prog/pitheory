@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$r = R\\left(\\dfrac{l_1}{l_2} - 1\\right) = 5\\left(\\dfrac{60}{50} - 1\\right) = 1\\ \\Omega$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
