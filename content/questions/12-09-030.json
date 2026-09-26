@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\dfrac{1}{v} = \\dfrac{1}{10} - \\dfrac{1}{15} = \\dfrac{1}{30}$, so $v = 30$ cm and $m = \\dfrac{v}{u} = \\dfrac{30}{-15} = -2$ (real, inverted, twice the size).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
