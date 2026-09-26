@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\vec{v} = \\frac{d\\vec{r}}{dt} = 6t\\,\\hat{i} + 4\\hat{j}, \\qquad \\vec{a} = 6\\hat{i}$$\n\nAt $t = 1$ s, $\\vec{v} = 6\\hat{i} + 4\\hat{j}$. The acceleration lies along $\\hat{i}$, so the angle is the angle of $\\vec{v}$ with the $x$-axis:\n$$\\tan\\theta = \\frac{4}{6} = \\frac{2}{3}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
