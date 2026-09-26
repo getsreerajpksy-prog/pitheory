@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Pushing up, friction acts down the plane: $F_1 = mg(\\sin\\theta + \\mu\\cos\\theta)$.\n\nPreventing sliding down, friction acts up the plane: $F_2 = mg(\\sin\\theta - \\mu\\cos\\theta)$.\n$$\\frac{F_1}{F_2} = \\frac{\\tan\\theta + \\mu}{\\tan\\theta - \\mu} = \\frac{2\\mu + \\mu}{2\\mu - \\mu} = 3$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
