@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\mu = \\dfrac{\\sin\\frac{A + \\delta_m}{2}}{\\sin\\frac{A}{2}} = \\dfrac{\\sin 45°}{\\sin 30°} = \\sqrt{2}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
