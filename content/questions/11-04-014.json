@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "With retarding force $F$ on mass $m$: $a = \\dfrac{F}{m}$, and the stopping distance is\n$$s = \\frac{v^2}{2a} = \\frac{mv^2}{2F} \\propto m$$\n\nThe mass becomes $1.25m$, so the stopping distance becomes $1.25x$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
