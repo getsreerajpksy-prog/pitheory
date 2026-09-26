@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Angular impulse: $L = \\tau t = 20 \\times 3 = 60\\ \\text{kg m}^2/\\text{s}$.\n$$K = \\frac{L^2}{2I} = \\frac{3600}{8} = 450\\ \\text{J}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
