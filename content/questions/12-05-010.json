@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Cutting perpendicular to the length keeps the pole strength and halves the length: $M = 2 \\times 0.05 = 0.1\\ \\text{A m}^2$ (half the original $0.2$).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
