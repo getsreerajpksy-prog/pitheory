@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Treat the hole as negative mass. Areas are in the ratio $1 : \\dfrac{1}{4}$, so take masses $4m$ (full disc) and $m$ (hole). The hole's centre is at $\\dfrac{R}{2}$ from O.\n$$x_{cm} = \\frac{4m(0) - m\\left(\\frac{R}{2}\\right)}{4m - m} = -\\frac{R}{6}$$\n\nThe centre of mass shifts $\\dfrac{R}{6}$ away from the hole.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
