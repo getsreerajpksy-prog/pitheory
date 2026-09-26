@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Charge is conserved: $V = \\dfrac{4 \\times 50}{4 + 6} = 20$ V.\n\nEnergy lost $= \\dfrac{1}{2}\\dfrac{C_1C_2}{C_1 + C_2}(V_1 - V_2)^2 = \\dfrac{1}{2} \\times 2.4 \\times 10^{-6} \\times 2500 = 3$ mJ.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
