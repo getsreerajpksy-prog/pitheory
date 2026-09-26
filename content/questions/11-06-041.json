@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$$K = \\frac{1}{2}mv^2\\left(1 + \\frac{k^2}{R^2}\\right) = \\frac{1}{2}(4)(4)\\left(1 + \\frac{1}{2}\\right) = 12\\ \\text{J}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
