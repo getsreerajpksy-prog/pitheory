@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Hypermetropia: the lens must image an object at $u = -25$ cm at $v = -50$ cm.\n$$\\frac{1}{f} = \\frac{1}{v} - \\frac{1}{u} = -\\frac{1}{50} + \\frac{1}{25} = \\frac{1}{50} \\Rightarrow P = +2\\ \\text{D}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
