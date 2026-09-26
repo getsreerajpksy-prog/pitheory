@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "There are three pairs, each separated by $a$:\n$$U = 3\\left(-\\frac{Gm^2}{a}\\right) = -\\frac{3Gm^2}{a}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
