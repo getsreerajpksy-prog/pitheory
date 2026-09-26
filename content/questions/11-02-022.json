@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "With constant retardation $a$: $0 = u^2 - 2as$, so $s = \\dfrac{u^2}{2a} \\propto u^2$.\n$$\\frac{s_2}{s_1} = \\left(\\frac{72}{54}\\right)^2 = \\left(\\frac{4}{3}\\right)^2 = \\frac{16}{9}$$\n$$s_2 = 15 \\times \\frac{16}{9} = 26.7\\ \\text{m}$$\n\nA $33\\%$ higher speed needs $78\\%$ more stopping distance.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
