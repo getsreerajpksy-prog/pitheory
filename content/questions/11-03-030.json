@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The upstream component of the boat's velocity must cancel the river: $5\\sin\\alpha = 3$, where $\\alpha$ is measured from the perpendicular to the banks. So $\\alpha = 37°$ upstream of the perpendicular.\n\nAngle with the direction of flow $= 90° + 37° = 127°$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
