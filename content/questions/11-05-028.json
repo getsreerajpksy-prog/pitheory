@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "After the bounce, the energy left is $mg(10)$, which is half the energy just before impact. So just before impact the energy was $mg(20)$.\n\nAt $10$ m height the energy is the same:\n$$\\frac{1}{2}mv_0^2 + mg(10) = mg(20) \\;\\Rightarrow\\; v_0^2 = 200 \\;\\Rightarrow\\; v_0 \\approx 14\\ \\text{m s}^{-1}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
