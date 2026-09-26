@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Each gas alone would exert $P$ in volume $V$ at $T$. By Dalton's law the pressures add: $2P$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
