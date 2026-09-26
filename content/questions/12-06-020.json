@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$L = \\dfrac{\\mu_0N^2A}{l} \\propto N^2$, so it becomes $4L$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
