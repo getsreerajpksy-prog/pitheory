@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\bar{I} = \\dfrac{\\omega}{\\pi}\\int_0^{\\pi/\\omega} I_0\\sin\\omega t\\,dt = \\dfrac{2I_0}{\\pi} \\approx 0.637I_0$. Over a full cycle the average is zero.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
