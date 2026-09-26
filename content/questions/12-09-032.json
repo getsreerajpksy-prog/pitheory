@@ -1,0 +1,40 @@
+{
+  "id": "12-09-032",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A person cannot see clearly beyond $2$ m. The lens needed to correct this defect has a power of",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$-2$ D",
+      "image": ""
+    },
+    {
+      "text": "$+2$ D",
+      "image": ""
+    },
+    {
+      "text": "$-0.5$ D",
+      "image": ""
+    },
+    {
+      "text": "$+0.5$ D",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Myopia: a concave lens must image distant objects at the far point, so $f = -2$ m and $P = -0.5$ D.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

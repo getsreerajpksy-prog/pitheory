@@ -1,0 +1,40 @@
+{
+  "id": "12-09-035",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The blue colour of the clear sky is due to",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "refraction of light by air",
+      "image": ""
+    },
+    {
+      "text": "scattering of light, which is stronger for shorter wavelengths",
+      "image": ""
+    },
+    {
+      "text": "dispersion of light by water droplets",
+      "image": ""
+    },
+    {
+      "text": "total internal reflection in the atmosphere",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Rayleigh scattering varies as $\\dfrac{1}{\\lambda^4}$, so blue light is scattered much more than red and reaches us from all parts of the sky.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

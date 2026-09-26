@@ -1,0 +1,40 @@
+{
+  "id": "12-09-020",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A convex mirror used as a rear-view mirror has a radius of curvature of $3$ m. A bus is $5$ m behind it. The image is at",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.5$ m in front of the mirror",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{15}{13}$ m in front of the mirror",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{15}{13}$ m behind the mirror",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{15}{7}$ m behind the mirror",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$f = +1.5$ m, $u = -5$ m: $\\dfrac{1}{v} = \\dfrac{1}{1.5} + \\dfrac{1}{5} = \\dfrac{13}{15}$, so $v = \\dfrac{15}{13} \\approx 1.15$ m behind the mirror (virtual, erect, diminished).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

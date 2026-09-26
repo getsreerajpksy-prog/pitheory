@@ -1,0 +1,22 @@
+{
+  "id": "12-09-037",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Find the focal length, in cm, of a plano-convex lens of refractive index $1.5$ whose curved surface has a radius of $15$ cm.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "30",
+  "tolerance": "0",
+  "solution": "$\\dfrac{1}{f} = (1.5 - 1)\\dfrac{1}{15} = \\dfrac{1}{30}$, so $f = 30$ cm.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

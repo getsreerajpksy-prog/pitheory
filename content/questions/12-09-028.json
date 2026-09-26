@@ -1,0 +1,40 @@
+{
+  "id": "12-09-028",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "A convex lens of glass ($\\mu = 1.5$) has focal length $20$ cm in air. When immersed in water ($\\mu = \\dfrac{4}{3}$), its focal length becomes",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$20$ cm",
+      "image": ""
+    },
+    {
+      "text": "$60$ cm",
+      "image": ""
+    },
+    {
+      "text": "$80$ cm",
+      "image": ""
+    },
+    {
+      "text": "$40$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\dfrac{1}{f} \\propto \\left(\\dfrac{\\mu_g}{\\mu_m} - 1\\right)$: in air $0.5$, in water $\\dfrac{1.5}{4/3} - 1 = \\dfrac{1}{8}$.\n$$f_w = 20 \\times \\frac{0.5}{1/8} = 80\\ \\text{cm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

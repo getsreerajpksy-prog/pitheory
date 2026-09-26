@@ -1,0 +1,40 @@
+{
+  "id": "12-09-027",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A biconvex lens of glass ($\\mu = 1.5$) has radii of curvature $20$ cm and $30$ cm. Its focal length is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$60$ cm",
+      "image": ""
+    },
+    {
+      "text": "$24$ cm",
+      "image": ""
+    },
+    {
+      "text": "$12$ cm",
+      "image": ""
+    },
+    {
+      "text": "$50$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\dfrac{1}{f} = (\\mu - 1)\\left(\\dfrac{1}{R_1} - \\dfrac{1}{R_2}\\right) = 0.5\\left(\\dfrac{1}{20} + \\dfrac{1}{30}\\right) = \\dfrac{1}{24}$, so $f = 24$ cm.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

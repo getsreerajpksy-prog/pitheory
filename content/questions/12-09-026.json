@@ -1,0 +1,40 @@
+{
+  "id": "12-09-026",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A thin prism of angle $5°$ and refractive index $1.6$ deviates a ray by",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$3°$",
+      "image": ""
+    },
+    {
+      "text": "$8°$",
+      "image": ""
+    },
+    {
+      "text": "$5°$",
+      "image": ""
+    },
+    {
+      "text": "$1.6°$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For a thin prism, $\\delta = (\\mu - 1)A = 0.6 \\times 5° = 3°$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

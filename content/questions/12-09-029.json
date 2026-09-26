@@ -1,0 +1,40 @@
+{
+  "id": "12-09-029",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A convex lens of focal length $25$ cm and a concave lens of focal length $50$ cm are placed in contact. The power of the combination is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$-2$ D",
+      "image": ""
+    },
+    {
+      "text": "$+6$ D",
+      "image": ""
+    },
+    {
+      "text": "$+4$ D",
+      "image": ""
+    },
+    {
+      "text": "$+2$ D",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$P = \\dfrac{100}{25} - \\dfrac{100}{50} = 4 - 2 = +2$ D (converging, $f = 50$ cm).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

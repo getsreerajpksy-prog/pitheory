@@ -1,0 +1,40 @@
+{
+  "id": "12-09-025",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "At minimum deviation through an equilateral prism, the ray inside the prism is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "perpendicular to the base",
+      "image": ""
+    },
+    {
+      "text": "along the face of the prism",
+      "image": ""
+    },
+    {
+      "text": "parallel to the second face",
+      "image": ""
+    },
+    {
+      "text": "parallel to the base",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At minimum deviation the path is symmetric, $r_1 = r_2 = \\dfrac{A}{2}$, so the ray inside travels parallel to the base.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

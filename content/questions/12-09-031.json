@@ -1,0 +1,40 @@
+{
+  "id": "12-09-031",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The distance between an object and a screen is $90$ cm. A convex lens placed between them gives a sharp image on the screen for two positions of the lens, $30$ cm apart. The focal length of the lens is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$30$ cm",
+      "image": ""
+    },
+    {
+      "text": "$20$ cm",
+      "image": ""
+    },
+    {
+      "text": "$22.5$ cm",
+      "image": ""
+    },
+    {
+      "text": "$15$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Displacement method: $f = \\dfrac{D^2 - d^2}{4D} = \\dfrac{8100 - 900}{360} = 20$ cm.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-09-033",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A person's near point is $50$ cm. The power of the reading glasses needed to read at $25$ cm is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$-2$ D",
+      "image": ""
+    },
+    {
+      "text": "$+4$ D",
+      "image": ""
+    },
+    {
+      "text": "$+0.5$ D",
+      "image": ""
+    },
+    {
+      "text": "$+2$ D",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Hypermetropia: the lens must image an object at $u = -25$ cm at $v = -50$ cm.\n$$\\frac{1}{f} = \\frac{1}{v} - \\frac{1}{u} = -\\frac{1}{50} + \\frac{1}{25} = \\frac{1}{50} \\Rightarrow P = +2\\ \\text{D}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

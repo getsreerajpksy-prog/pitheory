@@ -1,0 +1,40 @@
+{
+  "id": "12-09-021",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The critical angle for a medium in contact with air is $30°$. Its refractive index is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\sqrt{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2}{\\sqrt{3}}$",
+      "image": ""
+    },
+    {
+      "text": "$1.5$",
+      "image": ""
+    },
+    {
+      "text": "$2$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\mu = \\dfrac{1}{\\sin C} = \\dfrac{1}{\\sin 30°} = 2$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

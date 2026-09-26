@@ -1,0 +1,39 @@
+{
+  "id": "12-09-018",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "IIT JEE 2013",
+  "question": "A ray of light in the direction $-\\left(\\hat{i} + \\sqrt{3}\\hat{j}\\right)$ is incident on a plane mirror. After reflection it travels along the direction $\\dfrac{1}{2}\\left(\\hat{i} - \\sqrt{3}\\hat{j}\\right)$. The angle of incidence is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$30°$",
+      "image": ""
+    },
+    {
+      "text": "$45°$",
+      "image": ""
+    },
+    {
+      "text": "$60°$",
+      "image": ""
+    },
+    {
+      "text": "$75°$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Unit vectors: incident $\\hat{e}_i = -\\dfrac{1}{2}\\left(\\hat{i} + \\sqrt{3}\\hat{j}\\right)$, reflected $\\hat{e}_r = \\dfrac{1}{2}\\left(\\hat{i} - \\sqrt{3}\\hat{j}\\right)$.\n\nThe normal to the mirror is along $\\hat{e}_r - \\hat{e}_i = \\dfrac{1}{2}\\hat{i} + \\dfrac{1}{2}\\hat{i} = \\hat{i}$.\n\nThe angle of incidence $\\theta$ is between the reversed incident ray and the normal:\n$$\\cos\\theta = \\left(-\\hat{e}_i\\right)\\cdot\\hat{i} = \\frac{1}{2} \\;\\Rightarrow\\; \\theta = 60°$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

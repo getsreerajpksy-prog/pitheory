@@ -1,0 +1,40 @@
+{
+  "id": "12-09-024",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "The angle of a prism is $60°$ and its angle of minimum deviation is $30°$. Its refractive index is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.5$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2}{\\sqrt{3}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{3}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\mu = \\dfrac{\\sin\\frac{A + \\delta_m}{2}}{\\sin\\frac{A}{2}} = \\dfrac{\\sin 45°}{\\sin 30°} = \\sqrt{2}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

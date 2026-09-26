@@ -1,0 +1,40 @@
+{
+  "id": "12-09-022",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A point source of light is placed $4$ m below the surface of water ($\\mu = \\dfrac{4}{3}$). The radius of the circle on the surface through which light emerges is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{12}{\\sqrt{7}}$ m",
+      "image": ""
+    },
+    {
+      "text": "$3$ m",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{16}{3}$ m",
+      "image": ""
+    },
+    {
+      "text": "$4\\sqrt{7}$ m",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At the edge of the circle, light meets the surface at the critical angle: $\\sin C = \\dfrac{3}{4}$, $\\tan C = \\dfrac{3}{\\sqrt{7}}$.\n$$r = h\\tan C = \\frac{12}{\\sqrt{7}} \\approx 4.5\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-09-019",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An object is placed $30$ cm in front of a concave mirror of focal length $20$ cm. The image is formed at",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$12$ cm in front of the mirror, real",
+      "image": ""
+    },
+    {
+      "text": "$60$ cm in front of the mirror, real and inverted",
+      "image": ""
+    },
+    {
+      "text": "$12$ cm behind the mirror, virtual",
+      "image": ""
+    },
+    {
+      "text": "$60$ cm behind the mirror, virtual",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\dfrac{1}{v} + \\dfrac{1}{u} = \\dfrac{1}{f}$ with $u = -30$, $f = -20$: $\\dfrac{1}{v} = -\\dfrac{1}{20} + \\dfrac{1}{30} = -\\dfrac{1}{60}$, so $v = -60$ cm: real, in front, magnified ($m = -2$) and inverted.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

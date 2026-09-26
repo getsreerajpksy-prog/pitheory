@@ -1,0 +1,40 @@
+{
+  "id": "12-09-023",
+  "chapter": "ray-optics-and-optical-instruments",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A glass slab $6$ cm thick ($\\mu = 1.5$) is placed over a mark on paper. When viewed from above, the mark appears to be raised by",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.5$ cm",
+      "image": ""
+    },
+    {
+      "text": "$2$ cm",
+      "image": ""
+    },
+    {
+      "text": "$4$ cm",
+      "image": ""
+    },
+    {
+      "text": "$3$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Apparent depth $= \\dfrac{6}{1.5} = 4$ cm, so the shift is $6 - 4 = 2$ cm. (In general $t\\left(1 - \\dfrac{1}{\\mu}\\right)$.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
