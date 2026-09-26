@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$$W = W_0\\left(\\frac{R}{R + 2R}\\right)^2 = \\frac{90}{9} = 10\\ \\text{N}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
