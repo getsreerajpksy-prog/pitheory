@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\tan\\phi = \\dfrac{X_C}{R} = 1 \\Rightarrow \\phi = 45°$. In an RC circuit the current leads the voltage.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
