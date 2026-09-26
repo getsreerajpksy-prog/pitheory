@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Work in A's frame. Velocity of B relative to A:\n$$\\vec{v}_{BA} = 20\\,\\hat{N} - 15\\,\\hat{W} = 20\\,\\hat{N} + 15\\,\\hat{E}, \\qquad |\\vec{v}_{BA}| = 25\\ \\text{km/h}$$\n\nIn this frame A is fixed and B starts $20$ km south of it, moving along a straight line that makes angle $\\phi$ with north, where $\\sin\\phi = \\dfrac{15}{25} = \\dfrac{3}{5}$.\n\nThe closest distance is the perpendicular distance from A to this line:\n$$d_{min} = 20\\sin\\phi = 20 \\times \\frac{3}{5} = 12\\ \\text{km}$$\n\n(It happens after $\\dfrac{20\\cos\\phi}{25} = 0.64$ h.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
