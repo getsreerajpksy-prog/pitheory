@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$\\sin\\theta = 0.6$, so $\\cos\\theta = 0.8$ and the height of the cone is $h = l\\cos\\theta = 0.8$ m.\n\n$T\\cos\\theta = mg$ and $T\\sin\\theta = m\\omega^2 r = m\\omega^2 l\\sin\\theta$ give $\\omega^2 = \\dfrac{g}{l\\cos\\theta}$:\n$$T_{period} = 2\\pi\\sqrt{\\frac{l\\cos\\theta}{g}} = 2\\pi\\sqrt{\\frac{0.8}{10}} = 2\\pi\\sqrt{0.08}\\ \\text{s} \\approx 1.78\\ \\text{s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
