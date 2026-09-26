@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "From the extreme, $x = A\\cos\\omega t = \\dfrac{A}{2} \\Rightarrow \\omega t = \\dfrac{\\pi}{3} \\Rightarrow t = \\dfrac{T}{6}$.\n\n(Near the extreme the particle moves slowly, so this takes longer than the $\\dfrac{T}{12}$ needed from the mean position.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
