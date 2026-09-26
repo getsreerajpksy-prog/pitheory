@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$u_x = 40\\cos 30° = 20\\sqrt{3}$ m/s, $u_y = 40\\sin 30° = 20$ m/s.\n$$H = \\frac{u_y^2}{2g} = \\frac{400}{20} = 20\\ \\text{m}, \\qquad T = \\frac{2u_y}{g} = 4\\ \\text{s}$$\n$$R = u_xT = 20\\sqrt{3} \\times 4 = 80\\sqrt{3}\\ \\text{m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

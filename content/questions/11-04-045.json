@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Mass hitting per second: $\\rho Av$. Each unit of mass loses momentum $v$:\n$$F = \\rho Av^2 = 1000 \\times 2 \\times 10^{-4} \\times 400 = 80\\ \\text{N}$$\n\nIf the water rebounded with the same speed, the force would double to $160$ N.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

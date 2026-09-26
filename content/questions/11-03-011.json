@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$R = 2H \\;\\Rightarrow\\; \\frac{2v^2\\sin\\theta\\cos\\theta}{g} = 2\\cdot\\frac{v^2\\sin^2\\theta}{2g} \\;\\Rightarrow\\; \\tan\\theta = 2$$\n\nSo $\\sin\\theta = \\dfrac{2}{\\sqrt{5}}$ and $\\cos\\theta = \\dfrac{1}{\\sqrt{5}}$:\n$$R = \\frac{2v^2}{g}\\cdot\\frac{2}{\\sqrt{5}}\\cdot\\frac{1}{\\sqrt{5}} = \\frac{4v^2}{5g}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$a = \\dfrac{50}{2 + 3 + 5} = 5\\ \\text{m/s}^2$.\n\nThe contact force on the $5$ kg block is the only horizontal force on it: $N = 5 \\times 5 = 25$ N.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

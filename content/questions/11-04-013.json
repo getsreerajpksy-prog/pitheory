@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Let the smaller force be $F_1$ and the larger $F_2$. The resultant is perpendicular to $F_1$, so $F_1$, $R$ and $F_2$ form a right triangle with $F_2$ as the hypotenuse:\n$$F_2^2 - F_1^2 = R^2 = 64 \\;\\Rightarrow\\; (F_2 - F_1)(F_2 + F_1) = 64$$\n\nWith $F_1 + F_2 = 16$: $F_2 - F_1 = 4$. So $F_1 = 6$ N and $F_2 = 10$ N.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

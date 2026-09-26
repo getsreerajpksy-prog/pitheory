@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Time of fall: $t = \\sqrt{\\dfrac{2h}{g}} = \\sqrt{9} = 3$ s.\n\nAt impact $v_x = 20$ m/s and $v_y = gt = 30$ m/s:\n$$\\tan\\theta = \\frac{30}{20} = \\frac{3}{2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The top block is accelerated only by friction, so its maximum acceleration is $\\mu_s g = 3\\ \\text{m/s}^2$.\n\nFor both to move together with this acceleration:\n$$F_{max} = (2 + 8) \\times 3 = 30\\ \\text{N}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

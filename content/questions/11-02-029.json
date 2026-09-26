@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Let $t$ be the time after the first stone is thrown.\n\nFirst stone: $h_1 = 30t - 5t^2$. Second stone: $h_2 = 30(t - 2) - 5(t - 2)^2$.\n\nThey collide when $h_1 = h_2$:\n$$30t - 5t^2 = 30t - 60 - 5t^2 + 20t - 20 \\;\\Rightarrow\\; 20t = 80 \\;\\Rightarrow\\; t = 4\\ \\text{s}$$\n\n$$h = 30(4) - 5(4)^2 = 120 - 80 = 40\\ \\text{m}$$\n\nCheck: the first stone reached its top at $3$ s and is falling; the second is $2$ s into its rise. By symmetry they meet $1$ s either side of the average time, which is consistent.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

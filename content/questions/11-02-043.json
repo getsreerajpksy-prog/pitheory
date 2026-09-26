@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "Both balls have the same acceleration $g$, so relative to each other they move at a constant $20$ m/s. They close the $60$ m gap in\n$$t = \\frac{60}{20} = 3\\ \\text{s}$$\n\nThe dropped ball has fallen $\\dfrac{1}{2}(10)(3)^2 = 45$ m in this time, so they meet at $60 - 45 = 15$ m above the ground.\n\n(Check: the other ball is at $20(3) - 5(3)^2 = 15$ m.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

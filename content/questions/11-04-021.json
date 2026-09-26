@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The tension balances the weight ($1$ N, vertical) and the horizontal force ($2$ N), which are perpendicular:\n$$T = \\sqrt{1^2 + 2^2} = \\sqrt{5}\\ \\text{N}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

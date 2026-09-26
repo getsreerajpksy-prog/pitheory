@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The stone is dropped, so $u = 0$. Using $v^2 = u^2 + 2gh$:\n$$v = \\sqrt{2gh} = \\sqrt{2 \\times 10 \\times 20} = \\sqrt{400} = 20\\ \\text{m s}^{-1}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

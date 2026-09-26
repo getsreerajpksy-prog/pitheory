@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Time taken $= 2$ min $20$ s $= 140$ s.\n\nNumber of rounds $= \\dfrac{140}{40} = 3.5$.\n\nAfter 3 complete rounds the athlete is back at the start. The extra half round takes him to the diametrically opposite point of the track.\n\nDisplacement = the straight-line distance between the start and the end points = the diameter:\n$$\\text{Displacement} = 2R$$\n\n(The distance travelled is $3.5 \\times 2\\pi R = 7\\pi R$, which is a trap option.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

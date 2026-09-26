@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The only horizontal force on $m$ is the spring force, so the spring force is $ma$.\n\nOn $M$, the applied force $F$ acts forward and the spring pulls it back with $ma$:\n$$F - ma = Ma' \\;\\Rightarrow\\; a' = \\frac{F - ma}{M}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

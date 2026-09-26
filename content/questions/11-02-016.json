@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "After time $t$, the police have covered $vt$ and the thief is at $x + \\dfrac{1}{2}\\alpha t^2$ from the police's starting point.\n\nThe police catch the thief if these are equal for some real $t$:\n$$vt = x + \\frac{1}{2}\\alpha t^2 \\;\\Rightarrow\\; \\alpha t^2 - 2vt + 2x = 0$$\n\nA real (positive) solution exists only if the discriminant is non-negative:\n$$4v^2 - 8\\alpha x \\ge 0 \\;\\Rightarrow\\; v^2 \\ge 2\\alpha x$$\n\nAmong the options, the police can catch the thief when $v^2 > 2\\alpha x$. (At exactly $v^2 = 2\\alpha x$ they just reach him.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

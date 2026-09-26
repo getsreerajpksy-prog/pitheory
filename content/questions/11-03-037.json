@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Both fall for the same time: $t = \\sqrt{\\dfrac{2 \\times 80}{10}} = 4$ s.\n\nThey move apart at $15 + 25 = 40$ m/s horizontally, so the separation is $40 \\times 4 = 160$ m.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

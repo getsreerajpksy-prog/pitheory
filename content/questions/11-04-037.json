@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The upward component reduces the normal force: $N = mg - F\\sin 37° = 50 - 0.6F$.\n\nJust moving: $F\\cos 37° = \\mu_s N$:\n$$0.8F = 0.4(50 - 0.6F) \\;\\Rightarrow\\; 1.04F = 20 \\;\\Rightarrow\\; F \\approx 19.2\\ \\text{N}$$\n\nThis is less than the $20$ N a horizontal pull would need ($\\mu_s mg$).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

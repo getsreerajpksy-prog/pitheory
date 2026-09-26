@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Initial momentum is zero, so the heavier piece carries momentum equal and opposite to the sum of the other two:\n$$2m\\,v_3 = \\sqrt{(4m)^2 + (6m)^2} = m\\sqrt{52} = 2\\sqrt{13}\\,m$$\n$$v_3 = \\sqrt{13}\\ \\text{m s}^{-1}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

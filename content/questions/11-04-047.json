@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Relative to the ground, kinetic friction drives the box forward at $\\mu_k g = 3\\ \\text{m/s}^2$, while the truck accelerates at $5\\ \\text{m/s}^2$.\n\nRelative to the truck: $3 - 5 = -2\\ \\text{m/s}^2$, i.e. $2\\ \\text{m/s}^2$ towards the rear.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$a = v\\frac{dv}{dx} = 6\\sqrt{x}\\cdot\\frac{6}{2\\sqrt{x}} = 18\\ \\text{m/s}^2$$\n\nThe $\\sqrt{x}$ cancels, so the acceleration is constant. This matches $v^2 = 36x = 2(18)x$, which is $v^2 = 2ax$ for uniform acceleration from rest.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

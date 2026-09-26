@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$mg(\\sin\\theta + \\mu\\cos\\theta) = 2mg(\\sin\\theta - \\mu\\cos\\theta) \\;\\Rightarrow\\; 3\\mu\\cos\\theta = \\sin\\theta$$\n$$\\mu = \\frac{\\tan 60°}{3} = \\frac{\\sqrt{3}}{3} = \\frac{1}{\\sqrt{3}}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

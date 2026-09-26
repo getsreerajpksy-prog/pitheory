@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Driving force: weight of the hanging block $= 20$ N. Friction on the table block $= 0.25 \\times 40 = 10$ N.\n$$a = \\frac{20 - 10}{4 + 2} = \\frac{5}{3}\\ \\text{m/s}^2$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

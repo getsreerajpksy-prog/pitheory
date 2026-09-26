@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Positions from the girl's starting point: girl $x_G = 5t$; door $x_D = 10 + \\dfrac{1}{2}t^2$.\n\n$$5t = 10 + \\frac{t^2}{2} \\;\\Rightarrow\\; t^2 - 10t + 20 = 0 \\;\\Rightarrow\\; t = 5 \\pm \\sqrt{5}$$\n\nShe first reaches the door at the smaller root, $t = (5 - \\sqrt{5})$ s $\\approx 2.76$ s.\n\nCheck with the discriminant: $100 - 80 > 0$, so she does catch it.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

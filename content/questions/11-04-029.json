@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Friction supplies the centripetal force, up to its limit $\\mu mg$:\n$$\\frac{mv^2}{r} \\le \\mu mg \\;\\Rightarrow\\; v_{max} = \\sqrt{\\mu rg}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

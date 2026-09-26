@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The magnetic force $q\\vec{v}\\times\\vec{B}$ is always perpendicular to the velocity, so the acceleration it produces is perpendicular to $\\vec{v}$:\n$$\\vec{v}\\cdot\\vec{a} = 0 \\;\\Rightarrow\\; 2(3) + c(4) = 0 \\;\\Rightarrow\\; c = -1.5$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

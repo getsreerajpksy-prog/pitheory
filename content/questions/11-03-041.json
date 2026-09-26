@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\theta = \\frac{1}{2}\\alpha t^2 = \\frac{1}{2}(2)(10)^2 = 100\\ \\text{rad}$$\n$$\\text{Revolutions} = \\frac{100}{2\\pi} \\approx 15.9 \\approx 16$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

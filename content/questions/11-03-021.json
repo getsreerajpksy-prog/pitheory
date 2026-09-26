@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$A_B = \\vec{A}\\cdot\\hat{B} = \\frac{\\vec{A}\\cdot\\vec{B}}{|\\vec{B}|} = \\frac{3 + 4}{\\sqrt{2}} = \\frac{7}{\\sqrt{2}}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "(Read as: on a rough $45°$ incline the time is $n$ times that on a smooth one.)\n\nFor the same distance from rest, $t \\propto \\dfrac{1}{\\sqrt{a}}$, so $a_{smooth} = n^2 a_{rough}$:\n$$g\\sin 45° = n^2 g(\\sin 45° - \\mu_k\\cos 45°) \\;\\Rightarrow\\; 1 = n^2(1 - \\mu_k)$$\n$$\\mu_k = 1 - \\frac{1}{n^2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

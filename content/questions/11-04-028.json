@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Released from angle $\\theta$, the speed at the lowest point satisfies $v^2 = 2gl(1 - \\cos\\theta)$.\n\nTension at the lowest point:\n$$T = mg + \\frac{mv^2}{l} = mg(3 - 2\\cos\\theta)$$\n\nWith $mg = 150 \\times 9.8 = 1470$ N and $T_{max} = 2940$ N:\n$$3 - 2\\cos\\theta = 2 \\;\\Rightarrow\\; \\cos\\theta = \\frac{1}{2} \\;\\Rightarrow\\; \\theta = 60°$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

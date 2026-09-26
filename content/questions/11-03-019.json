@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\vec{A}\\cdot\\vec{B} = 12 - 6 - 2 = 4, \\qquad |\\vec{A}| = 3, \\qquad |\\vec{B}| = 7$$\n$$\\cos\\theta = \\frac{4}{3 \\times 7} = \\frac{4}{21}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

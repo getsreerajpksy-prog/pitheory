@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Free fall for $3$ s: $v = 30$ m/s, and $h_1 = \\dfrac{1}{2}(10)(3)^2 = 45$ m.\n\nWith the parachute, from $30$ m/s to $4$ m/s at $2\\ \\text{m/s}^2$ retardation:\n$$4^2 = 30^2 - 2(2)h_2 \\;\\Rightarrow\\; h_2 = \\frac{900 - 16}{4} = 221\\ \\text{m}$$\n\nTotal height $= 45 + 221 = 266$ m.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

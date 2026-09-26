@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "In equilibrium the forces add to zero:\n$$\\vec{C} = -(\\vec{A} + \\vec{B}) = -(3\\hat{i} + 0\\hat{j} + 4\\hat{k}) = -(3\\hat{i} + 4\\hat{k})$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

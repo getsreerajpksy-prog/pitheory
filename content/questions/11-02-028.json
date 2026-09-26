@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Let the total time of fall be $T$. Distance in the last (the $T^{\\text{th}}$) second:\n$$s_T = \\frac{g}{2}(2T - 1) = 5(2T - 1) = 35 \\;\\Rightarrow\\; T = 4\\ \\text{s}$$\n\n$$h = \\frac{1}{2}gT^2 = \\frac{1}{2} \\times 10 \\times 16 = 80\\ \\text{m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

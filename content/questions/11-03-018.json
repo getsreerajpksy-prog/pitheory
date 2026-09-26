@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "With $|\\vec{A}| = |\\vec{B}| = A$:\n$$|\\vec{A} + \\vec{B}|^2 = 2A^2(1 + \\cos\\theta), \\qquad |\\vec{A} - \\vec{B}|^2 = 2A^2(1 - \\cos\\theta)$$\n$$1 + \\cos\\theta = 3(1 - \\cos\\theta) \\;\\Rightarrow\\; \\cos\\theta = \\frac{1}{2} \\;\\Rightarrow\\; \\theta = 60°$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

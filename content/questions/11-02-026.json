@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Measure positions from the jeep's starting point.\n\nJeep: $x_J = 20t$. Thief: $x_T = 64 + \\dfrac{1}{2}(2)t^2 = 64 + t^2$.\n\nThey meet when $20t = 64 + t^2$:\n$$t^2 - 20t + 64 = 0 \\;\\Rightarrow\\; (t - 4)(t - 16) = 0$$\n\nThe jeep first reaches the thief at $t = 4$ s. (If it did not stop him, the faster-accelerating scooter would draw level again at $t = 16$ s.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

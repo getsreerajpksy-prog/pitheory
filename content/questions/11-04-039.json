@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$a = g(\\sin\\theta - \\mu_k\\cos\\theta) = 10(0.6 - 0.5 \\times 0.8) = 2\\ \\text{m/s}^2$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

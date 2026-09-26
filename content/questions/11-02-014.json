@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Separate the variables and integrate from $v = 6.25$ m/s to $v = 0$:\n$$\\frac{dv}{\\sqrt{v}} = -2.5\\,dt \\;\\Rightarrow\\; \\int_{6.25}^{0} v^{-1/2}\\,dv = -2.5\\int_0^t dt$$\n$$\\Big[2\\sqrt{v}\\Big]_{6.25}^{0} = -2.5\\,t \\;\\Rightarrow\\; 0 - 2(2.5) = -2.5\\,t$$\n$$t = 2\\ \\text{s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

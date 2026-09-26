@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$x = \\dfrac{1}{2}(6)t^2 = 3t^2 = 12 \\;\\Rightarrow\\; t = 2$ s.\n$$y = 4t + \\frac{1}{2}(2)t^2 = 8 + 4 = 12\\ \\text{m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

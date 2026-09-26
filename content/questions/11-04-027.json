@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Let the plane have length $2L$. The block starts and ends at rest, so the work done by gravity over the whole length equals the work done against friction over the lower half:\n$$mg\\sin\\theta\\,(2L) = \\mu mg\\cos\\theta\\,(L) \\;\\Rightarrow\\; \\mu = 2\\tan\\theta$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Write the acceleration as $v\\dfrac{dv}{dx}$:\n$$3x = 8v\\frac{dv}{dx} \\;\\Rightarrow\\; \\int_2^{10} 3x\\,dx = \\int_0^v 8v\\,dv$$\n$$\\frac{3}{2}(100 - 4) = 4v^2 \\;\\Rightarrow\\; 144 = 4v^2 \\;\\Rightarrow\\; v = 6\\ \\text{m/s}$$\n\n(Equivalently, the work done $\\int F\\,dx = 144$ J equals the kinetic energy gained.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$v_{max} = \\sqrt{\\mu rg} = \\sqrt{0.4 \\times 40 \\times 10} = \\sqrt{160} = 4\\sqrt{10}\\ \\text{m/s} \\approx 12.6\\ \\text{m/s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Centripetal (radial) acceleration: $a_c = \\dfrac{v^2}{r} = \\dfrac{16}{2} = 8\\ \\text{m/s}^2$.\n\nTangential acceleration: $a_t = 6\\ \\text{m/s}^2$.\n\nThese are perpendicular: $a = \\sqrt{8^2 + 6^2} = 10\\ \\text{m/s}^2$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

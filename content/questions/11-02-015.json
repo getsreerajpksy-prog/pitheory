@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "First body (from rest, acceleration $a$): $x_1 = \\dfrac{1}{2}at^2$. Second body (constant speed $v$): $x_2 = vt$.\n$$x_1 - x_2 = \\frac{1}{2}at^2 - vt$$\n\nThis is an upward-opening parabola through the origin. For small $t$ the $-vt$ term dominates, so $x_1 - x_2$ first becomes negative (the second body is ahead). It reaches a minimum at $t = v/a$, returns to zero at $t = 2v/a$ (the first body catches up), and then grows positive.\n\nOnly graph (2) dips below the axis and then rises.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

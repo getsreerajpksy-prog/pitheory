@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\vec{F} = \\frac{d\\vec{p}}{dt} = 8t\\,\\hat{i} - 6t\\,\\hat{j}, \\qquad |\\vec{F}| = 10t$$\n\nAt $t = 2$ s: $|\\vec{F}| = 20$ N.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

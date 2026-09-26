@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Powered phase ($20$ s):\n$$v = 5 \\times 20 = 100\\ \\text{m/s}, \\qquad h_1 = \\frac{1}{2}(5)(20)^2 = 1000\\ \\text{m}$$\n\nFree phase (rising under gravity until $v = 0$):\n$$h_2 = \\frac{v^2}{2g} = \\frac{10000}{20} = 500\\ \\text{m}$$\n\nMaximum height $= 1000 + 500 = 1500$ m.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

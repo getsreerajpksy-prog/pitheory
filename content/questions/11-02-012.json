@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Starting from rest, $s = \\dfrac{1}{2}at^2$.\n\nDistance in the first $2$ s: $x = \\dfrac{1}{2}a(2)^2 = 2a$.\n\nDistance in the first $4$ s: $\\dfrac{1}{2}a(4)^2 = 8a$, so in the next $2$ s: $y = 8a - 2a = 6a$.\n\n$$n = \\frac{y}{x} = \\frac{6a}{2a} = 3$$\n\nShortcut: from rest, distances in equal successive intervals are in the ratio $1 : 3 : 5 : \\dots$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Between A and B (rising $9$ m):\n$$\\left(\\frac{u}{2}\\right)^2 - \\left(\\frac{u}{4}\\right)^2 = 2g(9) \\;\\Rightarrow\\; \\frac{3u^2}{16} = 18g \\;\\Rightarrow\\; u^2 = 96g$$\n\nMaximum height above the point of projection:\n$$H = \\frac{u^2}{2g} = \\frac{96g}{2g} = 48\\ \\text{m}$$\n\n(The value of $g$ cancels, so the answer does not depend on it.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
