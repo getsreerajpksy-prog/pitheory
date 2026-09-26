@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Every point on the perpendicular bisector is equidistant from the two charges, so their potentials $\\dfrac{kq}{r}$ and $-\\dfrac{kq}{r}$ cancel: $V = 0$.\n\nThe fields do not cancel: their components along the bisector cancel, but the components parallel to the dipole axis add. So $E \\neq 0$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
