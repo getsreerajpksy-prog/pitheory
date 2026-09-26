@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$E_{eq} = \\dfrac{E_1/r_1 + E_2/r_2}{1/r_1 + 1/r_2} = \\dfrac{2 + 2}{1 + 0.5} = \\dfrac{8}{3}$ V.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
