@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$T_{max} = 60 \\times 10 = 600$ N. For a boy of mass $m$ climbing with acceleration $a$: $T - mg = ma$.\n\n$20$ kg: $600 - 200 = 20a_1 \\Rightarrow a_1 = 20\\ \\text{m/s}^2$.\n\n$30$ kg: $600 - 300 = 30a_2 \\Rightarrow a_2 = 10\\ \\text{m/s}^2$.\n\n$a_1 : a_2 = 2 : 1$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
