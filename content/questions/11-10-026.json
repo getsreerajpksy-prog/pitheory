@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The heat flows along the axis through both parts side by side, so they are in parallel:\n$$K_{eff}(A_1 + A_2) = K_1A_1 + K_2A_2, \\quad A_1 = \\pi R^2,\\ A_2 = 3\\pi R^2$$\n$$K_{eff} = \\frac{K_1 + 3K_2}{4}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
