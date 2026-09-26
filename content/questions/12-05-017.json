@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "In a plane at angle $\\theta$ to the meridian, the horizontal component seen is $B_H\\cos\\theta$ while the vertical is unchanged: $\\tan\\delta' = \\dfrac{\\tan\\delta}{\\cos\\theta}$.\n$$\\tan\\delta = \\tan 45° \\times \\cos 30° = \\frac{\\sqrt{3}}{2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
