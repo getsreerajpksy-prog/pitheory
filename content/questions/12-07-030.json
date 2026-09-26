@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "For a given power $P = VI$, a higher $V$ means a smaller $I$. Line loss is $I^2R$, so it falls sharply.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
