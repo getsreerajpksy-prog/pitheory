@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Accelerating: $t_1 = \\dfrac{20}{1} = 20$ s, distance $= \\dfrac{20^2}{2 \\times 1} = 200$ m.\n\nDecelerating: $t_3 = \\dfrac{20}{2} = 10$ s, distance $= \\dfrac{20^2}{2 \\times 2} = 100$ m.\n\nUniform part: $2000 - 300 = 1700$ m at $20$ m/s, so $t_2 = 85$ s.\n\nTotal time $= 20 + 85 + 10 = 115$ s.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
