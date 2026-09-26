@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "At constant volume, $P \\propto nT$:\n$$P_2 = 20 \\times \\frac{1}{2} \\times \\frac{350}{300} \\approx 11.7\\ \\text{atm}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
