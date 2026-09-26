@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Successive resonances are $\\dfrac{\\lambda}{2}$ apart: $\\dfrac{\\lambda}{2} = 33$ cm, so $\\lambda = 0.66$ m and $v = 512 \\times 0.66 \\approx 337.9$ m/s. (Using the difference removes the end correction.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
