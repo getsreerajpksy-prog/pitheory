@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "For each ball, $\\tan\\theta = \\dfrac{F_e}{mg} = \\dfrac{kq^2}{x^2mg}$. For small angles, $\\tan\\theta \\approx \\dfrac{x/2}{l}$:\n$$\\frac{x}{2l} = \\frac{kq^2}{mgx^2} \\;\\Rightarrow\\; x^3 \\propto q^2 \\;\\Rightarrow\\; x \\propto q^{2/3}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
