@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The downward flux through the ring increases. Lenz's law: the induced current opposes this by producing an upward field, i.e. a north pole on the top face. Seen from above, that is an anticlockwise current.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
