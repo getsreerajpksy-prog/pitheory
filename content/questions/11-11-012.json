@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\Delta U = nC_V\\Delta T = \\frac{nR\\Delta T}{\\gamma - 1} = \\frac{p\\,\\Delta V}{\\gamma - 1} = \\frac{p(2V - V)}{\\gamma - 1} = \\frac{pV}{\\gamma - 1}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
