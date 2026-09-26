@@ -1,0 +1,40 @@
+{
+  "id": "11-07-013",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "EAMCET 2013 (Engineering)",
+  "question": "The gravitational force acting on a particle, due to a solid sphere of uniform density and radius $R$, at a distance of $3R$ from the centre of the sphere is $F_1$. A spherical hole of radius $\\dfrac{R}{2}$ is now made in the sphere as shown in the figure. The sphere with the hole now exerts a force $F_2$ on the same particle. The ratio $\\dfrac{F_1}{F_2}$ is",
+  "diagram": "/diagrams/11-07-013.svg",
+  "diagram_alt": "Solid sphere of radius R with a spherical hole of radius R/2 touching its surface on the side facing a particle m at distance 3R from the centre O",
+  "options": [
+    {
+      "text": "$\\dfrac{50}{41}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{41}{50}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{9}{8}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{8}{7}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Let the full sphere have mass $M$. The hole has radius $\\dfrac{R}{2}$, so its mass would be $\\dfrac{M}{8}$. Its centre is $\\dfrac{R}{2}$ from O, towards the particle, so it is $3R - \\dfrac{R}{2} = \\dfrac{5R}{2}$ from the particle.\n$$F_1 = \\frac{GMm}{9R^2}$$\n$$F_2 = \\frac{GMm}{9R^2} - \\frac{G(M/8)m}{(5R/2)^2} = \\frac{GMm}{R^2}\\left(\\frac{1}{9} - \\frac{1}{50}\\right) = \\frac{GMm}{R^2}\\cdot\\frac{41}{450}$$\n$$\\frac{F_1}{F_2} = \\frac{1/9}{41/450} = \\frac{50}{41}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

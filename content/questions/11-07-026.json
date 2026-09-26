@@ -1,0 +1,40 @@
+{
+  "id": "11-07-026",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A satellite orbits the Earth at a height equal to the Earth's radius $R$. If $g$ is the acceleration due to gravity at the surface, its orbital speed is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{\\sqrt{gR}}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{\\dfrac{gR}{2}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{gR}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{2gR}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$v = \\sqrt{\\frac{GM}{r}} = \\sqrt{\\frac{gR^2}{2R}} = \\sqrt{\\frac{gR}{2}}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

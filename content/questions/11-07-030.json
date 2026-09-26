@@ -1,0 +1,40 @@
+{
+  "id": "11-07-030",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A planet has twice the radius of the Earth and the same mass. The escape velocity from its surface, in terms of that from the Earth $v_e$, is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2v_e$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{v_e}{\\sqrt{2}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{2}\\,v_e$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{v_e}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$v_e = \\sqrt{\\dfrac{2GM}{R}}$, so with the same mass $v_e \\propto \\dfrac{1}{\\sqrt{R}}$:\n$$v' = \\frac{v_e}{\\sqrt{2}}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

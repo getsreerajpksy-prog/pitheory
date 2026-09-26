@@ -1,0 +1,39 @@
+{
+  "id": "11-07-023",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2013 (Medical)",
+  "question": "If the earth were to rotate on its own axis such that the weight of a person at the equator becomes half the weight at the poles, then its time period of rotation is ($g$ = acceleration due to gravity near the poles and $R$ is the radius of the earth; ignore equatorial bulge)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2\\pi\\sqrt{\\dfrac{2R}{g}}$",
+      "image": ""
+    },
+    {
+      "text": "$2\\pi\\sqrt{\\dfrac{R}{2g}}$",
+      "image": ""
+    },
+    {
+      "text": "$2\\pi\\sqrt{\\dfrac{R}{3g}}$",
+      "image": ""
+    },
+    {
+      "text": "$2\\pi\\sqrt{\\dfrac{R}{g}}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At the equator $g' = g - \\omega^2R$. Setting $g' = \\dfrac{g}{2}$:\n$$\\omega^2R = \\frac{g}{2} \\;\\Rightarrow\\; \\omega = \\sqrt{\\frac{g}{2R}} \\;\\Rightarrow\\; T = \\frac{2\\pi}{\\omega} = 2\\pi\\sqrt{\\frac{2R}{g}}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

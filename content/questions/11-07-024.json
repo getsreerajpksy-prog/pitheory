@@ -1,0 +1,40 @@
+{
+  "id": "11-07-024",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The acceleration due to gravity at a depth of $1600$ km below the Earth's surface is ($g = 9.8\\ \\text{m/s}^2$ at the surface, radius of Earth $= 6400$ km)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4.9\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$2.45\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$9.8\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$7.35\\ \\text{m/s}^2$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$g_d = g\\left(1 - \\frac{d}{R}\\right) = 9.8\\left(1 - \\frac{1600}{6400}\\right) = 9.8 \\times 0.75 = 7.35\\ \\text{m/s}^2$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

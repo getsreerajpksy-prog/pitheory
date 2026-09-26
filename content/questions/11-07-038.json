@@ -1,0 +1,22 @@
+{
+  "id": "11-07-038",
+  "chapter": "gravitation",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "With what minimum speed, in km/s, must a body be projected from the surface of a planet of mass $6 \\times 10^{24}$ kg and radius $6.67 \\times 10^6$ m to escape its gravity? ($G = 6.67 \\times 10^{-11}\\ \\text{N m}^2\\text{kg}^{-2}$; give the answer to the nearest whole number)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "11",
+  "tolerance": "0",
+  "solution": "$$v_e = \\sqrt{\\frac{2GM}{R}} = \\sqrt{\\frac{2 \\times 6.67 \\times 10^{-11} \\times 6 \\times 10^{24}}{6.67 \\times 10^6}} = \\sqrt{1.2 \\times 10^8} \\approx 1.10 \\times 10^4\\ \\text{m/s}$$\n\nAbout $11$ km/s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

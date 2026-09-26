@@ -1,0 +1,40 @@
+{
+  "id": "11-07-035",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Inside a uniform thin spherical shell of mass $M$ and radius $R$, the gravitational field and potential at a point halfway between the centre and the shell are respectively",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{4GM}{R^2}$ and $-\\dfrac{2GM}{R}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{GM}{R^2}$ and $-\\dfrac{GM}{R}$",
+      "image": ""
+    },
+    {
+      "text": "$0$ and $-\\dfrac{GM}{R}$",
+      "image": ""
+    },
+    {
+      "text": "$0$ and $0$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Inside a shell the field is zero everywhere, so the potential is constant and equal to its value on the shell, $-\\dfrac{GM}{R}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

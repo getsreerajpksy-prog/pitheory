@@ -1,0 +1,40 @@
+{
+  "id": "11-07-020",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2003 (Engineering)",
+  "question": "In planetary motion, the areal velocity of the position vector of a planet depends on the angular velocity ($\\omega$) and the distance of the planet from the sun ($r$). If so, the correct relation for the areal velocity is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{dA}{dt} \\propto \\omega r$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{dA}{dt} \\propto \\omega^2 r$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{dA}{dt} \\propto \\omega r^2$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{dA}{dt} \\propto \\sqrt{\\omega r}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "In time $dt$ the radius vector sweeps a thin triangle of area $dA = \\dfrac{1}{2}r^2\\,d\\theta$:\n$$\\frac{dA}{dt} = \\frac{1}{2}r^2\\omega \\propto \\omega r^2$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

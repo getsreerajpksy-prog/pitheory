@@ -1,0 +1,40 @@
+{
+  "id": "11-07-015",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2012 (Engineering)",
+  "question": "The gravitational field in a region is given by $\\vec{E} = (5\\hat{i} + 12\\hat{j})$ N/kg. If a particle of mass $2$ kg is moved from the origin to the point $(12\\ \\text{m}, 5\\ \\text{m})$ in this region, the change in the gravitational potential energy is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$-240$ J",
+      "image": ""
+    },
+    {
+      "text": "$240$ J",
+      "image": ""
+    },
+    {
+      "text": "$-120$ J",
+      "image": ""
+    },
+    {
+      "text": "$-225$ J",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The field does work $W = m\\vec{E}\\cdot\\vec{s}$, and $\\Delta U = -W$:\n$$\\vec{E}\\cdot\\vec{s} = 5(12) + 12(5) = 120\\ \\text{J/kg}$$\n$$\\Delta U = -2 \\times 120 = -240\\ \\text{J}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

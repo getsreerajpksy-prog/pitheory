@@ -1,0 +1,39 @@
+{
+  "id": "11-07-021",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2012 (Medical)",
+  "question": "An artificial satellite of mass $m$ is revolving around in a circular orbit of radius $r$. If the mass of the earth is $M$, the angular momentum of the satellite with respect to the centre of the earth is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\sqrt{GMm^2r}$",
+      "image": ""
+    },
+    {
+      "text": "$2m\\sqrt{GMr}$",
+      "image": ""
+    },
+    {
+      "text": "$2M\\sqrt{Gmr}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{\\dfrac{GM}{r}}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Orbital speed $v = \\sqrt{\\dfrac{GM}{r}}$:\n$$L = mvr = m\\sqrt{\\frac{GM}{r}}\\,r = m\\sqrt{GMr} = \\sqrt{GMm^2r}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

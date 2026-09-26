@@ -1,0 +1,40 @@
+{
+  "id": "11-07-032",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A planet moves in an elliptical orbit around the Sun. Its distances from the Sun at perihelion and aphelion are $r_1$ and $r_2$. The ratio of its speeds at perihelion and aphelion is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{r_1}{r_2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\left(\\dfrac{r_2}{r_1}\\right)^2$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{\\dfrac{r_2}{r_1}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{r_2}{r_1}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Angular momentum is conserved. At perihelion and aphelion the velocity is perpendicular to the radius, so $mv_1r_1 = mv_2r_2$:\n$$\\frac{v_1}{v_2} = \\frac{r_2}{r_1}$$\n\nThe planet moves fastest when closest to the Sun.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

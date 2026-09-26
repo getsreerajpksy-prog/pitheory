@@ -1,0 +1,22 @@
+{
+  "id": "11-07-039",
+  "chapter": "gravitation",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The weight of a body on the Earth's surface is $90$ N. Find its weight, in newtons, at a height equal to twice the Earth's radius above the surface.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "10",
+  "tolerance": "0",
+  "solution": "$$W = W_0\\left(\\frac{R}{R + 2R}\\right)^2 = \\frac{90}{9} = 10\\ \\text{N}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

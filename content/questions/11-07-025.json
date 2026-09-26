@@ -1,0 +1,40 @@
+{
+  "id": "11-07-025",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "At what height above the Earth's surface is the acceleration due to gravity equal to its value at a depth of $\\dfrac{R}{2}$, where $R$ is the radius of the Earth?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$(\\sqrt{2} - 1)R$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{R}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$R$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{R}{4}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At depth $\\dfrac{R}{2}$: $g_d = g\\left(1 - \\dfrac{1}{2}\\right) = \\dfrac{g}{2}$.\n\nAt height $h$: $g\\dfrac{R^2}{(R + h)^2} = \\dfrac{g}{2} \\Rightarrow R + h = \\sqrt{2}R \\Rightarrow h = (\\sqrt{2} - 1)R \\approx 0.41R$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-07-027",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The orbital radius of satellite B is $4$ times that of satellite A around the same planet. If A's period is $2$ hours, B's period is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$32$ hours",
+      "image": ""
+    },
+    {
+      "text": "$4$ hours",
+      "image": ""
+    },
+    {
+      "text": "$16$ hours",
+      "image": ""
+    },
+    {
+      "text": "$8$ hours",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Kepler's third law: $T \\propto r^{3/2}$:\n$$T_B = 2 \\times 4^{3/2} = 2 \\times 8 = 16\\ \\text{hours}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

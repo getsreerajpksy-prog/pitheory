@@ -1,0 +1,40 @@
+{
+  "id": "11-07-037",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An astronaut in a spacecraft orbiting the Earth feels weightless because",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "both the astronaut and the spacecraft are in free fall with the same acceleration",
+      "image": ""
+    },
+    {
+      "text": "gravity is zero at that height",
+      "image": ""
+    },
+    {
+      "text": "the centrifugal force exactly cancels gravity on the Earth's surface",
+      "image": ""
+    },
+    {
+      "text": "there is no air in space",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Gravity at orbital height is only slightly less than at the surface. The astronaut and the spacecraft both fall freely around the Earth with the same acceleration, so the floor exerts no normal force on the astronaut. That missing normal force is what we perceive as weightlessness.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

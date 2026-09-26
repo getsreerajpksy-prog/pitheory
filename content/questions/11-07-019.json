@@ -1,0 +1,39 @@
+{
+  "id": "11-07-019",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2007 (Medical)",
+  "question": "A body of mass $m$ is raised from the surface of the earth to a height $nR$ ($R$ is the radius of the earth). The magnitude of the change in the gravitational potential energy of the body is ($g$ = acceleration due to gravity on the surface of the earth)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\left(\\dfrac{n}{n + 1}\\right)mgR$",
+      "image": ""
+    },
+    {
+      "text": "$\\left(\\dfrac{n - 1}{n}\\right)mgR$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{mgR}{n}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{mgR}{n - 1}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\Delta U = GMm\\left(\\frac{1}{R} - \\frac{1}{R + nR}\\right) = \\frac{GMm}{R}\\cdot\\frac{n}{n + 1} = \\left(\\frac{n}{n + 1}\\right)mgR$$\nusing $GM = gR^2$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

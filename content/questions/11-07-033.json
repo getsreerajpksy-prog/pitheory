@@ -1,0 +1,40 @@
+{
+  "id": "11-07-033",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Three particles, each of mass $m$, are placed at the vertices of an equilateral triangle of side $a$. The gravitational potential energy of the system is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$-\\dfrac{3Gm^2}{a}$",
+      "image": ""
+    },
+    {
+      "text": "$-\\dfrac{Gm^2}{a}$",
+      "image": ""
+    },
+    {
+      "text": "$-\\dfrac{3Gm^2}{2a}$",
+      "image": ""
+    },
+    {
+      "text": "$-\\dfrac{6Gm^2}{a}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "There are three pairs, each separated by $a$:\n$$U = 3\\left(-\\frac{Gm^2}{a}\\right) = -\\frac{3Gm^2}{a}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

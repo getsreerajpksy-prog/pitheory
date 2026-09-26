@@ -1,0 +1,40 @@
+{
+  "id": "11-07-031",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The escape velocity from the Earth is about $11.2$ km/s. The orbital speed of a satellite very close to the Earth's surface is about",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$5.6$ km/s",
+      "image": ""
+    },
+    {
+      "text": "$15.8$ km/s",
+      "image": ""
+    },
+    {
+      "text": "$7.9$ km/s",
+      "image": ""
+    },
+    {
+      "text": "$11.2$ km/s",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Near the surface, $v_o = \\sqrt{gR}$ and $v_e = \\sqrt{2gR}$, so $v_o = \\dfrac{v_e}{\\sqrt{2}} = \\dfrac{11.2}{1.414} \\approx 7.9$ km/s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

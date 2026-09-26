@@ -1,0 +1,40 @@
+{
+  "id": "11-07-018",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2008 (Engineering)",
+  "question": "The orbit of a geostationary satellite is circular. The time period of the satellite depends on",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "mass of the Earth",
+      "image": ""
+    },
+    {
+      "text": "radius of the orbit",
+      "image": ""
+    },
+    {
+      "text": "height of the satellite from the surface of Earth",
+      "image": ""
+    },
+    {
+      "text": "all the above",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$T = 2\\pi\\sqrt{\\frac{r^3}{GM}}, \\qquad r = R + h$$\n\n$T$ depends on the mass of the Earth, on the radius of the orbit, and so on the height above the surface. (It does not depend on the mass of the satellite.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

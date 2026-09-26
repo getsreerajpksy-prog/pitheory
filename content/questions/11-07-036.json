@@ -1,0 +1,40 @@
+{
+  "id": "11-07-036",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The height of a geostationary satellite above the Earth's surface is about $36000$ km. Taking the Earth's radius as $6400$ km, the orbital speed of such a satellite is about",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$7.9$ km/s",
+      "image": ""
+    },
+    {
+      "text": "$11.2$ km/s",
+      "image": ""
+    },
+    {
+      "text": "$1.5$ km/s",
+      "image": ""
+    },
+    {
+      "text": "$3.1$ km/s",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$r = 42400$ km and $T = 24$ h $= 86400$ s:\n$$v = \\frac{2\\pi r}{T} = \\frac{2\\pi \\times 42400}{86400} \\approx 3.1\\ \\text{km/s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

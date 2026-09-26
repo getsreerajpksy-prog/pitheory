@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 230" width="460" height="230">
+<rect width="460" height="230" fill="#fff"/>
+<path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M120.0,217.0 L390.0,217.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M120.0,115.0 L66.0,187.0"/>
+<circle cx="120" cy="115" r="90" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+<circle cx="165.0" cy="115" r="45.0" fill="#fff" stroke="#111" stroke-width="2.5"/>
+<circle cx="120" cy="115" r="3.5" fill="#111" stroke="#111" stroke-width="2"/>
+<text x="112" y="107" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="16" text-anchor="end">O</text>
+<circle cx="390" cy="115" r="5" fill="#111" stroke="#111" stroke-width="2"/>
+<text x="390" y="103" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle" font-style="italic">m</text>
+<path d="M120.0,115.0 L390.0,115.0" fill="none" stroke="#111" stroke-width="1.3" stroke-dasharray="5 4"/>
+<path d="M120.0,217.0 L126.9,213.0 L126.9,221.0 Z" fill="#111"/>
+<path d="M390.0,217.0 L383.1,221.0 L383.1,213.0 Z" fill="#111"/>
+<text x="255.0" y="213" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="16" text-anchor="middle" font-style="italic">3R</text>
+<text x="82" y="165" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="16" text-anchor="end" font-style="italic">R</text>
+<path d="M120,115 L66,187" stroke="#111" stroke-width="2" fill="none"/>
+</svg>

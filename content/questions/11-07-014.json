@@ -1,0 +1,39 @@
+{
+  "id": "11-07-014",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "AIEEE 2011",
+  "question": "Two bodies of masses $m$ and $4m$ are placed at a distance $r$. The gravitational potential at a point on the line joining them where the gravitational field is zero is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$-\\dfrac{9Gm}{r}$",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    },
+    {
+      "text": "$-\\dfrac{4Gm}{r}$",
+      "image": ""
+    },
+    {
+      "text": "$-\\dfrac{6Gm}{r}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Null point at distance $x$ from $m$: $\\dfrac{Gm}{x^2} = \\dfrac{G(4m)}{(r - x)^2} \\Rightarrow r - x = 2x \\Rightarrow x = \\dfrac{r}{3}$.\n$$V = -\\frac{Gm}{r/3} - \\frac{G(4m)}{2r/3} = -\\frac{3Gm}{r} - \\frac{6Gm}{r} = -\\frac{9Gm}{r}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

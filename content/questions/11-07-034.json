@@ -1,0 +1,40 @@
+{
+  "id": "11-07-034",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The gravitational field due to a uniform solid sphere of mass $M$ and radius $R$ at a distance $\\dfrac{R}{2}$ from its centre is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "zero",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{GM}{2R^2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{4GM}{R^2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{GM}{R^2}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Inside a uniform solid sphere the field grows linearly with distance from the centre: $E = \\dfrac{GMr}{R^3}$.\n$$E\\left(\\frac{R}{2}\\right) = \\frac{GM}{2R^2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

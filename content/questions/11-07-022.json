@@ -1,0 +1,39 @@
+{
+  "id": "11-07-022",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2008 (Medical)",
+  "question": "If the Earth shrinks such that its density becomes $8$ times the present value, then the new duration of the day in hours will be",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$24$",
+      "image": ""
+    },
+    {
+      "text": "$12$",
+      "image": ""
+    },
+    {
+      "text": "$6$",
+      "image": ""
+    },
+    {
+      "text": "$3$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The mass stays the same, so $8$ times the density means $\\dfrac{1}{8}$ of the volume, i.e. half the radius.\n\nWith no external torque, $I\\omega$ is constant and $I \\propto R^2$, so $\\omega$ becomes $4$ times and the day becomes $\\dfrac{24}{4} = 6$ hours.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-07-029",
+  "chapter": "gravitation",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A satellite of mass $m$ is moved from a circular orbit of radius $2R$ to one of radius $4R$ around the Earth (mass $M$, radius $R$). The work required is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{GMm}{8R}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{GMm}{4R}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{GMm}{2R}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{GMm}{16R}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Total energy in orbit $r$: $E = -\\dfrac{GMm}{2r}$.\n$$W = E_2 - E_1 = -\\frac{GMm}{8R} + \\frac{GMm}{4R} = \\frac{GMm}{8R}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
