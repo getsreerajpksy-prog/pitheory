@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$Z = \\sqrt{30^2 + (60 - 20)^2} = 50\\ \\Omega$. $I = \\dfrac{100}{50} = 2$ A. $\\cos\\phi = \\dfrac{R}{Z} = 0.6$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
