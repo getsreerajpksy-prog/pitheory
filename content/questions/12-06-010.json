@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "A current $I$ in the large loop gives a field at its centre $B = \\dfrac{2\\sqrt{2}\\mu_0 I}{\\pi L} \\propto \\dfrac{1}{L}$, nearly uniform over the small loop.\n\nFlux through the small loop: $\\phi = Bl^2 \\propto \\dfrac{l^2}{L}I$, so $M = \\dfrac{\\phi}{I} \\propto \\dfrac{l^2}{L}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
