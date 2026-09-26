@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$a = \\dfrac{eE}{m} = \\dfrac{1.6 \\times 10^{-19} \\times 2 \\times 10^4}{9.1 \\times 10^{-31}} \\approx 3.5 \\times 10^{15}\\ \\text{m/s}^2$, opposite to the field.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
