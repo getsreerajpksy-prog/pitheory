@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$M = \\dfrac{\\tau}{B\\sin\\theta} = \\dfrac{4.5 \\times 10^{-2}}{0.25 \\times 0.5} = 0.36\\ \\text{A m}^2$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
