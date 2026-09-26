@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The direction of travel is along $\\vec{E} \\times \\vec{B}$. With $\\vec{E}$ along $\\hat{j}$, we need $\\hat{j} \\times \\vec{B} = \\hat{i}$, which gives $\\vec{B}$ along $\\hat{k}$ ($\\hat{j} \\times \\hat{k} = \\hat{i}$): the $+z$ direction.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
