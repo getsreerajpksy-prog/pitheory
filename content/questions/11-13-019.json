@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\frac{1}{k} = \\frac{1}{200} + \\frac{1}{300} = \\frac{5}{600} \\;\\Rightarrow\\; k = 120\\ \\text{N/m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

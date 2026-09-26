@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$v = \\sqrt{\\frac{GM}{r}} = \\sqrt{\\frac{gR^2}{2R}} = \\sqrt{\\frac{gR}{2}}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

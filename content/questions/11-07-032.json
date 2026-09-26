@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Angular momentum is conserved. At perihelion and aphelion the velocity is perpendicular to the radius, so $mv_1r_1 = mv_2r_2$:\n$$\\frac{v_1}{v_2} = \\frac{r_2}{r_1}$$\n\nThe planet moves fastest when closest to the Sun.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

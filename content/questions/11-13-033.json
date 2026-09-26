@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "For light damping, $x = A_0e^{-bt/2m}\\cos(\\omega' t + \\phi)$. The amplitude decays exponentially, while the frequency stays (almost) constant.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$U = \\dfrac{1}{2}kx^2$ and $K = \\dfrac{1}{2}k(A^2 - x^2)$. Setting them equal: $x^2 = A^2 - x^2 \\Rightarrow x = \\dfrac{A}{\\sqrt{2}}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

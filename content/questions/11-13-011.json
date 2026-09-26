@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Compare with $x = A\\sin(\\omega t + \\phi)$: $A = 0.05$ m $= 5$ cm, $\\omega = 4\\pi$ rad/s, $\\phi = \\dfrac{\\pi}{6}$.\n$$f = \\frac{\\omega}{2\\pi} = 2\\ \\text{Hz}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

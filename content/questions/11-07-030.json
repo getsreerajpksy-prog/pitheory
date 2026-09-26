@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$v_e = \\sqrt{\\dfrac{2GM}{R}}$, so with the same mass $v_e \\propto \\dfrac{1}{\\sqrt{R}}$:\n$$v' = \\frac{v_e}{\\sqrt{2}}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

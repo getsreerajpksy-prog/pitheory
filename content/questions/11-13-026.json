@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$T \\propto \\sqrt{l}$: $\\dfrac{T'}{T} = \\sqrt{1.44} = 1.2$, an increase of $20\\%$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

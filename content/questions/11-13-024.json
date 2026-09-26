@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Effective gravity in the lift: $g_{eff} = g + \\dfrac{g}{3} = \\dfrac{4g}{3}$.\n$$T' = T\\sqrt{\\frac{g}{g_{eff}}} = T\\sqrt{\\frac{3}{4}} = \\frac{\\sqrt{3}}{2}T$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

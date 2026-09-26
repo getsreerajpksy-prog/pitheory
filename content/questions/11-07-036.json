@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$r = 42400$ km and $T = 24$ h $= 86400$ s:\n$$v = \\frac{2\\pi r}{T} = \\frac{2\\pi \\times 42400}{86400} \\approx 3.1\\ \\text{km/s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

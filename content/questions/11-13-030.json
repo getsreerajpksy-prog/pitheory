@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "At the mean position the speed is $A\\omega = A\\sqrt{\\dfrac{k}{M}}$. The putty adds no horizontal momentum:\n$$MA\\sqrt{\\frac{k}{M}} = (M + m)v' \\;\\Rightarrow\\; v' = \\frac{A\\sqrt{kM}}{M + m}$$\n\nNew amplitude: $A' = \\dfrac{v'}{\\omega'} = \\dfrac{A\\sqrt{kM}}{M + m}\\sqrt{\\dfrac{M + m}{k}} = A\\sqrt{\\dfrac{M}{M + m}}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
