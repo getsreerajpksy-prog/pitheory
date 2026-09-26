@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Each term has the dimensions of force.\n\n$[a][L^{1/2}] = [MLT^{-2}] \\Rightarrow [a] = [ML^{1/2}T^{-2}]$\n\n$[b][T^2] = [MLT^{-2}] \\Rightarrow [b] = [MLT^{-4}]$\n\n$$\\left[\\frac{a}{b}\\right] = \\frac{[ML^{1/2}T^{-2}]}{[MLT^{-4}]} = [L^{-1/2}T^{2}]$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
