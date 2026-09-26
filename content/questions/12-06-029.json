@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$M = \\mu_0nN_2A = 4\\pi \\times 10^{-7} \\times 1000 \\times 50 \\times 10^{-3} \\approx 6.28 \\times 10^{-5}$ H $\\approx 63\\ \\mu$H.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
