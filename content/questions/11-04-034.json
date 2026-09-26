@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$T = \\frac{2m_1m_2}{m_1 + m_2}g = \\frac{2 \\times 3 \\times 5}{8} \\times 10 = 37.5\\ \\text{N}$$\n\nIt lies between the two weights ($30$ N and $50$ N), as it must.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
