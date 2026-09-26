@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$F \\propto \\dfrac{q^2}{r^2}$: $\\dfrac{(2)^2}{(1/2)^2} = 16$, so the force becomes $16F$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
