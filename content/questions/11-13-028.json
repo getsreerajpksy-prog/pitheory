@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "If one side rises by $y$, the level difference is $2y$ and the restoring force is $2y\\rho gA$. The moving mass is $\\rho AL$:\n$$\\rho AL\\,\\ddot{y} = -2\\rho gA\\,y \\;\\Rightarrow\\; \\omega^2 = \\frac{2g}{L} \\;\\Rightarrow\\; T = 2\\pi\\sqrt{\\frac{L}{2g}}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
