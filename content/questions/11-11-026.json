@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "For a cycle, $\\Delta U = 0$, so $Q = W$ = area enclosed $= 2 \\times 10^5 \\times 3 \\times 10^{-3} = 600$ J. Clockwise means positive work by the gas, so the gas absorbs $600$ J net.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
