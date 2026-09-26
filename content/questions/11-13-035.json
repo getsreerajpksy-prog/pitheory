@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$\\omega = \\sqrt{\\dfrac{k}{m}} = \\sqrt{400} = 20$ rad/s.\n$$v_{max} = A\\omega = 0.05 \\times 20 = 1\\ \\text{m/s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
