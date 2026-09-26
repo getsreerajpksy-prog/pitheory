@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "At the edge of the circle, light meets the surface at the critical angle: $\\sin C = \\dfrac{3}{4}$, $\\tan C = \\dfrac{3}{\\sqrt{7}}$.\n$$r = h\\tan C = \\frac{12}{\\sqrt{7}} \\approx 4.5\\ \\text{m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
