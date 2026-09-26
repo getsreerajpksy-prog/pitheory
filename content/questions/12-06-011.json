@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$|\\varepsilon| = \\dfrac{d\\phi}{dt} = 6t + 2 = 14$ mV at $t = 2$ s.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
