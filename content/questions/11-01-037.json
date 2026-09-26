@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "Least count $= \\dfrac{\\text{pitch}}{\\text{number of circular divisions}} = \\dfrac{0.5}{50} = 0.01\\ \\text{mm}$\n\nObserved reading $= 1.5 + 36\\times 0.01 = 1.86\\ \\text{mm}$\n\nZero error $= +3\\times 0.01 = +0.03\\ \\text{mm}$, which is subtracted:\n$$d = 1.86 - 0.03 = 1.83\\ \\text{mm}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
