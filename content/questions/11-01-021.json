@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "From $T = 2\\pi\\sqrt{L/g}$, we get $g = \\dfrac{4\\pi^2 L}{T^2}$, so\n$$\\frac{\\Delta g}{g}\\times 100 = \\frac{\\Delta L}{L}\\times 100 + 2\\,\\frac{\\Delta t}{t}\\times 100$$\n\nThe time for 30 oscillations is $t = 63\\ \\text{s}$ with error $3\\ \\text{s}$. (Using total time or time period gives the same fractional error.)\n$$\\frac{0.01}{1.01}\\times 100 + 2\\times\\frac{3}{63}\\times 100 \\approx 0.99\\% + 9.52\\% \\approx 10.5\\%$$\n\nThe closest option is $10\\%$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
