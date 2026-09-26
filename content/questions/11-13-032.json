@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$a = -\\omega^2x$ gives $\\omega = 4$ rad/s. $v_{max} = A\\omega = 0.5 \\times 4 = 2$ m/s.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
