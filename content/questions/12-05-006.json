@@ -1,0 +1,39 @@
+{
+  "id": "12-05-006",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2007 (Medical)",
+  "question": "A bar magnet of magnetic moment $M_1$ is axially cut into two equal parts. If these two pieces are arranged perpendicular to each other, the resultant magnetic moment is $M_2$. Then the value of $\\dfrac{M_1}{M_2}$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{1}{2\\sqrt{2}}$",
+      "image": ""
+    },
+    {
+      "text": "$1$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{\\sqrt{2}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Cutting along the axis halves the pole strength and keeps the length, so each piece has moment $\\dfrac{M_1}{2}$.\n\nAt right angles: $M_2 = \\sqrt{2}\\cdot\\dfrac{M_1}{2} = \\dfrac{M_1}{\\sqrt{2}}$, so $\\dfrac{M_1}{M_2} = \\sqrt{2}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

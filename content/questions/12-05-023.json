@@ -1,0 +1,40 @@
+{
+  "id": "12-05-023",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The area of the hysteresis loop of a ferromagnetic material is a measure of",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "its permeability",
+      "image": ""
+    },
+    {
+      "text": "the energy lost as heat per unit volume per cycle",
+      "image": ""
+    },
+    {
+      "text": "its retentivity",
+      "image": ""
+    },
+    {
+      "text": "its coercivity",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The area enclosed by the B-H loop equals the energy dissipated per unit volume in one cycle of magnetisation. Soft iron has a thin loop, so transformer cores lose little energy.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

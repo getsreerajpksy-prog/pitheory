@@ -1,0 +1,40 @@
+{
+  "id": "12-05-022",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Materials used for making permanent magnets should have",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "high retentivity and high coercivity",
+      "image": ""
+    },
+    {
+      "text": "high retentivity and low coercivity",
+      "image": ""
+    },
+    {
+      "text": "low retentivity and high coercivity",
+      "image": ""
+    },
+    {
+      "text": "low retentivity and low coercivity",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "A permanent magnet must keep its magnetisation (high retentivity) and resist being demagnetised (high coercivity), e.g. steel or alnico. Electromagnet cores and transformer cores need the opposite: low coercivity and small hysteresis loss.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

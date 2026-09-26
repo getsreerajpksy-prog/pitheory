@@ -1,0 +1,40 @@
+{
+  "id": "12-05-008",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2008 (Medical)",
+  "question": "Two bar magnets are placed in a vibration magnetometer and allowed to vibrate. They make $20$ oscillations per minute when their similar poles are on the same side, while they make $15$ oscillations per minute when their opposite poles lie on the same side. The ratio of their magnetic moments is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$7 : 25$",
+      "image": ""
+    },
+    {
+      "text": "$25 : 7$",
+      "image": ""
+    },
+    {
+      "text": "$25 : 16$",
+      "image": ""
+    },
+    {
+      "text": "$16 : 25$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$f^2 \\propto M$ (same moment of inertia). Similar poles together: $M_1 + M_2$; opposite: $M_1 - M_2$.\n$$\\frac{M_1 + M_2}{M_1 - M_2} = \\frac{20^2}{15^2} = \\frac{16}{9} \\;\\Rightarrow\\; 9M_1 + 9M_2 = 16M_1 - 16M_2 \\;\\Rightarrow\\; \\frac{M_1}{M_2} = \\frac{25}{7}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

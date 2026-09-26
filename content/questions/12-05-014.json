@@ -1,0 +1,40 @@
+{
+  "id": "12-05-014",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A circular coil of $100$ turns and radius $5$ cm carries a current of $2$ A. Its magnetic moment is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.5\\pi\\ \\text{A m}^2$",
+      "image": ""
+    },
+    {
+      "text": "$\\pi\\ \\text{A m}^2$",
+      "image": ""
+    },
+    {
+      "text": "$0.25\\pi\\ \\text{A m}^2$",
+      "image": ""
+    },
+    {
+      "text": "$5\\pi\\ \\text{A m}^2$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$M = NIA = 100 \\times 2 \\times \\pi(0.05)^2 = 0.5\\pi\\ \\text{A m}^2 \\approx 1.57\\ \\text{A m}^2$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

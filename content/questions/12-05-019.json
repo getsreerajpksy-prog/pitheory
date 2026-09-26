@@ -1,0 +1,40 @@
+{
+  "id": "12-05-019",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "The susceptibility of a paramagnetic substance at $27°$C is $3 \\times 10^{-4}$. Its susceptibility at $327°$C is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.75 \\times 10^{-4}$",
+      "image": ""
+    },
+    {
+      "text": "$1.5 \\times 10^{-4}$",
+      "image": ""
+    },
+    {
+      "text": "$6 \\times 10^{-4}$",
+      "image": ""
+    },
+    {
+      "text": "$3 \\times 10^{-4}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Curie's law: $\\chi \\propto \\dfrac{1}{T}$. $T$ doubles from $300$ K to $600$ K, so $\\chi$ halves.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

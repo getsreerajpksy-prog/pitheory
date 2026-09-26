@@ -1,0 +1,40 @@
+{
+  "id": "12-05-024",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A diamagnetic substance placed in a non-uniform magnetic field",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "does not move",
+      "image": ""
+    },
+    {
+      "text": "aligns perpendicular to the field and stays still",
+      "image": ""
+    },
+    {
+      "text": "moves from the stronger to the weaker region",
+      "image": ""
+    },
+    {
+      "text": "moves from the weaker to the stronger region",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Diamagnetic materials acquire a weak magnetisation opposite to the field, so they are pushed towards weaker field. Paramagnets and ferromagnets are pulled into stronger field.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

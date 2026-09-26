@@ -1,0 +1,40 @@
+{
+  "id": "12-05-011",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The magnetic field of a short bar magnet at a point $10$ cm from its centre on the axial line is $2 \\times 10^{-4}$ T. The field at a point $20$ cm from its centre on the equatorial line is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1 \\times 10^{-4}$ T",
+      "image": ""
+    },
+    {
+      "text": "$1.25 \\times 10^{-5}$ T",
+      "image": ""
+    },
+    {
+      "text": "$2.5 \\times 10^{-5}$ T",
+      "image": ""
+    },
+    {
+      "text": "$5 \\times 10^{-5}$ T",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$B_{axial} = \\dfrac{2kM}{r^3}$ and $B_{eq} = \\dfrac{kM}{r^3}$. At twice the distance, $r^3$ is $8$ times, and equatorial is half of axial:\n$$B = \\frac{2 \\times 10^{-4}}{2 \\times 8} = 1.25 \\times 10^{-5}\\ \\text{T}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

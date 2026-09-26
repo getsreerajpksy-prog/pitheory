@@ -1,0 +1,40 @@
+{
+  "id": "12-05-016",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "At the magnetic equator, the angle of dip is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$45°$",
+      "image": ""
+    },
+    {
+      "text": "$180°$",
+      "image": ""
+    },
+    {
+      "text": "$0°$",
+      "image": ""
+    },
+    {
+      "text": "$90°$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At the magnetic equator the Earth's field is horizontal, so the dip needle rests horizontally: $\\delta = 0°$. At the magnetic poles it is $90°$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-05-010",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A bar magnet of length $10$ cm and pole strength $2$ A m is cut into two equal halves perpendicular to its length. The magnetic moment of each half is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.1\\ \\text{A m}^2$",
+      "image": ""
+    },
+    {
+      "text": "$0.2\\ \\text{A m}^2$",
+      "image": ""
+    },
+    {
+      "text": "$0.05\\ \\text{A m}^2$",
+      "image": ""
+    },
+    {
+      "text": "$0.4\\ \\text{A m}^2$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Cutting perpendicular to the length keeps the pole strength and halves the length: $M = 2 \\times 0.05 = 0.1\\ \\text{A m}^2$ (half the original $0.2$).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

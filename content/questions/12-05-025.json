@@ -1,0 +1,22 @@
+{
+  "id": "12-05-025",
+  "chapter": "magnetism-and-matter",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A short bar magnet placed with its axis at $30°$ to a uniform field of $0.25$ T experiences a torque of $4.5 \\times 10^{-2}$ N m. Find its magnetic moment in $\\text{A m}^2$.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "0.36",
+  "tolerance": "0",
+  "solution": "$M = \\dfrac{\\tau}{B\\sin\\theta} = \\dfrac{4.5 \\times 10^{-2}}{0.25 \\times 0.5} = 0.36\\ \\text{A m}^2$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

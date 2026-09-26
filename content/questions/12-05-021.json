@@ -1,0 +1,40 @@
+{
+  "id": "12-05-021",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A magnetising field of $1500$ A/m produces a magnetisation of $3 \\times 10^5$ A/m in a sample. Its susceptibility is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.005$",
+      "image": ""
+    },
+    {
+      "text": "$2000$",
+      "image": ""
+    },
+    {
+      "text": "$20$",
+      "image": ""
+    },
+    {
+      "text": "$200$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\chi = \\dfrac{M}{H} = \\dfrac{3 \\times 10^5}{1500} = 200$ (a ferromagnet).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

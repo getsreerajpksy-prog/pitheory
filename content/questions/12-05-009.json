@@ -1,0 +1,40 @@
+{
+  "id": "12-05-009",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2008 (Engineering)",
+  "question": "With a standard rectangular bar magnet, the time period of a vibration magnetometer is $4$ s. The bar magnet is cut parallel to its length into four equal pieces. The time period of the vibration magnetometer when one piece is used (in seconds) is (bar magnet breadth is small)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$16$",
+      "image": ""
+    },
+    {
+      "text": "$8$",
+      "image": ""
+    },
+    {
+      "text": "$4$",
+      "image": ""
+    },
+    {
+      "text": "$2$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Each piece has $\\dfrac{1}{4}$ the mass and the same length, so $I' = \\dfrac{I}{4}$. Its pole strength is also $\\dfrac{1}{4}$, so $M' = \\dfrac{M}{4}$.\n\n$T = 2\\pi\\sqrt{\\dfrac{I}{MB}}$ is unchanged: $4$ s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-05-013",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The work done in turning a magnet of moment $M$ from the direction of a uniform field $B$ to the opposite direction is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$MB$",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{MB}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$2MB$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$W = MB(\\cos 0° - \\cos 180°) = 2MB$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

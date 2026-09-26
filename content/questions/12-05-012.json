@@ -1,0 +1,40 @@
+{
+  "id": "12-05-012",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A bar magnet of moment $2\\ \\text{A m}^2$ is placed at $30°$ to a uniform field of $0.3$ T. The torque on it is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.52$ N m",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    },
+    {
+      "text": "$0.3$ N m",
+      "image": ""
+    },
+    {
+      "text": "$0.6$ N m",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\tau = MB\\sin\\theta = 2 \\times 0.3 \\times 0.5 = 0.3$ N m.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

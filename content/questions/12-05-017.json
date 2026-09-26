@@ -1,0 +1,40 @@
+{
+  "id": "12-05-017",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A dip circle is placed in a vertical plane at $30°$ to the magnetic meridian. The apparent dip is $45°$. The true dip $\\delta$ satisfies",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\tan\\delta = \\dfrac{2}{\\sqrt{3}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\tan\\delta = \\sqrt{3}$",
+      "image": ""
+    },
+    {
+      "text": "$\\tan\\delta = \\dfrac{1}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\tan\\delta = \\dfrac{\\sqrt{3}}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "In a plane at angle $\\theta$ to the meridian, the horizontal component seen is $B_H\\cos\\theta$ while the vertical is unchanged: $\\tan\\delta' = \\dfrac{\\tan\\delta}{\\cos\\theta}$.\n$$\\tan\\delta = \\tan 45° \\times \\cos 30° = \\frac{\\sqrt{3}}{2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

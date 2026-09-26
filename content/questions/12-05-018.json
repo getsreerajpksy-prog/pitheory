@@ -1,0 +1,40 @@
+{
+  "id": "12-05-018",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The relative permeability of a material is $0.9995$. The material is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "diamagnetic",
+      "image": ""
+    },
+    {
+      "text": "paramagnetic",
+      "image": ""
+    },
+    {
+      "text": "ferromagnetic",
+      "image": ""
+    },
+    {
+      "text": "a superconductor",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\mu_r < 1$ means $\\chi = \\mu_r - 1 = -5 \\times 10^{-4}$, small and negative: diamagnetic.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

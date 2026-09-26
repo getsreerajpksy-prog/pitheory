@@ -1,0 +1,40 @@
+{
+  "id": "12-05-015",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "At a place, the horizontal component of the Earth's field is $3 \\times 10^{-5}$ T and the angle of dip is $60°$. The total field there is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2\\sqrt{3} \\times 10^{-5}$ T",
+      "image": ""
+    },
+    {
+      "text": "$6 \\times 10^{-5}$ T",
+      "image": ""
+    },
+    {
+      "text": "$3\\sqrt{3} \\times 10^{-5}$ T",
+      "image": ""
+    },
+    {
+      "text": "$1.5 \\times 10^{-5}$ T",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$B_H = B\\cos\\delta \\Rightarrow B = \\dfrac{3 \\times 10^{-5}}{\\cos 60°} = 6 \\times 10^{-5}$ T.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

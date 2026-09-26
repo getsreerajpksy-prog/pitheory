@@ -1,0 +1,40 @@
+{
+  "id": "12-05-020",
+  "chapter": "magnetism-and-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A solenoid of $1000$ turns per metre carries $2$ A. An iron core of relative permeability $400$ is inserted. The magnetic field inside is ($\\mu_0 = 4\\pi \\times 10^{-7}$ T m/A)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$3.2\\pi$ T",
+      "image": ""
+    },
+    {
+      "text": "$0.16\\pi$ T",
+      "image": ""
+    },
+    {
+      "text": "$0.32\\pi$ T",
+      "image": ""
+    },
+    {
+      "text": "$0.8\\pi$ mT",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$H = nI = 2000$ A/m. $B = \\mu_0\\mu_rH = 4\\pi \\times 10^{-7} \\times 400 \\times 2000 = 0.32\\pi \\approx 1.0$ T.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
