@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The metal slab has no field inside it, so the effective gap is $d - \\dfrac{d}{2} = \\dfrac{d}{2}$. Capacitance doubles.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
