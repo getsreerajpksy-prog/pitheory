@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$I = \\dfrac{1}{2}\\epsilon_0E_0^2c = 0.5 \\times 8.85 \\times 10^{-12} \\times 10^6 \\times 3 \\times 10^8 \\approx 1.33 \\times 10^3\\ \\text{W/m}^2$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
