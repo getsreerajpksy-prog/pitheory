@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Impulse = area under the force-time graph (a triangle):\n$$J = \\frac{1}{2} \\times 0.2 \\times 100 = 10\\ \\text{N s}$$\n\n$J = m\\,\\Delta v$, so $v = \\dfrac{10}{2} = 5$ m/s.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
