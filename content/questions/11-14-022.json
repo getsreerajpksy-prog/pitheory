@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$v\\left(\\dfrac{1}{1.00} - \\dfrac{1}{1.01}\\right) = 4 \\Rightarrow v \\times \\dfrac{0.01}{1.01} = 4 \\Rightarrow v = 404$ m/s.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
