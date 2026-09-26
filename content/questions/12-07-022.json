@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "At resonance $V_L$ and $V_C$ are equal and opposite, so they cancel and the whole supply voltage appears across R: $50$ V.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
