@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$$v = \\int_0^t (6 - 2t)\\,dt = 6t - t^2$$\n\nThe acceleration is positive up to $t = 3$ s and zero afterwards, so the speed keeps increasing until $t = 3$ s and then stays constant:\n$$v_{max} = 6(3) - 3^2 = 9\\ \\text{m/s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
