@@ -1,0 +1,40 @@
+{
+  "id": "11-11-020",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "When a diatomic ideal gas is heated at constant pressure, the fraction of the heat supplied that increases its internal energy is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{3}{5}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2}{5}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{5}{7}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2}{7}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\frac{\\Delta U}{Q} = \\frac{nC_V\\Delta T}{nC_P\\Delta T} = \\frac{1}{\\gamma} = \\frac{5}{7}$$\n\n(The remaining $\\dfrac{2}{7}$ goes into work.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

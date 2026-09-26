@@ -1,0 +1,40 @@
+{
+  "id": "11-11-011",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2014 (Engineering)",
+  "question": "Five moles of hydrogen initially at STP are compressed adiabatically so that its temperature becomes $673$ K. The increase in internal energy of the gas, in kilojoule, is ($R = 8.3$ J/mol K; $\\gamma = 1.4$ for diatomic gas)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$62.3$",
+      "image": ""
+    },
+    {
+      "text": "$80.5$",
+      "image": ""
+    },
+    {
+      "text": "$41.5$",
+      "image": ""
+    },
+    {
+      "text": "$21.5$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\Delta U = nC_V\\Delta T = n\\frac{R}{\\gamma - 1}\\Delta T = 5 \\times \\frac{8.3}{0.4} \\times (673 - 273) = 41500\\ \\text{J} = 41.5\\ \\text{kJ}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

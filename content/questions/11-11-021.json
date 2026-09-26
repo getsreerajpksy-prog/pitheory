@@ -1,0 +1,40 @@
+{
+  "id": "11-11-021",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Two moles of a monatomic ideal gas are heated at constant pressure from $300$ K to $400$ K. The heat supplied is ($R = 8.3$ J/mol K)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2490$ J",
+      "image": ""
+    },
+    {
+      "text": "$1660$ J",
+      "image": ""
+    },
+    {
+      "text": "$5810$ J",
+      "image": ""
+    },
+    {
+      "text": "$4150$ J",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$C_P = \\dfrac{5}{2}R$: $Q = nC_P\\Delta T = 2 \\times 2.5 \\times 8.3 \\times 100 = 4150$ J.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

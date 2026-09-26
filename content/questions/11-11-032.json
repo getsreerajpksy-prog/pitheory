@@ -1,0 +1,22 @@
+{
+  "id": "11-11-032",
+  "chapter": "thermodynamics",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Find the work done, in joules, when $2$ mol of an ideal gas expand isothermally at $300$ K from $10$ L to $20$ L. ($R = 8.3$ J/mol K, $\\ln 2 = 0.693$; give the answer to the nearest whole number)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "3451",
+  "tolerance": "0",
+  "solution": "$$W = nRT\\ln\\frac{V_2}{V_1} = 2 \\times 8.3 \\times 300 \\times 0.693 \\approx 3451\\ \\text{J}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

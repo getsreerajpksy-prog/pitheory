@@ -1,0 +1,40 @@
+{
+  "id": "11-11-022",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An ideal gas at $27°$C is compressed adiabatically to $\\dfrac{1}{8}$ of its original volume. If $\\gamma = \\dfrac{5}{3}$, its final temperature is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1200$ K",
+      "image": ""
+    },
+    {
+      "text": "$600$ K",
+      "image": ""
+    },
+    {
+      "text": "$2400$ K",
+      "image": ""
+    },
+    {
+      "text": "$927$ K",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$TV^{\\gamma - 1} = $ constant: $T_2 = T_1\\left(\\dfrac{V_1}{V_2}\\right)^{\\gamma - 1} = 300 \\times 8^{2/3} = 300 \\times 4 = 1200$ K.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

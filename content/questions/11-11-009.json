@@ -1,0 +1,39 @@
+{
+  "id": "11-11-009",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "AIEEE 2007",
+  "question": "If $c_P$ and $c_V$ denote the specific heats of nitrogen per unit mass at constant pressure and constant volume respectively, then",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$c_P - c_V = \\dfrac{R}{28}$",
+      "image": ""
+    },
+    {
+      "text": "$c_P - c_V = \\dfrac{R}{14}$",
+      "image": ""
+    },
+    {
+      "text": "$c_P - c_V = R$",
+      "image": ""
+    },
+    {
+      "text": "$c_P - c_V = 28R$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Mayer's relation per mole: $C_P - C_V = R$. Per unit mass, divide by the molar mass ($M = 28$ for N$_2$):\n$$c_P - c_V = \\frac{R}{28}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

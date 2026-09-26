@@ -1,0 +1,39 @@
+{
+  "id": "11-11-008",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "EAMCET 2012 (Engineering)",
+  "question": "The work done to increase the temperature of one mole of an ideal gas by $30°$C, if it is expanding under the condition $V \\propto T^{2/3}$, is ($R = 8.314$ J/mol K)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$166.3$ J",
+      "image": ""
+    },
+    {
+      "text": "$124.7$ J",
+      "image": ""
+    },
+    {
+      "text": "$249.4$ J",
+      "image": ""
+    },
+    {
+      "text": "$83.1$ J",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$V \\propto T^{2/3}$ and $PV \\propto T$ give $PV \\propto V^{3/2}$, i.e. $P \\propto V^{1/2}$: a polytropic process $PV^x = $ constant with $x = -\\dfrac{1}{2}$.\n$$W = \\frac{nR\\Delta T}{1 - x} = \\frac{8.314 \\times 30}{1.5} \\approx 166.3\\ \\text{J}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

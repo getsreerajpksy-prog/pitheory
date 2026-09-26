@@ -1,0 +1,40 @@
+{
+  "id": "11-11-031",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "One mole of an ideal gas does $W$ of work in an isobaric expansion. The heat absorbed is ($\\gamma$ = ratio of specific heats)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{(\\gamma - 1)W}{\\gamma}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\gamma W}{\\gamma - 1}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{W}{\\gamma - 1}$",
+      "image": ""
+    },
+    {
+      "text": "$\\gamma W$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Isobaric: $W = nR\\Delta T$ and $Q = nC_P\\Delta T = n\\dfrac{\\gamma R}{\\gamma - 1}\\Delta T = \\dfrac{\\gamma W}{\\gamma - 1}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

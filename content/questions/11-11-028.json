@@ -1,0 +1,40 @@
+{
+  "id": "11-11-028",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A Carnot engine has an efficiency of $40\\%$ with its sink at $300$ K. By how much must the source temperature be raised to make the efficiency $50\\%$?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$150$ K",
+      "image": ""
+    },
+    {
+      "text": "$200$ K",
+      "image": ""
+    },
+    {
+      "text": "$100$ K",
+      "image": ""
+    },
+    {
+      "text": "$50$ K",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$1 - \\dfrac{300}{T_1} = 0.4 \\Rightarrow T_1 = 500$ K. For $50\\%$: $T_1' = 600$ K. Increase $= 100$ K.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

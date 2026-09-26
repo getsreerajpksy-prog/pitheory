@@ -1,0 +1,40 @@
+{
+  "id": "11-11-026",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An ideal gas is taken round the cycle shown by a rectangle on the P-V diagram with sides $\\Delta P = 2 \\times 10^5$ Pa and $\\Delta V = 3 \\times 10^{-3}\\ \\text{m}^3$, traversed clockwise. The net heat absorbed by the gas in one cycle is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$600$ J",
+      "image": ""
+    },
+    {
+      "text": "$-600$ J",
+      "image": ""
+    },
+    {
+      "text": "$300$ J",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For a cycle, $\\Delta U = 0$, so $Q = W$ = area enclosed $= 2 \\times 10^5 \\times 3 \\times 10^{-3} = 600$ J. Clockwise means positive work by the gas, so the gas absorbs $600$ J net.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

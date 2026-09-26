@@ -1,0 +1,39 @@
+{
+  "id": "11-11-017",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "AIEEE 2011",
+  "question": "$100$ g of water is heated from $30°$C to $50°$C. Ignoring the slight expansion of the water, the change in its internal energy is (specific heat of water is $4184$ J/kg K)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$84$ kJ",
+      "image": ""
+    },
+    {
+      "text": "$2.1$ kJ",
+      "image": ""
+    },
+    {
+      "text": "$4.2$ kJ",
+      "image": ""
+    },
+    {
+      "text": "$8.4$ kJ",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "With negligible expansion, $W \\approx 0$ and $\\Delta U = Q = ms\\Delta T = 0.1 \\times 4184 \\times 20 \\approx 8.4$ kJ.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

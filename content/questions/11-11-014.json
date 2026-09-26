@@ -1,0 +1,40 @@
+{
+  "id": "11-11-014",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2010 (Engineering)",
+  "question": "Three moles of an ideal monatomic gas perform a cycle ABCDA. Processes AB and CD are at constant volume, and BC and DA are at constant pressure. The gas temperatures are $T_A = 400$ K, $T_B = 800$ K, $T_C = 2400$ K and $T_D = 1200$ K. The work done by the gas is approximately ($R = 8.314$ J/mol K)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$60$ kJ",
+      "image": ""
+    },
+    {
+      "text": "$20$ kJ",
+      "image": ""
+    },
+    {
+      "text": "$10$ kJ",
+      "image": ""
+    },
+    {
+      "text": "$40$ kJ",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "No work in the constant-volume steps. For the isobaric steps $W = nR\\Delta T$:\n$$W_{BC} = 3R(2400 - 800) = 4800R, \\qquad W_{DA} = 3R(400 - 1200) = -2400R$$\n$$W = 2400R = 2400 \\times 8.314 \\approx 20\\ \\text{kJ}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

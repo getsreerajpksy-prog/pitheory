@@ -1,0 +1,39 @@
+{
+  "id": "11-11-013",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "EAMCET 2013 (Engineering)",
+  "question": "Three moles of an ideal monatomic gas undergo a cyclic process 1 → 2 → 3 → 4 → 1. In processes 1 → 2 and 3 → 4 the pressure is proportional to the volume, while processes 2 → 3 and 4 → 1 are at constant pressure. The temperatures in states 1, 2, 3 and 4 are $400$ K, $700$ K, $2500$ K and $1100$ K respectively. The work done by the gas in the cycle is ($R$ = universal gas constant)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1650R$",
+      "image": ""
+    },
+    {
+      "text": "$1100R$",
+      "image": ""
+    },
+    {
+      "text": "$3300R$",
+      "image": ""
+    },
+    {
+      "text": "$2200R$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For $P \\propto V$ (i.e. $PV^{-1} = $ constant), $W = \\dfrac{nR\\Delta T}{1 - (-1)} = \\dfrac{nR\\Delta T}{2}$. For an isobaric process, $W = nR\\Delta T$. With $n = 3$:\n\n$1 \\to 2$: $\\dfrac{3R(300)}{2} = 450R$. $\\quad 2 \\to 3$: $3R(1800) = 5400R$.\n\n$3 \\to 4$: $\\dfrac{3R(-1400)}{2} = -2100R$. $\\quad 4 \\to 1$: $3R(-700) = -2100R$.\n$$W = 450R + 5400R - 2100R - 2100R = 1650R$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

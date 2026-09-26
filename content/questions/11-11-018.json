@@ -1,0 +1,40 @@
+{
+  "id": "11-11-018",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "$200$ J of heat is supplied to a gas, and the gas does $80$ J of work on its surroundings. The change in its internal energy is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$120$ J",
+      "image": ""
+    },
+    {
+      "text": "$280$ J",
+      "image": ""
+    },
+    {
+      "text": "$-120$ J",
+      "image": ""
+    },
+    {
+      "text": "$80$ J",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "First law: $\\Delta U = Q - W = 200 - 80 = 120$ J.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

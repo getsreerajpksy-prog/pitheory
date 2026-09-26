@@ -1,0 +1,40 @@
+{
+  "id": "11-11-025",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The slope of an adiabatic curve on a P-V diagram, compared with that of an isothermal curve at the same point, is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{1}{\\gamma}$ times",
+      "image": ""
+    },
+    {
+      "text": "equal",
+      "image": ""
+    },
+    {
+      "text": "$\\gamma - 1$ times",
+      "image": ""
+    },
+    {
+      "text": "$\\gamma$ times",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Isothermal: $\\dfrac{dP}{dV} = -\\dfrac{P}{V}$. Adiabatic: $\\dfrac{dP}{dV} = -\\gamma\\dfrac{P}{V}$. The adiabatic slope is $\\gamma$ times steeper.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

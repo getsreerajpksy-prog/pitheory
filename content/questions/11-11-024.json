@@ -1,0 +1,40 @@
+{
+  "id": "11-11-024",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An ideal gas expands from volume $V$ to $2V$ once isothermally and once adiabatically, starting from the same state. Which statement is correct?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Equal work is done in both",
+      "image": ""
+    },
+    {
+      "text": "No work is done in the adiabatic expansion",
+      "image": ""
+    },
+    {
+      "text": "More work is done in the isothermal expansion",
+      "image": ""
+    },
+    {
+      "text": "More work is done in the adiabatic expansion",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "On a P-V diagram the adiabat falls more steeply than the isotherm from the same starting point, so it encloses less area under it. More work is done in the isothermal expansion (heat flows in and keeps the pressure higher).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

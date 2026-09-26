@@ -1,0 +1,40 @@
+{
+  "id": "11-11-023",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A gas at pressure $P$ is compressed adiabatically to $\\dfrac{1}{32}$ of its volume. If $\\gamma = 1.4$, the final pressure is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$256P$",
+      "image": ""
+    },
+    {
+      "text": "$128P$",
+      "image": ""
+    },
+    {
+      "text": "$32P$",
+      "image": ""
+    },
+    {
+      "text": "$64P$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$PV^\\gamma = $ constant: $P_2 = P(32)^{1.4} = P \\times 2^{7} = 128P$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

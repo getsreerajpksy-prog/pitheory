@@ -1,0 +1,39 @@
+{
+  "id": "11-11-010",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "AIEEE 2007",
+  "question": "When a system is taken from state $i$ to state $f$ along the path $iaf$, it is found that $Q = 50$ cal and $W = 20$ cal. Along the path $ibf$, $Q = 36$ cal. $W$ along the path $ibf$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$14$ cal",
+      "image": ""
+    },
+    {
+      "text": "$6$ cal",
+      "image": ""
+    },
+    {
+      "text": "$16$ cal",
+      "image": ""
+    },
+    {
+      "text": "$66$ cal",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\Delta U$ depends only on the end states. Along $iaf$: $\\Delta U = 50 - 20 = 30$ cal.\n\nAlong $ibf$: $W = Q - \\Delta U = 36 - 30 = 6$ cal.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

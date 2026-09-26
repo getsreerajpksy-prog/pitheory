@@ -1,0 +1,39 @@
+{
+  "id": "11-11-016",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "AIEEE 2011",
+  "question": "A thermally insulated vessel contains an ideal gas of molecular mass $M$ and ratio of specific heats $\\gamma$. It is moving with speed $v$ and is suddenly brought to rest. Assuming no heat is lost to the surroundings, its temperature increases by",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{(\\gamma - 1)}{2(\\gamma + 1)R}Mv^2$ K",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{(\\gamma - 1)}{2\\gamma R}Mv^2$ K",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{(\\gamma - 1)}{2R}Mv^2$ K",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\gamma M^2v}{2R}$ K",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The bulk kinetic energy of the gas becomes internal energy. For mass $m$ ($n = m/M$ moles):\n$$\\frac{1}{2}mv^2 = \\frac{m}{M}\\cdot\\frac{R}{\\gamma - 1}\\Delta T \\;\\Rightarrow\\; \\Delta T = \\frac{(\\gamma - 1)Mv^2}{2R}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

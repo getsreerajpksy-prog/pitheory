@@ -1,0 +1,22 @@
+{
+  "id": "11-11-033",
+  "chapter": "thermodynamics",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A heat engine takes $1500$ J from a hot reservoir and gives out $1050$ J to a cold reservoir in each cycle. Find its efficiency as a percentage.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "30",
+  "tolerance": "0",
+  "solution": "$W = 1500 - 1050 = 450$ J. $\\eta = \\dfrac{450}{1500} = 0.30 = 30\\%$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

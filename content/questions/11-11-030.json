@@ -1,0 +1,40 @@
+{
+  "id": "11-11-030",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An engine absorbs $1000$ J of heat from a source at $500$ K in each cycle and rejects heat to a sink at $300$ K. The maximum work it can do per cycle is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$400$ J",
+      "image": ""
+    },
+    {
+      "text": "$600$ J",
+      "image": ""
+    },
+    {
+      "text": "$1000$ J",
+      "image": ""
+    },
+    {
+      "text": "$200$ J",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The best possible is a Carnot engine: $\\eta = 1 - \\dfrac{300}{500} = 0.4$, so $W_{max} = 0.4 \\times 1000 = 400$ J.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-11-029",
+  "chapter": "thermodynamics",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A refrigerator works between $-3°$C and $27°$C. Its maximum possible coefficient of performance is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$10$",
+      "image": ""
+    },
+    {
+      "text": "$0.1$",
+      "image": ""
+    },
+    {
+      "text": "$8$",
+      "image": ""
+    },
+    {
+      "text": "$9$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\beta = \\frac{T_2}{T_1 - T_2} = \\frac{270}{300 - 270} = 9$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
