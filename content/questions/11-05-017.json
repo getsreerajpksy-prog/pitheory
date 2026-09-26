@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Just before impact its kinetic energy is $mg(12)$. It keeps $75\\%$ of this, which becomes potential energy at the top of the bounce:\n$$mgh = 0.75 \\times mg(12) \\;\\Rightarrow\\; h = 9\\ \\text{m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
