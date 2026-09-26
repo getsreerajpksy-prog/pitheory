@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\dfrac{4.36 \\times 0.052}{1.2} = 0.18893\\ldots$\n\nIn multiplication and division, the answer keeps as many significant figures as the least precise value. Here $0.052$ and $1.2$ each have 2 significant figures, so the answer is rounded to 2:\n$$0.19$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
