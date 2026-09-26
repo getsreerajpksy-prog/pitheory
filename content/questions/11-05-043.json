@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$v_1 = \\frac{m_1 - m_2}{m_1 + m_2}u = \\frac{-2}{6}(6) = -2\\ \\text{m/s}, \\qquad v_2 = \\frac{2m_1}{m_1 + m_2}u = \\frac{4}{6}(6) = 4\\ \\text{m/s}$$\n\nThe lighter ball bounces back. Check: momentum $12 = -4 + 16$ ✓; KE $36 = 4 + 32$ ✓.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
