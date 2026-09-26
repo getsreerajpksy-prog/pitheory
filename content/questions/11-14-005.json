@@ -1,0 +1,40 @@
+{
+  "id": "11-14-005",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A wave is described by $y = 0.02\\sin(4\\pi t - 0.5\\pi x)$ in SI units. Its speed is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$8$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$2$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$0.125$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$4$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\omega = 4\\pi$ rad/s and $k = 0.5\\pi$ rad/m: $v = \\dfrac{\\omega}{k} = \\dfrac{4\\pi}{0.5\\pi} = 8$ m/s (along $+x$).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

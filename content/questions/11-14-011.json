@@ -1,0 +1,40 @@
+{
+  "id": "11-14-011",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A uniform rope of mass $m$ and length $L$ hangs from a ceiling. The speed of a transverse pulse at a distance $x$ from its lower end is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\sqrt{2gx}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{\\dfrac{gx}{2}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{gx}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{gL}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The tension at height $x$ supports the rope below: $T = \\dfrac{m}{L}xg$. With $\\mu = \\dfrac{m}{L}$: $v = \\sqrt{\\dfrac{T}{\\mu}} = \\sqrt{gx}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

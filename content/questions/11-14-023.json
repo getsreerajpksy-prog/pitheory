@@ -1,0 +1,40 @@
+{
+  "id": "11-14-023",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A source of frequency $500$ Hz moves towards a stationary observer at $30$ m/s. If the speed of sound is $330$ m/s, the frequency heard is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$545$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$500$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$550$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$458$ Hz",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$f' = f\\dfrac{v}{v - v_s} = 500 \\times \\dfrac{330}{300} = 550$ Hz.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

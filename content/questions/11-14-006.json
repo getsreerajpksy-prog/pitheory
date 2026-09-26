@@ -1,0 +1,40 @@
+{
+  "id": "11-14-006",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "For the wave $y = 5\\sin 2\\pi\\left(\\dfrac{t}{0.04} - \\dfrac{x}{40}\\right)$, with $x$ and $y$ in cm and $t$ in s, the wavelength and frequency are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$20$ cm and $25$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$40$ cm and $25$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$40$ cm and $0.04$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$0.04$ cm and $40$ Hz",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Compare with $y = A\\sin 2\\pi\\left(\\dfrac{t}{T} - \\dfrac{x}{\\lambda}\\right)$: $\\lambda = 40$ cm and $T = 0.04$ s, so $f = 25$ Hz.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

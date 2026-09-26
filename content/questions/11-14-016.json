@@ -1,0 +1,40 @@
+{
+  "id": "11-14-016",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "Two successive resonant frequencies of a string fixed at both ends are $420$ Hz and $490$ Hz. Its fundamental frequency is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$35$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$140$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$210$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$70$ Hz",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For a string fixed at both ends, $f_n = nf_1$, so successive harmonics differ by $f_1 = 490 - 420 = 70$ Hz. (They are the $6^{\\text{th}}$ and $7^{\\text{th}}$ harmonics.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

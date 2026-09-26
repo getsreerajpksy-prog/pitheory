@@ -1,0 +1,40 @@
+{
+  "id": "11-14-009",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A string of linear mass density $0.01$ kg/m is stretched with a tension of $100$ N. The speed of transverse waves on it is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$100$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$10$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$1000$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$50$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$v = \\sqrt{\\dfrac{T}{\\mu}} = \\sqrt{\\dfrac{100}{0.01}} = 100$ m/s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

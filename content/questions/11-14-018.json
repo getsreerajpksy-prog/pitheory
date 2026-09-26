@@ -1,0 +1,40 @@
+{
+  "id": "11-14-018",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The fundamental frequency of a pipe closed at one end is $200$ Hz. The frequency of its second overtone is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$800$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$1000$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$600$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$400$ Hz",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "A closed pipe has only odd harmonics: $f, 3f, 5f, \\dots$ The second overtone is $5f = 1000$ Hz.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

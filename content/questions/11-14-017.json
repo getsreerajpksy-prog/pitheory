@@ -1,0 +1,40 @@
+{
+  "id": "11-14-017",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Two successive resonant frequencies of a pipe are $450$ Hz and $750$ Hz. The pipe is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "closed at one end, with fundamental $150$ Hz",
+      "image": ""
+    },
+    {
+      "text": "open at both ends, with fundamental $300$ Hz",
+      "image": ""
+    },
+    {
+      "text": "closed at one end, with fundamental $300$ Hz",
+      "image": ""
+    },
+    {
+      "text": "open at both ends, with fundamental $150$ Hz",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The difference $300$ Hz would be $f_1$ for an open pipe, but $450$ is not a multiple of $300$. For a closed pipe only odd harmonics exist and successive ones differ by $2f_1$: $f_1 = 150$ Hz, and $450 = 3f_1$, $750 = 5f_1$. ✓",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

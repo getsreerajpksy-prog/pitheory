@@ -1,0 +1,40 @@
+{
+  "id": "11-14-022",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Two sound waves of wavelengths $1.00$ m and $1.01$ m produce $4$ beats per second. The speed of sound is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$410$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$404$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$400$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$340$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$v\\left(\\dfrac{1}{1.00} - \\dfrac{1}{1.01}\\right) = 4 \\Rightarrow v \\times \\dfrac{0.01}{1.01} = 4 \\Rightarrow v = 404$ m/s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

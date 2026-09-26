@@ -1,0 +1,40 @@
+{
+  "id": "11-14-019",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "In a resonance tube experiment with a $512$ Hz fork, the first and second resonances occur at air-column lengths of $16$ cm and $49$ cm. The speed of sound in air is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$343$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$320$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$337.9$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$327.7$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Successive resonances are $\\dfrac{\\lambda}{2}$ apart: $\\dfrac{\\lambda}{2} = 33$ cm, so $\\lambda = 0.66$ m and $v = 512 \\times 0.66 \\approx 337.9$ m/s. (Using the difference removes the end correction.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

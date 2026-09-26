@@ -1,0 +1,40 @@
+{
+  "id": "11-14-021",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "A tuning fork of frequency $256$ Hz produces $4$ beats per second with another fork. When the second fork is loaded with a little wax, the beat frequency decreases. The original frequency of the second fork was",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$260$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$252$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$256$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$264$ Hz",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The second fork is $256 \\pm 4$ Hz. Wax lowers its frequency. If it were $252$ Hz, lowering it would increase the beats. Since the beats decrease, it must have been $260$ Hz.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

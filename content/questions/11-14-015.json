@@ -1,0 +1,40 @@
+{
+  "id": "11-14-015",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A string fixed at both ends vibrates in its third harmonic at $300$ Hz. The string is $90$ cm long. The speed of waves on it is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$90$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$540$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$180$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$270$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Third harmonic: $L = \\dfrac{3\\lambda}{2} \\Rightarrow \\lambda = 0.6$ m. $v = f\\lambda = 300 \\times 0.6 = 180$ m/s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

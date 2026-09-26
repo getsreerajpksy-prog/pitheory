@@ -1,0 +1,40 @@
+{
+  "id": "11-14-025",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A car moving at $20$ m/s towards a wall sounds its horn of frequency $400$ Hz. The frequency of the echo heard by the driver is (speed of sound $= 340$ m/s)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$450$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$425$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$400$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$476$ Hz",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The wall receives $400 \\times \\dfrac{340}{320}$ and reflects it as a stationary source; the moving driver hears\n$$f'' = 400 \\times \\frac{340 + 20}{340 - 20} = 400 \\times \\frac{360}{320} = 450\\ \\text{Hz}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

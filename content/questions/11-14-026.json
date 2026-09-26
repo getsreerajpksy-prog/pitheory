@@ -1,0 +1,40 @@
+{
+  "id": "11-14-026",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The intensity of a sound increases by a factor of $100$. The increase in its sound level is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2$ dB",
+      "image": ""
+    },
+    {
+      "text": "$20$ dB",
+      "image": ""
+    },
+    {
+      "text": "$100$ dB",
+      "image": ""
+    },
+    {
+      "text": "$10$ dB",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\Delta L = 10\\log_{10}\\dfrac{I_2}{I_1} = 10\\log_{10}100 = 20$ dB.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

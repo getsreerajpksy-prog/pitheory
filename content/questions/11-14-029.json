@@ -1,0 +1,22 @@
+{
+  "id": "11-14-029",
+  "chapter": "waves",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A wire of length $50$ cm and mass $5$ g is stretched with a tension of $400$ N between two fixed supports. Find its fundamental frequency, in Hz.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "200",
+  "tolerance": "0",
+  "solution": "$\\mu = \\dfrac{0.005}{0.5} = 0.01$ kg/m, $v = \\sqrt{\\dfrac{400}{0.01}} = 200$ m/s.\n$$f_1 = \\frac{v}{2L} = \\frac{200}{1} = 200\\ \\text{Hz}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-14-020",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "In a resonance tube experiment, the first and second resonances occur at air-column lengths of $16$ cm and $49$ cm. The end correction of the tube is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1$ cm",
+      "image": ""
+    },
+    {
+      "text": "$1.5$ cm",
+      "image": ""
+    },
+    {
+      "text": "$0.3$ cm",
+      "image": ""
+    },
+    {
+      "text": "$0.5$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$e = \\dfrac{l_2 - 3l_1}{2} = \\dfrac{49 - 48}{2} = 0.5$ cm.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

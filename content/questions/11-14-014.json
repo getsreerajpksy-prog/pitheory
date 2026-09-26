@@ -1,0 +1,40 @@
+{
+  "id": "11-14-014",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A string $1$ m long is fixed at both ends. The speed of transverse waves on it is $200$ m/s. Its fundamental frequency is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$400$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$100$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$200$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$50$ Hz",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$f_1 = \\dfrac{v}{2L} = \\dfrac{200}{2} = 100$ Hz.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-14-010",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The tension in a stretched string is increased by $44\\%$. The speed of transverse waves on it increases by",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$12\\%$",
+      "image": ""
+    },
+    {
+      "text": "$20\\%$",
+      "image": ""
+    },
+    {
+      "text": "$44\\%$",
+      "image": ""
+    },
+    {
+      "text": "$22\\%$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$v \\propto \\sqrt{T}$: $\\sqrt{1.44} = 1.2$, an increase of $20\\%$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-14-027",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "In a stationary wave on a string, the distance between two consecutive nodes is $15$ cm. If the frequency is $200$ Hz, the speed of the component travelling waves is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$120$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$15$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$60$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$30$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Node-to-node distance $= \\dfrac{\\lambda}{2} = 15$ cm, so $\\lambda = 0.3$ m and $v = 200 \\times 0.3 = 60$ m/s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

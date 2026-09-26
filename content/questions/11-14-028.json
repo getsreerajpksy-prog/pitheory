@@ -1,0 +1,40 @@
+{
+  "id": "11-14-028",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Which of the following pairs of waves superpose to form a stationary wave?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Two identical waves travelling in the same direction",
+      "image": ""
+    },
+    {
+      "text": "Two waves of slightly different frequencies in the same direction",
+      "image": ""
+    },
+    {
+      "text": "Two waves of different amplitudes at right angles",
+      "image": ""
+    },
+    {
+      "text": "Two identical waves travelling in opposite directions",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "A stationary (standing) wave forms when two waves of the same frequency and amplitude travel in opposite directions along the same line. Waves of slightly different frequency in the same direction give beats instead.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

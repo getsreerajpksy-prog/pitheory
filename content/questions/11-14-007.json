@@ -1,0 +1,40 @@
+{
+  "id": "11-14-007",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "For the wave $y = 0.1\\sin(100\\pi t - 2\\pi x)$ (SI units), the maximum speed of a particle of the medium is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.1$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$100\\pi$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$10\\pi$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$50$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$v_{p,max} = A\\omega = 0.1 \\times 100\\pi = 10\\pi \\approx 31.4$ m/s. (The wave speed is $\\omega/k = 50$ m/s, which is a different quantity.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

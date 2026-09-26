@@ -1,0 +1,40 @@
+{
+  "id": "11-14-024",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A train sounding a whistle of $600$ Hz approaches and then passes a stationary listener at $30$ m/s. The change in frequency heard by the listener as the train passes is (speed of sound $= 330$ m/s)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$50$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$60$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$120$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$110$ Hz",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Approaching: $600 \\times \\dfrac{330}{300} = 660$ Hz. Receding: $600 \\times \\dfrac{330}{360} = 550$ Hz. Change $= 110$ Hz.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

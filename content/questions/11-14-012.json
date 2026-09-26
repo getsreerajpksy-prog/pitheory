@@ -1,0 +1,40 @@
+{
+  "id": "11-14-012",
+  "chapter": "waves",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The speed of sound in a gas at $27°$C is $330$ m/s. At what temperature will it be $660$ m/s?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$54°$C",
+      "image": ""
+    },
+    {
+      "text": "$1200°$C",
+      "image": ""
+    },
+    {
+      "text": "$108°$C",
+      "image": ""
+    },
+    {
+      "text": "$927°$C",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$v \\propto \\sqrt{T}$ (in kelvin). Doubling $v$ needs $4T$: $4 \\times 300 = 1200$ K $= 927°$C.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

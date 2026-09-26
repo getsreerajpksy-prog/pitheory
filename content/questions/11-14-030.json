@@ -1,0 +1,22 @@
+{
+  "id": "11-14-030",
+  "chapter": "waves",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An open organ pipe has a fundamental frequency of $300$ Hz. The first overtone of a closed pipe has the same frequency as the first overtone of this open pipe. Find the length of the closed pipe, in cm. (speed of sound $= 330$ m/s)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "41.25",
+  "tolerance": "0",
+  "solution": "Open pipe first overtone $= 600$ Hz. Closed pipe first overtone $= \\dfrac{3v}{4L} = 600$:\n$$L = \\frac{3 \\times 330}{4 \\times 600} = 0.4125\\ \\text{m} = 41.25\\ \\text{cm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
