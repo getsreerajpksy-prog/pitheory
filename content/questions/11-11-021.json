@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$C_P = \\dfrac{5}{2}R$: $Q = nC_P\\Delta T = 2 \\times 2.5 \\times 8.3 \\times 100 = 4150$ J.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
