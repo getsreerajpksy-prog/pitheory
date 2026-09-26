@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$H_1 + H_2 = \\frac{u^2\\sin^2\\theta}{2g} + \\frac{u^2\\cos^2\\theta}{2g} = \\frac{u^2}{2g} = \\frac{1600}{20} = 80\\ \\text{m}$$\n\n(Both balls have the same range, and this sum does not depend on $\\theta$.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
