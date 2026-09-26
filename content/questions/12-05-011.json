@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$B_{axial} = \\dfrac{2kM}{r^3}$ and $B_{eq} = \\dfrac{kM}{r^3}$. At twice the distance, $r^3$ is $8$ times, and equatorial is half of axial:\n$$B = \\frac{2 \\times 10^{-4}}{2 \\times 8} = 1.25 \\times 10^{-5}\\ \\text{T}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
