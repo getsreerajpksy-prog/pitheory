@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The motion above the top of the tower is symmetric: the ball takes $1$ s to rise to its highest point and $1$ s to fall back. So its speed at the top of the tower is $v = g \\times 1 = 10$ m/s.\n\nFrom the foot to the top: $v^2 = u^2 - 2gh$:\n$$100 = 900 - 20h \\;\\Rightarrow\\; h = 40\\ \\text{m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
