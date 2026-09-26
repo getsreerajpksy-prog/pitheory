@@ -1,0 +1,40 @@
+{
+  "id": "11-02-020",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A cyclist covers the first one-third of a straight road at $12$ km/h and the remaining two-thirds at $18$ km/h. His average speed for the whole road is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{108}{7}$ km/h",
+      "image": ""
+    },
+    {
+      "text": "$16$ km/h",
+      "image": ""
+    },
+    {
+      "text": "$14$ km/h",
+      "image": ""
+    },
+    {
+      "text": "$15$ km/h",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Let the road be $3d$ long. Time for each part:\n$$t_1 = \\frac{d}{12}, \\qquad t_2 = \\frac{2d}{18} = \\frac{d}{9}$$\n\n$$v_{avg} = \\frac{3d}{\\dfrac{d}{12} + \\dfrac{d}{9}} = \\frac{3}{\\dfrac{3 + 4}{36}} = \\frac{108}{7} \\approx 15.4\\ \\text{km/h}$$\n\nNote that this is not the simple average $15$ km/h: the cyclist spends more time on the slower part.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

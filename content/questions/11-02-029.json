@@ -1,0 +1,40 @@
+{
+  "id": "11-02-029",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Two stones are thrown vertically upward from the same point with the same speed of $30$ m/s, the second one $2$ s after the first. At what height above the point of projection do they collide? ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$25$ m",
+      "image": ""
+    },
+    {
+      "text": "$40$ m",
+      "image": ""
+    },
+    {
+      "text": "$45$ m",
+      "image": ""
+    },
+    {
+      "text": "$35$ m",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Let $t$ be the time after the first stone is thrown.\n\nFirst stone: $h_1 = 30t - 5t^2$. Second stone: $h_2 = 30(t - 2) - 5(t - 2)^2$.\n\nThey collide when $h_1 = h_2$:\n$$30t - 5t^2 = 30t - 60 - 5t^2 + 20t - 20 \\;\\Rightarrow\\; 20t = 80 \\;\\Rightarrow\\; t = 4\\ \\text{s}$$\n\n$$h = 30(4) - 5(4)^2 = 120 - 80 = 40\\ \\text{m}$$\n\nCheck: the first stone reached its top at $3$ s and is falling; the second is $2$ s into its rise. By symmetry they meet $1$ s either side of the average time, which is consistent.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

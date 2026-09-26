@@ -1,0 +1,40 @@
+{
+  "id": "11-02-035",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A rocket is launched vertically upward from rest with a constant acceleration of $5\\ \\text{m/s}^2$. After $20$ s its fuel runs out and it continues as a free body. The maximum height it reaches is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2000$ m",
+      "image": ""
+    },
+    {
+      "text": "$3000$ m",
+      "image": ""
+    },
+    {
+      "text": "$1000$ m",
+      "image": ""
+    },
+    {
+      "text": "$1500$ m",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Powered phase ($20$ s):\n$$v = 5 \\times 20 = 100\\ \\text{m/s}, \\qquad h_1 = \\frac{1}{2}(5)(20)^2 = 1000\\ \\text{m}$$\n\nFree phase (rising under gravity until $v = 0$):\n$$h_2 = \\frac{v^2}{2g} = \\frac{10000}{20} = 500\\ \\text{m}$$\n\nMaximum height $= 1000 + 500 = 1500$ m.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

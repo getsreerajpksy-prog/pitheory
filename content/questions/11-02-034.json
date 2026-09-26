@@ -1,0 +1,40 @@
+{
+  "id": "11-02-034",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A juggler throws balls vertically upward, one every $0.5$ s, all with the same speed. Each ball reaches its highest point just as the next ball is thrown. The maximum height reached by each ball is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$5$ m",
+      "image": ""
+    },
+    {
+      "text": "$0.625$ m",
+      "image": ""
+    },
+    {
+      "text": "$1.25$ m",
+      "image": ""
+    },
+    {
+      "text": "$2.5$ m",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The time to reach the top equals the interval between throws: $\\dfrac{u}{g} = 0.5$ s, so $u = 5$ m/s.\n$$H = \\frac{u^2}{2g} = \\frac{25}{20} = 1.25\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-02-031",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A ball is dropped from the roof of a building. It takes $0.2$ s to fall past a window $2.2$ m tall. How far above the top of the window is the roof? ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4$ m",
+      "image": ""
+    },
+    {
+      "text": "$10$ m",
+      "image": ""
+    },
+    {
+      "text": "$2$ m",
+      "image": ""
+    },
+    {
+      "text": "$5$ m",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Let $v$ be the speed at the top edge of the window. Across the window:\n$$2.2 = v(0.2) + \\frac{1}{2}(10)(0.2)^2 = 0.2v + 0.2 \\;\\Rightarrow\\; v = 10\\ \\text{m/s}$$\n\nThe ball fell from rest to reach this speed:\n$$h = \\frac{v^2}{2g} = \\frac{100}{20} = 5\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

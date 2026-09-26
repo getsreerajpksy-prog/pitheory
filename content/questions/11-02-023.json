@@ -1,0 +1,40 @@
+{
+  "id": "11-02-023",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A body moving with uniform acceleration covers $12$ m in the $3^{\\text{rd}}$ second and $20$ m in the $5^{\\text{th}}$ second of its motion. Its initial velocity and acceleration are respectively",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4\\ \\text{m/s},\\ 2\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$0,\\ 4\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$2\\ \\text{m/s},\\ 5\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$2\\ \\text{m/s},\\ 4\\ \\text{m/s}^2$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Distance in the $n^{\\text{th}}$ second: $s_n = u + \\dfrac{a}{2}(2n - 1)$.\n$$s_3 = u + 2.5a = 12, \\qquad s_5 = u + 4.5a = 20$$\n\nSubtracting: $2a = 8$, so $a = 4\\ \\text{m/s}^2$. Then $u = 12 - 10 = 2$ m/s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

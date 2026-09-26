@@ -1,0 +1,40 @@
+{
+  "id": "11-02-036",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A skydiver falls freely from rest for $3$ s. Then her parachute opens and she decelerates uniformly at $2\\ \\text{m/s}^2$, reaching the ground with a speed of $4$ m/s. From what height did she start? ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$266$ m",
+      "image": ""
+    },
+    {
+      "text": "$221$ m",
+      "image": ""
+    },
+    {
+      "text": "$245$ m",
+      "image": ""
+    },
+    {
+      "text": "$311$ m",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Free fall for $3$ s: $v = 30$ m/s, and $h_1 = \\dfrac{1}{2}(10)(3)^2 = 45$ m.\n\nWith the parachute, from $30$ m/s to $4$ m/s at $2\\ \\text{m/s}^2$ retardation:\n$$4^2 = 30^2 - 2(2)h_2 \\;\\Rightarrow\\; h_2 = \\frac{900 - 16}{4} = 221\\ \\text{m}$$\n\nTotal height $= 45 + 221 = 266$ m.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

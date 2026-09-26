@@ -1,0 +1,39 @@
+{
+  "id": "11-02-019",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "AIEEE 2007",
+  "question": "The velocity of a particle is $v = v_0 + gt + ft^2$. If its position is $x = 0$ at $t = 0$, then its displacement after unit time ($t = 1$) is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$v_0 + 2g + 3f$",
+      "image": ""
+    },
+    {
+      "text": "$v_0 + \\dfrac{g}{2} + \\dfrac{f}{3}$",
+      "image": ""
+    },
+    {
+      "text": "$v_0 + g + f$",
+      "image": ""
+    },
+    {
+      "text": "$v_0 + \\dfrac{g}{2} + f$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Displacement is the integral of velocity:\n$$x = \\int_0^1 (v_0 + gt + ft^2)\\,dt = \\left[v_0t + \\frac{gt^2}{2} + \\frac{ft^3}{3}\\right]_0^1 = v_0 + \\frac{g}{2} + \\frac{f}{3}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

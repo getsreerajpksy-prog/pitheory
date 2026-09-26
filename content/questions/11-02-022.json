@@ -1,0 +1,40 @@
+{
+  "id": "11-02-022",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "A car moving at $54$ km/h can be stopped by its brakes in a distance of $15$ m. With the same braking retardation, the minimum stopping distance when it moves at $72$ km/h is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$35.6$ m",
+      "image": ""
+    },
+    {
+      "text": "$20$ m",
+      "image": ""
+    },
+    {
+      "text": "$26.7$ m",
+      "image": ""
+    },
+    {
+      "text": "$30$ m",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "With constant retardation $a$: $0 = u^2 - 2as$, so $s = \\dfrac{u^2}{2a} \\propto u^2$.\n$$\\frac{s_2}{s_1} = \\left(\\frac{72}{54}\\right)^2 = \\left(\\frac{4}{3}\\right)^2 = \\frac{16}{9}$$\n$$s_2 = 15 \\times \\frac{16}{9} = 26.7\\ \\text{m}$$\n\nA $33\\%$ higher speed needs $78\\%$ more stopping distance.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

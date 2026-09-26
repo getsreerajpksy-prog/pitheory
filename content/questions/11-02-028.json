@@ -1,0 +1,40 @@
+{
+  "id": "11-02-028",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "A stone dropped from rest covers $35$ m in the last second of its fall. From what height was it dropped? ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$80$ m",
+      "image": ""
+    },
+    {
+      "text": "$60$ m",
+      "image": ""
+    },
+    {
+      "text": "$125$ m",
+      "image": ""
+    },
+    {
+      "text": "$100$ m",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Let the total time of fall be $T$. Distance in the last (the $T^{\\text{th}}$) second:\n$$s_T = \\frac{g}{2}(2T - 1) = 5(2T - 1) = 35 \\;\\Rightarrow\\; T = 4\\ \\text{s}$$\n\n$$h = \\frac{1}{2}gT^2 = \\frac{1}{2} \\times 10 \\times 16 = 80\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

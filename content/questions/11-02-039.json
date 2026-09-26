@@ -1,0 +1,40 @@
+{
+  "id": "11-02-039",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A train starts from rest at one station and accelerates at $1\\ \\text{m/s}^2$ until it reaches $20$ m/s. It runs at this speed and then decelerates at $2\\ \\text{m/s}^2$ to stop at the next station, $2$ km away. The total time of the journey is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$120$ s",
+      "image": ""
+    },
+    {
+      "text": "$130$ s",
+      "image": ""
+    },
+    {
+      "text": "$100$ s",
+      "image": ""
+    },
+    {
+      "text": "$115$ s",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Accelerating: $t_1 = \\dfrac{20}{1} = 20$ s, distance $= \\dfrac{20^2}{2 \\times 1} = 200$ m.\n\nDecelerating: $t_3 = \\dfrac{20}{2} = 10$ s, distance $= \\dfrac{20^2}{2 \\times 2} = 100$ m.\n\nUniform part: $2000 - 300 = 1700$ m at $20$ m/s, so $t_2 = 85$ s.\n\nTotal time $= 20 + 85 + 10 = 115$ s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

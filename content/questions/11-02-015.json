@@ -1,0 +1,39 @@
+{
+  "id": "11-02-015",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "AIEEE 2008",
+  "question": "A body is at rest at $x = 0$. At $t = 0$, it starts moving in the positive $x$-direction with a constant acceleration. At the same instant another body passes through $x = 0$ moving in the positive $x$-direction with a constant speed. The position of the first body is given by $x_1(t)$ after time $t$ and that of the second body by $x_2(t)$ after the same time interval. Which of the following graphs correctly describes $(x_1 - x_2)$ as a function of time $t$?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "",
+      "image": "/diagrams/11-02-015-A.svg"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-02-015-B.svg"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-02-015-C.svg"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-02-015-D.svg"
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "First body (from rest, acceleration $a$): $x_1 = \\dfrac{1}{2}at^2$. Second body (constant speed $v$): $x_2 = vt$.\n$$x_1 - x_2 = \\frac{1}{2}at^2 - vt$$\n\nThis is an upward-opening parabola through the origin. For small $t$ the $-vt$ term dominates, so $x_1 - x_2$ first becomes negative (the second body is ahead). It reaches a minimum at $t = v/a$, returns to zero at $t = 2v/a$ (the first body catches up), and then grows positive.\n\nOnly graph (2) dips below the axis and then rises.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

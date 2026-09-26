@@ -1,0 +1,40 @@
+{
+  "id": "11-02-027",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A girl running at her top speed of $5$ m/s is $10$ m behind the door of a bus when the bus starts from rest with a constant acceleration of $1\\ \\text{m/s}^2$ away from her. How long does she take to reach the door?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$(5 + \\sqrt{5})$ s",
+      "image": ""
+    },
+    {
+      "text": "$2$ s",
+      "image": ""
+    },
+    {
+      "text": "She can never reach the door",
+      "image": ""
+    },
+    {
+      "text": "$(5 - \\sqrt{5})$ s",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Positions from the girl's starting point: girl $x_G = 5t$; door $x_D = 10 + \\dfrac{1}{2}t^2$.\n\n$$5t = 10 + \\frac{t^2}{2} \\;\\Rightarrow\\; t^2 - 10t + 20 = 0 \\;\\Rightarrow\\; t = 5 \\pm \\sqrt{5}$$\n\nShe first reaches the door at the smaller root, $t = (5 - \\sqrt{5})$ s $\\approx 2.76$ s.\n\nCheck with the discriminant: $100 - 80 > 0$, so she does catch it.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

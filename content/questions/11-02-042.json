@@ -1,0 +1,22 @@
+{
+  "id": "11-02-042",
+  "chapter": "motion-in-a-straight-line",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A car starts from rest at $t = 0$ with an acceleration that varies as $a = (6 - 2t)\\ \\text{m/s}^2$ for $0 \\le t \\le 3$ s, after which the acceleration becomes zero. Find the maximum speed of the car in m/s.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "9",
+  "tolerance": "0",
+  "solution": "$$v = \\int_0^t (6 - 2t)\\,dt = 6t - t^2$$\n\nThe acceleration is positive up to $t = 3$ s and zero afterwards, so the speed keeps increasing until $t = 3$ s and then stays constant:\n$$v_{max} = 6(3) - 3^2 = 9\\ \\text{m/s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-02-024",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A particle moving in a straight line with uniform retardation covers $22$ m and $18$ m in two successive seconds. How much further will it travel before coming to rest?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$32$ m",
+      "image": ""
+    },
+    {
+      "text": "$18$ m",
+      "image": ""
+    },
+    {
+      "text": "$50$ m",
+      "image": ""
+    },
+    {
+      "text": "$24$ m",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "In successive equal seconds, the distances differ by $a \\times 1^2$, so the retardation is $a = 22 - 18 = 4\\ \\text{m/s}^2$.\n\nLet the speed at the start of the first of these seconds be $u$. Distance in that second:\n$$22 = u \\times 1 - \\frac{1}{2}(4)(1)^2 \\;\\Rightarrow\\; u = 24\\ \\text{m/s}$$\n\nTotal distance from that point until rest: $\\dfrac{u^2}{2a} = \\dfrac{576}{8} = 72$ m.\n\nIt has already covered $22 + 18 = 40$ m, so it travels a further $72 - 40 = 32$ m.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

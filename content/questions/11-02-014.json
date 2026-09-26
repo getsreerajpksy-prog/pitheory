@@ -1,0 +1,39 @@
+{
+  "id": "11-02-014",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "AIEEE 2011",
+  "question": "An object, moving with a speed of $6.25$ m/s, is decelerated at a rate given by $\\dfrac{dv}{dt} = -2.5\\sqrt{v}$, where $v$ is the instantaneous speed. The time taken by the object, to come to rest, would be",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1$ s",
+      "image": ""
+    },
+    {
+      "text": "$2$ s",
+      "image": ""
+    },
+    {
+      "text": "$4$ s",
+      "image": ""
+    },
+    {
+      "text": "$8$ s",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Separate the variables and integrate from $v = 6.25$ m/s to $v = 0$:\n$$\\frac{dv}{\\sqrt{v}} = -2.5\\,dt \\;\\Rightarrow\\; \\int_{6.25}^{0} v^{-1/2}\\,dv = -2.5\\int_0^t dt$$\n$$\\Big[2\\sqrt{v}\\Big]_{6.25}^{0} = -2.5\\,t \\;\\Rightarrow\\; 0 - 2(2.5) = -2.5\\,t$$\n$$t = 2\\ \\text{s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

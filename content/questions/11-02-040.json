@@ -1,0 +1,40 @@
+{
+  "id": "11-02-040",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The velocity-time graph of a particle moving along a straight line is shown in the figure. The displacement and the distance travelled by the particle in $6$ s are respectively",
+  "diagram": "/diagrams/11-02-040.svg",
+  "diagram_alt": "Velocity-time graph: 5 m/s from 0 to 2 s, −3 m/s from 2 to 4 s, 2 m/s from 4 to 6 s",
+  "options": [
+    {
+      "text": "$8$ m, $20$ m",
+      "image": ""
+    },
+    {
+      "text": "$20$ m, $8$ m",
+      "image": ""
+    },
+    {
+      "text": "$8$ m, $8$ m",
+      "image": ""
+    },
+    {
+      "text": "$14$ m, $20$ m",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The area under a $v$-$t$ graph gives displacement, counting area below the axis as negative.\n\n$0$ to $2$ s: $5 \\times 2 = +10$ m. $2$ to $4$ s: $-3 \\times 2 = -6$ m. $4$ to $6$ s: $2 \\times 2 = +4$ m.\n\nDisplacement $= 10 - 6 + 4 = 8$ m.\n\nDistance adds the magnitudes: $10 + 6 + 4 = 20$ m.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "11-02-043",
+  "chapter": "motion-in-a-straight-line",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A ball is dropped from the top of a building $60$ m tall. At the same instant, another ball is thrown vertically upward from the ground directly below with a speed of $20$ m/s. Find the height above the ground, in metres, at which they meet. ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "15",
+  "tolerance": "0",
+  "solution": "Both balls have the same acceleration $g$, so relative to each other they move at a constant $20$ m/s. They close the $60$ m gap in\n$$t = \\frac{60}{20} = 3\\ \\text{s}$$\n\nThe dropped ball has fallen $\\dfrac{1}{2}(10)(3)^2 = 45$ m in this time, so they meet at $60 - 45 = 15$ m above the ground.\n\n(Check: the other ball is at $20(3) - 5(3)^2 = 15$ m.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

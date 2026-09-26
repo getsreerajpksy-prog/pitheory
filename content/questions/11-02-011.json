@@ -1,0 +1,40 @@
+{
+  "id": "11-02-011",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "EAMCET 2010 (Engineering)",
+  "question": "An athlete completes one round of a circular track of radius $R$ in $40$ s. What will be his displacement at the end of $2$ min $20$ s?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Zero",
+      "image": ""
+    },
+    {
+      "text": "$2R$",
+      "image": ""
+    },
+    {
+      "text": "$2\\pi R$",
+      "image": ""
+    },
+    {
+      "text": "$7\\pi R$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Time taken $= 2$ min $20$ s $= 140$ s.\n\nNumber of rounds $= \\dfrac{140}{40} = 3.5$.\n\nAfter 3 complete rounds the athlete is back at the start. The extra half round takes him to the diametrically opposite point of the track.\n\nDisplacement = the straight-line distance between the start and the end points = the diameter:\n$$\\text{Displacement} = 2R$$\n\n(The distance travelled is $3.5 \\times 2\\pi R = 7\\pi R$, which is a trap option.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

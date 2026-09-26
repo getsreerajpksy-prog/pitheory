@@ -1,0 +1,39 @@
+{
+  "id": "11-02-013",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "AIPMT 2011",
+  "question": "A boy standing at the top of a tower of $20$ m height drops a stone. Assuming $g = 10\\ \\text{m s}^{-2}$, the velocity with which it hits the ground is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$20\\ \\text{m s}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$40\\ \\text{m s}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$5\\ \\text{m s}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$10\\ \\text{m s}^{-1}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The stone is dropped, so $u = 0$. Using $v^2 = u^2 + 2gh$:\n$$v = \\sqrt{2gh} = \\sqrt{2 \\times 10 \\times 20} = \\sqrt{400} = 20\\ \\text{m s}^{-1}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 175" width="230" height="175">
+<rect width="230" height="175" fill="#fff"/>
+<path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M20.0,150.0 L200.0,150.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M20.0,150.0 L20.0,25.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M20,150 C50,100 70,100 90,120 C110,140 130,130 180,45"/>
+<path d="M204.0,150.0 L196.2,154.5 L196.2,145.5 Z" fill="#111"/>
+<path d="M20.0,21.0 L24.5,28.8 L15.5,28.8 Z" fill="#111"/>
+<text x="208" y="155" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="16" text-anchor="start" font-style="italic">t</text>
+<text x="28" y="31" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="15" text-anchor="start" font-style="italic">x₁ − x₂</text>
+</svg>

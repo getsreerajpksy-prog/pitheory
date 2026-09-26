@@ -1,0 +1,40 @@
+{
+  "id": "11-02-032",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A ball is thrown vertically upward from the foot of a tower with a speed of $30$ m/s. It passes the top of the tower on its way up and comes back past the top $2$ s later. The height of the tower is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$40$ m",
+      "image": ""
+    },
+    {
+      "text": "$45$ m",
+      "image": ""
+    },
+    {
+      "text": "$35$ m",
+      "image": ""
+    },
+    {
+      "text": "$25$ m",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The motion above the top of the tower is symmetric: the ball takes $1$ s to rise to its highest point and $1$ s to fall back. So its speed at the top of the tower is $v = g \\times 1 = 10$ m/s.\n\nFrom the foot to the top: $v^2 = u^2 - 2gh$:\n$$100 = 900 - 20h \\;\\Rightarrow\\; h = 40\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

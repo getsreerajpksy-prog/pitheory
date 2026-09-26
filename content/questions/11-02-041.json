@@ -1,0 +1,40 @@
+{
+  "id": "11-02-041",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An elevator starts from rest and its speed increases uniformly to $4$ m/s in $3$ s. It moves at this speed until $t = 9$ s and then slows down uniformly to stop at $t = 12$ s. The height through which it rises is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$30$ m",
+      "image": ""
+    },
+    {
+      "text": "$36$ m",
+      "image": ""
+    },
+    {
+      "text": "$48$ m",
+      "image": ""
+    },
+    {
+      "text": "$24$ m",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Height = area under the $v$-$t$ graph (a trapezium):\n$$\\frac{1}{2}(3)(4) + (9 - 3)(4) + \\frac{1}{2}(3)(4) = 6 + 24 + 6 = 36\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

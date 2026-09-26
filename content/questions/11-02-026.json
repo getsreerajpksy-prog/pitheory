@@ -1,0 +1,40 @@
+{
+  "id": "11-02-026",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A police jeep moving at a constant $20$ m/s spots a thief on a scooter at rest $64$ m ahead. At that instant the thief starts with a constant acceleration of $2\\ \\text{m/s}^2$ in the same direction. After how much time will the jeep first reach the thief?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$16$ s",
+      "image": ""
+    },
+    {
+      "text": "The jeep never reaches the thief",
+      "image": ""
+    },
+    {
+      "text": "$4$ s",
+      "image": ""
+    },
+    {
+      "text": "$8$ s",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Measure positions from the jeep's starting point.\n\nJeep: $x_J = 20t$. Thief: $x_T = 64 + \\dfrac{1}{2}(2)t^2 = 64 + t^2$.\n\nThey meet when $20t = 64 + t^2$:\n$$t^2 - 20t + 64 = 0 \\;\\Rightarrow\\; (t - 4)(t - 16) = 0$$\n\nThe jeep first reaches the thief at $t = 4$ s. (If it did not stop him, the faster-accelerating scooter would draw level again at $t = 16$ s.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "11-02-018",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2013 (Medical)",
+  "question": "A body is thrown vertically upward from a point 'A' $125$ m above the ground. It goes up to a maximum height of $250$ m above the ground and passes through 'A' on its downward journey. The velocity of the body when it is at a height of $70$ m above the ground is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$20$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$50$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$60$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$80$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At the maximum height ($250$ m above the ground) the body is momentarily at rest. From there it falls freely.\n\nAt $70$ m above the ground, it has fallen $250 - 70 = 180$ m from rest:\n$$v = \\sqrt{2gh} = \\sqrt{2 \\times 10 \\times 180} = \\sqrt{3600} = 60\\ \\text{m/s}$$\n\n(The starting point A does not matter once the maximum height is known.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

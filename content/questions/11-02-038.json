@@ -1,0 +1,39 @@
+{
+  "id": "11-02-038",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The velocity of a particle moving along a straight line varies with its displacement as $v = 6\\sqrt{x}$ (SI units). The acceleration of the particle is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$36\\ \\text{m/s}^2$, constant",
+      "image": ""
+    },
+    {
+      "text": "increasing with $x$",
+      "image": ""
+    },
+    {
+      "text": "$18\\ \\text{m/s}^2$, constant",
+      "image": ""
+    },
+    {
+      "text": "$6\\ \\text{m/s}^2$, constant",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$a = v\\frac{dv}{dx} = 6\\sqrt{x}\\cdot\\frac{6}{2\\sqrt{x}} = 18\\ \\text{m/s}^2$$\n\nThe $\\sqrt{x}$ cancels, so the acceleration is constant. This matches $v^2 = 36x = 2(18)x$, which is $v^2 = 2ax$ for uniform acceleration from rest.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

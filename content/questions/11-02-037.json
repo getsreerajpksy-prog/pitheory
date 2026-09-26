@@ -1,0 +1,40 @@
+{
+  "id": "11-02-037",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A particle moves along the $x$-axis with a velocity that depends on its position as $v = 2x^2 + x$ (SI units). Its acceleration at $x = 1$ m is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$12\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$15\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$5\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$3\\ \\text{m/s}^2$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "When $v$ is given as a function of $x$, use the chain rule:\n$$a = \\frac{dv}{dt} = \\frac{dv}{dx}\\cdot\\frac{dx}{dt} = v\\frac{dv}{dx}$$\n\nAt $x = 1$: $v = 2 + 1 = 3$ m/s and $\\dfrac{dv}{dx} = 4x + 1 = 5\\ \\text{s}^{-1}$.\n$$a = 3 \\times 5 = 15\\ \\text{m/s}^2$$\n\nA common mistake is to report $dv/dx = 5$ as the acceleration.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

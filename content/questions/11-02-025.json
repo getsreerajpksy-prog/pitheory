@@ -1,0 +1,39 @@
+{
+  "id": "11-02-025",
+  "chapter": "motion-in-a-straight-line",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Car A starts from rest with uniform acceleration $a_1$. Three seconds later, car B starts from rest from the same point with uniform acceleration $a_2$. If the displacement of A in its $6^{\\text{th}}$ second equals the displacement of B in the same interval of time, then $a_1 : a_2$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1 : 1$",
+      "image": ""
+    },
+    {
+      "text": "$5 : 11$",
+      "image": ""
+    },
+    {
+      "text": "$11 : 5$",
+      "image": ""
+    },
+    {
+      "text": "$1 : 2$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "From rest, the distance in the $n^{\\text{th}}$ second is $s_n = \\dfrac{a}{2}(2n - 1)$.\n\nA's $6^{\\text{th}}$ second is the interval $t = 5$ s to $6$ s. B started $3$ s later, so this is B's $3^{\\text{rd}}$ second.\n$$\\frac{a_1}{2}(2 \\times 6 - 1) = \\frac{a_2}{2}(2 \\times 3 - 1) \\;\\Rightarrow\\; 11a_1 = 5a_2$$\n$$a_1 : a_2 = 5 : 11$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
