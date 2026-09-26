@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\omega = 2\\pi f = 2000$ rad/s. $L = \\dfrac{1}{\\omega^2C} = \\dfrac{1}{4 \\times 10^6 \\times 2 \\times 10^{-6}} = 0.125$ H.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
