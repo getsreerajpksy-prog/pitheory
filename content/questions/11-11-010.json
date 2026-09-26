@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$\\Delta U$ depends only on the end states. Along $iaf$: $\\Delta U = 50 - 20 = 30$ cal.\n\nAlong $ibf$: $W = Q - \\Delta U = 36 - 30 = 6$ cal.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
