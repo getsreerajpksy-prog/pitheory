@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Same force $F$: extension $x = F/k$, so $W = \\dfrac{1}{2}kx^2 = \\dfrac{F^2}{2k}$. More work on $S_1$ means $k_1 < k_2$. Statement II is true.\n\nSame extension $x$: $W = \\dfrac{1}{2}kx^2$, so the stiffer spring $S_2$ needs more work. Statement I is false.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
