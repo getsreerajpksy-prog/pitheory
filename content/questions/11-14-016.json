@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "For a string fixed at both ends, $f_n = nf_1$, so successive harmonics differ by $f_1 = 490 - 420 = 70$ Hz. (They are the $6^{\\text{th}}$ and $7^{\\text{th}}$ harmonics.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
