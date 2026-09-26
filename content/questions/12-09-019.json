@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\dfrac{1}{v} + \\dfrac{1}{u} = \\dfrac{1}{f}$ with $u = -30$, $f = -20$: $\\dfrac{1}{v} = -\\dfrac{1}{20} + \\dfrac{1}{30} = -\\dfrac{1}{60}$, so $v = -60$ cm: real, in front, magnified ($m = -2$) and inverted.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
