@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Each bounce multiplies the speed by $e$, and height $\\propto$ speed$^2$, so each bounce multiplies the height by $e^2$:\n$$h_n = e^{2n}h_0 \\;\\Rightarrow\\; e = \\left(\\frac{h_n}{h_0}\\right)^{\\frac{1}{2n}}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

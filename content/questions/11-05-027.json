@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "With a constant resisting force $F$, the energy lost is proportional to the distance.\n\n$25\\%$ of the KE is lost in distance $x$. The remaining $75\\%$ is three times as much, so it is lost over a further $3x$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Through the same pipe, the rate of flow $Av$ increases $n$ times only if the speed $v$ increases $n$ times.\n\nPower = kinetic energy delivered per second $= \\dfrac{1}{2}(\\rho Av)v^2 \\propto v^3$.\n\nSo $P_1 : P_0 = n^3 : 1$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

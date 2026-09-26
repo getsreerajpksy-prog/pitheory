@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Total mechanical energy $= 80$ J. Where KE = PE, each is $40$ J:\n$$\\frac{1}{2}(0.2)v^2 = 40 \\;\\Rightarrow\\; v^2 = 400 \\;\\Rightarrow\\; v = 20\\ \\text{m/s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

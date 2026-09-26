@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Perfectly inelastic collision: $mv = 2mV \\Rightarrow V = \\dfrac{v}{2}$.\n\nThen energy is conserved while swinging up:\n$$h = \\frac{V^2}{2g} = \\frac{v^2}{8g}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

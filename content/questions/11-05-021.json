@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "With constant power, $P = Fv = mv\\dfrac{dv}{dt}$, and $\\dfrac{dv}{dt} = v\\dfrac{dv}{dx}$, so:\n$$P = mv^2\\frac{dv}{dx} \\;\\Rightarrow\\; \\int_0^v v^2\\,dv = \\frac{P}{m}\\int_0^x dx \\;\\Rightarrow\\; v^3 = \\frac{3P}{m}x$$\n\nFor a given distance, $v^3 \\propto \\dfrac{3P}{m}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

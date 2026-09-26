@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The ball falls $h$ and hits the floor with speed $v = \\sqrt{2gh}$. It rebounds with speed $ev$, so it rises to\n$$h_1 = \\frac{(ev)^2}{2g} = e^2h$$\n\nBefore the second hit it goes up $e^2h$ and comes back down $e^2h$:\n$$\\text{Total distance} = h + 2e^2h = h(1 + 2e^2)$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
