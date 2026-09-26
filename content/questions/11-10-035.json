@@ -1,0 +1,40 @@
+{
+  "id": "11-10-035",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2000 (Engineering)",
+  "question": "Two liquids at temperatures $60°$C and $20°$C respectively have masses in the ratio $3 : 4$ and their specific heats in the ratio $4 : 5$. If the two liquids are mixed, the resultant temperature is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$70°$C",
+      "image": ""
+    },
+    {
+      "text": "$50°$C",
+      "image": ""
+    },
+    {
+      "text": "$40°$C",
+      "image": ""
+    },
+    {
+      "text": "$35°$C",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Heat lost = heat gained:\n$$3 \\times 4\\,(60 - \\theta) = 4 \\times 5\\,(\\theta - 20) \\;\\Rightarrow\\; 720 - 12\\theta = 20\\theta - 400 \\;\\Rightarrow\\; \\theta = 35°\\text{C}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

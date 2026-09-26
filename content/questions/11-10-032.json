@@ -1,0 +1,40 @@
+{
+  "id": "11-10-032",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2012 (Engineering)",
+  "question": "The power radiated by a black body is $P$ and it radiates maximum energy around the wavelength $\\lambda_0$. If the temperature of the black body is now changed so that it radiates maximum energy around a wavelength $\\dfrac{\\lambda_0}{2}$, the power radiated becomes",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4P$",
+      "image": ""
+    },
+    {
+      "text": "$16P$",
+      "image": ""
+    },
+    {
+      "text": "$64P$",
+      "image": ""
+    },
+    {
+      "text": "$256P$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Wien's law: halving $\\lambda_m$ doubles $T$. Stefan's law: $P \\propto T^4$, so the power becomes $2^4 P = 16P$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

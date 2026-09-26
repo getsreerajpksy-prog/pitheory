@@ -1,0 +1,40 @@
+{
+  "id": "11-10-034",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2008 (Medical)",
+  "question": "A body cools from $70°$C to $50°$C in $5$ minutes. The temperature of the surroundings is $20°$C. Its temperature after the next $10$ minutes is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$25°$C",
+      "image": ""
+    },
+    {
+      "text": "$30°$C",
+      "image": ""
+    },
+    {
+      "text": "$35°$C",
+      "image": ""
+    },
+    {
+      "text": "$45°$C",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Newton's law of cooling (average form): $\\dfrac{\\Delta\\theta}{t} = K(\\bar{\\theta} - \\theta_0)$.\n\nFirst $5$ min: $\\dfrac{20}{5} = K(60 - 20) \\Rightarrow K = 0.1\\ \\text{min}^{-1}$.\n\nNext $10$ min, from $50°$C to $\\theta$:\n$$\\frac{50 - \\theta}{10} = 0.1\\left(\\frac{50 + \\theta}{2} - 20\\right) \\;\\Rightarrow\\; 50 - \\theta = 5 + 0.5\\theta \\;\\Rightarrow\\; \\theta = 30°\\text{C}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "11-10-009",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "AIEEE 2012",
+  "question": "A wooden wheel of radius $R$ is made of two semicircular parts. The two parts are held together by a ring made of a metal strip of cross-sectional area $S$ and length $L$, which is slightly less than $2\\pi R$. To fit the ring on the wheel, it is heated so that its temperature rises by $\\Delta T$ and it just steps over the wheel. As it cools down to the surrounding temperature, it presses the semicircular parts together. If the coefficient of linear expansion of the metal is $\\alpha$ and its Young's modulus is $Y$, the force that one part of the wheel applies on the other part is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$SY\\alpha\\Delta T$",
+      "image": ""
+    },
+    {
+      "text": "$\\pi SY\\alpha\\Delta T$",
+      "image": ""
+    },
+    {
+      "text": "$2\\pi SY\\alpha\\Delta T$",
+      "image": ""
+    },
+    {
+      "text": "$2SY\\alpha\\Delta T$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "On cooling, the ring is held stretched by the strain $\\dfrac{\\Delta L}{L} = \\alpha\\Delta T$, so the tension in it is $T = SY\\alpha\\Delta T$.\n\nConsider one half of the wheel: the ring pulls on it with tension $T$ at each of its two ends, so the other half must push back with\n$$F = 2T = 2SY\\alpha\\Delta T$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

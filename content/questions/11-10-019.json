@@ -1,0 +1,40 @@
+{
+  "id": "11-10-019",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2013 (Engineering)",
+  "question": "When a liquid in a glass vessel is heated, its apparent expansion is $10.30 \\times 10^{-4}\\ °\\text{C}^{-1}$. When the same liquid is heated in a metallic vessel, its apparent expansion is $10.06 \\times 10^{-4}\\ °\\text{C}^{-1}$. The coefficient of linear expansion of the metal is ($\\alpha_{glass} = 9 \\times 10^{-6}\\ °\\text{C}^{-1}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$51 \\times 10^{-6}\\ °\\text{C}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$43 \\times 10^{-6}\\ °\\text{C}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$25 \\times 10^{-6}\\ °\\text{C}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$17 \\times 10^{-6}\\ °\\text{C}^{-1}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Real expansion = apparent + vessel: $\\gamma_R = 10.30 \\times 10^{-4} + 3(9 \\times 10^{-6}) = 10.57 \\times 10^{-4}$.\n\nFor the metal vessel: $\\gamma_{metal} = 10.57 \\times 10^{-4} - 10.06 \\times 10^{-4} = 51 \\times 10^{-6}$, so $\\alpha_{metal} = 17 \\times 10^{-6}\\ °\\text{C}^{-1}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

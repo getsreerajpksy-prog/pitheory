@@ -1,0 +1,40 @@
+{
+  "id": "11-10-045",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A body cools from $80°$C to $60°$C in $10$ min in a room at $20°$C. Using the average form of Newton's law of cooling, the time it takes to cool from $60°$C to $40°$C is about",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$10$ min",
+      "image": ""
+    },
+    {
+      "text": "$20$ min",
+      "image": ""
+    },
+    {
+      "text": "$13.3$ min",
+      "image": ""
+    },
+    {
+      "text": "$16.7$ min",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\dfrac{20}{10} = K(70 - 20) \\Rightarrow K = 0.04\\ \\text{min}^{-1}$.\n\n$\\dfrac{20}{t} = 0.04(50 - 20) = 1.2 \\Rightarrow t \\approx 16.7$ min. Cooling slows as the body approaches room temperature.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

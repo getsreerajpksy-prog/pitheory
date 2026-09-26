@@ -1,0 +1,40 @@
+{
+  "id": "11-10-023",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2013 (Medical)",
+  "question": "The temperatures of the two ends A and B of a rod of length $25$ cm and uniform circular cross-section are $100°$C and $0°$C respectively. In the steady state, the temperature at a point $10$ cm from the end B is (ignore heat loss from the curved surface)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$60°$C",
+      "image": ""
+    },
+    {
+      "text": "$50°$C",
+      "image": ""
+    },
+    {
+      "text": "$25°$C",
+      "image": ""
+    },
+    {
+      "text": "$40°$C",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "In the steady state the temperature falls uniformly along the rod: $4°$C per cm. A point $10$ cm from B (which is at $0°$C) is at $40°$C.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

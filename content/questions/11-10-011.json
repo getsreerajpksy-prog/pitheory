@@ -1,0 +1,39 @@
+{
+  "id": "11-10-011",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2012 (Engineering)",
+  "question": "When the temperature of a body increases from $t$ to $t + \\Delta t$, its moment of inertia increases from $I$ to $I + \\Delta I$. The coefficient of linear expansion of the body is $\\alpha$. The ratio $\\dfrac{\\Delta I}{I}$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{\\Delta t}{t}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2\\Delta t}{t}$",
+      "image": ""
+    },
+    {
+      "text": "$\\alpha\\Delta t$",
+      "image": ""
+    },
+    {
+      "text": "$2\\alpha\\Delta t$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$I \\propto$ (mass)(length)$^2$, and the mass does not change. Every length grows by the factor $(1 + \\alpha\\Delta t)$:\n$$\\frac{\\Delta I}{I} \\approx 2\\alpha\\Delta t$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

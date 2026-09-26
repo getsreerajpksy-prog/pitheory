@@ -1,0 +1,40 @@
+{
+  "id": "11-10-006",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2014 (Engineering)",
+  "question": "What lengths of brass and iron rods at $0°$C must be used if the difference between their lengths is always $0.2$ m? The coefficients of linear expansion of brass and iron are $18 \\times 10^{-6}\\ °\\text{C}^{-1}$ and $12 \\times 10^{-6}\\ °\\text{C}^{-1}$ respectively.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "brass $0.4$ m, iron $0.6$ m",
+      "image": ""
+    },
+    {
+      "text": "brass $0.6$ m, iron $0.4$ m",
+      "image": ""
+    },
+    {
+      "text": "brass $0.2$ m, iron $0.4$ m",
+      "image": ""
+    },
+    {
+      "text": "brass $0.3$ m, iron $0.5$ m",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The difference stays constant only if both rods expand by the same amount: $l_b\\alpha_b = l_i\\alpha_i$, so $\\dfrac{l_i}{l_b} = \\dfrac{18}{12} = \\dfrac{3}{2}$. The iron rod is longer.\n\nWith $l_i - l_b = 0.2$ m: $l_b = 0.4$ m and $l_i = 0.6$ m.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

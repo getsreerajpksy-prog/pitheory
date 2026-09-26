@@ -1,0 +1,40 @@
+{
+  "id": "11-10-039",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A steel scale is correct at $0°$C. A length measured with it at $40°$C reads $50.00$ cm. If $\\alpha_{steel} = 1.2 \\times 10^{-5}\\ °\\text{C}^{-1}$, the true length is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$50.24$ cm",
+      "image": ""
+    },
+    {
+      "text": "$50.024$ cm",
+      "image": ""
+    },
+    {
+      "text": "$49.976$ cm",
+      "image": ""
+    },
+    {
+      "text": "$50.00$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At $40°$C each scale division has expanded, so the true length is larger than the reading:\n$$L = 50(1 + 1.2 \\times 10^{-5} \\times 40) = 50.024\\ \\text{cm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

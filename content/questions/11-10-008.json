@@ -1,0 +1,39 @@
+{
+  "id": "11-10-008",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "AIEEE 2011",
+  "question": "An aluminium sphere of $20$ cm diameter is heated from $0°$C to $100°$C. Its volume changes by (coefficient of linear expansion of aluminium $= 23 \\times 10^{-6}\\ °\\text{C}^{-1}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$9.62$ cc",
+      "image": ""
+    },
+    {
+      "text": "$86.7$ cc",
+      "image": ""
+    },
+    {
+      "text": "$28.9$ cc",
+      "image": ""
+    },
+    {
+      "text": "$2.89$ cc",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\gamma = 3\\alpha = 69 \\times 10^{-6}\\ °\\text{C}^{-1}$ and $V_0 = \\dfrac{4}{3}\\pi(10)^3 \\approx 4189$ cc:\n$$\\Delta V = V_0\\gamma\\Delta T = 4189 \\times 69 \\times 10^{-6} \\times 100 \\approx 28.9\\ \\text{cc}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

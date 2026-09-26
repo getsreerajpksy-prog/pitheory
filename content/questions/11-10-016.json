@@ -1,0 +1,39 @@
+{
+  "id": "11-10-016",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "EAMCET 2012 (Medical)",
+  "question": "A solid whose volume does not change with temperature floats in a liquid. At temperatures $t_1$ and $t_2$ of the liquid, the fractions of the volume of the solid that remain submerged are $f_1$ and $f_2$ respectively. The coefficient of absolute expansion of the liquid is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{f_2 - f_1}{f_2t_1 - f_1t_2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{f_1 - f_2}{f_2t_1 - f_1t_2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{f_1 + f_2}{f_2t_1 + f_1t_2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{f_1 - f_2}{f_1t_1 - f_2t_2}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The buoyant force always equals the (constant) weight, so the displaced volume times the liquid density is constant: $f\\rho = $ constant. With $\\rho = \\dfrac{\\rho_0}{1 + \\gamma t}$:\n$$\\frac{f_1}{1 + \\gamma t_1} = \\frac{f_2}{1 + \\gamma t_2} \\;\\Rightarrow\\; f_1 + f_1\\gamma t_2 = f_2 + f_2\\gamma t_1$$\n$$\\gamma = \\frac{f_1 - f_2}{f_2t_1 - f_1t_2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

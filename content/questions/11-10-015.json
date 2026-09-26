@@ -1,0 +1,40 @@
+{
+  "id": "11-10-015",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2013 (Medical)",
+  "question": "A long cylindrical metal vessel, of coefficient of linear expansion $\\alpha$, is filled with a liquid up to a certain height. On heating, the level of the liquid in the cylinder remains the same. The volume coefficient of expansion of the liquid is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2\\alpha$",
+      "image": ""
+    },
+    {
+      "text": "$\\alpha$",
+      "image": ""
+    },
+    {
+      "text": "$3\\alpha$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{3\\alpha}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "If the level stays fixed, the liquid volume grows only because the cross-sectional area of the vessel grows. The area expands with coefficient $2\\alpha$, so $\\gamma_{liquid} = 2\\alpha$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

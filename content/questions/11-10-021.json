@@ -1,0 +1,39 @@
+{
+  "id": "11-10-021",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2011 (Engineering)",
+  "question": "A non-conducting body floats in a liquid at $20°$C with $\\dfrac{2}{3}$ of its volume immersed in the liquid. When the liquid temperature is increased to $100°$C, $\\dfrac{3}{4}$ of the body's volume is immersed. The coefficient of real expansion of the liquid is (neglecting the expansion of the container of the liquid)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.56 \\times 10^{-4}\\ °\\text{C}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$15.6 \\times 10^{-4}\\ °\\text{C}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$1.56 \\times 10^{-5}\\ °\\text{C}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$15.6 \\times 10^{-5}\\ °\\text{C}^{-1}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Floating: $f\\rho$ is constant, so $\\dfrac{\\rho_{20}}{\\rho_{100}} = \\dfrac{f_{100}}{f_{20}} = \\dfrac{3/4}{2/3} = \\dfrac{9}{8}$.\n\n$\\dfrac{\\rho_{20}}{\\rho_{100}} = 1 + \\gamma(80)$:\n$$\\gamma = \\frac{1/8}{80} = 1.56 \\times 10^{-3} = 15.6 \\times 10^{-4}\\ °\\text{C}^{-1}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

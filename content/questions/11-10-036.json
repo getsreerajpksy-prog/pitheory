@@ -1,0 +1,40 @@
+{
+  "id": "11-10-036",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2012 (Medical)",
+  "question": "Equal masses of three liquids A, B and C have temperatures $10°$C, $25°$C and $40°$C respectively. If A and B are mixed, the mixture has a temperature of $15°$C. If B and C are mixed, the mixture has a temperature of $30°$C. If A and C are mixed, the temperature of the mixture is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$16°$C",
+      "image": ""
+    },
+    {
+      "text": "$35°$C",
+      "image": ""
+    },
+    {
+      "text": "$20°$C",
+      "image": ""
+    },
+    {
+      "text": "$25°$C",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Equal masses, so only specific heats matter.\n\nA and B: $s_A(15 - 10) = s_B(25 - 15) \\Rightarrow s_A = 2s_B$.\n\nB and C: $s_B(30 - 25) = s_C(40 - 30) \\Rightarrow s_B = 2s_C$. So $s_A = 4s_C$.\n\nA and C: $4s_C(\\theta - 10) = s_C(40 - \\theta) \\Rightarrow 5\\theta = 80 \\Rightarrow \\theta = 16°$C.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

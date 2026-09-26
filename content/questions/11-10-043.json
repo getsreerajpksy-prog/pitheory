@@ -1,0 +1,40 @@
+{
+  "id": "11-10-043",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Two rods of the same material and length have radii in the ratio $1 : 2$. With the same temperature difference across their ends, the ratio of their rates of heat flow is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4 : 1$",
+      "image": ""
+    },
+    {
+      "text": "$1 : 4$",
+      "image": ""
+    },
+    {
+      "text": "$1 : 2$",
+      "image": ""
+    },
+    {
+      "text": "$2 : 1$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\dfrac{Q}{t} = \\dfrac{KA\\Delta\\theta}{l} \\propto A \\propto r^2$, so the ratio is $1 : 4$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-12-012",
+  "chapter": "kinetic-theory",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2007 (Engineering)",
+  "question": "Two gases A and B having the same pressure $P$, volume $V$ and absolute temperature $T$ are mixed. If the mixture has the volume $V$ and temperature $T$ respectively, then the pressure of the mixture is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2P$",
+      "image": ""
+    },
+    {
+      "text": "$P$",
+      "image": ""
+    },
+    {
+      "text": "$P/2$",
+      "image": ""
+    },
+    {
+      "text": "$4P$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Each gas alone would exert $P$ in volume $V$ at $T$. By Dalton's law the pressures add: $2P$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

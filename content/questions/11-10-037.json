@@ -1,0 +1,40 @@
+{
+  "id": "11-10-037",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "At what temperature do the Celsius and Fahrenheit scales give the same reading?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$40°$",
+      "image": ""
+    },
+    {
+      "text": "$-32°$",
+      "image": ""
+    },
+    {
+      "text": "$0°$",
+      "image": ""
+    },
+    {
+      "text": "$-40°$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$F = \\dfrac{9}{5}C + 32$. Setting $F = C = x$: $x = 1.8x + 32 \\Rightarrow x = -40$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

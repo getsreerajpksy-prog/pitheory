@@ -1,0 +1,40 @@
+{
+  "id": "11-10-013",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2012 (Engineering)",
+  "question": "Two rods of lengths $L_1$ and $L_2$ are welded together to make a composite rod of length $(L_1 + L_2)$. If the coefficients of linear expansion of the materials of the rods are $\\alpha_1$ and $\\alpha_2$ respectively, the effective coefficient of linear expansion of the composite rod is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{L_1\\alpha_1 - L_2\\alpha_2}{L_1 + L_2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{L_1\\alpha_1 + L_2\\alpha_2}{L_1 + L_2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{\\alpha_1\\alpha_2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\alpha_1 + \\alpha_2}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The total expansion is the sum of the two: $(L_1 + L_2)\\alpha\\Delta T = L_1\\alpha_1\\Delta T + L_2\\alpha_2\\Delta T$:\n$$\\alpha = \\frac{L_1\\alpha_1 + L_2\\alpha_2}{L_1 + L_2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

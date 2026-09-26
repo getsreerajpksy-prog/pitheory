@@ -1,0 +1,40 @@
+{
+  "id": "11-10-044",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The surface temperature of a black body is doubled. The wavelength at which it radiates most strongly",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "becomes one-fourth",
+      "image": ""
+    },
+    {
+      "text": "does not change",
+      "image": ""
+    },
+    {
+      "text": "is halved",
+      "image": ""
+    },
+    {
+      "text": "is doubled",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Wien's law: $\\lambda_m T = $ constant, so doubling $T$ halves $\\lambda_m$ (the colour shifts towards blue).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

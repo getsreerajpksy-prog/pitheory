@@ -1,0 +1,39 @@
+{
+  "id": "11-10-024",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "AIEEE 2008",
+  "question": "Two walls of thicknesses $l_1$ and $l_2$ and thermal conductivities $K_1$ and $K_2$ are in contact. In the steady state, if the temperatures at the outer faces are $\\theta_1$ and $\\theta_2$, the temperature at the common wall is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{K_1\\theta_1l_2 + K_2\\theta_2l_1}{K_1l_2 + K_2l_1}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{K_1\\theta_1 + K_2\\theta_2}{K_1 + K_2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{K_1\\theta_1l_1 + K_2\\theta_2l_2}{K_1l_1 + K_2l_2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\theta_1 + \\theta_2}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Same heat current through both walls:\n$$\\frac{K_1A(\\theta_1 - \\theta)}{l_1} = \\frac{K_2A(\\theta - \\theta_2)}{l_2}$$\n$$\\theta = \\frac{K_1\\theta_1l_2 + K_2\\theta_2l_1}{K_1l_2 + K_2l_1}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

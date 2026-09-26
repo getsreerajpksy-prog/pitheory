@@ -1,0 +1,39 @@
+{
+  "id": "11-12-013",
+  "chapter": "kinetic-theory",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "EAMCET 2011 (Engineering)",
+  "question": "A closed hollow insulated cylinder is filled with gas at $0°$C and also contains an insulated piston of negligible weight and negligible thickness at the middle point. The gas on one side of the piston is heated to $100°$C. If the piston moves $5$ cm, the length of the hollow cylinder is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$13.65$ cm",
+      "image": ""
+    },
+    {
+      "text": "$27.3$ cm",
+      "image": ""
+    },
+    {
+      "text": "$38.6$ cm",
+      "image": ""
+    },
+    {
+      "text": "$64.6$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Let each half have length $x$ initially, at pressure $P$. After heating, both sides have the same pressure $P'$.\n\nHeated side: $\\dfrac{P'(x + 5)}{373} = \\dfrac{Px}{273}$. Other side (still at $273$ K): $P'(x - 5) = Px$.\n\nDividing: $\\dfrac{x + 5}{x - 5} = \\dfrac{373}{273} \\Rightarrow 100x = 3230 \\Rightarrow x = 32.3$ cm.\n\nLength of cylinder $= 2x = 64.6$ cm.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-10-028",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2008 (Engineering)",
+  "question": "Two slabs A and B of equal surface area are placed one over the other such that their surfaces are completely in contact. The thickness and the coefficient of thermal conductivity of slab A are twice those of B. The first surface of slab A is maintained at $100°$C, while the second surface of slab B is maintained at $25°$C. The temperature at the contact of their surfaces is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$15°$C",
+      "image": ""
+    },
+    {
+      "text": "$62.5°$C",
+      "image": ""
+    },
+    {
+      "text": "$55°$C",
+      "image": ""
+    },
+    {
+      "text": "$85°$C",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Thermal resistance $\\dfrac{l}{KA}$: A has twice the thickness and twice $K$, so the same resistance as B. The temperature drop is shared equally:\n$$\\theta = \\frac{100 + 25}{2} = 62.5°\\text{C}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

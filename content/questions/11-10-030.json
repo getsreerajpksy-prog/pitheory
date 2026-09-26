@@ -1,0 +1,40 @@
+{
+  "id": "11-10-030",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2014 (Engineering)",
+  "question": "A very small hole in an electric furnace is used for heating metals. The hole nearly acts as a black body. The area of the hole is $200\\ \\text{mm}^2$. To keep a metal at $727°$C, the heat energy flowing through this hole per second, in joules, is ($\\sigma = 5.67 \\times 10^{-8}\\ \\text{W m}^{-2}\\text{K}^{-4}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$22.68$",
+      "image": ""
+    },
+    {
+      "text": "$2.268$",
+      "image": ""
+    },
+    {
+      "text": "$1.134$",
+      "image": ""
+    },
+    {
+      "text": "$11.34$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$T = 1000$ K and $A = 2 \\times 10^{-4}\\ \\text{m}^2$:\n$$P = \\sigma AT^4 = 5.67 \\times 10^{-8} \\times 2 \\times 10^{-4} \\times 10^{12} = 11.34\\ \\text{W}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

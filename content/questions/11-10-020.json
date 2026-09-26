@@ -1,0 +1,40 @@
+{
+  "id": "11-10-020",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2009 (Medical)",
+  "question": "The volume of mercury in the bulb of a thermometer is $10^{-6}\\ \\text{m}^3$. The area of cross-section of the capillary tube is $2 \\times 10^{-7}\\ \\text{m}^2$. If the temperature is raised by $100°$C, the increase in the length of the mercury column is ($\\gamma_{Hg} = 18 \\times 10^{-5}\\ °\\text{C}^{-1}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$18$ cm",
+      "image": ""
+    },
+    {
+      "text": "$0.9$ cm",
+      "image": ""
+    },
+    {
+      "text": "$9$ cm",
+      "image": ""
+    },
+    {
+      "text": "$1.8$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\Delta V = V\\gamma\\Delta T = 10^{-6} \\times 18 \\times 10^{-5} \\times 100 = 1.8 \\times 10^{-8}\\ \\text{m}^3$$\n$$\\Delta l = \\frac{\\Delta V}{A} = \\frac{1.8 \\times 10^{-8}}{2 \\times 10^{-7}} = 0.09\\ \\text{m} = 9\\ \\text{cm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

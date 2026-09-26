@@ -1,0 +1,39 @@
+{
+  "id": "11-10-017",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "EAMCET 2009 (Engineering)",
+  "question": "A piece of metal weighs $45$ g in air and $25$ g in a liquid of density $1.5 \\times 10^3\\ \\text{kg m}^{-3}$ kept at $30°$C. When the temperature of the liquid is raised to $40°$C, the metal piece weighs $27$ g. The density of the liquid at $40°$C is $1.25 \\times 10^3\\ \\text{kg m}^{-3}$. The coefficient of linear expansion of the metal is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.33 \\times 10^{-3}\\ °\\text{C}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$5.3 \\times 10^{-4}\\ °\\text{C}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$2.67 \\times 10^{-3}\\ °\\text{C}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$8 \\times 10^{-3}\\ °\\text{C}^{-1}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Loss of weight = mass of liquid displaced = volume $\\times$ density.\n\nAt $30°$C: $V_{30} = \\dfrac{20\\ \\text{g}}{1.5\\ \\text{g/cc}} = 13.33$ cc. At $40°$C: $V_{40} = \\dfrac{18}{1.25} = 14.4$ cc.\n$$\\gamma = \\frac{V_{40} - V_{30}}{V_{30}\\,\\Delta T} = \\frac{1.067}{13.33 \\times 10} = 8 \\times 10^{-3}\\ °\\text{C}^{-1}, \\qquad \\alpha = \\frac{\\gamma}{3} \\approx 2.67 \\times 10^{-3}\\ °\\text{C}^{-1}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

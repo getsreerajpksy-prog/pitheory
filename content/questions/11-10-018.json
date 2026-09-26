@@ -1,0 +1,40 @@
+{
+  "id": "11-10-018",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2008 (Medical)",
+  "question": "A one litre flask contains some mercury. It is found that at different temperatures the volume of air inside the flask remains the same. The volume of mercury taken in the flask is (coefficient of linear expansion of glass $= 9 \\times 10^{-6}\\ °\\text{C}^{-1}$ and coefficient of volume expansion of Hg $= 1.8 \\times 10^{-4}\\ °\\text{C}^{-1}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$150$ ml",
+      "image": ""
+    },
+    {
+      "text": "$750$ ml",
+      "image": ""
+    },
+    {
+      "text": "$1000$ ml",
+      "image": ""
+    },
+    {
+      "text": "$700$ ml",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The air volume stays constant if the flask and the mercury expand by the same amount: $V_g\\gamma_g = V_{Hg}\\gamma_{Hg}$, with $\\gamma_g = 3\\alpha = 27 \\times 10^{-6}$:\n$$V_{Hg} = \\frac{1000 \\times 27 \\times 10^{-6}}{1.8 \\times 10^{-4}} = 150\\ \\text{ml}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

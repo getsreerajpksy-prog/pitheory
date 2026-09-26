@@ -1,0 +1,22 @@
+{
+  "id": "11-10-046",
+  "chapter": "thermal-properties-of-matter",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $50$ cm long steel rod is clamped rigidly at both ends at $20°$C and then heated to $70°$C. Find the thermal stress produced, in units of $10^8$ Pa. ($Y = 2 \\times 10^{11}$ Pa, $\\alpha = 1.2 \\times 10^{-5}\\ °\\text{C}^{-1}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "1.2",
+  "tolerance": "0",
+  "solution": "$$\\sigma = Y\\alpha\\Delta T = 2 \\times 10^{11} \\times 1.2 \\times 10^{-5} \\times 50 = 1.2 \\times 10^8\\ \\text{Pa}$$\n\n(The length does not matter.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-10-042",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "$10$ g of ice at $0°$C is mixed with $10$ g of water at $40°$C. The final temperature and the mass of ice left are (latent heat of fusion $= 80$ cal/g)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0°$C and $5$ g",
+      "image": ""
+    },
+    {
+      "text": "$0°$C and $0$ g",
+      "image": ""
+    },
+    {
+      "text": "$20°$C and $0$ g",
+      "image": ""
+    },
+    {
+      "text": "$0°$C and $2.5$ g",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The water can give at most $10 \\times 40 = 400$ cal by cooling to $0°$C. Melting all the ice needs $800$ cal, so only $\\dfrac{400}{80} = 5$ g melts. The mixture stays at $0°$C with $5$ g of ice left.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

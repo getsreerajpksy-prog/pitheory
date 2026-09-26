@@ -1,0 +1,40 @@
+{
+  "id": "11-10-031",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2003 (Medical)",
+  "question": "A particular star (assuming it to be a black body) has a surface temperature of about $5 \\times 10^4$ K. The wavelength in nanometres at which its radiation becomes maximum is ($b = 0.0029$ m K)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$48$",
+      "image": ""
+    },
+    {
+      "text": "$58$",
+      "image": ""
+    },
+    {
+      "text": "$60$",
+      "image": ""
+    },
+    {
+      "text": "$70$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Wien's law: $\\lambda_m = \\dfrac{b}{T} = \\dfrac{0.0029}{5 \\times 10^4} = 5.8 \\times 10^{-8}$ m $= 58$ nm.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

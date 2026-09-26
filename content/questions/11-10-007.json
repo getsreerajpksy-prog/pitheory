@@ -1,0 +1,39 @@
+{
+  "id": "11-10-007",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "AIEEE 2011",
+  "question": "A metal rod of Young's modulus $Y$ and coefficient of linear expansion $\\alpha$ is held at its two ends such that its length remains invariant. If its temperature is raised by $t\\ °$C, the linear stress developed in it is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{1}{Y\\alpha t}$",
+      "image": ""
+    },
+    {
+      "text": "$Y\\alpha t$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{Y}{\\alpha t}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\alpha t}{Y}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The rod is prevented from expanding by $\\Delta L = L\\alpha t$, so the compressive strain is $\\alpha t$:\n$$\\text{stress} = Y \\times \\text{strain} = Y\\alpha t$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

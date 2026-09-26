@@ -1,0 +1,39 @@
+{
+  "id": "11-10-026",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2013 (Medical)",
+  "question": "A cylinder of radius $R$ made of a material of thermal conductivity $K_1$ is surrounded by a cylindrical shell of inner radius $R$ and outer radius $2R$ made of a material of thermal conductivity $K_2$. The two ends of the combined system are maintained at two different temperatures. There is no loss of heat across the cylindrical surface and the system is in steady state. The effective thermal conductivity of the system is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{K_1K_2}{K_1 + K_2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{3K_1 + K_2}{4}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{K_1 + 3K_2}{4}$",
+      "image": ""
+    },
+    {
+      "text": "$K_1 + K_2$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The heat flows along the axis through both parts side by side, so they are in parallel:\n$$K_{eff}(A_1 + A_2) = K_1A_1 + K_2A_2, \\quad A_1 = \\pi R^2,\\ A_2 = 3\\pi R^2$$\n$$K_{eff} = \\frac{K_1 + 3K_2}{4}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

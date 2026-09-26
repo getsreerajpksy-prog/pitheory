@@ -1,0 +1,40 @@
+{
+  "id": "11-10-025",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2010 (Engineering)",
+  "question": "Three rods AB, BC and BD made of the same material and having the same area of cross-section and the same length are joined at B, as in a T-shape. The ends A, C and D are held at temperatures $20°$C, $80°$C and $80°$C respectively. The temperature at the junction B of the three rods is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$70°$C",
+      "image": ""
+    },
+    {
+      "text": "$60°$C",
+      "image": ""
+    },
+    {
+      "text": "$40°$C",
+      "image": ""
+    },
+    {
+      "text": "$50°$C",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "In the steady state the net heat flowing into B is zero. The rods are identical, so each current is proportional to its temperature difference:\n$$(80 - \\theta) + (80 - \\theta) = \\theta - 20 \\;\\Rightarrow\\; 3\\theta = 180 \\;\\Rightarrow\\; \\theta = 60°\\text{C}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

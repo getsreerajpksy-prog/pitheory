@@ -1,0 +1,40 @@
+{
+  "id": "11-10-022",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2013 (Engineering)",
+  "question": "A glass flask of volume one litre is filled completely with mercury at $0°$C. The flask is now heated to $100°$C. The coefficient of volume expansion of mercury is $1.82 \\times 10^{-4}\\ °\\text{C}^{-1}$ and the coefficient of linear expansion of glass is $0.1 \\times 10^{-4}\\ °\\text{C}^{-1}$. The amount of mercury which overflows is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$21.2$ cc",
+      "image": ""
+    },
+    {
+      "text": "$15.2$ cc",
+      "image": ""
+    },
+    {
+      "text": "$2.12$ cc",
+      "image": ""
+    },
+    {
+      "text": "$18.2$ cc",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Overflow = (real expansion of mercury) $-$ (expansion of flask):\n$$\\Delta V = V(\\gamma_{Hg} - 3\\alpha_g)\\Delta T = 1000(1.82 - 0.3) \\times 10^{-4} \\times 100 = 15.2\\ \\text{cc}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

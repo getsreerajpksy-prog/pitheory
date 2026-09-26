@@ -1,0 +1,40 @@
+{
+  "id": "11-10-041",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "$20$ g of ice at $0°$C is mixed with $40$ g of water at $50°$C. The final temperature of the mixture is (latent heat of fusion $= 80$ cal/g)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0°$C",
+      "image": ""
+    },
+    {
+      "text": "$25°$C",
+      "image": ""
+    },
+    {
+      "text": "$10°$C",
+      "image": ""
+    },
+    {
+      "text": "$6.67°$C",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Heat available from the water cooling to $0°$C: $40 \\times 50 = 2000$ cal. Heat to melt all the ice: $20 \\times 80 = 1600$ cal. All the ice melts, leaving $400$ cal to warm $60$ g of water:\n$$\\theta = \\frac{400}{60} \\approx 6.67°\\text{C}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

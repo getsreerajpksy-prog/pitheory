@@ -1,0 +1,40 @@
+{
+  "id": "11-10-010",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 1983 (Engineering)",
+  "question": "A metal rod having a linear coefficient of expansion $2 \\times 10^{-5}\\ °\\text{C}^{-1}$ has a length of $1$ m at $25°$C. The temperature at which it is shortened by $1$ mm is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$50°$C",
+      "image": ""
+    },
+    {
+      "text": "$-50°$C",
+      "image": ""
+    },
+    {
+      "text": "$-25°$C",
+      "image": ""
+    },
+    {
+      "text": "$-12.5°$C",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\Delta T = \\frac{\\Delta L}{L\\alpha} = \\frac{-10^{-3}}{1 \\times 2 \\times 10^{-5}} = -50°\\text{C}$$\n\nNew temperature $= 25 - 50 = -25°$C.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

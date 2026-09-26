@@ -1,0 +1,40 @@
+{
+  "id": "11-10-029",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2009 (Engineering)",
+  "question": "Three rods of the same dimensions have thermal conductivities $3K$, $2K$ and $K$. They are joined at one common point. The free end of the $3K$ rod is at $100°$C, that of the $2K$ rod at $50°$C and that of the $K$ rod at $0°$C. The temperature of the junction in the steady state is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{200}{3}°$C",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{100}{3}°$C",
+      "image": ""
+    },
+    {
+      "text": "$75°$C",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{50}{3}°$C",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Net heat into the junction is zero:\n$$3K(100 - \\theta) + 2K(50 - \\theta) + K(0 - \\theta) = 0 \\;\\Rightarrow\\; 400 = 6\\theta \\;\\Rightarrow\\; \\theta = \\frac{200}{3}°\\text{C}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

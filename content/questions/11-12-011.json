@@ -1,0 +1,40 @@
+{
+  "id": "11-12-011",
+  "chapter": "kinetic-theory",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2011 (Medical)",
+  "question": "The gas in a vessel is subjected to a pressure of $20$ atm at a temperature of $27°$C. The pressure of the gas in the vessel after one-half of the gas is released from the vessel and the temperature of the remainder is raised by $50°$C is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$8.5$ atm",
+      "image": ""
+    },
+    {
+      "text": "$11.7$ atm",
+      "image": ""
+    },
+    {
+      "text": "$17$ atm",
+      "image": ""
+    },
+    {
+      "text": "$10.8$ atm",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At constant volume, $P \\propto nT$:\n$$P_2 = 20 \\times \\frac{1}{2} \\times \\frac{350}{300} \\approx 11.7\\ \\text{atm}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

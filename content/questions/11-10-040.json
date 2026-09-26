@@ -1,0 +1,40 @@
+{
+  "id": "11-10-040",
+  "chapter": "thermal-properties-of-matter",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "How much heat is needed to convert $10$ g of ice at $-10°$C into steam at $100°$C? (specific heat of ice $= 0.5$ cal/g°C, latent heat of fusion $= 80$ cal/g, latent heat of vaporisation $= 540$ cal/g)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$7200$ cal",
+      "image": ""
+    },
+    {
+      "text": "$6300$ cal",
+      "image": ""
+    },
+    {
+      "text": "$7250$ cal",
+      "image": ""
+    },
+    {
+      "text": "$6250$ cal",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$Q = 10(0.5)(10) + 10(80) + 10(1)(100) + 10(540) = 50 + 800 + 1000 + 5400 = 7250\\ \\text{cal}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
