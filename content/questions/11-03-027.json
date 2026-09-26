@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Velocity of rain relative to the man:\n$$\\vec{v}_{rm} = \\vec{v}_r - \\vec{v}_m = 6\\ \\text{(down)} - 8\\ \\text{(forward)} = 6\\ \\text{down} + 8\\ \\text{backward}$$\n\nThe rain appears to come from in front of him, moving down and backward, so he tilts the umbrella forward. Its angle with the vertical:\n$$\\tan\\theta = \\frac{8}{6} = \\frac{4}{3}$$\n\n(The rain hits him at $10$ m/s relative to him.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
