@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Each piece has $\\dfrac{1}{4}$ the mass and the same length, so $I' = \\dfrac{I}{4}$. Its pole strength is also $\\dfrac{1}{4}$, so $M' = \\dfrac{M}{4}$.\n\n$T = 2\\pi\\sqrt{\\dfrac{I}{MB}}$ is unchanged: $4$ s.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
