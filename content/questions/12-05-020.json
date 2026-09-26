@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$H = nI = 2000$ A/m. $B = \\mu_0\\mu_rH = 4\\pi \\times 10^{-7} \\times 400 \\times 2000 = 0.32\\pi \\approx 1.0$ T.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
