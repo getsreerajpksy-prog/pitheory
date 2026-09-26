@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$I = 6 \\times 10^4\\ \\text{W/m}^2$. For perfect reflection $P = \\dfrac{2I}{c} = \\dfrac{1.2 \\times 10^5}{3 \\times 10^8} = 4 \\times 10^{-4}$ Pa. (Half this for a perfect absorber.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
