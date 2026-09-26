@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$\\varepsilon = L\\dfrac{\\Delta I}{\\Delta t} = 0.4 \\times \\dfrac{3}{0.2} = 6$ V.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
