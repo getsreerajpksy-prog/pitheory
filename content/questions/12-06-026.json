@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\varepsilon = NBA\\omega\\sin\\omega t$ is maximum when the flux is zero but changing fastest, i.e. when the plane of the coil is parallel to the field.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
