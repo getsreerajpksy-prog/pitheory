@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$\\gamma = 3\\alpha = 69 \\times 10^{-6}\\ °\\text{C}^{-1}$ and $V_0 = \\dfrac{4}{3}\\pi(10)^3 \\approx 4189$ cc:\n$$\\Delta V = V_0\\gamma\\Delta T = 4189 \\times 69 \\times 10^{-6} \\times 100 \\approx 28.9\\ \\text{cc}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
