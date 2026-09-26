@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Actual sum $= 16.2 + 0.847 + 3.08 = 20.127\\ \\text{m}$\n\nIn addition and subtraction, the rule is about decimal places, not significant figures. The least precise value, $16.2$, has one decimal place, so the result is rounded to one decimal place:\n$$20.1\\ \\text{m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
