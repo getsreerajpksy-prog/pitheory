@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$v_{min} = \\sqrt{5gr} = \\sqrt{5 \\times 10 \\times 0.4} = \\sqrt{20} \\approx 4.5\\ \\text{m/s}$$\n\n(At the top it then has the minimum speed $\\sqrt{gr} = 2$ m/s, with zero tension.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

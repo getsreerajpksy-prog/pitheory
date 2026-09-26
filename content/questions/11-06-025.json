@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "In rolling without slipping, every point moves as if rotating about the contact point with angular speed $\\omega$, so its speed is $\\omega \\times$ (its distance from the contact point).\n\nQ is above C, so it is farther from the contact point than C. P is below C, so it is nearer. Hence\n$$V_Q > V_C > V_P$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

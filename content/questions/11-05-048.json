@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "At the horizontal position the bob has risen $2$ m:\n$$v^2 = 60 - 2(10)(2) = 20$$\n\nGravity is along the path there, so the tension alone provides the centripetal force:\n$$T = \\frac{mv^2}{l} = \\frac{0.5 \\times 20}{2} = 5\\ \\text{N}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

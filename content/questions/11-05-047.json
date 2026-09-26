@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$v(0) = 0$ and $v(2) = 6$ m/s. By the work-energy theorem:\n$$W = \\frac{1}{2}(4)(6^2) - 0 = 72\\ \\text{J}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

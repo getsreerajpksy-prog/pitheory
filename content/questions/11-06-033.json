@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "For rolling, $a = \\dfrac{g\\sin\\theta}{1 + k^2/R^2}$. For a solid cylinder $\\dfrac{k^2}{R^2} = \\dfrac{1}{2}$:\n$$a = \\frac{10 \\times 0.5}{1.5} = \\frac{10}{3}\\ \\text{m/s}^2$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

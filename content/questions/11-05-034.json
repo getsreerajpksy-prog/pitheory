@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$W = \\int_1^3 (4 + 6x)\\,dx = \\Big[4x + 3x^2\\Big]_1^3 = (12 + 27) - (4 + 3) = 32\\ \\text{J}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

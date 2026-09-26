@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The explosion forces are internal, so they cannot change the motion of the centre of mass. The only external force is still gravity, so the centre of mass keeps following the same parabola (until a fragment hits the ground).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

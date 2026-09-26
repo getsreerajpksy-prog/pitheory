@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\omega_f = \\frac{2 \\times 6}{2 + 2} = 3\\ \\text{rad/s}$$\n$$K_i = \\frac{1}{2}(2)(36) = 36\\ \\text{J}, \\qquad K_f = \\frac{1}{2}(4)(9) = 18\\ \\text{J}$$\n\nLost $= 18$ J, turned into heat by friction between the discs.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

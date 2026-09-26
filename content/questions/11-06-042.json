@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$$\\theta = \\frac{\\omega_0 + \\omega}{2}t = \\frac{0 + 20}{2}(5) = 50\\ \\text{rad}$$\n$$\\text{Revolutions} = \\frac{50}{2\\pi} \\approx 7.96 \\approx 8$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Work-energy theorem: friction removes all the kinetic energy.\n$$\\mu mg\\,d = \\frac{1}{2}mv^2 \\;\\Rightarrow\\; \\mu = \\frac{v^2}{2gd} = \\frac{36}{90} = 0.4$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

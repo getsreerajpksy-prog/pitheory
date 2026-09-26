@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$mgh = \\frac{1}{2}mv^2\\left(1 + \\frac{k^2}{R^2}\\right) = \\frac{1}{2}mv^2 \\cdot \\frac{7}{5} \\;\\Rightarrow\\; v^2 = \\frac{10gh}{7} = 100$$\n$$v = 10\\ \\text{m/s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

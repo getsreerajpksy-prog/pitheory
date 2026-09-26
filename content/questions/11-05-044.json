@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Common velocity $\\dfrac{v}{2}$. Final KE $= \\dfrac{1}{2}(2m)\\left(\\dfrac{v}{2}\\right)^2 = \\dfrac{1}{4}mv^2$, which is half of the initial $\\dfrac{1}{2}mv^2$.\n\nSo half the kinetic energy is lost (mostly as heat and deformation).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

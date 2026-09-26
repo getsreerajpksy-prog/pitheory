@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "No external torque, so $I_1\\omega_1 = I_2\\omega_2$: $\\omega_2 = \\dfrac{6}{2} \\times 30 = 90$ rpm.\n\n$K = \\dfrac{L^2}{2I}$ with $L$ constant, so $\\dfrac{K_2}{K_1} = \\dfrac{I_1}{I_2} = 3$. The extra energy comes from the work the man does pulling his arms in.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

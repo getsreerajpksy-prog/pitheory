@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "A central force always acts along the line joining the particle to the centre, i.e. along $\\vec{r}$. So its torque about the centre is $\\vec{\\tau} = \\vec{r}\\times\\vec{F} = 0$.\n\nWith zero torque, $\\dfrac{d\\vec{L}}{dt} = 0$ and the angular momentum is conserved.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

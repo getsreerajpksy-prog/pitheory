@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "About a diameter: $\\dfrac{MR^2}{2}$ (perpendicular axis theorem: two diameters add to $MR^2$).\n\nParallel axis theorem for the tangent in the plane:\n$$I = \\frac{MR^2}{2} + MR^2 = \\frac{3}{2}MR^2$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Mass per second $= 10$ kg/s. Useful power:\n$$P_{out} = \\frac{dm}{dt}\\left(gh + \\frac{v^2}{2}\\right) = 10(250 + 50) = 3000\\ \\text{W}$$\n$$P_{in} = \\frac{3000}{0.75} = 4000\\ \\text{W} = 4\\ \\text{kW}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

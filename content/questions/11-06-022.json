@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The angular speed is maximum at the lowest position. All of that rotational KE becomes PE of the centre of mass:\n$$\\frac{1}{2}\\left(\\frac{ml^2}{3}\\right)\\omega^2 = mgh \\;\\Rightarrow\\; h = \\frac{l^2\\omega^2}{6g}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
