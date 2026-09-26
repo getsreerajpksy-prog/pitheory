@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "For an inductor, $V = L\\dfrac{dI}{dt}$: the voltage peaks a quarter cycle before the current, so the current lags by $\\dfrac{\\pi}{2}$. (In a capacitor it leads.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
