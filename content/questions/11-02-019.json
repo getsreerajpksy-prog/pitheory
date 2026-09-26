@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Displacement is the integral of velocity:\n$$x = \\int_0^1 (v_0 + gt + ft^2)\\,dt = \\left[v_0t + \\frac{gt^2}{2} + \\frac{ft^3}{3}\\right]_0^1 = v_0 + \\frac{g}{2} + \\frac{f}{3}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
