@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Near the surface, $v_o = \\sqrt{gR}$ and $v_e = \\sqrt{2gR}$, so $v_o = \\dfrac{v_e}{\\sqrt{2}} = \\dfrac{11.2}{1.414} \\approx 7.9$ km/s.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
