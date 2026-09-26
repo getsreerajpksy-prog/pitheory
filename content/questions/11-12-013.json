@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Let each half have length $x$ initially, at pressure $P$. After heating, both sides have the same pressure $P'$.\n\nHeated side: $\\dfrac{P'(x + 5)}{373} = \\dfrac{Px}{273}$. Other side (still at $273$ K): $P'(x - 5) = Px$.\n\nDividing: $\\dfrac{x + 5}{x - 5} = \\dfrac{373}{273} \\Rightarrow 100x = 3230 \\Rightarrow x = 32.3$ cm.\n\nLength of cylinder $= 2x = 64.6$ cm.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

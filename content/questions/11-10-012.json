@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$T = 2\\pi\\sqrt{\\dfrac{L}{g}}$ stays the same if $\\dfrac{L}{g}$ stays the same. $g$ has increased by a factor $1.001$, so $L$ must increase by the same factor:\n$$\\alpha\\Delta T = 0.001 \\;\\Rightarrow\\; \\Delta T = \\frac{0.001}{10^{-5}} = 100°\\text{C}$$\n\nRequired temperature $= 20 + 100 = 120°$C.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

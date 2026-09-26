@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$I \\propto$ (mass)(length)$^2$, and the mass does not change. Every length grows by the factor $(1 + \\alpha\\Delta t)$:\n$$\\frac{\\Delta I}{I} \\approx 2\\alpha\\Delta t$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

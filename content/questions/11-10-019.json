@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Real expansion = apparent + vessel: $\\gamma_R = 10.30 \\times 10^{-4} + 3(9 \\times 10^{-6}) = 10.57 \\times 10^{-4}$.\n\nFor the metal vessel: $\\gamma_{metal} = 10.57 \\times 10^{-4} - 10.06 \\times 10^{-4} = 51 \\times 10^{-6}$, so $\\alpha_{metal} = 17 \\times 10^{-6}\\ °\\text{C}^{-1}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

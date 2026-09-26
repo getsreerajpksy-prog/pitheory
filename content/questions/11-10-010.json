@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\Delta T = \\frac{\\Delta L}{L\\alpha} = \\frac{-10^{-3}}{1 \\times 2 \\times 10^{-5}} = -50°\\text{C}$$\n\nNew temperature $= 25 - 50 = -25°$C.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

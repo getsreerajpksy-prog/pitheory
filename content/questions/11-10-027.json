@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Rate of heat flow $\\propto KA$. Half the diameter gives $\\dfrac{1}{4}$ of the area; double $K$ gives a factor $2$:\n$$\\text{New rate} = 0.5 \\times \\frac{1}{4} \\times 2 = 0.25\\ \\text{g/s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

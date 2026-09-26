@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The total expansion is the sum of the two: $(L_1 + L_2)\\alpha\\Delta T = L_1\\alpha_1\\Delta T + L_2\\alpha_2\\Delta T$:\n$$\\alpha = \\frac{L_1\\alpha_1 + L_2\\alpha_2}{L_1 + L_2}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

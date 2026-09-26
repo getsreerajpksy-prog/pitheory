@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$T = 1000$ K and $A = 2 \\times 10^{-4}\\ \\text{m}^2$:\n$$P = \\sigma AT^4 = 5.67 \\times 10^{-8} \\times 2 \\times 10^{-4} \\times 10^{12} = 11.34\\ \\text{W}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

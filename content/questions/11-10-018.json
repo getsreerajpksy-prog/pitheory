@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The air volume stays constant if the flask and the mercury expand by the same amount: $V_g\\gamma_g = V_{Hg}\\gamma_{Hg}$, with $\\gamma_g = 3\\alpha = 27 \\times 10^{-6}$:\n$$V_{Hg} = \\frac{1000 \\times 27 \\times 10^{-6}}{1.8 \\times 10^{-4}} = 150\\ \\text{ml}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

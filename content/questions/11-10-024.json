@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Same heat current through both walls:\n$$\\frac{K_1A(\\theta_1 - \\theta)}{l_1} = \\frac{K_2A(\\theta - \\theta_2)}{l_2}$$\n$$\\theta = \\frac{K_1\\theta_1l_2 + K_2\\theta_2l_1}{K_1l_2 + K_2l_1}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

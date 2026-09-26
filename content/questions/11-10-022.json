@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Overflow = (real expansion of mercury) $-$ (expansion of flask):\n$$\\Delta V = V(\\gamma_{Hg} - 3\\alpha_g)\\Delta T = 1000(1.82 - 0.3) \\times 10^{-4} \\times 100 = 15.2\\ \\text{cc}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

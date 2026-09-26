@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Net heat into the junction is zero:\n$$3K(100 - \\theta) + 2K(50 - \\theta) + K(0 - \\theta) = 0 \\;\\Rightarrow\\; 400 = 6\\theta \\;\\Rightarrow\\; \\theta = \\frac{200}{3}°\\text{C}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

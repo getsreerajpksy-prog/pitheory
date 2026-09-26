@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "If the level stays fixed, the liquid volume grows only because the cross-sectional area of the vessel grows. The area expands with coefficient $2\\alpha$, so $\\gamma_{liquid} = 2\\alpha$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

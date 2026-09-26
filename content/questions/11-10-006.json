@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The difference stays constant only if both rods expand by the same amount: $l_b\\alpha_b = l_i\\alpha_i$, so $\\dfrac{l_i}{l_b} = \\dfrac{18}{12} = \\dfrac{3}{2}$. The iron rod is longer.\n\nWith $l_i - l_b = 0.2$ m: $l_b = 0.4$ m and $l_i = 0.6$ m.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

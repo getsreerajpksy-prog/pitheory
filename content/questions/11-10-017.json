@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Loss of weight = mass of liquid displaced = volume $\\times$ density.\n\nAt $30°$C: $V_{30} = \\dfrac{20\\ \\text{g}}{1.5\\ \\text{g/cc}} = 13.33$ cc. At $40°$C: $V_{40} = \\dfrac{18}{1.25} = 14.4$ cc.\n$$\\gamma = \\frac{V_{40} - V_{30}}{V_{30}\\,\\Delta T} = \\frac{1.067}{13.33 \\times 10} = 8 \\times 10^{-3}\\ °\\text{C}^{-1}, \\qquad \\alpha = \\frac{\\gamma}{3} \\approx 2.67 \\times 10^{-3}\\ °\\text{C}^{-1}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

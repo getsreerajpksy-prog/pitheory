@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$DC^2 = AC^2 - AD^2$, where $AD = \\dfrac{AB}{2}$. With side $L$, heating by $\\Delta T$ changes $AC$ by $L\\alpha_2\\Delta T$ and $AD$ by $\\dfrac{L}{2}\\alpha_1\\Delta T$.\n\nFor $DC$ to stay constant, $d(AC^2) = d(AD^2)$:\n$$2L(L\\alpha_2\\Delta T) = 2\\cdot\\frac{L}{2}\\left(\\frac{L}{2}\\alpha_1\\Delta T\\right) \\;\\Rightarrow\\; \\alpha_2 = \\frac{\\alpha_1}{4} \\;\\Rightarrow\\; \\alpha_1 = 4\\alpha_2$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
