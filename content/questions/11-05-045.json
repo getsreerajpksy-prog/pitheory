@@ -1,0 +1,39 @@
+{
+  "id": "11-05-045",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The potential energy of a particle moving along the $x$-axis is $U(x) = x^3 - 12x$ (SI units). The particle is in stable equilibrium at",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$x = -2$ m",
+      "image": ""
+    },
+    {
+      "text": "$x = 0$",
+      "image": ""
+    },
+    {
+      "text": "$x = 12$ m",
+      "image": ""
+    },
+    {
+      "text": "$x = 2$ m",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Equilibrium: $F = -\\dfrac{dU}{dx} = -(3x^2 - 12) = 0 \\Rightarrow x = \\pm 2$ m.\n\nStable equilibrium is a minimum of $U$: $\\dfrac{d^2U}{dx^2} = 6x > 0$ at $x = 2$. (At $x = -2$ it is a maximum, which is unstable.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

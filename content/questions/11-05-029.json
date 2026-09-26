@@ -1,0 +1,39 @@
+{
+  "id": "11-05-029",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2009 (Engineering)",
+  "question": "A motor of power $P_0$ is used to deliver water at a certain rate through a given horizontal pipe. To increase the rate of flow of water through the same pipe $n$ times, the power of the motor is increased to $P_1$. The ratio of $P_1$ to $P_0$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$n : 1$",
+      "image": ""
+    },
+    {
+      "text": "$n^2 : 1$",
+      "image": ""
+    },
+    {
+      "text": "$n^3 : 1$",
+      "image": ""
+    },
+    {
+      "text": "$1 : n^3$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Through the same pipe, the rate of flow $Av$ increases $n$ times only if the speed $v$ increases $n$ times.\n\nPower = kinetic energy delivered per second $= \\dfrac{1}{2}(\\rho Av)v^2 \\propto v^3$.\n\nSo $P_1 : P_0 = n^3 : 1$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

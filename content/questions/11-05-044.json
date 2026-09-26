@@ -1,0 +1,40 @@
+{
+  "id": "11-05-044",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A body of mass $m$ moving with speed $v$ collides with an identical body at rest and sticks to it. The fraction of the initial kinetic energy lost in the collision is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{3}{4}$",
+      "image": ""
+    },
+    {
+      "text": "$0$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{4}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Common velocity $\\dfrac{v}{2}$. Final KE $= \\dfrac{1}{2}(2m)\\left(\\dfrac{v}{2}\\right)^2 = \\dfrac{1}{4}mv^2$, which is half of the initial $\\dfrac{1}{2}mv^2$.\n\nSo half the kinetic energy is lost (mostly as heat and deformation).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-05-034",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A force $F = (4 + 6x)$ N acts along the $x$-axis on a body. The work done by it as the body moves from $x = 1$ m to $x = 3$ m is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$32$ J",
+      "image": ""
+    },
+    {
+      "text": "$24$ J",
+      "image": ""
+    },
+    {
+      "text": "$40$ J",
+      "image": ""
+    },
+    {
+      "text": "$16$ J",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$W = \\int_1^3 (4 + 6x)\\,dx = \\Big[4x + 3x^2\\Big]_1^3 = (12 + 27) - (4 + 3) = 32\\ \\text{J}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

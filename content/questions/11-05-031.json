@@ -1,0 +1,39 @@
+{
+  "id": "11-05-031",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2007 (Medical)",
+  "question": "A ball of mass $0.6$ kg attached to a light inextensible string rotates in a vertical circle of radius $0.75$ m such that it has a speed of $5\\ \\text{m s}^{-1}$ when the string is horizontal. The tension in the string when it is horizontal on the other side is ($g = 10\\ \\text{m s}^{-2}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$30$ N",
+      "image": ""
+    },
+    {
+      "text": "$26$ N",
+      "image": ""
+    },
+    {
+      "text": "$20$ N",
+      "image": ""
+    },
+    {
+      "text": "$6$ N",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "When the string is horizontal, gravity is perpendicular to the string, so only the tension provides the centripetal force.\n\nThe two horizontal positions are at the same height, so the speed is again $5$ m/s:\n$$T = \\frac{mv^2}{r} = \\frac{0.6 \\times 25}{0.75} = 20\\ \\text{N}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

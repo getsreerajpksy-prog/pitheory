@@ -1,0 +1,40 @@
+{
+  "id": "11-05-017",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2013 (Engineering)",
+  "question": "A ball at rest is dropped from a height of $12$ m. If it loses $25\\%$ of its kinetic energy on striking the ground and bounces back to a height $h$, the value of $h$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$3$ m",
+      "image": ""
+    },
+    {
+      "text": "$6$ m",
+      "image": ""
+    },
+    {
+      "text": "$9$ m",
+      "image": ""
+    },
+    {
+      "text": "$12$ m",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Just before impact its kinetic energy is $mg(12)$. It keeps $75\\%$ of this, which becomes potential energy at the top of the bounce:\n$$mgh = 0.75 \\times mg(12) \\;\\Rightarrow\\; h = 9\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

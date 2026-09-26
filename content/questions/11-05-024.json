@@ -1,0 +1,39 @@
+{
+  "id": "11-05-024",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2012 (Medical)",
+  "question": "A ball at rest is dropped freely from a height of $20$ m. It loses $30\\%$ of its energy on striking the ground and bounces back. The height to which it bounces back is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$14$ m",
+      "image": ""
+    },
+    {
+      "text": "$12$ m",
+      "image": ""
+    },
+    {
+      "text": "$9$ m",
+      "image": ""
+    },
+    {
+      "text": "$6$ m",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "It keeps $70\\%$ of its energy: $h = 0.7 \\times 20 = 14$ m.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

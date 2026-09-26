@@ -1,0 +1,39 @@
+{
+  "id": "11-05-021",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2012 (Engineering)",
+  "question": "The velocity $v$ reached by a car of mass $m$ on moving a certain distance from the starting point, when driven by a motor with constant power $P$, is such that",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$v \\propto \\dfrac{3P}{m}$",
+      "image": ""
+    },
+    {
+      "text": "$v^2 \\propto \\dfrac{3P}{m}$",
+      "image": ""
+    },
+    {
+      "text": "$v^3 \\propto \\dfrac{3P}{m}$",
+      "image": ""
+    },
+    {
+      "text": "$v \\propto \\left(\\dfrac{3P}{m}\\right)^2$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "With constant power, $P = Fv = mv\\dfrac{dv}{dt}$, and $\\dfrac{dv}{dt} = v\\dfrac{dv}{dx}$, so:\n$$P = mv^2\\frac{dv}{dx} \\;\\Rightarrow\\; \\int_0^v v^2\\,dv = \\frac{P}{m}\\int_0^x dx \\;\\Rightarrow\\; v^3 = \\frac{3P}{m}x$$\n\nFor a given distance, $v^3 \\propto \\dfrac{3P}{m}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

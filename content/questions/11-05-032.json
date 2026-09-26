@@ -1,0 +1,39 @@
+{
+  "id": "11-05-032",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2007 (Medical)",
+  "question": "A body of mass $2$ kg is thrown up vertically with kinetic energy of $490$ J. If $g = 9.8\\ \\text{m/s}^2$, the height at which the kinetic energy of the body becomes half of the original value is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$50$ m",
+      "image": ""
+    },
+    {
+      "text": "$25$ m",
+      "image": ""
+    },
+    {
+      "text": "$12.5$ m",
+      "image": ""
+    },
+    {
+      "text": "$19.6$ m",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Half the kinetic energy ($245$ J) has become potential energy:\n$$mgh = 245 \\;\\Rightarrow\\; h = \\frac{245}{2 \\times 9.8} = 12.5\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

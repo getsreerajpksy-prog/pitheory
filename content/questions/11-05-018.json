@@ -1,0 +1,40 @@
+{
+  "id": "11-05-018",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "EAMCET 2013 (Engineering)",
+  "question": "A block of mass $2.9$ kg is suspended from a string of length $50$ cm and is at rest. Another block of mass $100$ g, which is moving with a speed of $150$ m/s, strikes and sticks to the first block. Subsequently, when the string makes an angle of $60°$ with the vertical, the tension in the string will be ($g = 10\\ \\text{m s}^{-2}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$140$ N",
+      "image": ""
+    },
+    {
+      "text": "$135$ N",
+      "image": ""
+    },
+    {
+      "text": "$125$ N",
+      "image": ""
+    },
+    {
+      "text": "$90$ N",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Collision (momentum conserved): $0.1 \\times 150 = 3.0\\,v \\Rightarrow v = 5$ m/s.\n\nSpeed at $60°$ (height gained $l(1 - \\cos 60°) = 0.25$ m):\n$$v'^2 = 25 - 2(10)(0.25) = 20$$\n\nRadial equation at $60°$:\n$$T = mg\\cos 60° + \\frac{mv'^2}{l} = 3(10)(0.5) + \\frac{3 \\times 20}{0.5} = 15 + 120 = 135\\ \\text{N}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

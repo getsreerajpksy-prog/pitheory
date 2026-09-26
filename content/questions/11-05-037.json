@@ -1,0 +1,40 @@
+{
+  "id": "11-05-037",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A pump lifts $600$ kg of water per minute through a height of $25$ m and delivers it with a speed of $10$ m/s. If the pump is $75\\%$ efficient, its input power is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$3$ kW",
+      "image": ""
+    },
+    {
+      "text": "$3.3$ kW",
+      "image": ""
+    },
+    {
+      "text": "$2.5$ kW",
+      "image": ""
+    },
+    {
+      "text": "$4$ kW",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Mass per second $= 10$ kg/s. Useful power:\n$$P_{out} = \\frac{dm}{dt}\\left(gh + \\frac{v^2}{2}\\right) = 10(250 + 50) = 3000\\ \\text{W}$$\n$$P_{in} = \\frac{3000}{0.75} = 4000\\ \\text{W} = 4\\ \\text{kW}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

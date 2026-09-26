@@ -1,0 +1,40 @@
+{
+  "id": "11-05-042",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A small block slides without friction down a track that ends in a vertical circular loop of radius $R$. The minimum height above the bottom of the loop from which it must be released to go round the loop is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2.5R$",
+      "image": ""
+    },
+    {
+      "text": "$2R$",
+      "image": ""
+    },
+    {
+      "text": "$3R$",
+      "image": ""
+    },
+    {
+      "text": "$1.5R$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At the top of the loop (height $2R$) it needs at least $v^2 = gR$:\n$$mgh = mg(2R) + \\frac{1}{2}m(gR) \\;\\Rightarrow\\; h = 2.5R$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

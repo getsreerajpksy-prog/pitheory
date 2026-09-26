@@ -1,0 +1,40 @@
+{
+  "id": "11-05-036",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $0.5$ kg block moving at $4$ m/s on a smooth floor hits a spring of force constant $200$ N/m. The maximum compression of the spring is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.1$ m",
+      "image": ""
+    },
+    {
+      "text": "$0.02$ m",
+      "image": ""
+    },
+    {
+      "text": "$0.2$ m",
+      "image": ""
+    },
+    {
+      "text": "$0.4$ m",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\frac{1}{2}kx^2 = \\frac{1}{2}mv^2 \\;\\Rightarrow\\; x = v\\sqrt{\\frac{m}{k}} = 4\\sqrt{\\frac{0.5}{200}} = 4 \\times 0.05 = 0.2\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

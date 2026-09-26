@@ -1,0 +1,40 @@
+{
+  "id": "11-05-013",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2007 (Medical)",
+  "question": "A sphere of mass $m$ moving with constant velocity $u$ collides with another stationary sphere of the same mass. If $e$ is the coefficient of restitution, the ratio of the final velocities of the first and second sphere is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{1 + e}{1 - e}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1 - e}{1 + e}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{e}{1 - e}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1 + e}{e}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Momentum: $v_1 + v_2 = u$. Restitution: $v_2 - v_1 = eu$.\n$$v_1 = \\frac{u(1 - e)}{2}, \\qquad v_2 = \\frac{u(1 + e)}{2}, \\qquad \\frac{v_1}{v_2} = \\frac{1 - e}{1 + e}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

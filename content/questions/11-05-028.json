@@ -1,0 +1,40 @@
+{
+  "id": "11-05-028",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2010 (Engineering)",
+  "question": "A ball is falling freely from a certain height. When it reaches $10$ m height from the ground its velocity is $v_0$. It collides with the horizontal ground and loses $50\\%$ of its energy and rises back to a height of $10$ m. The value of $v_0$ is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$7\\ \\text{m s}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$10\\ \\text{m s}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$14\\ \\text{m s}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$16\\ \\text{m s}^{-1}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "After the bounce, the energy left is $mg(10)$, which is half the energy just before impact. So just before impact the energy was $mg(20)$.\n\nAt $10$ m height the energy is the same:\n$$\\frac{1}{2}mv_0^2 + mg(10) = mg(20) \\;\\Rightarrow\\; v_0^2 = 200 \\;\\Rightarrow\\; v_0 \\approx 14\\ \\text{m s}^{-1}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

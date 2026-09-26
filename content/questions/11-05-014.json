@@ -1,0 +1,40 @@
+{
+  "id": "11-05-014",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "EAMCET 2014 (Engineering)",
+  "question": "A cannon shell fired breaks into two equal parts at its highest point. One part retraces the path to the cannon with kinetic energy $E_1$ and the kinetic energy of the second part is $E_2$. The relation between $E_1$ and $E_2$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$E_2 = E_1$",
+      "image": ""
+    },
+    {
+      "text": "$E_2 = 4E_1$",
+      "image": ""
+    },
+    {
+      "text": "$E_2 = 9E_1$",
+      "image": ""
+    },
+    {
+      "text": "$E_2 = 15E_1$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At the highest point the shell (mass $2m$) moves horizontally with speed $v$. The part that retraces the path must move with velocity $-v$.\n\nMomentum conservation: $2mv = m(-v) + mv_2 \\Rightarrow v_2 = 3v$.\n$$\\frac{E_2}{E_1} = \\frac{\\frac{1}{2}m(3v)^2}{\\frac{1}{2}mv^2} = 9 \\;\\Rightarrow\\; E_2 = 9E_1$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

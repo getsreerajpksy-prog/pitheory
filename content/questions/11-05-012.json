@@ -1,0 +1,40 @@
+{
+  "id": "11-05-012",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2007 (Engineering)",
+  "question": "In two separate collisions, the coefficients of restitution $e_1$ and $e_2$ are in the ratio $3 : 1$. In the first collision the relative velocity of approach is twice the relative velocity of separation. Then, the ratio between the relative velocity of approach and the relative velocity of separation in the second collision is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1 : 6$",
+      "image": ""
+    },
+    {
+      "text": "$2 : 3$",
+      "image": ""
+    },
+    {
+      "text": "$3 : 2$",
+      "image": ""
+    },
+    {
+      "text": "$6 : 1$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$e = \\dfrac{\\text{velocity of separation}}{\\text{velocity of approach}}$.\n\nFirst collision: $e_1 = \\dfrac{1}{2}$. Then $e_2 = \\dfrac{e_1}{3} = \\dfrac{1}{6}$.\n\nIn the second collision, approach : separation $= \\dfrac{1}{e_2} = 6 : 1$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

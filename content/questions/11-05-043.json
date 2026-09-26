@@ -1,0 +1,40 @@
+{
+  "id": "11-05-043",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $2$ kg ball moving at $6$ m/s collides head-on elastically with a $4$ kg ball at rest. The velocities of the two balls after the collision are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$-2$ m/s and $2$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$-2$ m/s and $4$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$2$ m/s and $4$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$0$ and $3$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$v_1 = \\frac{m_1 - m_2}{m_1 + m_2}u = \\frac{-2}{6}(6) = -2\\ \\text{m/s}, \\qquad v_2 = \\frac{2m_1}{m_1 + m_2}u = \\frac{4}{6}(6) = 4\\ \\text{m/s}$$\n\nThe lighter ball bounces back. Check: momentum $12 = -4 + 16$ ✓; KE $36 = 4 + 32$ ✓.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

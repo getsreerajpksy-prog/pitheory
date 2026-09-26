@@ -1,0 +1,22 @@
+{
+  "id": "11-05-048",
+  "chapter": "work-energy-and-power",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A bob hangs from a light string $2$ m long. It is given a horizontal speed of $\\sqrt{60}$ m/s at the lowest point. Find the tension in the string, in newtons, when the string becomes horizontal, if the mass of the bob is $0.5$ kg. ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "5",
+  "tolerance": "0",
+  "solution": "At the horizontal position the bob has risen $2$ m:\n$$v^2 = 60 - 2(10)(2) = 20$$\n\nGravity is along the path there, so the tension alone provides the centripetal force:\n$$T = \\frac{mv^2}{l} = \\frac{0.5 \\times 20}{2} = 5\\ \\text{N}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

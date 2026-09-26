@@ -1,0 +1,39 @@
+{
+  "id": "11-05-020",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2013 (Medical)",
+  "question": "A ball of mass $m$ moving with a horizontal velocity $v$ strikes the bob of mass $m$ of a pendulum at rest. During this collision, the ball sticks with the bob of the pendulum. The height to which the combined mass rises is ($g$ = acceleration due to gravity)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{v^2}{4g}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{v^2}{8g}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{v^2}{g}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{v^2}{2g}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Perfectly inelastic collision: $mv = 2mV \\Rightarrow V = \\dfrac{v}{2}$.\n\nThen energy is conserved while swinging up:\n$$h = \\frac{V^2}{2g} = \\frac{v^2}{8g}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

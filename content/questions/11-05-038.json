@@ -1,0 +1,40 @@
+{
+  "id": "11-05-038",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A car of mass $1000$ kg moves up a slope rising $1$ m for every $20$ m along the road at a steady $36$ km/h. Friction and air resistance together are $500$ N. The power delivered by the engine is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$10$ kW",
+      "image": ""
+    },
+    {
+      "text": "$5$ kW",
+      "image": ""
+    },
+    {
+      "text": "$15$ kW",
+      "image": ""
+    },
+    {
+      "text": "$7.5$ kW",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$v = 10$ m/s, $\\sin\\theta = \\dfrac{1}{20}$. At steady speed the engine force balances gravity along the slope plus resistance:\n$$F = mg\\sin\\theta + 500 = 500 + 500 = 1000\\ \\text{N}$$\n$$P = Fv = 1000 \\times 10 = 10\\ \\text{kW}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

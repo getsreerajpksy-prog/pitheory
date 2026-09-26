@@ -1,0 +1,39 @@
+{
+  "id": "11-05-027",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2011 (Medical)",
+  "question": "A bullet is fired normally towards an immovable wooden block. If it loses $25\\%$ of its kinetic energy in penetrating the block at thickness $x$, the further distance penetrated by the bullet into the block is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2x$",
+      "image": ""
+    },
+    {
+      "text": "$4x$",
+      "image": ""
+    },
+    {
+      "text": "$6x$",
+      "image": ""
+    },
+    {
+      "text": "$8x$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "With a constant resisting force $F$, the energy lost is proportional to the distance.\n\n$25\\%$ of the KE is lost in distance $x$. The remaining $75\\%$ is three times as much, so it is lost over a further $3x$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

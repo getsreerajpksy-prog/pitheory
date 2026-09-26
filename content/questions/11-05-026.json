@@ -1,0 +1,39 @@
+{
+  "id": "11-05-026",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "EAMCET 2011 (Engineering)",
+  "question": "A ball is let fall from a height $h_0$. It makes $n$ collisions with the horizontal ground. If after $n$ collisions it rebounds with a velocity $v_n$ and the ball rises to a height $h_n$, then the coefficient of restitution for the collision is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$e = \\left(\\dfrac{h_n}{h_0}\\right)^{\\frac{1}{2n}}$",
+      "image": ""
+    },
+    {
+      "text": "$e = \\left(\\dfrac{h_n}{h_0}\\right)^{\\frac{n}{2}}$",
+      "image": ""
+    },
+    {
+      "text": "$e = \\left(\\dfrac{h_0}{h_n}\\right)^{\\frac{n}{2}}$",
+      "image": ""
+    },
+    {
+      "text": "$e = \\left(\\dfrac{h_0}{h_n}\\right)^{\\frac{1}{2n}}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Each bounce multiplies the speed by $e$, and height $\\propto$ speed$^2$, so each bounce multiplies the height by $e^2$:\n$$h_n = e^{2n}h_0 \\;\\Rightarrow\\; e = \\left(\\frac{h_n}{h_0}\\right)^{\\frac{1}{2n}}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

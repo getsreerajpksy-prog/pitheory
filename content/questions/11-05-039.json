@@ -1,0 +1,40 @@
+{
+  "id": "11-05-039",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An engine of constant power $60$ kW drives a car of mass $1200$ kg on a level road. The resistance to motion is a constant $2000$ N. The maximum speed of the car is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$60$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$30$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$50$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$20$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At maximum speed the acceleration is zero, so the driving force equals the resistance:\n$$P = Fv_{max} \\;\\Rightarrow\\; v_{max} = \\frac{60000}{2000} = 30\\ \\text{m/s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

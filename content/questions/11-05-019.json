@@ -1,0 +1,39 @@
+{
+  "id": "11-05-019",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2013 (Medical)",
+  "question": "A body of mass $300$ kg is moved through $10$ m along a smooth inclined plane of inclination $30°$. The work done in moving it (in joules) is ($g = 9.8\\ \\text{m s}^{-2}$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4900$",
+      "image": ""
+    },
+    {
+      "text": "$9800$",
+      "image": ""
+    },
+    {
+      "text": "$14700$",
+      "image": ""
+    },
+    {
+      "text": "$2450$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "On a smooth plane the work done equals the gain in potential energy. Height gained $= 10\\sin 30° = 5$ m:\n$$W = mgh = 300 \\times 9.8 \\times 5 = 14700\\ \\text{J}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

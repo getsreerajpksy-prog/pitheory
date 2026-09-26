@@ -1,0 +1,40 @@
+{
+  "id": "11-05-040",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A stone tied to a string of length $0.4$ m is whirled in a vertical circle. The minimum speed it must have at the lowest point to just complete the circle is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{8}$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{20}$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$2$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$v_{min} = \\sqrt{5gr} = \\sqrt{5 \\times 10 \\times 0.4} = \\sqrt{20} \\approx 4.5\\ \\text{m/s}$$\n\n(At the top it then has the minimum speed $\\sqrt{gr} = 2$ m/s, with zero tension.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

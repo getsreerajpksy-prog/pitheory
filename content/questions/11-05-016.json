@@ -1,0 +1,40 @@
+{
+  "id": "11-05-016",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2013 (Engineering)",
+  "question": "The work done by a force $\\vec{F} = 2\\hat{i} - \\hat{j} - \\hat{k}$ in moving an object from the origin to a point whose position vector is $\\vec{r} = 3\\hat{i} + 2\\hat{j} - 5\\hat{k}$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1$ unit",
+      "image": ""
+    },
+    {
+      "text": "$9$ units",
+      "image": ""
+    },
+    {
+      "text": "$13$ units",
+      "image": ""
+    },
+    {
+      "text": "$60$ units",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$W = \\vec{F}\\cdot\\vec{r} = (2)(3) + (-1)(2) + (-1)(-5) = 6 - 2 + 5 = 9\\ \\text{units}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

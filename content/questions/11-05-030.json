@@ -1,0 +1,40 @@
+{
+  "id": "11-05-030",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2009 (Engineering)",
+  "question": "A body of mass $5$ kg makes an elastic collision with another body at rest and continues to move in the original direction after the collision with a velocity equal to $\\dfrac{1}{10}$ of its original velocity. The mass of the second body is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4.09$ kg",
+      "image": ""
+    },
+    {
+      "text": "$0.5$ kg",
+      "image": ""
+    },
+    {
+      "text": "$5$ kg",
+      "image": ""
+    },
+    {
+      "text": "$5.09$ kg",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For an elastic head-on collision with a body at rest, $v_1 = \\dfrac{m_1 - m_2}{m_1 + m_2}u$:\n$$\\frac{5 - m_2}{5 + m_2} = \\frac{1}{10} \\;\\Rightarrow\\; 50 - 10m_2 = 5 + m_2 \\;\\Rightarrow\\; m_2 = \\frac{45}{11} \\approx 4.09\\ \\text{kg}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

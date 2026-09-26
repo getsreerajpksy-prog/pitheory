@@ -1,0 +1,39 @@
+{
+  "id": "11-05-033",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "AIEEE 2012",
+  "question": "Two springs $S_1$ and $S_2$ of force constants $k_1$ and $k_2$ respectively, are stretched by the same force. It is found that more work is done on spring $S_1$ than on spring $S_2$.\n\nStatement I: If stretched by the same amount, the work done on $S_1$ will be more than that on $S_2$.\n\nStatement II: $k_1 < k_2$.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "Statement I and Statement II are both true",
+      "image": ""
+    },
+    {
+      "text": "Statement I is true, Statement II is false",
+      "image": ""
+    },
+    {
+      "text": "Statement I is false, Statement II is true",
+      "image": ""
+    },
+    {
+      "text": "Statement I and Statement II are both false",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Same force $F$: extension $x = F/k$, so $W = \\dfrac{1}{2}kx^2 = \\dfrac{F^2}{2k}$. More work on $S_1$ means $k_1 < k_2$. Statement II is true.\n\nSame extension $x$: $W = \\dfrac{1}{2}kx^2$, so the stiffer spring $S_2$ needs more work. Statement I is false.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

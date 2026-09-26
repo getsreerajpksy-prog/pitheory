@@ -1,0 +1,39 @@
+{
+  "id": "11-05-025",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2012 (Medical)",
+  "question": "A $3$ kg sphere makes an inelastic collision with another sphere at rest and they stick after the collision. If the composite mass moves with a speed of $\\dfrac{1}{4}$ of the initial speed of the $3$ kg sphere, the mass of the second sphere is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$12$ kg",
+      "image": ""
+    },
+    {
+      "text": "$9$ kg",
+      "image": ""
+    },
+    {
+      "text": "$6$ kg",
+      "image": ""
+    },
+    {
+      "text": "$3$ kg",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$3u = (3 + m)\\frac{u}{4} \\;\\Rightarrow\\; 12 = 3 + m \\;\\Rightarrow\\; m = 9\\ \\text{kg}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

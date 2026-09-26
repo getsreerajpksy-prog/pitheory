@@ -1,0 +1,40 @@
+{
+  "id": "11-05-046",
+  "chapter": "work-energy-and-power",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The momentum of a body increases by $50\\%$. The percentage increase in its kinetic energy is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$125\\%$",
+      "image": ""
+    },
+    {
+      "text": "$50\\%$",
+      "image": ""
+    },
+    {
+      "text": "$100\\%$",
+      "image": ""
+    },
+    {
+      "text": "$225\\%$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$K = \\dfrac{p^2}{2m}$, so $\\dfrac{K'}{K} = (1.5)^2 = 2.25$. The increase is $125\\%$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
