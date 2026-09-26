@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Orbital speed $v = \\sqrt{\\dfrac{GM}{r}}$:\n$$L = mvr = m\\sqrt{\\frac{GM}{r}}\\,r = m\\sqrt{GMr} = \\sqrt{GMm^2r}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
