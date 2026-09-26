@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$V = \\frac{4}{3}\\pi r^3 = \\frac{4}{3}\\pi (2.50)^3 = 65.449\\ldots\\ \\text{cm}^3$$\n\nThe radius has 3 significant figures ($\\tfrac43$ and $\\pi$ are exact), so the volume is rounded to 3 significant figures: $65.4\\ \\text{cm}^3$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
