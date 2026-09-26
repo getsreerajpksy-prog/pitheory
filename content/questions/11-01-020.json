@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Write the dimensions of each side:\n$$[MLT^{-2}] = [L^2]^a\\,[LT^{-1}]^b\\,[ML^{-3}]^c = M^{c}\\,L^{2a+b-3c}\\,T^{-b}$$\n\nCompare powers:\nM: $c = 1$\nT: $-b = -2 \\Rightarrow b = 2$\nL: $2a + b - 3c = 1 \\Rightarrow 2a + 2 - 3 = 1 \\Rightarrow a = 1$\n\nSo $F = A v^2 d$, the familiar form of the force of a fluid jet.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
