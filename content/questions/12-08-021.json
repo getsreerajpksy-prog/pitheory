@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$k = \\dfrac{\\omega}{c} = \\dfrac{2 \\times 10^7}{3 \\times 10^8} = \\dfrac{1}{15}\\ \\text{m}^{-1}$, so $\\lambda = \\dfrac{2\\pi}{k} = 30\\pi \\approx 94$ m.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
