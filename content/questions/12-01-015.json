@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Eight such cubes would surround the charge symmetrically, so this cube receives $\\dfrac{1}{8}$ of the total flux $\\dfrac{q}{\\epsilon_0}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
