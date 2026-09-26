@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Apparent depth $= \\dfrac{6}{1.5} = 4$ cm, so the shift is $6 - 4 = 2$ cm. (In general $t\\left(1 - \\dfrac{1}{\\mu}\\right)$.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
