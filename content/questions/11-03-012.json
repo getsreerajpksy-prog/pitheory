@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Maximum range is obtained at $45°$:\n$$R_{max} = \\frac{u^2}{g} = \\frac{20^2}{10} = 40\\ \\text{m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
