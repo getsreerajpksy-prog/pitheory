@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The field does work $W = m\\vec{E}\\cdot\\vec{s}$, and $\\Delta U = -W$:\n$$\\vec{E}\\cdot\\vec{s} = 5(12) + 12(5) = 120\\ \\text{J/kg}$$\n$$\\Delta U = -2 \\times 120 = -240\\ \\text{J}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
