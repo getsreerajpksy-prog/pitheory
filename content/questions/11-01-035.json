@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$25\\ \\text{VSD} = 24\\ \\text{MSD} \\Rightarrow 1\\ \\text{VSD} = \\dfrac{24}{25}\\ \\text{MSD}$\n\n$$\\text{LC} = 1\\ \\text{MSD} - 1\\ \\text{VSD} = \\frac{1}{25}\\ \\text{MSD} = \\frac{0.5}{25}\\ \\text{mm} = 0.02\\ \\text{mm}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
