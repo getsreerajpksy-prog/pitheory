@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Newton's law of cooling (average form): $\\dfrac{\\Delta\\theta}{t} = K(\\bar{\\theta} - \\theta_0)$.\n\nFirst $5$ min: $\\dfrac{20}{5} = K(60 - 20) \\Rightarrow K = 0.1\\ \\text{min}^{-1}$.\n\nNext $10$ min, from $50°$C to $\\theta$:\n$$\\frac{50 - \\theta}{10} = 0.1\\left(\\frac{50 + \\theta}{2} - 20\\right) \\;\\Rightarrow\\; 50 - \\theta = 5 + 0.5\\theta \\;\\Rightarrow\\; \\theta = 30°\\text{C}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
