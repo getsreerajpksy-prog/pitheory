@@ -1,0 +1,40 @@
+{
+  "id": "12-06-027",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A square loop of side $10$ cm and resistance $0.5\\ \\Omega$ is pulled out of a region of uniform field $0.5$ T at a steady $2$ m/s, with one side parallel to the field boundary. The current induced while it is leaving the field is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.2$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.1$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.4$ A",
+      "image": ""
+    },
+    {
+      "text": "$2$ A",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Only the side still inside the field contributes: $\\varepsilon = Blv = 0.5 \\times 0.1 \\times 2 = 0.1$ V, $I = \\dfrac{0.1}{0.5} = 0.2$ A.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

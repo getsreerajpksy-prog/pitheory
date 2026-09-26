@@ -1,0 +1,40 @@
+{
+  "id": "12-06-026",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The induced emf in a coil rotating in a uniform magnetic field is maximum when the plane of the coil is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "perpendicular to the field",
+      "image": ""
+    },
+    {
+      "text": "at $45°$ to the field",
+      "image": ""
+    },
+    {
+      "text": "at $60°$ to the field",
+      "image": ""
+    },
+    {
+      "text": "parallel to the field",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\varepsilon = NBA\\omega\\sin\\omega t$ is maximum when the flux is zero but changing fastest, i.e. when the plane of the coil is parallel to the field.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

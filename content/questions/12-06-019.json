@@ -1,0 +1,40 @@
+{
+  "id": "12-06-019",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The current in a $0.2$ H coil changes from $5$ A to $1$ A in $0.1$ s. The self-induced emf is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$8$ V",
+      "image": ""
+    },
+    {
+      "text": "$4$ V",
+      "image": ""
+    },
+    {
+      "text": "$0.8$ V",
+      "image": ""
+    },
+    {
+      "text": "$2$ V",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$|\\varepsilon| = L\\dfrac{\\Delta I}{\\Delta t} = 0.2 \\times \\dfrac{4}{0.1} = 8$ V.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

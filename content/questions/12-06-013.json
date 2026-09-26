@@ -1,0 +1,40 @@
+{
+  "id": "12-06-013",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "A coil of resistance $5\\ \\Omega$ has $50$ turns. The flux through each turn changes from $2$ mWb to $12$ mWb. The charge that flows through the coil is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1$ C",
+      "image": ""
+    },
+    {
+      "text": "$0.5$ C",
+      "image": ""
+    },
+    {
+      "text": "$0.1$ C",
+      "image": ""
+    },
+    {
+      "text": "$0.01$ C",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$q = \\dfrac{N\\Delta\\phi}{R} = \\dfrac{50 \\times 10 \\times 10^{-3}}{5} = 0.1$ C. (It does not depend on how fast the flux changes.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

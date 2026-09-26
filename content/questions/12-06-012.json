@@ -1,0 +1,40 @@
+{
+  "id": "12-06-012",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A coil of $100$ turns and area $0.02\\ \\text{m}^2$ lies perpendicular to a magnetic field that falls uniformly from $0.5$ T to zero in $0.1$ s. The average induced emf is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.1$ V",
+      "image": ""
+    },
+    {
+      "text": "$10$ V",
+      "image": ""
+    },
+    {
+      "text": "$1$ V",
+      "image": ""
+    },
+    {
+      "text": "$100$ V",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\varepsilon = N\\dfrac{\\Delta\\phi}{\\Delta t} = 100 \\times \\dfrac{0.02 \\times 0.5}{0.1} = 10$ V.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-06-025",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A coil of $50$ turns and area $0.04\\ \\text{m}^2$ rotates at $50$ rad/s about an axis perpendicular to a field of $0.2$ T. The peak emf generated is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$40$ V",
+      "image": ""
+    },
+    {
+      "text": "$2$ V",
+      "image": ""
+    },
+    {
+      "text": "$20$ V",
+      "image": ""
+    },
+    {
+      "text": "$10$ V",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\varepsilon_0 = NBA\\omega = 50 \\times 0.2 \\times 0.04 \\times 50 = 20$ V.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

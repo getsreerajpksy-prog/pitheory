@@ -1,0 +1,40 @@
+{
+  "id": "12-06-021",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Two coils have mutual inductance $0.05$ H. The current in the first changes as $I = 2\\sin(100\\pi t)$ A. The maximum emf induced in the second coil is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$100\\pi$ V",
+      "image": ""
+    },
+    {
+      "text": "$0.1$ V",
+      "image": ""
+    },
+    {
+      "text": "$10\\pi$ V",
+      "image": ""
+    },
+    {
+      "text": "$5\\pi$ V",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\varepsilon = M\\dfrac{dI}{dt} = 0.05 \\times 200\\pi\\cos(100\\pi t)$, maximum $10\\pi$ V.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

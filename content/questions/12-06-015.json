@@ -1,0 +1,40 @@
+{
+  "id": "12-06-015",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A metal rod of length $1$ m rotates about one end at $20$ rad/s in a plane perpendicular to a uniform field of $0.5$ T. The emf between its ends is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$5$ V",
+      "image": ""
+    },
+    {
+      "text": "$10$ V",
+      "image": ""
+    },
+    {
+      "text": "$2.5$ V",
+      "image": ""
+    },
+    {
+      "text": "$20$ V",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\varepsilon = \\dfrac{1}{2}B\\omega l^2 = 0.5 \\times 0.5 \\times 20 \\times 1 = 5$ V.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

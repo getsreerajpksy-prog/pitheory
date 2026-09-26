@@ -1,0 +1,40 @@
+{
+  "id": "12-06-011",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The magnetic flux through a coil varies as $\\phi = (3t^2 + 2t)$ mWb, with $t$ in seconds. The induced emf at $t = 2$ s is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$14$ mV",
+      "image": ""
+    },
+    {
+      "text": "$16$ mV",
+      "image": ""
+    },
+    {
+      "text": "$12$ mV",
+      "image": ""
+    },
+    {
+      "text": "$8$ mV",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$|\\varepsilon| = \\dfrac{d\\phi}{dt} = 6t + 2 = 14$ mV at $t = 2$ s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

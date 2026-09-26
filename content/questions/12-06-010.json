@@ -1,0 +1,40 @@
+{
+  "id": "12-06-010",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2006 (Engineering)",
+  "question": "A small square loop of wire of side $l$ is placed inside a large square loop of side $L$ ($L \\gg l$). If the loops are coplanar and their centres coincide, the mutual inductance of the system is directly proportional to",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{L}{l}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{l}{L}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{L^2}{l}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{l^2}{L}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "A current $I$ in the large loop gives a field at its centre $B = \\dfrac{2\\sqrt{2}\\mu_0 I}{\\pi L} \\propto \\dfrac{1}{L}$, nearly uniform over the small loop.\n\nFlux through the small loop: $\\phi = Bl^2 \\propto \\dfrac{l^2}{L}I$, so $M = \\dfrac{\\phi}{I} \\propto \\dfrac{l^2}{L}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

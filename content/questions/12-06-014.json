@@ -1,0 +1,40 @@
+{
+  "id": "12-06-014",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An aeroplane with a wingspan of $40$ m flies horizontally at $250$ m/s at a place where the vertical component of the Earth's magnetic field is $5 \\times 10^{-5}$ T. The emf induced between its wing tips is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$5$ V",
+      "image": ""
+    },
+    {
+      "text": "$0.05$ V",
+      "image": ""
+    },
+    {
+      "text": "$50$ V",
+      "image": ""
+    },
+    {
+      "text": "$0.5$ V",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The wings cut the vertical component of the field: $\\varepsilon = B_Vvl = 5 \\times 10^{-5} \\times 250 \\times 40 = 0.5$ V.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

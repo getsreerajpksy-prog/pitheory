@@ -1,0 +1,40 @@
+{
+  "id": "12-06-018",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A magnet is dropped through a long vertical copper tube. Compared with free fall, it falls",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "faster, because eddy currents attract it",
+      "image": ""
+    },
+    {
+      "text": "at the same rate, since copper is not magnetic",
+      "image": ""
+    },
+    {
+      "text": "and stops inside the tube",
+      "image": ""
+    },
+    {
+      "text": "more slowly, because eddy currents oppose its motion",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The moving magnet induces eddy currents in the tube, which by Lenz's law oppose its motion. It soon reaches a small terminal speed.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

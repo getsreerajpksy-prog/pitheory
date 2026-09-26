@@ -1,0 +1,40 @@
+{
+  "id": "12-06-017",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A bar magnet is dropped with its north pole down through a horizontal copper ring. As it approaches the ring, viewed from above, the induced current in the ring is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "zero",
+      "image": ""
+    },
+    {
+      "text": "clockwise, then anticlockwise before it reaches the ring",
+      "image": ""
+    },
+    {
+      "text": "anticlockwise",
+      "image": ""
+    },
+    {
+      "text": "clockwise",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The downward flux through the ring increases. Lenz's law: the induced current opposes this by producing an upward field, i.e. a north pole on the top face. Seen from above, that is an anticlockwise current.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

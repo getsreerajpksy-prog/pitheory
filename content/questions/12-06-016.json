@@ -1,0 +1,40 @@
+{
+  "id": "12-06-016",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A conducting rod of length $0.5$ m slides at $2$ m/s on two parallel rails joined by a $1\\ \\Omega$ resistor, in a field of $1$ T perpendicular to the plane. The force needed to keep the rod moving at constant speed is (neglect other resistances)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2$ N",
+      "image": ""
+    },
+    {
+      "text": "$0.5$ N",
+      "image": ""
+    },
+    {
+      "text": "$1$ N",
+      "image": ""
+    },
+    {
+      "text": "$0.25$ N",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\varepsilon = Blv = 1$ V, $I = 1$ A. Magnetic force on the rod $= BIl = 0.5$ N, opposing motion; the applied force must equal it.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

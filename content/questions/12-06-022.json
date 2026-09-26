@@ -1,0 +1,40 @@
+{
+  "id": "12-06-022",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The current through an inductor is doubled. The energy stored in its magnetic field becomes",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{1}{2}$ times",
+      "image": ""
+    },
+    {
+      "text": "$2$ times",
+      "image": ""
+    },
+    {
+      "text": "unchanged",
+      "image": ""
+    },
+    {
+      "text": "$4$ times",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$U = \\dfrac{1}{2}LI^2 \\propto I^2$, so doubling $I$ makes the energy $4$ times.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

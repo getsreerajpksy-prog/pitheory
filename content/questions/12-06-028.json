@@ -1,0 +1,22 @@
+{
+  "id": "12-06-028",
+  "chapter": "electromagnetic-induction",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $0.4$ H inductor carries a current that increases uniformly from $0$ to $3$ A in $0.2$ s. Find the induced emf in volts.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "6",
+  "tolerance": "0",
+  "solution": "$\\varepsilon = L\\dfrac{\\Delta I}{\\Delta t} = 0.4 \\times \\dfrac{3}{0.2} = 6$ V.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

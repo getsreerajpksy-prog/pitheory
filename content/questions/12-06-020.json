@@ -1,0 +1,40 @@
+{
+  "id": "12-06-020",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The self-inductance of a solenoid is $L$. If the number of turns is doubled, keeping its length and area the same, the self-inductance becomes",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$L$",
+      "image": ""
+    },
+    {
+      "text": "$4L$",
+      "image": ""
+    },
+    {
+      "text": "$2L$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{L}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$L = \\dfrac{\\mu_0N^2A}{l} \\propto N^2$, so it becomes $4L$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

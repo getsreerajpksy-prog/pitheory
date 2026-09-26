@@ -1,0 +1,22 @@
+{
+  "id": "12-06-029",
+  "chapter": "electromagnetic-induction",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A long solenoid has $1000$ turns per metre and cross-section $10\\ \\text{cm}^2$. A $50$-turn coil is wound tightly round its middle. Find their mutual inductance, in microhenry, to the nearest whole number. ($\\mu_0 = 4\\pi \\times 10^{-7}$ T m/A)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "63",
+  "tolerance": "0",
+  "solution": "$M = \\mu_0nN_2A = 4\\pi \\times 10^{-7} \\times 1000 \\times 50 \\times 10^{-3} \\approx 6.28 \\times 10^{-5}$ H $\\approx 63\\ \\mu$H.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

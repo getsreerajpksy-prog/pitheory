@@ -1,0 +1,40 @@
+{
+  "id": "12-06-023",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An inductor of $2$ H and a $4\\ \\Omega$ resistor are connected in series to a $12$ V battery at $t = 0$. The time constant and the final current are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.5$ s and $3$ A",
+      "image": ""
+    },
+    {
+      "text": "$2$ s and $3$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.5$ s and $6$ A",
+      "image": ""
+    },
+    {
+      "text": "$8$ s and $3$ A",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\tau = \\dfrac{L}{R} = 0.5$ s. Final current $= \\dfrac{12}{4} = 3$ A, reached as $I = 3(1 - e^{-t/0.5})$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

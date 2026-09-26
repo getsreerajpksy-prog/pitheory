@@ -1,0 +1,40 @@
+{
+  "id": "12-06-024",
+  "chapter": "electromagnetic-induction",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "In an LR circuit connected to a battery at $t = 0$, the current reaches half its final value after a time",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{L}{2R}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{L}{R}\\ln 2$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{L}{R}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2L}{R}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$I = I_0(1 - e^{-Rt/L}) = \\dfrac{I_0}{2} \\Rightarrow e^{-Rt/L} = \\dfrac{1}{2} \\Rightarrow t = \\dfrac{L}{R}\\ln 2$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
