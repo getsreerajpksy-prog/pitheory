@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The wings cut the vertical component of the field: $\\varepsilon = B_Vvl = 5 \\times 10^{-5} \\times 250 \\times 40 = 0.5$ V.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
