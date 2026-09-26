@@ -1,0 +1,22 @@
+{
+  "id": "11-06-041",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A uniform disc of mass $4$ kg and radius $0.5$ m rolls without slipping on a level floor at $2$ m/s. Find its total kinetic energy in joules.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "12",
+  "tolerance": "0",
+  "solution": "$$K = \\frac{1}{2}mv^2\\left(1 + \\frac{k^2}{R^2}\\right) = \\frac{1}{2}(4)(4)\\left(1 + \\frac{1}{2}\\right) = 12\\ \\text{J}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

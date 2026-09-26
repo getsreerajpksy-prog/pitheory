@@ -1,0 +1,40 @@
+{
+  "id": "11-06-035",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A solid sphere rolls down from rest without slipping through a vertical height of $7$ m. Its speed at the bottom is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$10$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{140}$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{70}$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{100/7}$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$mgh = \\frac{1}{2}mv^2\\left(1 + \\frac{k^2}{R^2}\\right) = \\frac{1}{2}mv^2 \\cdot \\frac{7}{5} \\;\\Rightarrow\\; v^2 = \\frac{10gh}{7} = 100$$\n$$v = 10\\ \\text{m/s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

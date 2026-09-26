@@ -1,0 +1,39 @@
+{
+  "id": "11-06-027",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A circular hole of radius $\\dfrac{R}{2}$ is cut from a uniform disc of radius $R$. The edge of the hole touches the edge of the disc. The centre of mass of the remaining part is at a distance from the centre of the original disc of",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{R}{6}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{R}{4}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{R}{3}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{R}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Treat the hole as negative mass. Areas are in the ratio $1 : \\dfrac{1}{4}$, so take masses $4m$ (full disc) and $m$ (hole). The hole's centre is at $\\dfrac{R}{2}$ from O.\n$$x_{cm} = \\frac{4m(0) - m\\left(\\frac{R}{2}\\right)}{4m - m} = -\\frac{R}{6}$$\n\nThe centre of mass shifts $\\dfrac{R}{6}$ away from the hole.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

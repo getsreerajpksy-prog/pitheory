@@ -1,0 +1,40 @@
+{
+  "id": "11-06-037",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A disc of moment of inertia $2\\ \\text{kg m}^2$ spinning at $6$ rad/s is gently placed on an identical disc at rest on the same axis. They soon rotate together. The kinetic energy lost is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$9$ J",
+      "image": ""
+    },
+    {
+      "text": "$0$",
+      "image": ""
+    },
+    {
+      "text": "$18$ J",
+      "image": ""
+    },
+    {
+      "text": "$36$ J",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\omega_f = \\frac{2 \\times 6}{2 + 2} = 3\\ \\text{rad/s}$$\n$$K_i = \\frac{1}{2}(2)(36) = 36\\ \\text{J}, \\qquad K_f = \\frac{1}{2}(4)(9) = 18\\ \\text{J}$$\n\nLost $= 18$ J, turned into heat by friction between the discs.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

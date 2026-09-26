@@ -1,0 +1,40 @@
+{
+  "id": "11-06-021",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2012 (Engineering)",
+  "question": "Two solid spheres A and B, each of radius $R$, are made of materials of densities $\\rho_A$ and $\\rho_B$ respectively. Their moments of inertia about a diameter are $I_A$ and $I_B$ respectively. The value of $\\dfrac{I_A}{I_B}$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\left(\\dfrac{\\rho_A}{\\rho_B}\\right)^2$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{\\dfrac{\\rho_A}{\\rho_B}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\rho_A}{\\rho_B}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\rho_B}{\\rho_A}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Same radius, so $I = \\dfrac{2}{5}mR^2 \\propto m \\propto \\rho$:\n$$\\frac{I_A}{I_B} = \\frac{\\rho_A}{\\rho_B}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-06-039",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A uniform rod of length $L$, pivoted at one end, is held horizontal and then released. Its angular acceleration at the moment of release is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{3g}{2L}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{g}{L}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2g}{3L}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{3g}{L}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Torque of gravity about the pivot: $\\tau = mg\\dfrac{L}{2}$. $I = \\dfrac{mL^2}{3}$.\n$$\\alpha = \\frac{\\tau}{I} = \\frac{mgL/2}{mL^2/3} = \\frac{3g}{2L}$$\n\n(The free end then starts with acceleration $\\alpha L = 1.5g$, more than $g$.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

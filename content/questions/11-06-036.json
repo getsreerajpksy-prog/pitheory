@@ -1,0 +1,40 @@
+{
+  "id": "11-06-036",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "A man stands at the centre of a turntable rotating freely at $30$ rpm, holding two dumbbells at arm's length. The moment of inertia of the system is $6\\ \\text{kg m}^2$. When he pulls the dumbbells in, it becomes $2\\ \\text{kg m}^2$. The new rate of rotation and the ratio of final to initial kinetic energy are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$60$ rpm, $2$",
+      "image": ""
+    },
+    {
+      "text": "$90$ rpm, $3$",
+      "image": ""
+    },
+    {
+      "text": "$90$ rpm, $1$",
+      "image": ""
+    },
+    {
+      "text": "$10$ rpm, $\\dfrac{1}{3}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "No external torque, so $I_1\\omega_1 = I_2\\omega_2$: $\\omega_2 = \\dfrac{6}{2} \\times 30 = 90$ rpm.\n\n$K = \\dfrac{L^2}{2I}$ with $L$ constant, so $\\dfrac{K_2}{K_1} = \\dfrac{I_1}{I_2} = 3$. The extra energy comes from the work the man does pulling his arms in.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

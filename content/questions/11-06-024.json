@@ -1,0 +1,39 @@
+{
+  "id": "11-06-024",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "AIEEE 2007",
+  "question": "The angular momentum of a particle rotating with a central force is constant due to",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "constant force",
+      "image": ""
+    },
+    {
+      "text": "constant linear momentum",
+      "image": ""
+    },
+    {
+      "text": "zero torque",
+      "image": ""
+    },
+    {
+      "text": "constant torque",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "A central force always acts along the line joining the particle to the centre, i.e. along $\\vec{r}$. So its torque about the centre is $\\vec{\\tau} = \\vec{r}\\times\\vec{F} = 0$.\n\nWith zero torque, $\\dfrac{d\\vec{L}}{dt} = 0$ and the angular momentum is conserved.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

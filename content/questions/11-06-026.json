@@ -1,0 +1,40 @@
+{
+  "id": "11-06-026",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Masses of $1$ kg, $2$ kg and $3$ kg are placed at the points $(0, 0)$, $(2, 0)$ and $(0, 2)$ m respectively. The position of their centre of mass is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$(1,\\ 1)$ m",
+      "image": ""
+    },
+    {
+      "text": "$\\left(1,\\ \\dfrac{2}{3}\\right)$ m",
+      "image": ""
+    },
+    {
+      "text": "$\\left(\\dfrac{2}{3},\\ \\dfrac{2}{3}\\right)$ m",
+      "image": ""
+    },
+    {
+      "text": "$\\left(\\dfrac{2}{3},\\ 1\\right)$ m",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$x_{cm} = \\frac{1(0) + 2(2) + 3(0)}{6} = \\frac{2}{3}\\ \\text{m}, \\qquad y_{cm} = \\frac{1(0) + 2(0) + 3(2)}{6} = 1\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

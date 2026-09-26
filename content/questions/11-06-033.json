@@ -1,0 +1,40 @@
+{
+  "id": "11-06-033",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A solid cylinder rolls without slipping down an incline of angle $30°$. Its acceleration is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{5}{2}\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{25}{7}\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{10}{3}\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$5\\ \\text{m/s}^2$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For rolling, $a = \\dfrac{g\\sin\\theta}{1 + k^2/R^2}$. For a solid cylinder $\\dfrac{k^2}{R^2} = \\dfrac{1}{2}$:\n$$a = \\frac{10 \\times 0.5}{1.5} = \\frac{10}{3}\\ \\text{m/s}^2$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

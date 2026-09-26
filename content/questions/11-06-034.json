@@ -1,0 +1,40 @@
+{
+  "id": "11-06-034",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A ring, a disc, a solid sphere and a hollow sphere, all of the same mass and radius, are released together from rest at the top of the same incline and roll without slipping. The one that reaches the bottom first is the",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "disc",
+      "image": ""
+    },
+    {
+      "text": "hollow sphere",
+      "image": ""
+    },
+    {
+      "text": "ring",
+      "image": ""
+    },
+    {
+      "text": "solid sphere",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$a = \\dfrac{g\\sin\\theta}{1 + k^2/R^2}$: the smaller $\\dfrac{k^2}{R^2}$, the larger the acceleration.\n\nSolid sphere $\\dfrac{2}{5}$ < disc $\\dfrac{1}{2}$ < hollow sphere $\\dfrac{2}{3}$ < ring $1$.\n\nThe solid sphere wins; the ring comes last. (Mass and radius do not matter.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-06-030",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The radius of gyration of a uniform rod of length $L$ about an axis perpendicular to it and passing through one end is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{L}{\\sqrt{12}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{L}{3}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{L}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{L}{\\sqrt{3}}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$I = \\dfrac{ML^2}{3} = Mk^2$, so $k = \\dfrac{L}{\\sqrt{3}}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

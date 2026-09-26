@@ -1,0 +1,39 @@
+{
+  "id": "11-06-018",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "AIEEE 2008",
+  "question": "Consider a uniform square plate of side $a$ and mass $m$. The moment of inertia of this plate about an axis perpendicular to its plane and passing through one of its corners is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{5}{6}ma^2$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{12}ma^2$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{7}{12}ma^2$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2}{3}ma^2$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "About the perpendicular axis through the centre: $I_c = \\dfrac{m(a^2 + a^2)}{12} = \\dfrac{ma^2}{6}$.\n\nThe corner is $\\dfrac{a}{\\sqrt{2}}$ from the centre. Parallel axis theorem:\n$$I = \\frac{ma^2}{6} + m\\cdot\\frac{a^2}{2} = \\frac{2}{3}ma^2$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

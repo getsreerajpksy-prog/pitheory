@@ -1,0 +1,39 @@
+{
+  "id": "11-06-016",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "AIEEE 2008",
+  "question": "A thin rod of length $L$ is lying along the $x$-axis with its ends at $x = 0$ and $x = L$. Its linear density (mass/length) varies with $x$ as $k\\left(\\dfrac{x}{L}\\right)^n$, where $n$ can be zero or any positive number. If the position $X_{CM}$ of the centre of mass of the rod is plotted against $n$, which of the following graphs best approximates the dependence of $X_{CM}$ on $n$?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "",
+      "image": "/diagrams/11-06-016-A.svg"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-06-016-B.svg"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-06-016-C.svg"
+    },
+    {
+      "text": "",
+      "image": "/diagrams/11-06-016-D.svg"
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$X_{CM} = \\frac{\\int_0^L x\\,\\lambda\\,dx}{\\int_0^L \\lambda\\,dx} = \\frac{\\int_0^L x^{n+1}dx}{\\int_0^L x^n dx} = \\frac{n + 1}{n + 2}L$$\n\nAt $n = 0$ (uniform rod), $X_{CM} = \\dfrac{L}{2}$. As $n$ increases, the mass crowds towards $x = L$ and $X_{CM}$ rises steadily, approaching $L$ but never reaching it. The curve rises quickly at first and then flattens.\n\nThis is graph (1).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

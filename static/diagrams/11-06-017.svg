@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 250" width="260" height="250">
+<rect width="260" height="250" fill="#fff"/>
+<path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M50.0,30.0 L220.0,30.0 L220.0,200.0 L50.0,200.0 L50.0,30.0"/>
+<path d="M50.0,200.0 L220.0,30.0" fill="none" stroke="#111" stroke-width="1.5" stroke-dasharray="6 5"/>
+<path d="M135.0,30.0 L135.0,200.0" fill="none" stroke="#111" stroke-width="1.5" stroke-dasharray="6 5"/>
+<circle cx="135.0" cy="115.0" r="3.5" fill="#111" stroke="#111" stroke-width="2"/>
+<text x="38" y="35" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="end">D</text>
+<text x="232" y="35" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="start">C</text>
+<text x="38" y="205" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="end">A</text>
+<text x="232" y="205" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="start">B</text>
+<text x="135.0" y="22" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle">F</text>
+<text x="135.0" y="222" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="middle">E</text>
+<text x="147.0" y="109.0" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="18" text-anchor="start">O</text>
+</svg>

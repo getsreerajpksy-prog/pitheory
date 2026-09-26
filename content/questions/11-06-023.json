@@ -1,0 +1,39 @@
+{
+  "id": "11-06-023",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "AIEEE 2011",
+  "question": "A pulley of radius $2$ m is rotated about its axis by a force $F = (20t - 5t^2)$ N (where $t$ is measured in seconds) applied tangentially. If the moment of inertia of the pulley about its axis of rotation is $10\\ \\text{kg m}^2$, the number of rotations made by the pulley before its direction of motion is reversed, is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "less than $3$",
+      "image": ""
+    },
+    {
+      "text": "more than $3$ but less than $6$",
+      "image": ""
+    },
+    {
+      "text": "more than $6$ but less than $9$",
+      "image": ""
+    },
+    {
+      "text": "more than $9$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\alpha = \\frac{FR}{I} = \\frac{2(20t - 5t^2)}{10} = 4t - t^2 \\;\\Rightarrow\\; \\omega = 2t^2 - \\frac{t^3}{3}$$\n\nThe direction reverses when $\\omega = 0$ again: $2t^2 = \\dfrac{t^3}{3} \\Rightarrow t = 6$ s.\n$$\\theta = \\int_0^6\\left(2t^2 - \\frac{t^3}{3}\\right)dt = \\left[\\frac{2t^3}{3} - \\frac{t^4}{12}\\right]_0^6 = 144 - 108 = 36\\ \\text{rad}$$\n\nRotations $= \\dfrac{36}{2\\pi} \\approx 5.7$: more than $3$ but less than $6$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

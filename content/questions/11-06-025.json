@@ -1,0 +1,39 @@
+{
+  "id": "11-06-025",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "IIT JEE 2004",
+  "question": "A disc is rolling (without slipping) on a frictionless surface. C is its centre, and Q and P are two points equidistant from C, as shown. Let $V_P$, $V_Q$ and $V_C$ be the magnitudes of the velocities of points P, Q and C respectively. Then",
+  "diagram": "/diagrams/11-06-025.svg",
+  "diagram_alt": "Disc rolling on a surface with centre C; Q is above and to the right of C, P is the same distance below and to the left",
+  "options": [
+    {
+      "text": "$V_Q > V_C > V_P$",
+      "image": ""
+    },
+    {
+      "text": "$V_Q < V_C < V_P$",
+      "image": ""
+    },
+    {
+      "text": "$V_Q = V_P,\\ V_C = \\dfrac{1}{2}V_P$",
+      "image": ""
+    },
+    {
+      "text": "$V_Q < V_C > V_P$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "In rolling without slipping, every point moves as if rotating about the contact point with angular speed $\\omega$, so its speed is $\\omega \\times$ (its distance from the contact point).\n\nQ is above C, so it is farther from the contact point than C. P is below C, so it is nearer. Hence\n$$V_Q > V_C > V_P$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

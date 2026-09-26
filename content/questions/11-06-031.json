@@ -1,0 +1,40 @@
+{
+  "id": "11-06-031",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "A light string is wound round a pulley (uniform disc) of mass $2$ kg and radius $0.1$ m, free to rotate about a fixed horizontal axis. A $1$ kg block hangs from the free end of the string. The acceleration of the block is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$5\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$10\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$3.3\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$6.7\\ \\text{m/s}^2$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Block: $mg - T = ma$. Pulley: $TR = I\\alpha = \\dfrac{1}{2}MR^2\\dfrac{a}{R} \\Rightarrow T = \\dfrac{Ma}{2}$.\n$$a = \\frac{mg}{m + M/2} = \\frac{10}{1 + 1} = 5\\ \\text{m/s}^2$$\n\n(The radius cancels.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

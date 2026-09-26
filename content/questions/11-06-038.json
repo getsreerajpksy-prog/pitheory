@@ -1,0 +1,40 @@
+{
+  "id": "11-06-038",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A constant torque of $20$ N m acts on a wheel of moment of inertia $4\\ \\text{kg m}^2$, initially at rest, for $3$ s. The angular momentum and the kinetic energy of the wheel afterwards are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$60\\ \\text{kg m}^2\\text{/s}$ and $900$ J",
+      "image": ""
+    },
+    {
+      "text": "$15\\ \\text{kg m}^2\\text{/s}$ and $450$ J",
+      "image": ""
+    },
+    {
+      "text": "$80\\ \\text{kg m}^2\\text{/s}$ and $800$ J",
+      "image": ""
+    },
+    {
+      "text": "$60\\ \\text{kg m}^2\\text{/s}$ and $450$ J",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Angular impulse: $L = \\tau t = 20 \\times 3 = 60\\ \\text{kg m}^2/\\text{s}$.\n$$K = \\frac{L^2}{2I} = \\frac{3600}{8} = 450\\ \\text{J}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

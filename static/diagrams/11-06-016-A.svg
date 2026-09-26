@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 175" width="230" height="175">
+<rect width="230" height="175" fill="#fff"/>
+<path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M40.0,150.0 L210.0,150.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M40.0,150.0 L40.0,18.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M40,95 C90,60 130,44 205,42"/>
+<path d="M214.0,150.0 L206.2,154.5 L206.2,145.5 Z" fill="#111"/>
+<path d="M40.0,14.0 L44.5,21.8 L35.5,21.8 Z" fill="#111"/>
+<text x="48" y="22" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="15" text-anchor="start" font-style="italic">X</text>
+<text x="61" y="27" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="10" text-anchor="start">cm</text>
+<text x="212" y="168" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="15" text-anchor="middle" font-style="italic">n</text>
+<path d="M40.0,40.0 L205.0,40.0" fill="none" stroke="#111" stroke-width="1" stroke-dasharray="4 4"/>
+<path d="M40.0,95.0 L205.0,95.0" fill="none" stroke="#111" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="34" y="45" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="14" text-anchor="end" font-style="italic">L</text>
+<text x="34" y="100" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="13" text-anchor="end" font-style="italic">L/2</text>
+<text x="34" y="155" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="13" text-anchor="end">O</text>
+</svg>

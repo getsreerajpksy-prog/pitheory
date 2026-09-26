@@ -1,0 +1,40 @@
+{
+  "id": "11-06-040",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A force $\\vec{F} = (3\\hat{i} + 4\\hat{j})$ N acts at the point $\\vec{r} = (2\\hat{i} - \\hat{j})$ m. The torque about the origin is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$-5\\hat{k}$ N m",
+      "image": ""
+    },
+    {
+      "text": "$11\\hat{k}$ N m",
+      "image": ""
+    },
+    {
+      "text": "$5\\hat{k}$ N m",
+      "image": ""
+    },
+    {
+      "text": "$-11\\hat{k}$ N m",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\vec{\\tau} = \\vec{r}\\times\\vec{F} = (r_xF_y - r_yF_x)\\,\\hat{k} = \\big(2 \\times 4 - (-1) \\times 3\\big)\\hat{k} = 11\\hat{k}\\ \\text{N m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

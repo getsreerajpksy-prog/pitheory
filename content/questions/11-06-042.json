@@ -1,0 +1,22 @@
+{
+  "id": "11-06-042",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A flywheel starts from rest with a constant angular acceleration and reaches $20$ rad/s in $5$ s. Find the number of revolutions it makes in this time, rounded to the nearest whole number.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "8",
+  "tolerance": "0",
+  "solution": "$$\\theta = \\frac{\\omega_0 + \\omega}{2}t = \\frac{0 + 20}{2}(5) = 50\\ \\text{rad}$$\n$$\\text{Revolutions} = \\frac{50}{2\\pi} \\approx 7.96 \\approx 8$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-06-020",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2008 (Engineering)",
+  "question": "The moment of inertia of a thin circular disc about an axis passing through its centre and perpendicular to its plane is $I$. Then, the moment of inertia of the disc about an axis parallel to its diameter and touching the edge of the rim is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2I$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{5}{2}I$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{3}{2}I$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{5}{4}I$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$I = \\dfrac{MR^2}{2}$, so $MR^2 = 2I$.\n\nAbout a diameter: $\\dfrac{MR^2}{4}$. About a parallel tangent (parallel axis theorem):\n$$I' = \\frac{MR^2}{4} + MR^2 = \\frac{5}{4}MR^2 = \\frac{5}{4}(2I) = \\frac{5}{2}I$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

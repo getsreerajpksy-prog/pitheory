@@ -1,0 +1,39 @@
+{
+  "id": "11-06-022",
+  "chapter": "system-of-particles-and-rotational-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "AIEEE 2009",
+  "question": "A thin uniform rod of length $l$ and mass $m$ is swinging freely about a horizontal axis passing through its end. Its maximum angular speed is $\\omega$. Its centre of mass rises to a maximum height of",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{1}{3}\\dfrac{l^2\\omega^2}{g}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{6}\\dfrac{l\\omega}{g}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{2}\\dfrac{l^2\\omega^2}{g}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{6}\\dfrac{l^2\\omega^2}{g}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The angular speed is maximum at the lowest position. All of that rotational KE becomes PE of the centre of mass:\n$$\\frac{1}{2}\\left(\\frac{ml^2}{3}\\right)\\omega^2 = mgh \\;\\Rightarrow\\; h = \\frac{l^2\\omega^2}{6g}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
