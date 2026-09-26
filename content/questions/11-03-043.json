@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$$v_y = \\frac{dy}{dt} = 5 - 2t = 0 \\;\\Rightarrow\\; t = 2.5\\ \\text{s}$$\n$$y_{max} = 5(2.5) - (2.5)^2 = 12.5 - 6.25 = 6.25\\ \\text{m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
