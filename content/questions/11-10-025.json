@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "In the steady state the net heat flowing into B is zero. The rods are identical, so each current is proportional to its temperature difference:\n$$(80 - \\theta) + (80 - \\theta) = \\theta - 20 \\;\\Rightarrow\\; 3\\theta = 180 \\;\\Rightarrow\\; \\theta = 60°\\text{C}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
