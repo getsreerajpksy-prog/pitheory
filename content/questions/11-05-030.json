@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "For an elastic head-on collision with a body at rest, $v_1 = \\dfrac{m_1 - m_2}{m_1 + m_2}u$:\n$$\\frac{5 - m_2}{5 + m_2} = \\frac{1}{10} \\;\\Rightarrow\\; 50 - 10m_2 = 5 + m_2 \\;\\Rightarrow\\; m_2 = \\frac{45}{11} \\approx 4.09\\ \\text{kg}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
