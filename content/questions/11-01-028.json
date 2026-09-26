@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$\\rho = \\dfrac{M}{V}$, so percentage errors add:\n$$\\frac{\\Delta\\rho}{\\rho}\\times 100 = \\frac{0.01}{22.42}\\times 100 + \\frac{0.1}{4.7}\\times 100 \\approx 0.045\\% + 2.13\\% \\approx 2.2\\%$$\n\nAlmost all of the error comes from the volume, which was measured much less precisely.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
