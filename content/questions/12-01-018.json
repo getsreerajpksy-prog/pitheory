@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Inside: $E \\propto r$, so at $\\dfrac{R}{2}$, $E = \\dfrac{E_0}{2}$. Outside: $E \\propto \\dfrac{1}{r^2}$, so at $2R$, $E = \\dfrac{E_0}{4}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
