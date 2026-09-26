@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Limiting static friction $= \\mu_s mg = 0.5 \\times 100 = 50$ N.\n\nThe push ($30$ N) is less than this, so the block stays at rest and static friction adjusts to balance the push exactly: $f = 30$ N.\n\n(Friction is $\\mu N$ only at the point of slipping or while sliding.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
