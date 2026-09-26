@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\Delta U = nC_V\\Delta T = n\\frac{R}{\\gamma - 1}\\Delta T = 5 \\times \\frac{8.3}{0.4} \\times (673 - 273) = 41500\\ \\text{J} = 41.5\\ \\text{kJ}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
