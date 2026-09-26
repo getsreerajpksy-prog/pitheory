@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\frac{R}{H} = \\frac{2u^2\\sin\\theta\\cos\\theta/g}{u^2\\sin^2\\theta/2g} = 4\\cot\\theta$$\n$$4\\cot\\theta = 4\\sqrt{3} \\;\\Rightarrow\\; \\cot\\theta = \\sqrt{3} \\;\\Rightarrow\\; \\theta = 30°$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
