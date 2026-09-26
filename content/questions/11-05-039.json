@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "At maximum speed the acceleration is zero, so the driving force equals the resistance:\n$$P = Fv_{max} \\;\\Rightarrow\\; v_{max} = \\frac{60000}{2000} = 30\\ \\text{m/s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
