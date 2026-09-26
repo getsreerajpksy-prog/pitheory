@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$1 - \\dfrac{300}{T_1} = 0.4 \\Rightarrow T_1 = 500$ K. For $50\\%$: $T_1' = 600$ K. Increase $= 100$ K.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

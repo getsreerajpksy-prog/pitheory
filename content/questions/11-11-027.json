@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$1 - \\dfrac{T_2}{T_1} = \\dfrac{1}{4} \\Rightarrow T_2 = \\dfrac{3}{4}T_1$.\n\nAfter lowering the sink: $1 - \\dfrac{T_2 - 50}{T_1} = \\dfrac{1}{3} \\Rightarrow T_2 - 50 = \\dfrac{2}{3}T_1$.\n\nSubtracting: $50 = \\left(\\dfrac{3}{4} - \\dfrac{2}{3}\\right)T_1 = \\dfrac{T_1}{12} \\Rightarrow T_1 = 600$ K (and $T_2 = 450$ K).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
