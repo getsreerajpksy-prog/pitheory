@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$\\alpha = \\frac{FR}{I} = \\frac{2(20t - 5t^2)}{10} = 4t - t^2 \\;\\Rightarrow\\; \\omega = 2t^2 - \\frac{t^3}{3}$$\n\nThe direction reverses when $\\omega = 0$ again: $2t^2 = \\dfrac{t^3}{3} \\Rightarrow t = 6$ s.\n$$\\theta = \\int_0^6\\left(2t^2 - \\frac{t^3}{3}\\right)dt = \\left[\\frac{2t^3}{3} - \\frac{t^4}{12}\\right]_0^6 = 144 - 108 = 36\\ \\text{rad}$$\n\nRotations $= \\dfrac{36}{2\\pi} \\approx 5.7$: more than $3$ but less than $6$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
