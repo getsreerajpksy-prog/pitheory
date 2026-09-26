@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$[T^{-1}] = [L]^a\\,[MLT^{-2}]^b\\,[ML^{-1}]^c$$\n\nM: $b + c = 0$\nT: $-2b = -1 \\Rightarrow b = \\tfrac12$, so $c = -\\tfrac12$\nL: $a + b - c = 0 \\Rightarrow a = -1$\n\nSo $f \\propto \\dfrac{1}{l}\\sqrt{\\dfrac{T}{\\mu}}$, which matches $f = \\dfrac{1}{2l}\\sqrt{\\dfrac{T}{\\mu}}$ for the fundamental mode.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
