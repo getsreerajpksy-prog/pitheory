@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Bottom: $T_1 = mg + \\dfrac{mv_1^2}{r}$. Top: $T_2 = \\dfrac{mv_2^2}{r} - mg$. Energy: $v_1^2 = v_2^2 + 4gr$.\n$$T_1 - T_2 = 2mg + \\frac{m(v_1^2 - v_2^2)}{r} = 2mg + 4mg = 6mg$$\n\nThis holds whatever the speed, as long as the string stays taut.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
