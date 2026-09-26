@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$V_{rms} = \\dfrac{311}{\\sqrt{2}} \\approx 220$ V. $\\omega = 100\\pi \\Rightarrow f = 50$ Hz.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
