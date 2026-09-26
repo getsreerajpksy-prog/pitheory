@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$E \\propto T^4$, so halving $T$ gives $\\dfrac{E}{2^4} = \\dfrac{E}{16}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
