@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The rod is prevented from expanding by $\\Delta L = L\\alpha t$, so the compressive strain is $\\alpha t$:\n$$\\text{stress} = Y \\times \\text{strain} = Y\\alpha t$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
