@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The water can give at most $10 \\times 40 = 400$ cal by cooling to $0°$C. Melting all the ice needs $800$ cal, so only $\\dfrac{400}{80} = 5$ g melts. The mixture stays at $0°$C with $5$ g of ice left.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
