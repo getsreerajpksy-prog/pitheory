@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$a = \\dfrac{g\\sin\\theta}{1 + k^2/R^2}$: the smaller $\\dfrac{k^2}{R^2}$, the larger the acceleration.\n\nSolid sphere $\\dfrac{2}{5}$ < disc $\\dfrac{1}{2}$ < hollow sphere $\\dfrac{2}{3}$ < ring $1$.\n\nThe solid sphere wins; the ring comes last. (Mass and radius do not matter.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
