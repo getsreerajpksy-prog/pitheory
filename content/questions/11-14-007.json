@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$v_{p,max} = A\\omega = 0.1 \\times 100\\pi = 10\\pi \\approx 31.4$ m/s. (The wave speed is $\\omega/k = 50$ m/s, which is a different quantity.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
