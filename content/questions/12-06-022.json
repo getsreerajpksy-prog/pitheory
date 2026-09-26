@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$U = \\dfrac{1}{2}LI^2 \\propto I^2$, so doubling $I$ makes the energy $4$ times.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
