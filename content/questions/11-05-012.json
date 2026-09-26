@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$e = \\dfrac{\\text{velocity of separation}}{\\text{velocity of approach}}$.\n\nFirst collision: $e_1 = \\dfrac{1}{2}$. Then $e_2 = \\dfrac{e_1}{3} = \\dfrac{1}{6}$.\n\nIn the second collision, approach : separation $= \\dfrac{1}{e_2} = 6 : 1$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
