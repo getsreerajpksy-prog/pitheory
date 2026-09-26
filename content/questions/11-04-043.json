@@ -1,0 +1,40 @@
+{
+  "id": "11-04-043",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $2$ kg body at rest is acted on by a force that rises uniformly from $0$ to $100$ N in $0.1$ s and then falls uniformly back to zero in the next $0.1$ s. The speed of the body afterwards is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$10$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$2.5$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$20$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$5$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Impulse = area under the force-time graph (a triangle):\n$$J = \\frac{1}{2} \\times 0.2 \\times 100 = 10\\ \\text{N s}$$\n\n$J = m\\,\\Delta v$, so $v = \\dfrac{10}{2} = 5$ m/s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

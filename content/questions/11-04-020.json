@@ -1,0 +1,39 @@
+{
+  "id": "11-04-020",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "AIEEE 2007",
+  "question": "Two blocks of masses $m$ and $M$ are placed on a horizontal frictionless table and connected by a light spring. Mass $M$ is pulled to the right with a force $F$. If the acceleration of mass $m$ is $a$, then the acceleration of mass $M$ will be",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{F - ma}{M}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{F + ma}{M}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{F}{M}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{am}{M}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The only horizontal force on $m$ is the spring force, so the spring force is $ma$.\n\nOn $M$, the applied force $F$ acts forward and the spring pulls it back with $ma$:\n$$F - ma = Ma' \\;\\Rightarrow\\; a' = \\frac{F - ma}{M}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

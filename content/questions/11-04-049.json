@@ -1,0 +1,22 @@
+{
+  "id": "11-04-049",
+  "chapter": "laws-of-motion",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A rope can bear a maximum tension of $300$ N. With what maximum acceleration, in $\\text{m/s}^2$, can a $20$ kg monkey climb up the rope? ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "5",
+  "tolerance": "0",
+  "solution": "$$T - mg = ma \\;\\Rightarrow\\; a_{max} = \\frac{300 - 200}{20} = 5\\ \\text{m/s}^2$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

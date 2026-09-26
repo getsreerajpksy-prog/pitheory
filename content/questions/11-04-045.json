@@ -1,0 +1,40 @@
+{
+  "id": "11-04-045",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A horizontal jet of water with cross-sectional area $2\\ \\text{cm}^2$ and speed $20$ m/s strikes a vertical wall and falls dead (does not rebound). The force on the wall is (density of water $= 1000\\ \\text{kg/m}^3$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$8$ N",
+      "image": ""
+    },
+    {
+      "text": "$80$ N",
+      "image": ""
+    },
+    {
+      "text": "$160$ N",
+      "image": ""
+    },
+    {
+      "text": "$40$ N",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Mass hitting per second: $\\rho Av$. Each unit of mass loses momentum $v$:\n$$F = \\rho Av^2 = 1000 \\times 2 \\times 10^{-4} \\times 400 = 80\\ \\text{N}$$\n\nIf the water rebounded with the same speed, the force would double to $160$ N.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

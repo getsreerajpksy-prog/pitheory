@@ -1,0 +1,39 @@
+{
+  "id": "11-04-027",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "EAMCET 2013 (Engineering)",
+  "question": "The upper half of an inclined plane of inclination $\\theta$ is perfectly smooth while the lower half is rough. A block starting from rest at the top of the plane will again come to rest at the bottom. The coefficient of friction between the block and the lower half of the plane is given by",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\mu = 2\\tan\\theta$",
+      "image": ""
+    },
+    {
+      "text": "$\\mu = \\dfrac{2}{\\tan\\theta}$",
+      "image": ""
+    },
+    {
+      "text": "$\\mu = \\tan\\theta$",
+      "image": ""
+    },
+    {
+      "text": "$\\mu = \\dfrac{1}{\\tan\\theta}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Let the plane have length $2L$. The block starts and ends at rest, so the work done by gravity over the whole length equals the work done against friction over the lower half:\n$$mg\\sin\\theta\\,(2L) = \\mu mg\\cos\\theta\\,(L) \\;\\Rightarrow\\; \\mu = 2\\tan\\theta$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

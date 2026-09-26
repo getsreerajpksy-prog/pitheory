@@ -1,0 +1,39 @@
+{
+  "id": "11-04-046",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "A $2$ kg block rests on an $8$ kg block, which lies on a smooth floor. The coefficient of static friction between the blocks is $0.3$. The maximum horizontal force that can be applied to the lower block so that the two move together is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$24$ N",
+      "image": ""
+    },
+    {
+      "text": "$60$ N",
+      "image": ""
+    },
+    {
+      "text": "$30$ N",
+      "image": ""
+    },
+    {
+      "text": "$6$ N",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The top block is accelerated only by friction, so its maximum acceleration is $\\mu_s g = 3\\ \\text{m/s}^2$.\n\nFor both to move together with this acceleration:\n$$F_{max} = (2 + 8) \\times 3 = 30\\ \\text{N}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

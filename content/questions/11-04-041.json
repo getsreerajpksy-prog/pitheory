@@ -1,0 +1,40 @@
+{
+  "id": "11-04-041",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A road curve of radius $160$ m is banked so that $\\tan\\theta = 0.25$. The speed at which a car can take the curve with no need for friction is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$16$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$20$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$40$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$10$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$v = \\sqrt{rg\\tan\\theta} = \\sqrt{160 \\times 10 \\times 0.25} = \\sqrt{400} = 20\\ \\text{m/s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

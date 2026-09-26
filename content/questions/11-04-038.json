@@ -1,0 +1,40 @@
+{
+  "id": "11-04-038",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A block placed on a plank just begins to slide when the plank is tilted to $30°$ with the horizontal. The coefficient of static friction between the block and the plank is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{1}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\sqrt{3}}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{\\sqrt{3}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{3}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At the angle of repose, $mg\\sin\\theta = \\mu_s mg\\cos\\theta$:\n$$\\mu_s = \\tan 30° = \\frac{1}{\\sqrt{3}}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

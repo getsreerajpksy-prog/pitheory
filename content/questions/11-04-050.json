@@ -1,0 +1,22 @@
+{
+  "id": "11-04-050",
+  "chapter": "laws-of-motion",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $5$ kg block rests on a rough plane inclined at $37°$ to the horizontal ($\\mu_s = 0.5$). Find the minimum force, in newtons, that must be applied along the plane (upwards) to keep the block from sliding down. (Take $\\sin 37° = 0.6$, $\\cos 37° = 0.8$, $g = 10\\ \\text{m/s}^2$.)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "10",
+  "tolerance": "0",
+  "solution": "Down the plane: $mg\\sin\\theta = 30$ N. Maximum friction up the plane: $\\mu_s mg\\cos\\theta = 0.5 \\times 40 = 20$ N.\n\nFriction alone cannot hold the block (tan 37° = 0.75 > 0.5), so the extra force needed is\n$$F_{min} = mg(\\sin\\theta - \\mu_s\\cos\\theta) = 30 - 20 = 10\\ \\text{N}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

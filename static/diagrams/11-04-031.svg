@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 170" width="460" height="170">
+<rect width="460" height="170" fill="#fff"/>
+<path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M50.0,130.0 L430.0,130.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M50.0,130.0 L50.0,20.0"/><path fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" d="M50.0,130.0 L94.0,50.0 L138.0,130.0 L182.0,50.0 L226.0,130.0 L270.0,50.0 L314.0,130.0 L358.0,50.0 L402.0,130.0"/>
+<path d="M434.0,130.0 L426.2,134.5 L426.2,125.5 Z" fill="#111"/>
+<path d="M50.0,16.0 L54.5,23.8 L45.5,23.8 Z" fill="#111"/>
+<text x="58" y="24" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="15" text-anchor="start" font-style="italic">x (cm)</text>
+<text x="438" y="135" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="15" text-anchor="start" font-style="italic">t (s)</text>
+<path d="M50.0,50.0 L94.0,50.0" fill="none" stroke="#111" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="42" y="55" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="14" text-anchor="end">2</text>
+<text x="94" y="148" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="13" text-anchor="middle">2</text>
+<text x="138" y="148" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="13" text-anchor="middle">4</text>
+<text x="182" y="148" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="13" text-anchor="middle">6</text>
+<text x="226" y="148" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="13" text-anchor="middle">8</text>
+<text x="270" y="148" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="13" text-anchor="middle">10</text>
+<text x="314" y="148" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="13" text-anchor="middle">12</text>
+<text x="358" y="148" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="13" text-anchor="middle">14</text>
+<text x="402" y="148" font-family="Arial, Helvetica, sans-serif" fill="#111" font-size="13" text-anchor="middle">16</text>
+</svg>

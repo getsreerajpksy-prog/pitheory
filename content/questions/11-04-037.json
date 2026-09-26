@@ -1,0 +1,39 @@
+{
+  "id": "11-04-037",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $5$ kg block rests on a horizontal floor ($\\mu_s = 0.4$). A force $F$ is applied at $37°$ above the horizontal. The minimum value of $F$ that just starts the block moving is nearly (take $\\sin 37° = 0.6$, $\\cos 37° = 0.8$, $g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$16$ N",
+      "image": ""
+    },
+    {
+      "text": "$19.2$ N",
+      "image": ""
+    },
+    {
+      "text": "$20$ N",
+      "image": ""
+    },
+    {
+      "text": "$25$ N",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The upward component reduces the normal force: $N = mg - F\\sin 37° = 50 - 0.6F$.\n\nJust moving: $F\\cos 37° = \\mu_s N$:\n$$0.8F = 0.4(50 - 0.6F) \\;\\Rightarrow\\; 1.04F = 20 \\;\\Rightarrow\\; F \\approx 19.2\\ \\text{N}$$\n\nThis is less than the $20$ N a horizontal pull would need ($\\mu_s mg$).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "11-04-025",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2010 (Engineering)",
+  "question": "A smooth block is released from rest on a $45°$ inclined plane and it slides a distance $d$. The time taken to slide is $n$ times that on a smooth inclined plane. The coefficient of friction is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\mu_k = 1 - \\dfrac{1}{n^2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\mu_k = \\sqrt{1 - \\dfrac{1}{n^2}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\mu_k = \\dfrac{1}{1 - n^2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\mu_k = \\sqrt{\\dfrac{1}{1 - n^2}}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "(Read as: on a rough $45°$ incline the time is $n$ times that on a smooth one.)\n\nFor the same distance from rest, $t \\propto \\dfrac{1}{\\sqrt{a}}$, so $a_{smooth} = n^2 a_{rough}$:\n$$g\\sin 45° = n^2 g(\\sin 45° - \\mu_k\\cos 45°) \\;\\Rightarrow\\; 1 = n^2(1 - \\mu_k)$$\n$$\\mu_k = 1 - \\frac{1}{n^2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

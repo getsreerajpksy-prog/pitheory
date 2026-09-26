@@ -1,0 +1,39 @@
+{
+  "id": "11-04-030",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2009 (Medical)",
+  "question": "A boy of mass $50$ kg is standing on a weighing machine placed on the floor of a lift. The machine reads his weight in newtons. The reading of the machine if the lift is moving upwards with a uniform speed of $10\\ \\text{m s}^{-1}$ is ($g = 9.8\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$510$ N",
+      "image": ""
+    },
+    {
+      "text": "$480$ N",
+      "image": ""
+    },
+    {
+      "text": "$490$ N",
+      "image": ""
+    },
+    {
+      "text": "$500$ N",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At uniform velocity the acceleration is zero, so the normal force equals the weight:\n$$N = mg = 50 \\times 9.8 = 490\\ \\text{N}$$\n\nThe speed of the lift does not matter; only its acceleration does.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

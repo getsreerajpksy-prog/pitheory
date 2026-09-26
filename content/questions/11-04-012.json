@@ -1,0 +1,39 @@
+{
+  "id": "11-04-012",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2014 (Engineering)",
+  "question": "A body of mass $8$ kg is moved by a force $F = (3x)$ N, where $x$ is the distance covered. Its initial position is $x = 2$ m and its final position is $x = 10$ m. If the body is initially at rest, its final speed is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$9\\ \\text{m/s}$",
+      "image": ""
+    },
+    {
+      "text": "$12\\ \\text{m/s}$",
+      "image": ""
+    },
+    {
+      "text": "$6\\ \\text{m/s}$",
+      "image": ""
+    },
+    {
+      "text": "$3\\ \\text{m/s}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Write the acceleration as $v\\dfrac{dv}{dx}$:\n$$3x = 8v\\frac{dv}{dx} \\;\\Rightarrow\\; \\int_2^{10} 3x\\,dx = \\int_0^v 8v\\,dv$$\n$$\\frac{3}{2}(100 - 4) = 4v^2 \\;\\Rightarrow\\; 144 = 4v^2 \\;\\Rightarrow\\; v = 6\\ \\text{m/s}$$\n\n(Equivalently, the work done $\\int F\\,dx = 144$ J equals the kinetic energy gained.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

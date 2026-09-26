@@ -1,0 +1,40 @@
+{
+  "id": "11-04-033",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Three blocks of masses $2$ kg, $3$ kg and $5$ kg are placed in contact in a row on a smooth horizontal floor. A horizontal force of $50$ N pushes the $2$ kg block. The contact force between the $3$ kg and the $5$ kg blocks is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$50$ N",
+      "image": ""
+    },
+    {
+      "text": "$25$ N",
+      "image": ""
+    },
+    {
+      "text": "$40$ N",
+      "image": ""
+    },
+    {
+      "text": "$15$ N",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$a = \\dfrac{50}{2 + 3 + 5} = 5\\ \\text{m/s}^2$.\n\nThe contact force on the $5$ kg block is the only horizontal force on it: $N = 5 \\times 5 = 25$ N.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

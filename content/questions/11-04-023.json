@@ -1,0 +1,39 @@
+{
+  "id": "11-04-023",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "AIEEE 2011",
+  "question": "The minimum force required to start pushing a body up a rough (frictional coefficient $\\mu$) inclined plane is $F_1$ while the minimum force needed to prevent it from sliding down is $F_2$. If the inclined plane makes an angle $\\theta$ with the horizontal such that $\\tan\\theta = 2\\mu$, then the ratio $\\dfrac{F_1}{F_2}$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4$",
+      "image": ""
+    },
+    {
+      "text": "$1$",
+      "image": ""
+    },
+    {
+      "text": "$2$",
+      "image": ""
+    },
+    {
+      "text": "$3$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Pushing up, friction acts down the plane: $F_1 = mg(\\sin\\theta + \\mu\\cos\\theta)$.\n\nPreventing sliding down, friction acts up the plane: $F_2 = mg(\\sin\\theta - \\mu\\cos\\theta)$.\n$$\\frac{F_1}{F_2} = \\frac{\\tan\\theta + \\mu}{\\tan\\theta - \\mu} = \\frac{2\\mu + \\mu}{2\\mu - \\mu} = 3$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

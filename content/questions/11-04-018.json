@@ -1,0 +1,40 @@
+{
+  "id": "11-04-018",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2007 (Engineering)",
+  "question": "A rifle of $20$ kg mass can fire $4$ bullets per second. The mass of each bullet is $35 \\times 10^{-3}$ kg and its final velocity is $400\\ \\text{m s}^{-1}$. Then, what force must be applied on the rifle so that it does not move backwards while firing the bullets?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$28$ N",
+      "image": ""
+    },
+    {
+      "text": "$112$ N",
+      "image": ""
+    },
+    {
+      "text": "$14$ N",
+      "image": ""
+    },
+    {
+      "text": "$56$ N",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The force equals the rate at which momentum is given to the bullets:\n$$F = n\\,mv = 4 \\times 35 \\times 10^{-3} \\times 400 = 56\\ \\text{N}$$\n\n(The mass of the rifle is not needed.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-04-015",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2013 (Engineering)",
+  "question": "A mass $M$ is suspended by a weightless string. The horizontal force required to hold the mass at $60°$ with the vertical is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{Mg}{\\sqrt{3}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{3}\\,Mg$",
+      "image": ""
+    },
+    {
+      "text": "$Mg$",
+      "image": ""
+    },
+    {
+      "text": "$2Mg$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "In equilibrium, with tension $T$ at angle $\\theta$ to the vertical:\n$$T\\sin\\theta = F, \\qquad T\\cos\\theta = Mg \\;\\Rightarrow\\; F = Mg\\tan\\theta$$\n$$F = Mg\\tan 60° = \\sqrt{3}\\,Mg$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

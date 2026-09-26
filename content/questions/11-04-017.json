@@ -1,0 +1,39 @@
+{
+  "id": "11-04-017",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "AIEEE 2010",
+  "question": "Two fixed frictionless inclined planes making angles $30°$ and $60°$ with the vertical are shown in the figure. Two blocks A and B are placed on the two planes. What is the relative vertical acceleration of A with respect to B?",
+  "diagram": "/diagrams/11-04-017.svg",
+  "diagram_alt": "Block A on a smooth plane inclined at 60° to the horizontal and block B on a smooth plane inclined at 30°",
+  "options": [
+    {
+      "text": "$4.9\\ \\text{m s}^{-2}$ in the vertical direction",
+      "image": ""
+    },
+    {
+      "text": "$4.9\\ \\text{m s}^{-2}$ in the horizontal direction",
+      "image": ""
+    },
+    {
+      "text": "$9.8\\ \\text{m s}^{-2}$ in the vertical direction",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "On a smooth incline at angle $\\theta$ to the horizontal, the acceleration down the plane is $g\\sin\\theta$. Its vertical component is $g\\sin\\theta \\times \\sin\\theta = g\\sin^2\\theta$.\n\nIn the figure, A's plane is inclined at $60°$ to the horizontal and B's at $30°$:\n$$a_{A,y} = g\\sin^2 60° = \\frac{3g}{4}, \\qquad a_{B,y} = g\\sin^2 30° = \\frac{g}{4}$$\n\nRelative vertical acceleration of A with respect to B:\n$$\\frac{3g}{4} - \\frac{g}{4} = \\frac{g}{2} = 4.9\\ \\text{m s}^{-2}\\ \\text{(vertical)}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-04-044",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A machine gun fires $10$ bullets per second, each of mass $50$ g, with a speed of $500$ m/s. The average force needed to hold the gun steady is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$250$ N",
+      "image": ""
+    },
+    {
+      "text": "$25$ N",
+      "image": ""
+    },
+    {
+      "text": "$2500$ N",
+      "image": ""
+    },
+    {
+      "text": "$50$ N",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$F = n\\,mv = 10 \\times 0.05 \\times 500 = 250\\ \\text{N}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

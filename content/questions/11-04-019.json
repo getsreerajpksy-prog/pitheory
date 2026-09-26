@@ -1,0 +1,40 @@
+{
+  "id": "11-04-019",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2009 (Engineering)",
+  "question": "A particle of mass $4m$ at rest explodes into three pieces of masses $m$, $m$ and $2m$. The equal masses move along the $X$-axis and $Y$-axis with velocities $4\\ \\text{m s}^{-1}$ and $6\\ \\text{m s}^{-1}$ respectively. The magnitude of the velocity of the heavier mass is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{\\sqrt{13}}{2}\\ \\text{m s}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{13}\\ \\text{m s}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$2\\sqrt{13}\\ \\text{m s}^{-1}$",
+      "image": ""
+    },
+    {
+      "text": "$5\\ \\text{m s}^{-1}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Initial momentum is zero, so the heavier piece carries momentum equal and opposite to the sum of the other two:\n$$2m\\,v_3 = \\sqrt{(4m)^2 + (6m)^2} = m\\sqrt{52} = 2\\sqrt{13}\\,m$$\n$$v_3 = \\sqrt{13}\\ \\text{m s}^{-1}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

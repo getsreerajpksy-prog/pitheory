@@ -1,0 +1,40 @@
+{
+  "id": "11-04-047",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A box lies on the floor of a truck. The coefficient of kinetic friction between them is $0.3$. The truck accelerates at $5\\ \\text{m/s}^2$, which is enough to make the box slide. The acceleration of the box relative to the truck is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2\\ \\text{m/s}^2$ towards the front",
+      "image": ""
+    },
+    {
+      "text": "$3\\ \\text{m/s}^2$ towards the rear",
+      "image": ""
+    },
+    {
+      "text": "$5\\ \\text{m/s}^2$ towards the rear",
+      "image": ""
+    },
+    {
+      "text": "$2\\ \\text{m/s}^2$ towards the rear",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Relative to the ground, kinetic friction drives the box forward at $\\mu_k g = 3\\ \\text{m/s}^2$, while the truck accelerates at $5\\ \\text{m/s}^2$.\n\nRelative to the truck: $3 - 5 = -2\\ \\text{m/s}^2$, i.e. $2\\ \\text{m/s}^2$ towards the rear.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

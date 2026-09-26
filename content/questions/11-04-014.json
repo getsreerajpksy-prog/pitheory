@@ -1,0 +1,40 @@
+{
+  "id": "11-04-014",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2014 (Engineering)",
+  "question": "A bus moving on a level road with a velocity $v$ can be stopped at a distance of $x$ by the application of a retarding force $F$. The load on the bus is increased by $25\\%$ by boarding the passengers. Now, if the bus is moving with the same speed and if the same retarding force is applied, the distance travelled by the bus before it stops is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$x$",
+      "image": ""
+    },
+    {
+      "text": "$1.25x$",
+      "image": ""
+    },
+    {
+      "text": "$1.5x$",
+      "image": ""
+    },
+    {
+      "text": "$0.8x$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "With retarding force $F$ on mass $m$: $a = \\dfrac{F}{m}$, and the stopping distance is\n$$s = \\frac{v^2}{2a} = \\frac{mv^2}{2F} \\propto m$$\n\nThe mass becomes $1.25m$, so the stopping distance becomes $1.25x$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

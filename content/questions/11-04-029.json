@@ -1,0 +1,39 @@
+{
+  "id": "11-04-029",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2010 (Medical)",
+  "question": "A car is travelling along a curved road of radius $r$. If the coefficient of friction between the tyres and the road is $\\mu$, the car will skid if its speed exceeds",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2\\sqrt{\\mu rg}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{3\\mu rg}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{2\\mu rg}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{\\mu rg}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Friction supplies the centripetal force, up to its limit $\\mu mg$:\n$$\\frac{mv^2}{r} \\le \\mu mg \\;\\Rightarrow\\; v_{max} = \\sqrt{\\mu rg}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

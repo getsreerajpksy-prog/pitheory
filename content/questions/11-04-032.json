@@ -1,0 +1,40 @@
+{
+  "id": "11-04-032",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The momentum of a particle varies with time as $\\vec{p} = (4t^2\\,\\hat{i} - 3t^2\\,\\hat{j})$ kg m/s. The magnitude of the force on it at $t = 2$ s is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$20$ N",
+      "image": ""
+    },
+    {
+      "text": "$10$ N",
+      "image": ""
+    },
+    {
+      "text": "$40$ N",
+      "image": ""
+    },
+    {
+      "text": "$5$ N",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\vec{F} = \\frac{d\\vec{p}}{dt} = 8t\\,\\hat{i} - 6t\\,\\hat{j}, \\qquad |\\vec{F}| = 10t$$\n\nAt $t = 2$ s: $|\\vec{F}| = 20$ N.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

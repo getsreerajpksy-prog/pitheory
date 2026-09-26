@@ -1,0 +1,40 @@
+{
+  "id": "11-04-034",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Masses of $3$ kg and $5$ kg hang at the two ends of a light string passing over a smooth, light pulley. The tension in the string is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$30$ N",
+      "image": ""
+    },
+    {
+      "text": "$50$ N",
+      "image": ""
+    },
+    {
+      "text": "$37.5$ N",
+      "image": ""
+    },
+    {
+      "text": "$40$ N",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$T = \\frac{2m_1m_2}{m_1 + m_2}g = \\frac{2 \\times 3 \\times 5}{8} \\times 10 = 37.5\\ \\text{N}$$\n\nIt lies between the two weights ($30$ N and $50$ N), as it must.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

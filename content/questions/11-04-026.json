@@ -1,0 +1,40 @@
+{
+  "id": "11-04-026",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "EAMCET 2008 (Engineering)",
+  "question": "Starting from rest, the time taken by a body sliding down on a rough inclined plane at $45°$ with the horizontal is twice the time taken to travel on a smooth plane of the same inclination and the same distance. Then the coefficient of kinetic friction is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.25$",
+      "image": ""
+    },
+    {
+      "text": "$0.33$",
+      "image": ""
+    },
+    {
+      "text": "$0.50$",
+      "image": ""
+    },
+    {
+      "text": "$0.75$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Same distance from rest, so $a_{smooth} = 4\\,a_{rough}$:\n$$g\\sin 45° = 4g(\\sin 45° - \\mu_k\\cos 45°) \\;\\Rightarrow\\; 1 = 4(1 - \\mu_k) \\;\\Rightarrow\\; \\mu_k = 0.75$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

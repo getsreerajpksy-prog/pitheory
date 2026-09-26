@@ -1,0 +1,40 @@
+{
+  "id": "11-04-013",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2012 (Engineering)",
+  "question": "The sum of the magnitudes of two forces acting at a point is $16$ N. If their resultant is normal to the smaller force and has a magnitude of $8$ N, then the forces are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$8$ N and $8$ N",
+      "image": ""
+    },
+    {
+      "text": "$4$ N and $12$ N",
+      "image": ""
+    },
+    {
+      "text": "$5$ N and $11$ N",
+      "image": ""
+    },
+    {
+      "text": "$6$ N and $10$ N",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Let the smaller force be $F_1$ and the larger $F_2$. The resultant is perpendicular to $F_1$, so $F_1$, $R$ and $F_2$ form a right triangle with $F_2$ as the hypotenuse:\n$$F_2^2 - F_1^2 = R^2 = 64 \\;\\Rightarrow\\; (F_2 - F_1)(F_2 + F_1) = 64$$\n\nWith $F_1 + F_2 = 16$: $F_2 - F_1 = 4$. So $F_1 = 6$ N and $F_2 = 10$ N.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-04-021",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2011 (Engineering)",
+  "question": "A $1$ N pendulum bob is held at an angle $\\theta$ from the vertical by a $2$ N horizontal force $F$. The tension in the string supporting the pendulum bob (in newton) is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\cos\\theta$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2}{\\cos\\theta}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{5}$",
+      "image": ""
+    },
+    {
+      "text": "$1$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The tension balances the weight ($1$ N, vertical) and the horizontal force ($2$ N), which are perpendicular:\n$$T = \\sqrt{1^2 + 2^2} = \\sqrt{5}\\ \\text{N}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-04-042",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The coefficient of static friction between the tyres and a flat road is $0.4$. The maximum speed with which a car can go round a flat curve of radius $40$ m without skidding is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$8$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$2\\sqrt{10}$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$4\\sqrt{10}$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$16$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$v_{max} = \\sqrt{\\mu rg} = \\sqrt{0.4 \\times 40 \\times 10} = \\sqrt{160} = 4\\sqrt{10}\\ \\text{m/s} \\approx 12.6\\ \\text{m/s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

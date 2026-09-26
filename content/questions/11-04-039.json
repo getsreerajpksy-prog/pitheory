@@ -1,0 +1,40 @@
+{
+  "id": "11-04-039",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A block slides down a rough plane inclined at $37°$ to the horizontal. If $\\mu_k = 0.5$, its acceleration is (take $\\sin 37° = 0.6$, $g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$6\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$4\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$10\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$2\\ \\text{m/s}^2$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$a = g(\\sin\\theta - \\mu_k\\cos\\theta) = 10(0.6 - 0.5 \\times 0.8) = 2\\ \\text{m/s}^2$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

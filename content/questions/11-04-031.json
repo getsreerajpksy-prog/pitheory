@@ -1,0 +1,39 @@
+{
+  "id": "11-04-031",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "AIEEE 2010",
+  "question": "The position-time graph of a body of mass $0.04$ kg is shown in the figure. The time between two consecutive impulses received by the body and the magnitude of each impulse is",
+  "diagram": "/diagrams/11-04-031.svg",
+  "diagram_alt": "Position-time graph: a triangular wave between x = 0 and x = 2 cm, turning every 2 s up to 16 s",
+  "options": [
+    {
+      "text": "$4$ s, $4 \\times 10^{-4}$ kg m/s",
+      "image": ""
+    },
+    {
+      "text": "$2$ s, $8 \\times 10^{-4}$ kg m/s",
+      "image": ""
+    },
+    {
+      "text": "$6$ s, $4 \\times 10^{-4}$ kg m/s",
+      "image": ""
+    },
+    {
+      "text": "$8$ s, $8 \\times 10^{-4}$ kg m/s",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The graph is made of straight lines: the body moves with constant speed $\\dfrac{2\\ \\text{cm}}{2\\ \\text{s}} = 1$ cm/s $= 0.01$ m/s and reverses direction every $2$ s (at $t = 2, 4, 6, \\dots$ s).\n\nEach reversal is caused by an impulse. The velocity changes from $+0.01$ to $-0.01$ m/s (or back):\n$$J = m\\,\\Delta v = 0.04 \\times 0.02 = 8 \\times 10^{-4}\\ \\text{kg m/s}$$\n\nTime between consecutive impulses: $2$ s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

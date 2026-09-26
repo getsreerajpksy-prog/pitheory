@@ -1,0 +1,40 @@
+{
+  "id": "11-04-028",
+  "chapter": "laws-of-motion",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Hard",
+  "important": false,
+  "source": "EAMCET 2008 (Engineering)",
+  "question": "A steel wire can withstand a load up to $2940$ N. A load of $150$ kg is suspended from a rigid support. The maximum angle through which the wire can be displaced from the mean position, so that the wire does not break when the load passes through the position of equilibrium, is ($g = 9.8\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$30°$",
+      "image": ""
+    },
+    {
+      "text": "$60°$",
+      "image": ""
+    },
+    {
+      "text": "$80°$",
+      "image": ""
+    },
+    {
+      "text": "$85°$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Released from angle $\\theta$, the speed at the lowest point satisfies $v^2 = 2gl(1 - \\cos\\theta)$.\n\nTension at the lowest point:\n$$T = mg + \\frac{mv^2}{l} = mg(3 - 2\\cos\\theta)$$\n\nWith $mg = 150 \\times 9.8 = 1470$ N and $T_{max} = 2940$ N:\n$$3 - 2\\cos\\theta = 2 \\;\\Rightarrow\\; \\cos\\theta = \\frac{1}{2} \\;\\Rightarrow\\; \\theta = 60°$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
