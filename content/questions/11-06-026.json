@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$x_{cm} = \\frac{1(0) + 2(2) + 3(0)}{6} = \\frac{2}{3}\\ \\text{m}, \\qquad y_{cm} = \\frac{1(0) + 2(0) + 3(2)}{6} = 1\\ \\text{m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
