@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Half the length gives half the resistance, so $P = \\dfrac{V^2}{R}$ doubles and the time halves: $5$ min.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
