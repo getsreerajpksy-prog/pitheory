@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "Lens: $\\dfrac{1}{v} = \\dfrac{1}{20} - \\dfrac{1}{30} = \\dfrac{1}{60}$, so $v = 60$ cm: $10$ cm beyond the mirror, which acts as a virtual object for it.\n\nMirror (distances from the mirror, towards the lens positive for real): the converging rays would meet $10$ cm behind it, $u = +10$, $f = -10$:\n$$\\frac{1}{v} = \\frac{1}{f} - \\frac{1}{u} = -\\frac{1}{10} - \\frac{1}{10} = -\\frac{1}{5} \\;\\Rightarrow\\; v = -5\\ \\text{cm}$$\n\nThe image is real, $5$ cm in front of the mirror.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
