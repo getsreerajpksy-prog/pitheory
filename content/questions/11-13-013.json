@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$v_{max} = A\\omega$ and $a_{max} = A\\omega^2$, so $\\omega = \\dfrac{a_{max}}{v_{max}} = 4$ rad/s and $A = \\dfrac{v_{max}}{\\omega} = 1$ m.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
