@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$\\tan 45° = \\dfrac{qE}{mg} \\Rightarrow E = \\dfrac{mg}{q} = \\dfrac{2 \\times 10^{-3} \\times 10}{5 \\times 10^{-6}} = 4000$ N/C.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
