@@ -17,6 +17,6 @@
   "tolerance": "1",
   "solution": "$I = \\dfrac{100}{4\\pi(2)^2} \\approx 1.99\\ \\text{W/m}^2$.\n$$E_0 = \\sqrt{\\frac{2I}{\\epsilon_0c}} = \\sqrt{\\frac{2 \\times 1.99}{8.85 \\times 10^{-12} \\times 3 \\times 10^8}} \\approx 38.7 \\approx 39\\ \\text{V/m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
