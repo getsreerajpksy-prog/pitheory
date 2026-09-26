@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$R = \\dfrac{\\rho L}{A} = \\dfrac{1.7 \\times 10^{-8} \\times 100}{10^{-6}} = 1.7\\ \\Omega$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
