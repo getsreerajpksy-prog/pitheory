@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$W = \\vec{F}\\cdot\\vec{s} = 30 + 18 - 16 = 32\\ \\text{J}, \\qquad P = \\frac{W}{t} = \\frac{32}{5} = 6.4\\ \\text{W}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
