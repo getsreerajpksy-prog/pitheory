@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\dfrac{4}{x^2} = \\dfrac{9}{(50 - x)^2} \\Rightarrow \\dfrac{50 - x}{x} = \\dfrac{3}{2} \\Rightarrow x = 20$ cm (between the charges, nearer the smaller one).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

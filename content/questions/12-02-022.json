@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$W = q\\Delta V$ and $\\Delta V = 0$ on an equipotential surface, so no work is done.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

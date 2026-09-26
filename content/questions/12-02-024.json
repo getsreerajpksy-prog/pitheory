@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Three pairs: one like pair ($+kq^2/a$) and two unlike pairs ($-kq^2/a$ each):\n$$U = \\frac{kq^2}{a}(1 - 1 - 1) = -\\frac{kq^2}{a}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

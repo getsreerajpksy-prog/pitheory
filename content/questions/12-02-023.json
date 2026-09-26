@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$eV = \\dfrac{1}{2}mv^2 \\Rightarrow v = \\sqrt{2\\dfrac{e}{m}V} = \\sqrt{2 \\times 1.76 \\times 10^{11} \\times 200} \\approx 8.4 \\times 10^6$ m/s.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

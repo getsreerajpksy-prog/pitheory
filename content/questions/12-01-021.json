@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "This is a short dipole ($p = 10^{-6} \\times 2 \\times 10^{-3} = 2 \\times 10^{-9}$ C m) and the point is on its equatorial line at $r = 0.1$ m:\n$$E = \\frac{kp}{r^3} = \\frac{9 \\times 10^9 \\times 2 \\times 10^{-9}}{10^{-3}} = 1.8 \\times 10^4\\ \\text{N/C}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

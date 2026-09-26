@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$C = \\dfrac{\\epsilon_0A}{d} = \\dfrac{8.85 \\times 10^{-12} \\times 0.02}{10^{-3}} = 1.77 \\times 10^{-10}$ F $= 177$ pF.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

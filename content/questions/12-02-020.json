@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Each corner is at $\\dfrac{\\sqrt{3}a}{2}$ from the centre. Potentials add as scalars:\n$$V = 8 \\times \\frac{Q}{4\\pi\\epsilon_0}\\cdot\\frac{2}{\\sqrt{3}a} = \\frac{4Q}{\\sqrt{3}\\,\\pi\\epsilon_0 a}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

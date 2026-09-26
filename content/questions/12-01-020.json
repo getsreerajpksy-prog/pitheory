@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Axial: $\\dfrac{2kp}{r^3}$ along $\\vec{p}$. Equatorial: $\\dfrac{kp}{r^3}$ opposite to $\\vec{p}$. So the equatorial field is $\\dfrac{E}{2}$, pointing the other way.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

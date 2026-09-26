@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Gauss's law with a coaxial cylinder of length $L$: $E(2\\pi rL) = \\dfrac{\\lambda L}{\\epsilon_0} \\Rightarrow E = \\dfrac{\\lambda}{2\\pi\\epsilon_0 r}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
