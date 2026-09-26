@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$\\omega = \\dfrac{12}{4} = 3$ rad/s.\n$$v = \\omega\\sqrt{A^2 - x^2} = 3\\sqrt{16 - 12} = 6\\ \\text{cm/s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
