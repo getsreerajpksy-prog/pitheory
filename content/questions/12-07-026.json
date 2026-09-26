@@ -1,0 +1,40 @@
+{
+  "id": "12-07-026",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "In an LC circuit, the capacitor is initially charged. The energy is entirely magnetic after a time (period of oscillation $T$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{T}{4}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{T}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$T$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{T}{8}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The charge on C varies as $q_0\\cos\\omega t$. It first becomes zero (all energy in the inductor) at $\\omega t = \\dfrac{\\pi}{2}$, i.e. $t = \\dfrac{T}{4}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

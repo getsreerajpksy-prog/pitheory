@@ -1,0 +1,40 @@
+{
+  "id": "12-07-031",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $100\\ \\Omega$ resistor and a capacitor of reactance $100\\ \\Omega$ are in series across an ac supply. The phase angle between the current and the supply voltage is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "zero",
+      "image": ""
+    },
+    {
+      "text": "$45°$, current leading",
+      "image": ""
+    },
+    {
+      "text": "$45°$, current lagging",
+      "image": ""
+    },
+    {
+      "text": "$90°$, current leading",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\tan\\phi = \\dfrac{X_C}{R} = 1 \\Rightarrow \\phi = 45°$. In an RC circuit the current leads the voltage.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "12-07-032",
+  "chapter": "alternating-current",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $220$ V, $100$ W lamp is to be run from a $220$ V, $50$ Hz supply through a series choke (pure inductor) so that the lamp gets only $110$ V. Treating the lamp as a pure resistor, find the inductance of the choke in henry, to two decimal places. (take $\\pi = 3.14$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "2.67",
+  "tolerance": "0.02",
+  "solution": "Lamp resistance $R = \\dfrac{220^2}{100} = 484\\ \\Omega$. At $110$ V across it, $I = \\dfrac{110}{484}$ A.\n\n$V_L = \\sqrt{220^2 - 110^2} = 110\\sqrt{3}$ V, so $X_L = \\dfrac{V_L}{I} = 484\\sqrt{3} \\approx 838.3\\ \\Omega$.\n$$L = \\frac{X_L}{2\\pi f} = \\frac{838.3}{314} \\approx 2.67\\ \\text{H}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

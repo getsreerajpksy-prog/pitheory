@@ -1,0 +1,40 @@
+{
+  "id": "12-07-021",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A series LCR circuit with $R = 30\\ \\Omega$, $X_L = 60\\ \\Omega$ and $X_C = 20\\ \\Omega$ is connected to a $100$ V (rms) ac supply. The average power consumed in the circuit is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$200$ W",
+      "image": ""
+    },
+    {
+      "text": "$160$ W",
+      "image": ""
+    },
+    {
+      "text": "$333$ W",
+      "image": ""
+    },
+    {
+      "text": "$120$ W",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$Z = 50\\ \\Omega$, $I = 2$ A. Only the resistor consumes power: $P = I^2R = 4 \\times 30 = 120$ W.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

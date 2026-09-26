@@ -1,0 +1,40 @@
+{
+  "id": "12-07-030",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Power is transmitted over long distances at high voltage because",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "the current, and hence the $I^2R$ loss in the lines, is smaller",
+      "image": ""
+    },
+    {
+      "text": "high voltage travels faster",
+      "image": ""
+    },
+    {
+      "text": "transformers work only at high voltage",
+      "image": ""
+    },
+    {
+      "text": "the line resistance becomes smaller at high voltage",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For a given power $P = VI$, a higher $V$ means a smaller $I$. Line loss is $I^2R$, so it falls sharply.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

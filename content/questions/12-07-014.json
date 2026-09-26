@@ -1,0 +1,40 @@
+{
+  "id": "12-07-014",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The rms value of an alternating voltage $V = 311\\sin(100\\pi t)$ volt and its frequency are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$220$ V and $50$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$311$ V and $50$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$220$ V and $100$ Hz",
+      "image": ""
+    },
+    {
+      "text": "$155.5$ V and $50$ Hz",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$V_{rms} = \\dfrac{311}{\\sqrt{2}} \\approx 220$ V. $\\omega = 100\\pi \\Rightarrow f = 50$ Hz.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-07-015",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The average value of an alternating current $I = I_0\\sin\\omega t$ over half a cycle (from $0$ to $\\pi/\\omega$) is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{I_0}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2I_0}{\\pi}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{I_0}{\\sqrt{2}}$",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\bar{I} = \\dfrac{\\omega}{\\pi}\\int_0^{\\pi/\\omega} I_0\\sin\\omega t\\,dt = \\dfrac{2I_0}{\\pi} \\approx 0.637I_0$. Over a full cycle the average is zero.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

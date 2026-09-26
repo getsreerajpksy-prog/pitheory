@@ -1,0 +1,40 @@
+{
+  "id": "12-07-027",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A transformer has $500$ turns in the primary and $2500$ in the secondary. With $220$ V ac applied to the primary, the secondary voltage is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2200$ V",
+      "image": ""
+    },
+    {
+      "text": "$1100$ V",
+      "image": ""
+    },
+    {
+      "text": "$44$ V",
+      "image": ""
+    },
+    {
+      "text": "$220$ V",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$V_s = V_p\\dfrac{N_s}{N_p} = 220 \\times 5 = 1100$ V (a step-up transformer).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-07-019",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The average power consumed in a purely capacitive ac circuit is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$V_0I_0$",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    },
+    {
+      "text": "$V_{rms}I_{rms}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{V_0I_0}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$P = V_{rms}I_{rms}\\cos\\phi$ with $\\phi = 90°$, so $P = 0$. The capacitor stores and returns energy each cycle.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

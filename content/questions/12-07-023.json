@@ -1,0 +1,40 @@
+{
+  "id": "12-07-023",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $2\\ \\mu$F capacitor is to resonate with an inductor at $1000/\\pi$ Hz. The inductance required is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$12.5$ mH",
+      "image": ""
+    },
+    {
+      "text": "$0.125$ H",
+      "image": ""
+    },
+    {
+      "text": "$0.25$ H",
+      "image": ""
+    },
+    {
+      "text": "$1.25$ H",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\omega = 2\\pi f = 2000$ rad/s. $L = \\dfrac{1}{\\omega^2C} = \\dfrac{1}{4 \\times 10^6 \\times 2 \\times 10^{-6}} = 0.125$ H.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

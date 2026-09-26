@@ -1,0 +1,40 @@
+{
+  "id": "12-07-018",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "In a purely inductive ac circuit, the current",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "lags the voltage by $\\dfrac{\\pi}{2}$",
+      "image": ""
+    },
+    {
+      "text": "leads the voltage by $\\dfrac{\\pi}{2}$",
+      "image": ""
+    },
+    {
+      "text": "is in phase with the voltage",
+      "image": ""
+    },
+    {
+      "text": "lags the voltage by $\\pi$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For an inductor, $V = L\\dfrac{dI}{dt}$: the voltage peaks a quarter cycle before the current, so the current lags by $\\dfrac{\\pi}{2}$. (In a capacitor it leads.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

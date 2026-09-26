@@ -1,0 +1,40 @@
+{
+  "id": "12-07-024",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "In a series LCR circuit, $L = 0.5$ H, $C = 8\\ \\mu$F and $R = 25\\ \\Omega$. The quality factor at resonance is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$5$",
+      "image": ""
+    },
+    {
+      "text": "$100$",
+      "image": ""
+    },
+    {
+      "text": "$10$",
+      "image": ""
+    },
+    {
+      "text": "$20$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\omega_0 = \\dfrac{1}{\\sqrt{LC}} = \\dfrac{1}{\\sqrt{4 \\times 10^{-6}}} = 500$ rad/s. $Q = \\dfrac{\\omega_0L}{R} = \\dfrac{250}{25} = 10$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

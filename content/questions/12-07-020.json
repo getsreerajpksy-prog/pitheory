@@ -1,0 +1,40 @@
+{
+  "id": "12-07-020",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "A series circuit has $R = 30\\ \\Omega$, $X_L = 60\\ \\Omega$ and $X_C = 20\\ \\Omega$ across a $100$ V (rms) supply. The rms current and power factor are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$3.3$ A and $0.6$",
+      "image": ""
+    },
+    {
+      "text": "$1.4$ A and $0.6$",
+      "image": ""
+    },
+    {
+      "text": "$2$ A and $0.6$",
+      "image": ""
+    },
+    {
+      "text": "$2$ A and $0.8$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$Z = \\sqrt{30^2 + (60 - 20)^2} = 50\\ \\Omega$. $I = \\dfrac{100}{50} = 2$ A. $\\cos\\phi = \\dfrac{R}{Z} = 0.6$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

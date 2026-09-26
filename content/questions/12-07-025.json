@@ -1,0 +1,40 @@
+{
+  "id": "12-07-025",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The resonant frequency of a series LCR circuit is $f_0$. If both L and C are doubled, the new resonant frequency is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2f_0$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{f_0}{\\sqrt{2}}$",
+      "image": ""
+    },
+    {
+      "text": "$f_0$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{f_0}{2}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$f_0 \\propto \\dfrac{1}{\\sqrt{LC}}$; $LC$ becomes $4$ times, so $f$ halves.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

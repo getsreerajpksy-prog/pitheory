@@ -1,0 +1,40 @@
+{
+  "id": "12-07-028",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A transformer of efficiency $90\\%$ steps $220$ V down to $22$ V and delivers $198$ W to a load. The current in the primary is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$9$ A",
+      "image": ""
+    },
+    {
+      "text": "$10$ A",
+      "image": ""
+    },
+    {
+      "text": "$1$ A",
+      "image": ""
+    },
+    {
+      "text": "$0.9$ A",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Input power $= \\dfrac{198}{0.9} = 220$ W, so $I_p = \\dfrac{220}{220} = 1$ A.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

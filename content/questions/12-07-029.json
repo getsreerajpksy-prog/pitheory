@@ -1,0 +1,40 @@
+{
+  "id": "12-07-029",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The core of a transformer is laminated in order to",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "increase the magnetic flux",
+      "image": ""
+    },
+    {
+      "text": "reduce hysteresis loss",
+      "image": ""
+    },
+    {
+      "text": "reduce copper loss in the windings",
+      "image": ""
+    },
+    {
+      "text": "reduce energy loss due to eddy currents",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Thin insulated sheets break up the paths of eddy currents, greatly reducing the heat they produce. (Hysteresis loss is reduced by choosing soft iron.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

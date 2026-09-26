@@ -1,0 +1,22 @@
+{
+  "id": "12-07-033",
+  "chapter": "alternating-current",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Find the resonant angular frequency, in rad/s, of a series circuit with $L = 25$ mH and $C = 10\\ \\mu$F.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "2000",
+  "tolerance": "0",
+  "solution": "$\\omega_0 = \\dfrac{1}{\\sqrt{LC}} = \\dfrac{1}{\\sqrt{25 \\times 10^{-3} \\times 10^{-5}}} = \\dfrac{1}{5 \\times 10^{-4}} = 2000$ rad/s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-07-016",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The inductive reactance of a $0.5$ H coil at $50$ Hz is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$100\\pi\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$25\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$50\\pi\\ \\Omega$",
+      "image": ""
+    },
+    {
+      "text": "$25\\pi\\ \\Omega$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$X_L = 2\\pi fL = 2\\pi \\times 50 \\times 0.5 = 50\\pi \\approx 157\\ \\Omega$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

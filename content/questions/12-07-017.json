@@ -1,0 +1,40 @@
+{
+  "id": "12-07-017",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "If the frequency of the ac supply is doubled, the reactance of a capacitor",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "is doubled",
+      "image": ""
+    },
+    {
+      "text": "is unchanged",
+      "image": ""
+    },
+    {
+      "text": "becomes four times",
+      "image": ""
+    },
+    {
+      "text": "is halved",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$X_C = \\dfrac{1}{2\\pi fC} \\propto \\dfrac{1}{f}$, so doubling $f$ halves $X_C$. (An inductor's reactance would double.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

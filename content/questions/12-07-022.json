@@ -1,0 +1,40 @@
+{
+  "id": "12-07-022",
+  "chapter": "alternating-current",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "In a series LCR circuit at resonance, the voltages across L and C are each $200$ V and the supply voltage is $50$ V. The voltage across R is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$50$ V",
+      "image": ""
+    },
+    {
+      "text": "$450$ V",
+      "image": ""
+    },
+    {
+      "text": "$250$ V",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "At resonance $V_L$ and $V_C$ are equal and opposite, so they cancel and the whole supply voltage appears across R: $50$ V.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
