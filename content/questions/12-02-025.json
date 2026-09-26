@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Inside a conducting shell the potential equals the surface value, $80$ V. Outside, $V \\propto \\dfrac{1}{r}$: at $20$ cm it is $40$ V.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
