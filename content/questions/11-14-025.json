@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The wall receives $400 \\times \\dfrac{340}{320}$ and reflects it as a stationary source; the moving driver hears\n$$f'' = 400 \\times \\frac{340 + 20}{340 - 20} = 400 \\times \\frac{360}{320} = 450\\ \\text{Hz}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
