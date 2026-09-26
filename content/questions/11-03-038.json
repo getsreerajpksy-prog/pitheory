@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$360$ km/h $= 100$ m/s. The packet keeps this horizontal velocity.\n\nTime of fall: $t = \\sqrt{\\dfrac{2 \\times 500}{10}} = 10$ s.\n\nHorizontal distance $= 100 \\times 10 = 1000$ m.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
