@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\vec{v}_{BA} = \\vec{v}_B - \\vec{v}_A = 40\\,\\hat{N} - 30\\,\\hat{E} = 40\\,\\hat{N} + 30\\,\\hat{W}$$\n\nMagnitude $= 50$ m/s. It points between north and west, making $\\tan^{-1}\\left(\\dfrac{40}{30}\\right) = \\tan^{-1}\\left(\\dfrac{4}{3}\\right)$ with the west direction, i.e. north of west.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
