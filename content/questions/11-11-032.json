@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$$W = nRT\\ln\\frac{V_2}{V_1} = 2 \\times 8.3 \\times 300 \\times 0.693 \\approx 3451\\ \\text{J}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
