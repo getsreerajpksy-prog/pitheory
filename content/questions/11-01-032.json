@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\frac{\\Delta K}{K}\\times 100 = 2\\,\\frac{\\Delta p}{p}\\times 100 + \\frac{\\Delta m}{m}\\times 100 = 2(2) + 1 = 5\\%$$\n\nThe constant $\\tfrac12$ has no error, so it contributes nothing.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
