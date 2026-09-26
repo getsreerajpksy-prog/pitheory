@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "At the maximum height ($250$ m above the ground) the body is momentarily at rest. From there it falls freely.\n\nAt $70$ m above the ground, it has fallen $250 - 70 = 180$ m from rest:\n$$v = \\sqrt{2gh} = \\sqrt{2 \\times 10 \\times 180} = \\sqrt{3600} = 60\\ \\text{m/s}$$\n\n(The starting point A does not matter once the maximum height is known.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
