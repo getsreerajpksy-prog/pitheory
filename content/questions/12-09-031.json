@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Displacement method: $f = \\dfrac{D^2 - d^2}{4D} = \\dfrac{8100 - 900}{360} = 20$ cm.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
