@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Let the full sphere have mass $M$. The hole has radius $\\dfrac{R}{2}$, so its mass would be $\\dfrac{M}{8}$. Its centre is $\\dfrac{R}{2}$ from O, towards the particle, so it is $3R - \\dfrac{R}{2} = \\dfrac{5R}{2}$ from the particle.\n$$F_1 = \\frac{GMm}{9R^2}$$\n$$F_2 = \\frac{GMm}{9R^2} - \\frac{G(M/8)m}{(5R/2)^2} = \\frac{GMm}{R^2}\\left(\\frac{1}{9} - \\frac{1}{50}\\right) = \\frac{GMm}{R^2}\\cdot\\frac{41}{450}$$\n$$\\frac{F_1}{F_2} = \\frac{1/9}{41/450} = \\frac{50}{41}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

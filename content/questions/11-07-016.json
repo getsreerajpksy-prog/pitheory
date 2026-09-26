@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "With $v_e^2 = \\dfrac{2GM}{R}$ and $v = \\dfrac{v_e}{2}$:\n$$-\\frac{GMm}{R} + \\frac{1}{2}m\\cdot\\frac{GM}{2R} = -\\frac{GMm}{R + h} \\;\\Rightarrow\\; \\frac{3}{4R} = \\frac{1}{R + h}$$\n$$R + h = \\frac{4R}{3} \\;\\Rightarrow\\; h = \\frac{R}{3}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

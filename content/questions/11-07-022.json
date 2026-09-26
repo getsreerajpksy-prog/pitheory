@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The mass stays the same, so $8$ times the density means $\\dfrac{1}{8}$ of the volume, i.e. half the radius.\n\nWith no external torque, $I\\omega$ is constant and $I \\propto R^2$, so $\\omega$ becomes $4$ times and the day becomes $\\dfrac{24}{4} = 6$ hours.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

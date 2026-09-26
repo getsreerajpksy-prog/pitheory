@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "At depth $\\dfrac{R}{2}$: $g_d = g\\left(1 - \\dfrac{1}{2}\\right) = \\dfrac{g}{2}$.\n\nAt height $h$: $g\\dfrac{R^2}{(R + h)^2} = \\dfrac{g}{2} \\Rightarrow R + h = \\sqrt{2}R \\Rightarrow h = (\\sqrt{2} - 1)R \\approx 0.41R$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

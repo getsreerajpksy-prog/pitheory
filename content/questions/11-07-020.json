@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "In time $dt$ the radius vector sweeps a thin triangle of area $dA = \\dfrac{1}{2}r^2\\,d\\theta$:\n$$\\frac{dA}{dt} = \\frac{1}{2}r^2\\omega \\propto \\omega r^2$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$g_d = g\\left(1 - \\frac{d}{R}\\right) = 9.8\\left(1 - \\frac{1600}{6400}\\right) = 9.8 \\times 0.75 = 7.35\\ \\text{m/s}^2$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

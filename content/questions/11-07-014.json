@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Null point at distance $x$ from $m$: $\\dfrac{Gm}{x^2} = \\dfrac{G(4m)}{(r - x)^2} \\Rightarrow r - x = 2x \\Rightarrow x = \\dfrac{r}{3}$.\n$$V = -\\frac{Gm}{r/3} - \\frac{G(4m)}{2r/3} = -\\frac{3Gm}{r} - \\frac{6Gm}{r} = -\\frac{9Gm}{r}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

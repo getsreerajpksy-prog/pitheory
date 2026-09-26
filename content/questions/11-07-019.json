@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "$$\\Delta U = GMm\\left(\\frac{1}{R} - \\frac{1}{R + nR}\\right) = \\frac{GMm}{R}\\cdot\\frac{n}{n + 1} = \\left(\\frac{n}{n + 1}\\right)mgR$$\nusing $GM = gR^2$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
