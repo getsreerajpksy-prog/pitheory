@@ -1,0 +1,40 @@
+{
+  "id": "11-03-031",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A ball is projected at $40$ m/s at $30°$ above the horizontal. Its maximum height and horizontal range are ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$40$ m and $80\\sqrt{3}$ m",
+      "image": ""
+    },
+    {
+      "text": "$20$ m and $160$ m",
+      "image": ""
+    },
+    {
+      "text": "$60$ m and $80$ m",
+      "image": ""
+    },
+    {
+      "text": "$20$ m and $80\\sqrt{3}$ m",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$u_x = 40\\cos 30° = 20\\sqrt{3}$ m/s, $u_y = 40\\sin 30° = 20$ m/s.\n$$H = \\frac{u_y^2}{2g} = \\frac{400}{20} = 20\\ \\text{m}, \\qquad T = \\frac{2u_y}{g} = 4\\ \\text{s}$$\n$$R = u_xT = 20\\sqrt{3} \\times 4 = 80\\sqrt{3}\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

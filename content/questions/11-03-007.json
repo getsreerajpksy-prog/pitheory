@@ -1,0 +1,40 @@
+{
+  "id": "11-03-007",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2007 (Medical)",
+  "question": "Given two vectors $\\vec{A} = \\hat{i} - 2\\hat{j} - 3\\hat{k}$ and $\\vec{B} = 4\\hat{i} - 2\\hat{j} + 6\\hat{k}$. The angle made by $(\\vec{A} + \\vec{B})$ with the $x$-axis is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$30°$",
+      "image": ""
+    },
+    {
+      "text": "$45°$",
+      "image": ""
+    },
+    {
+      "text": "$60°$",
+      "image": ""
+    },
+    {
+      "text": "$90°$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\vec{A} + \\vec{B} = 5\\hat{i} - 4\\hat{j} + 3\\hat{k}, \\qquad |\\vec{A} + \\vec{B}| = \\sqrt{25 + 16 + 9} = 5\\sqrt{2}$$\n\nThe direction cosine with the $x$-axis is\n$$\\cos\\alpha = \\frac{5}{5\\sqrt{2}} = \\frac{1}{\\sqrt{2}} \\;\\Rightarrow\\; \\alpha = 45°$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

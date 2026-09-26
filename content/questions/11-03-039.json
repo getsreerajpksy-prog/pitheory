@@ -1,0 +1,40 @@
+{
+  "id": "11-03-039",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "A particle moves on a circle of radius $2$ m. At a certain instant its speed is $4$ m/s and its speed is increasing at $6\\ \\text{m/s}^2$. The magnitude of its acceleration at that instant is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$14\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$8\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$6\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$10\\ \\text{m/s}^2$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Centripetal (radial) acceleration: $a_c = \\dfrac{v^2}{r} = \\dfrac{16}{2} = 8\\ \\text{m/s}^2$.\n\nTangential acceleration: $a_t = 6\\ \\text{m/s}^2$.\n\nThese are perpendicular: $a = \\sqrt{8^2 + 6^2} = 10\\ \\text{m/s}^2$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

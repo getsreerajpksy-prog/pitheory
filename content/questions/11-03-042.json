@@ -1,0 +1,22 @@
+{
+  "id": "11-03-042",
+  "chapter": "motion-in-a-plane",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A ball is projected with a speed of $25$ m/s at an angle of $53°$ above the horizontal. Find its horizontal range in metres. (Take $\\sin 53° = 0.8$, $\\cos 53° = 0.6$ and $g = 10\\ \\text{m/s}^2$.)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "60",
+  "tolerance": "0",
+  "solution": "$u_x = 25 \\times 0.6 = 15$ m/s, $u_y = 25 \\times 0.8 = 20$ m/s.\n\nTime of flight: $T = \\dfrac{2u_y}{g} = 4$ s.\n\nRange: $R = u_xT = 15 \\times 4 = 60$ m.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-03-030",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A boat whose speed in still water is $5$ m/s must reach the point directly opposite on the other bank of a river flowing at $3$ m/s. The angle between the boat's heading and the direction of the river flow must be",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$53°$",
+      "image": ""
+    },
+    {
+      "text": "$90°$",
+      "image": ""
+    },
+    {
+      "text": "$127°$",
+      "image": ""
+    },
+    {
+      "text": "$143°$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The upstream component of the boat's velocity must cancel the river: $5\\sin\\alpha = 3$, where $\\alpha$ is measured from the perpendicular to the banks. So $\\alpha = 37°$ upstream of the perpendicular.\n\nAngle with the direction of flow $= 90° + 37° = 127°$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "11-03-006",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "AIEEE 2003",
+  "question": "Let $\\vec{F}$ be the force acting on a particle having position vector $\\vec{r}$, and $\\vec{\\tau}$ be the torque of this force about the origin. Then",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\vec{r}\\cdot\\vec{\\tau} = 0$ and $\\vec{F}\\cdot\\vec{\\tau} \\neq 0$",
+      "image": ""
+    },
+    {
+      "text": "$\\vec{r}\\cdot\\vec{\\tau} \\neq 0$ and $\\vec{F}\\cdot\\vec{\\tau} = 0$",
+      "image": ""
+    },
+    {
+      "text": "$\\vec{r}\\cdot\\vec{\\tau} \\neq 0$ and $\\vec{F}\\cdot\\vec{\\tau} \\neq 0$",
+      "image": ""
+    },
+    {
+      "text": "$\\vec{r}\\cdot\\vec{\\tau} = 0$ and $\\vec{F}\\cdot\\vec{\\tau} = 0$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The torque about the origin is $\\vec{\\tau} = \\vec{r} \\times \\vec{F}$.\n\nA cross product is perpendicular to both of the vectors that form it. So $\\vec{\\tau}$ is perpendicular to $\\vec{r}$ and to $\\vec{F}$, and both dot products vanish:\n$$\\vec{r}\\cdot\\vec{\\tau} = 0, \\qquad \\vec{F}\\cdot\\vec{\\tau} = 0$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

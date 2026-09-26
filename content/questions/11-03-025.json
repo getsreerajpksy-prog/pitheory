@@ -1,0 +1,40 @@
+{
+  "id": "11-03-025",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A particle starts from the origin at $t = 0$ with a velocity of $4\\hat{j}$ m/s and moves in the $xy$-plane with a constant acceleration of $(6\\hat{i} + 2\\hat{j})\\ \\text{m/s}^2$. Its $y$-coordinate at the instant its $x$-coordinate is $12$ m is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$20$ m",
+      "image": ""
+    },
+    {
+      "text": "$12$ m",
+      "image": ""
+    },
+    {
+      "text": "$8$ m",
+      "image": ""
+    },
+    {
+      "text": "$16$ m",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$x = \\dfrac{1}{2}(6)t^2 = 3t^2 = 12 \\;\\Rightarrow\\; t = 2$ s.\n$$y = 4t + \\frac{1}{2}(2)t^2 = 8 + 4 = 12\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

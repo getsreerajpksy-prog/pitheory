@@ -1,0 +1,40 @@
+{
+  "id": "11-03-040",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A wheel of radius $0.5$ m rotates uniformly at $300$ revolutions per minute. The centripetal acceleration of a point on its rim is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$50\\pi^2\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$5\\pi\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$100\\pi^2\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$25\\pi^2\\ \\text{m/s}^2$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\omega = 2\\pi \\times \\dfrac{300}{60} = 10\\pi$ rad/s.\n$$a_c = \\omega^2r = 100\\pi^2 \\times 0.5 = 50\\pi^2\\ \\text{m/s}^2 \\approx 493\\ \\text{m/s}^2$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

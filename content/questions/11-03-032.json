@@ -1,0 +1,40 @@
+{
+  "id": "11-03-032",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The horizontal range of a projectile is $4\\sqrt{3}$ times its maximum height. The angle of projection is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$30°$",
+      "image": ""
+    },
+    {
+      "text": "$45°$",
+      "image": ""
+    },
+    {
+      "text": "$60°$",
+      "image": ""
+    },
+    {
+      "text": "$15°$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\frac{R}{H} = \\frac{2u^2\\sin\\theta\\cos\\theta/g}{u^2\\sin^2\\theta/2g} = 4\\cot\\theta$$\n$$4\\cot\\theta = 4\\sqrt{3} \\;\\Rightarrow\\; \\cot\\theta = \\sqrt{3} \\;\\Rightarrow\\; \\theta = 30°$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

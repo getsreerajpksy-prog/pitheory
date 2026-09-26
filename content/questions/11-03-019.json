@@ -1,0 +1,40 @@
+{
+  "id": "11-03-019",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The angle between the vectors $\\vec{A} = 2\\hat{i} + 2\\hat{j} - \\hat{k}$ and $\\vec{B} = 6\\hat{i} - 3\\hat{j} + 2\\hat{k}$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\cos^{-1}\\left(\\dfrac{2}{7}\\right)$",
+      "image": ""
+    },
+    {
+      "text": "$90°$",
+      "image": ""
+    },
+    {
+      "text": "$\\cos^{-1}\\left(\\dfrac{1}{7}\\right)$",
+      "image": ""
+    },
+    {
+      "text": "$\\cos^{-1}\\left(\\dfrac{4}{21}\\right)$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\vec{A}\\cdot\\vec{B} = 12 - 6 - 2 = 4, \\qquad |\\vec{A}| = 3, \\qquad |\\vec{B}| = 7$$\n$$\\cos\\theta = \\frac{4}{3 \\times 7} = \\frac{4}{21}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

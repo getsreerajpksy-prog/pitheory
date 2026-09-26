@@ -1,0 +1,22 @@
+{
+  "id": "11-03-043",
+  "chapter": "motion-in-a-plane",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The position of a particle moving in a vertical plane is $\\vec{r} = \\left[2t\\,\\hat{i} + (5t - t^2)\\,\\hat{j}\\right]$ m, where $\\hat{j}$ is vertically upward and $t$ is in seconds. Find the maximum height ($y$-coordinate) reached by the particle, in metres.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "6.25",
+  "tolerance": "0",
+  "solution": "$$v_y = \\frac{dy}{dt} = 5 - 2t = 0 \\;\\Rightarrow\\; t = 2.5\\ \\text{s}$$\n$$y_{max} = 5(2.5) - (2.5)^2 = 12.5 - 6.25 = 6.25\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

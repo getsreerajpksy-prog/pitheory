@@ -1,0 +1,40 @@
+{
+  "id": "11-03-041",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A disc starts from rest and rotates with a uniform angular acceleration of $2\\ \\text{rad/s}^2$. The number of revolutions it makes in the first $10$ s is nearly",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$10$",
+      "image": ""
+    },
+    {
+      "text": "$16$",
+      "image": ""
+    },
+    {
+      "text": "$32$",
+      "image": ""
+    },
+    {
+      "text": "$100$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\theta = \\frac{1}{2}\\alpha t^2 = \\frac{1}{2}(2)(10)^2 = 100\\ \\text{rad}$$\n$$\\text{Revolutions} = \\frac{100}{2\\pi} \\approx 15.9 \\approx 16$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11-03-021",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The magnitude of the component of $\\vec{A} = 3\\hat{i} + 4\\hat{j}$ along the direction of $\\vec{B} = \\hat{i} + \\hat{j}$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{5}{\\sqrt{2}}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{7}{\\sqrt{2}}$",
+      "image": ""
+    },
+    {
+      "text": "$5$",
+      "image": ""
+    },
+    {
+      "text": "$7$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$A_B = \\vec{A}\\cdot\\hat{B} = \\frac{\\vec{A}\\cdot\\vec{B}}{|\\vec{B}|} = \\frac{3 + 4}{\\sqrt{2}} = \\frac{7}{\\sqrt{2}}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

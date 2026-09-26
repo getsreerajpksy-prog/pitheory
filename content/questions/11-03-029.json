@@ -1,0 +1,40 @@
+{
+  "id": "11-03-029",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A river $120$ m wide flows at $3$ m/s. A boat can move at $5$ m/s in still water. How much longer does it take to cross along the shortest path than in the shortest possible time?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0$ s",
+      "image": ""
+    },
+    {
+      "text": "$6$ s",
+      "image": ""
+    },
+    {
+      "text": "$24$ s",
+      "image": ""
+    },
+    {
+      "text": "$30$ s",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Shortest time: head straight across. $t_1 = \\dfrac{120}{5} = 24$ s (the boat drifts downstream).\n\nShortest path: head upstream so that the resultant is straight across. Crossing speed $= \\sqrt{5^2 - 3^2} = 4$ m/s, so $t_2 = \\dfrac{120}{4} = 30$ s.\n\nDifference $= 30 - 24 = 6$ s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

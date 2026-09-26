@@ -1,0 +1,40 @@
+{
+  "id": "11-03-018",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Two vectors $\\vec{A}$ and $\\vec{B}$ have equal magnitudes. If $|\\vec{A} + \\vec{B}| = \\sqrt{3}\\,|\\vec{A} - \\vec{B}|$, the angle between them is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$45°$",
+      "image": ""
+    },
+    {
+      "text": "$90°$",
+      "image": ""
+    },
+    {
+      "text": "$60°$",
+      "image": ""
+    },
+    {
+      "text": "$30°$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "With $|\\vec{A}| = |\\vec{B}| = A$:\n$$|\\vec{A} + \\vec{B}|^2 = 2A^2(1 + \\cos\\theta), \\qquad |\\vec{A} - \\vec{B}|^2 = 2A^2(1 - \\cos\\theta)$$\n$$1 + \\cos\\theta = 3(1 - \\cos\\theta) \\;\\Rightarrow\\; \\cos\\theta = \\frac{1}{2} \\;\\Rightarrow\\; \\theta = 60°$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

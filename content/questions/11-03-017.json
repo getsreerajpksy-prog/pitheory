@@ -1,0 +1,40 @@
+{
+  "id": "11-03-017",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The resultant of two forces $\\vec{A}$ and $\\vec{B}$ is perpendicular to $\\vec{A}$, and its magnitude is half the magnitude of $\\vec{B}$. The angle between $\\vec{A}$ and $\\vec{B}$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$60°$",
+      "image": ""
+    },
+    {
+      "text": "$150°$",
+      "image": ""
+    },
+    {
+      "text": "$120°$",
+      "image": ""
+    },
+    {
+      "text": "$135°$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Take $\\vec{A}$ along $x$ and let $\\theta$ be the angle between the forces. The resultant has components $(A + B\\cos\\theta,\\ B\\sin\\theta)$.\n\nPerpendicular to $\\vec{A}$: $A + B\\cos\\theta = 0$, so $\\cos\\theta < 0$.\n\nMagnitude: $R = B\\sin\\theta = \\dfrac{B}{2}$, so $\\sin\\theta = \\dfrac{1}{2}$.\n\nWith $\\cos\\theta$ negative, $\\theta = 150°$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

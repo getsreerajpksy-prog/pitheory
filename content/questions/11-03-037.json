@@ -1,0 +1,40 @@
+{
+  "id": "11-03-037",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Two stones are thrown horizontally in opposite directions from the top of an $80$ m tall tower, with speeds $15$ m/s and $25$ m/s. The distance between the points where they land is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$200$ m",
+      "image": ""
+    },
+    {
+      "text": "$160$ m",
+      "image": ""
+    },
+    {
+      "text": "$40$ m",
+      "image": ""
+    },
+    {
+      "text": "$100$ m",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Both fall for the same time: $t = \\sqrt{\\dfrac{2 \\times 80}{10}} = 4$ s.\n\nThey move apart at $15 + 25 = 40$ m/s horizontally, so the separation is $40 \\times 4 = 160$ m.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

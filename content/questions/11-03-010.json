@@ -1,0 +1,40 @@
+{
+  "id": "11-03-010",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "EAMCET 2008 (Medical)",
+  "question": "A man is walking due east at the rate of $2$ kmph. The rain appears to him to come down vertically at the rate of $2$ kmph. The actual velocity and direction of rainfall with the vertical respectively are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2\\sqrt{2}$ kmph, $45°$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{\\sqrt{2}}$ kmph, $30°$",
+      "image": ""
+    },
+    {
+      "text": "$2$ kmph, $0°$",
+      "image": ""
+    },
+    {
+      "text": "$1$ kmph, $90°$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Take east as $\\hat{i}$ and vertically up as $\\hat{j}$. Man: $\\vec{v}_m = 2\\hat{i}$. Rain relative to the man: $\\vec{v}_{rm} = -2\\hat{j}$.\n$$\\vec{v}_r = \\vec{v}_{rm} + \\vec{v}_m = 2\\hat{i} - 2\\hat{j}$$\n\nSpeed $= 2\\sqrt{2}$ kmph. The horizontal and vertical components are equal, so the rain falls at $45°$ to the vertical (towards the east).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

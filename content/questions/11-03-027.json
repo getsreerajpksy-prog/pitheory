@@ -1,0 +1,40 @@
+{
+  "id": "11-03-027",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Rain is falling vertically at $6$ m/s. A man runs on a level road at $8$ m/s. To protect himself, he should hold his umbrella",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "tilted forward at $\\tan^{-1}\\left(\\dfrac{3}{4}\\right)$ with the vertical",
+      "image": ""
+    },
+    {
+      "text": "tilted backward at $\\tan^{-1}\\left(\\dfrac{4}{3}\\right)$ with the vertical",
+      "image": ""
+    },
+    {
+      "text": "vertical",
+      "image": ""
+    },
+    {
+      "text": "tilted forward at $\\tan^{-1}\\left(\\dfrac{4}{3}\\right)$ with the vertical",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Velocity of rain relative to the man:\n$$\\vec{v}_{rm} = \\vec{v}_r - \\vec{v}_m = 6\\ \\text{(down)} - 8\\ \\text{(forward)} = 6\\ \\text{down} + 8\\ \\text{backward}$$\n\nThe rain appears to come from in front of him, moving down and backward, so he tilts the umbrella forward. Its angle with the vertical:\n$$\\tan\\theta = \\frac{8}{6} = \\frac{4}{3}$$\n\n(The rain hits him at $10$ m/s relative to him.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

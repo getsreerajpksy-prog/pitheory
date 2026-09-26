@@ -1,0 +1,40 @@
+{
+  "id": "11-03-020",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The vectors $\\vec{A} = a\\hat{i} + 2\\hat{j} - \\hat{k}$ and $\\vec{B} = 2a\\hat{i} - a\\hat{j} + 4\\hat{k}$ are perpendicular to each other. The positive value of $a$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2$",
+      "image": ""
+    },
+    {
+      "text": "$1$",
+      "image": ""
+    },
+    {
+      "text": "$3$",
+      "image": ""
+    },
+    {
+      "text": "$4$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\vec{A}\\cdot\\vec{B} = 2a^2 - 2a - 4 = 0 \\;\\Rightarrow\\; a^2 - a - 2 = 0 \\;\\Rightarrow\\; (a - 2)(a + 1) = 0$$\n\nThe positive value is $a = 2$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "11-03-013",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": true,
+  "source": "AIPMT 2011",
+  "question": "A body is moving with velocity $30\\ \\text{m s}^{-1}$ towards east. After $10$ s its velocity becomes $40\\ \\text{m s}^{-1}$ towards north. The average acceleration of the body is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$7\\ \\text{m s}^{-2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{7}\\ \\text{m s}^{-2}$",
+      "image": ""
+    },
+    {
+      "text": "$5\\ \\text{m s}^{-2}$",
+      "image": ""
+    },
+    {
+      "text": "$1\\ \\text{m s}^{-2}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Average acceleration uses the change in the velocity vector:\n$$\\Delta\\vec{v} = 40\\,\\hat{N} - 30\\,\\hat{E}, \\qquad |\\Delta\\vec{v}| = \\sqrt{40^2 + 30^2} = 50\\ \\text{m s}^{-1}$$\n$$a_{avg} = \\frac{50}{10} = 5\\ \\text{m s}^{-2}$$\n\n(Subtracting the speeds, $40 - 30 = 10$, would be wrong: the direction changed.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

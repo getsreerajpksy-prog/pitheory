@@ -1,0 +1,40 @@
+{
+  "id": "11-03-016",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The greatest and least resultants of two forces acting at a point are $17$ N and $7$ N. The magnitude of their resultant when they act at right angles is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$13$ N",
+      "image": ""
+    },
+    {
+      "text": "$12$ N",
+      "image": ""
+    },
+    {
+      "text": "$10$ N",
+      "image": ""
+    },
+    {
+      "text": "$\\sqrt{218}$ N",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$A + B = 17$ and $A - B = 7$, so $A = 12$ N and $B = 5$ N.\n$$R = \\sqrt{12^2 + 5^2} = 13\\ \\text{N}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

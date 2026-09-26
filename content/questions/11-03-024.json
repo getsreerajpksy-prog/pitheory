@@ -1,0 +1,40 @@
+{
+  "id": "11-03-024",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The position of a particle is $\\vec{r} = (3t^2\\,\\hat{i} + 4t\\,\\hat{j})$ m, with $t$ in seconds. The angle between its velocity and its acceleration at $t = 1$ s is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\tan^{-1}\\left(\\dfrac{2}{3}\\right)$",
+      "image": ""
+    },
+    {
+      "text": "$\\tan^{-1}\\left(\\dfrac{3}{2}\\right)$",
+      "image": ""
+    },
+    {
+      "text": "$90°$",
+      "image": ""
+    },
+    {
+      "text": "$0°$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\vec{v} = \\frac{d\\vec{r}}{dt} = 6t\\,\\hat{i} + 4\\hat{j}, \\qquad \\vec{a} = 6\\hat{i}$$\n\nAt $t = 1$ s, $\\vec{v} = 6\\hat{i} + 4\\hat{j}$. The acceleration lies along $\\hat{i}$, so the angle is the angle of $\\vec{v}$ with the $x$-axis:\n$$\\tan\\theta = \\frac{4}{6} = \\frac{2}{3}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

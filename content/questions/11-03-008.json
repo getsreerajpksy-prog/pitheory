@@ -1,0 +1,40 @@
+{
+  "id": "11-03-008",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2007 (Engineering)",
+  "question": "Velocity and acceleration vectors of a charged particle moving perpendicular to the direction of a magnetic field at a given instant of time are $\\vec{v} = 2\\hat{i} + c\\hat{j}$ and $\\vec{a} = 3\\hat{i} + 4\\hat{j}$ respectively. Then the value of $c$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$3$",
+      "image": ""
+    },
+    {
+      "text": "$1.5$",
+      "image": ""
+    },
+    {
+      "text": "$-1.5$",
+      "image": ""
+    },
+    {
+      "text": "$-3$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The magnetic force $q\\vec{v}\\times\\vec{B}$ is always perpendicular to the velocity, so the acceleration it produces is perpendicular to $\\vec{v}$:\n$$\\vec{v}\\cdot\\vec{a} = 0 \\;\\Rightarrow\\; 2(3) + c(4) = 0 \\;\\Rightarrow\\; c = -1.5$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

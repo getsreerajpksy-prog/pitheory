@@ -1,0 +1,39 @@
+{
+  "id": "11-03-014",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "AIEEE 2009",
+  "question": "A particle has an initial velocity $3\\hat{i} + 4\\hat{j}$ and an acceleration of $0.4\\hat{i} + 0.3\\hat{j}$. Its speed after $10$ s is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$7\\sqrt{2}$ units",
+      "image": ""
+    },
+    {
+      "text": "$7$ units",
+      "image": ""
+    },
+    {
+      "text": "$8.5$ units",
+      "image": ""
+    },
+    {
+      "text": "$10$ units",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$\\vec{v} = \\vec{u} + \\vec{a}t = (3\\hat{i} + 4\\hat{j}) + (0.4\\hat{i} + 0.3\\hat{j})(10) = 7\\hat{i} + 7\\hat{j}$$\n$$|\\vec{v}| = \\sqrt{49 + 49} = 7\\sqrt{2}\\ \\text{units}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

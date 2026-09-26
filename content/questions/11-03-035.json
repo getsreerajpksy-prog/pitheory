@@ -1,0 +1,40 @@
+{
+  "id": "11-03-035",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A stone is projected at $30\\sqrt{2}$ m/s at $45°$ to the horizontal. Its average velocity from the point of projection to the highest point is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$30$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$15\\sqrt{2}$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$30\\sqrt{5}$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$15\\sqrt{5}$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$u_x = u_y = 30$ m/s. Time to the top: $t = \\dfrac{30}{10} = 3$ s.\n\nAt the top: $x = 30 \\times 3 = 90$ m, $H = \\dfrac{30^2}{20} = 45$ m.\n\n$$|\\text{displacement}| = \\sqrt{90^2 + 45^2} = 45\\sqrt{5}\\ \\text{m}, \\qquad v_{avg} = \\frac{45\\sqrt{5}}{3} = 15\\sqrt{5}\\ \\text{m/s}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

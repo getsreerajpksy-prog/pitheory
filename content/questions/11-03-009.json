@@ -1,0 +1,40 @@
+{
+  "id": "11-03-009",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2008 (Medical)",
+  "question": "Three forces $\\vec{A} = (\\hat{i} + \\hat{j} + \\hat{k})$, $\\vec{B} = (2\\hat{i} - \\hat{j} + 3\\hat{k})$ and $\\vec{C}$ act on a body to keep it in equilibrium. Then $\\vec{C}$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$-(3\\hat{i} + 4\\hat{k})$",
+      "image": ""
+    },
+    {
+      "text": "$-(4\\hat{i} + 3\\hat{k})$",
+      "image": ""
+    },
+    {
+      "text": "$(3\\hat{i} + 4\\hat{j})$",
+      "image": ""
+    },
+    {
+      "text": "$(2\\hat{i} - 3\\hat{k})$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "In equilibrium the forces add to zero:\n$$\\vec{C} = -(\\vec{A} + \\vec{B}) = -(3\\hat{i} + 0\\hat{j} + 4\\hat{k}) = -(3\\hat{i} + 4\\hat{k})$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

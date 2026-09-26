@@ -1,0 +1,40 @@
+{
+  "id": "11-03-036",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A ball is thrown horizontally at $20$ m/s from the top of a tower $45$ m high. The angle its velocity makes with the horizontal when it hits the ground is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\tan^{-1}\\left(\\dfrac{3}{2}\\right)$",
+      "image": ""
+    },
+    {
+      "text": "$\\tan^{-1}\\left(\\dfrac{2}{3}\\right)$",
+      "image": ""
+    },
+    {
+      "text": "$45°$",
+      "image": ""
+    },
+    {
+      "text": "$60°$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Time of fall: $t = \\sqrt{\\dfrac{2h}{g}} = \\sqrt{9} = 3$ s.\n\nAt impact $v_x = 20$ m/s and $v_y = gt = 30$ m/s:\n$$\\tan\\theta = \\frac{30}{20} = \\frac{3}{2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

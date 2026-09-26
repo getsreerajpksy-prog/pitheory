@@ -1,0 +1,39 @@
+{
+  "id": "11-03-012",
+  "chapter": "motion-in-a-plane",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "AIPMT 2011",
+  "question": "A missile is fired for maximum range with an initial velocity of $20\\ \\text{m s}^{-1}$. The range of the missile is ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$50$ m",
+      "image": ""
+    },
+    {
+      "text": "$60$ m",
+      "image": ""
+    },
+    {
+      "text": "$20$ m",
+      "image": ""
+    },
+    {
+      "text": "$40$ m",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Maximum range is obtained at $45°$:\n$$R_{max} = \\frac{u^2}{g} = \\frac{20^2}{10} = 40\\ \\text{m}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
