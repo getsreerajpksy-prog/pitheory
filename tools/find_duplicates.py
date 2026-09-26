@@ -40,7 +40,13 @@ def images(q):
 def find(threshold):
     qs = load()
     pairs = []
+    for q in qs:
+        q["_words"] = set(q["_norm"].split())
     for a, b in itertools.combinations(qs, 2):
+        # cheap pre-filter: very alike texts must share most of their words
+        wa, wb = a["_words"], b["_words"]
+        if len(wa & wb) < threshold * 0.6 * max(len(wa), len(wb)):
+            continue
         m = difflib.SequenceMatcher(None, a["_norm"], b["_norm"])
         if m.quick_ratio() < threshold:
             continue
