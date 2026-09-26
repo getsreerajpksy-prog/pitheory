@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The Poynting vector $\\vec{S} = \\dfrac{1}{\\mu_0}\\vec{E} \\times \\vec{B}$ points in the direction of propagation.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
