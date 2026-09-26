@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$A + B = 17$ and $A - B = 7$, so $A = 12$ N and $B = 5$ N.\n$$R = \\sqrt{12^2 + 5^2} = 13\\ \\text{N}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
