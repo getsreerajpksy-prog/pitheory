@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Heat available from the water cooling to $0°$C: $40 \\times 50 = 2000$ cal. Heat to melt all the ice: $20 \\times 80 = 1600$ cal. All the ice melts, leaving $400$ cal to warm $60$ g of water:\n$$\\theta = \\frac{400}{60} \\approx 6.67°\\text{C}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
