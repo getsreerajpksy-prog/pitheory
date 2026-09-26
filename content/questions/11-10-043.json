@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\dfrac{Q}{t} = \\dfrac{KA\\Delta\\theta}{l} \\propto A \\propto r^2$, so the ratio is $1 : 4$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
