@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\Delta\\phi = \\dfrac{2\\pi}{\\lambda}\\Delta x = \\dfrac{2\\pi}{60} \\times 10 = \\dfrac{\\pi}{3}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
