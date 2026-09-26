@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$A = 12.0\\times 5.0 = 60\\ \\text{cm}^2$\n\nFor a product, the fractional errors add:\n$$\\frac{\\Delta A}{A} = \\frac{0.1}{12.0} + \\frac{0.1}{5.0} = 0.0083 + 0.020 = 0.0283$$\n$$\\Delta A = 0.0283\\times 60 \\approx 1.7\\ \\text{cm}^2$$\n\nSo $A = (60 \\pm 1.7)\\ \\text{cm}^2$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
