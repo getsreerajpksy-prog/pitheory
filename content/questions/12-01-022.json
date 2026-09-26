@@ -1,0 +1,22 @@
+{
+  "id": "12-01-022",
+  "chapter": "electric-charges-and-fields",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A small ball of mass $2$ g and charge $+5\\ \\mu$C hangs from a thread in a uniform horizontal electric field. In equilibrium the thread makes $45°$ with the vertical. Find the field strength in N/C. ($g = 10\\ \\text{m/s}^2$)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "4000",
+  "tolerance": "0",
+  "solution": "$\\tan 45° = \\dfrac{qE}{mg} \\Rightarrow E = \\dfrac{mg}{q} = \\dfrac{2 \\times 10^{-3} \\times 10}{5 \\times 10^{-6}} = 4000$ N/C.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

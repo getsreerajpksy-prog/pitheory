@@ -1,0 +1,40 @@
+{
+  "id": "12-02-022",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The work done in moving a charge of $3\\ \\mu$C between two points on an equipotential surface at $100$ V is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$3 \\times 10^{-4}$ J",
+      "image": ""
+    },
+    {
+      "text": "$33\\ \\mu$J",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    },
+    {
+      "text": "$300\\ \\mu$J",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$W = q\\Delta V$ and $\\Delta V = 0$ on an equipotential surface, so no work is done.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-01-021",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A charge of $+1\\ \\mu$C is at the origin and $-1\\ \\mu$C is at $(0, 2\\ \\text{mm})$. The electric field at $(10\\ \\text{cm}, 0)$ is approximately \\left(\\dfrac{1}{4\\pi\\epsilon_0} = 9 \\times 10^9\\ \\text{N m}^2\\text{C}^{-2}\\right)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.8 \\times 10^4$ N/C",
+      "image": ""
+    },
+    {
+      "text": "$3.6 \\times 10^4$ N/C",
+      "image": ""
+    },
+    {
+      "text": "$9 \\times 10^5$ N/C",
+      "image": ""
+    },
+    {
+      "text": "$1.8 \\times 10^6$ N/C",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "This is a short dipole ($p = 10^{-6} \\times 2 \\times 10^{-3} = 2 \\times 10^{-9}$ C m) and the point is on its equatorial line at $r = 0.1$ m:\n$$E = \\frac{kp}{r^3} = \\frac{9 \\times 10^9 \\times 2 \\times 10^{-9}}{10^{-3}} = 1.8 \\times 10^4\\ \\text{N/C}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

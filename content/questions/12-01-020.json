@@ -1,0 +1,40 @@
+{
+  "id": "12-01-020",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "The electric field at a point on the axis of a short dipole is $E$. At a point at the same distance on its equatorial line, the field is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2E$, in the same direction",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{E}{2}$, in the same direction",
+      "image": ""
+    },
+    {
+      "text": "$E$, in the opposite direction",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{E}{2}$, in the opposite direction",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Axial: $\\dfrac{2kp}{r^3}$ along $\\vec{p}$. Equatorial: $\\dfrac{kp}{r^3}$ opposite to $\\vec{p}$. So the equatorial field is $\\dfrac{E}{2}$, pointing the other way.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

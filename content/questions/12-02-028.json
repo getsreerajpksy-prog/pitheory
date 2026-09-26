@@ -1,0 +1,40 @@
+{
+  "id": "12-02-028",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A parallel plate capacitor with plate separation $d$ has a metal slab of thickness $\\dfrac{d}{2}$ inserted between its plates, parallel to them. The capacitance becomes",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$2$ times",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{1}{2}$ times",
+      "image": ""
+    },
+    {
+      "text": "$4$ times",
+      "image": ""
+    },
+    {
+      "text": "unchanged",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "The metal slab has no field inside it, so the effective gap is $d - \\dfrac{d}{2} = \\dfrac{d}{2}$. Capacitance doubles.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-02-025",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A hollow metal sphere of radius $10$ cm carries a charge that makes its surface potential $80$ V. The potential at its centre and at $20$ cm from its centre are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$160$ V and $40$ V",
+      "image": ""
+    },
+    {
+      "text": "$80$ V and $40$ V",
+      "image": ""
+    },
+    {
+      "text": "$0$ and $40$ V",
+      "image": ""
+    },
+    {
+      "text": "$80$ V and $20$ V",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Inside a conducting shell the potential equals the surface value, $80$ V. Outside, $V \\propto \\dfrac{1}{r}$: at $20$ cm it is $40$ V.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

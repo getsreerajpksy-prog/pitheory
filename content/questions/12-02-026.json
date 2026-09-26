@@ -1,0 +1,40 @@
+{
+  "id": "12-02-026",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A parallel plate capacitor has plates of area $0.02\\ \\text{m}^2$ separated by $1$ mm of air. Its capacitance is ($\\epsilon_0 = 8.85 \\times 10^{-12}$ F/m)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$1.77$ nF",
+      "image": ""
+    },
+    {
+      "text": "$885$ pF",
+      "image": ""
+    },
+    {
+      "text": "$177$ pF",
+      "image": ""
+    },
+    {
+      "text": "$17.7$ pF",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$C = \\dfrac{\\epsilon_0A}{d} = \\dfrac{8.85 \\times 10^{-12} \\times 0.02}{10^{-3}} = 1.77 \\times 10^{-10}$ F $= 177$ pF.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

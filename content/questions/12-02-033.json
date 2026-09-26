@@ -1,0 +1,40 @@
+{
+  "id": "12-02-033",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The plates of an isolated charged capacitor are pulled apart to twice their separation. The work done by the external agent equals",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "zero",
+      "image": ""
+    },
+    {
+      "text": "the initial energy stored",
+      "image": ""
+    },
+    {
+      "text": "half the initial energy stored",
+      "image": ""
+    },
+    {
+      "text": "twice the initial energy stored",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$Q$ is fixed and $C$ halves, so $U = \\dfrac{Q^2}{2C}$ doubles. The external work equals the increase: $2U - U = U$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-01-019",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An electric dipole of moment $p$ is placed in a uniform electric field $E$ with its axis at $30°$ to the field. The torque on it is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{\\sqrt{3}}{2}pE$",
+      "image": ""
+    },
+    {
+      "text": "zero",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{pE}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$pE$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\tau = pE\\sin 30° = \\dfrac{pE}{2}$. (The net force is zero in a uniform field.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

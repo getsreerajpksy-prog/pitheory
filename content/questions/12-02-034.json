@@ -1,0 +1,22 @@
+{
+  "id": "12-02-034",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "numerical",
+  "exams": [
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Find the equivalent capacitance, in $\\mu$F, of a $3\\ \\mu$F capacitor in series with a parallel combination of $2\\ \\mu$F and $4\\ \\mu$F.",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [],
+  "answer": "",
+  "numerical_answer": "2",
+  "tolerance": "0",
+  "solution": "Parallel: $2 + 4 = 6\\ \\mu$F. Series with $3\\ \\mu$F: $\\dfrac{3 \\times 6}{9} = 2\\ \\mu$F.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

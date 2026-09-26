@@ -1,0 +1,40 @@
+{
+  "id": "12-02-023",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An electron is accelerated from rest through a potential difference of $200$ V. Its final speed is ($e/m = 1.76 \\times 10^{11}$ C/kg)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4.2 \\times 10^6$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$5.9 \\times 10^6$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$1.2 \\times 10^7$ m/s",
+      "image": ""
+    },
+    {
+      "text": "$8.4 \\times 10^6$ m/s",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$eV = \\dfrac{1}{2}mv^2 \\Rightarrow v = \\sqrt{2\\dfrac{e}{m}V} = \\sqrt{2 \\times 1.76 \\times 10^{11} \\times 200} \\approx 8.4 \\times 10^6$ m/s.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-01-015",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A charge $q$ is placed at one corner of a cube. The electric flux through the whole surface of the cube is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{q}{6\\epsilon_0}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{q}{24\\epsilon_0}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{q}{8\\epsilon_0}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{q}{\\epsilon_0}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Eight such cubes would surround the charge symmetrically, so this cube receives $\\dfrac{1}{8}$ of the total flux $\\dfrac{q}{\\epsilon_0}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

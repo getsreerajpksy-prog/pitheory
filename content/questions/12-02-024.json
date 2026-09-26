@@ -1,0 +1,40 @@
+{
+  "id": "12-02-024",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Three charges $q$, $q$ and $-q$ are at the corners of an equilateral triangle of side $a$. The electrostatic potential energy of the system is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$-\\dfrac{kq^2}{a}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{kq^2}{a}$",
+      "image": ""
+    },
+    {
+      "text": "$-\\dfrac{3kq^2}{a}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{3kq^2}{a}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Three pairs: one like pair ($+kq^2/a$) and two unlike pairs ($-kq^2/a$ each):\n$$U = \\frac{kq^2}{a}(1 - 1 - 1) = -\\frac{kq^2}{a}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

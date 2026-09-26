@@ -1,0 +1,40 @@
+{
+  "id": "12-02-030",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A $4\\ \\mu$F capacitor charged to $50$ V is connected to an uncharged $6\\ \\mu$F capacitor. The common potential and the energy lost are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$20$ V and $5$ mJ",
+      "image": ""
+    },
+    {
+      "text": "$30$ V and $3$ mJ",
+      "image": ""
+    },
+    {
+      "text": "$20$ V and $3$ mJ",
+      "image": ""
+    },
+    {
+      "text": "$25$ V and $2.5$ mJ",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Charge is conserved: $V = \\dfrac{4 \\times 50}{4 + 6} = 20$ V.\n\nEnergy lost $= \\dfrac{1}{2}\\dfrac{C_1C_2}{C_1 + C_2}(V_1 - V_2)^2 = \\dfrac{1}{2} \\times 2.4 \\times 10^{-6} \\times 2500 = 3$ mJ.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

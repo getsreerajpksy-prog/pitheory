@@ -1,0 +1,40 @@
+{
+  "id": "12-01-017",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The electric field just outside a large uniformly charged plane sheet of surface charge density $\\sigma$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{\\sigma}{2\\epsilon_0}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\sigma}{\\epsilon_0}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2\\sigma}{\\epsilon_0}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\sigma}{4\\epsilon_0}$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "For a thin sheet, flux leaves through both faces of a Gaussian pillbox: $2EA = \\dfrac{\\sigma A}{\\epsilon_0}$, so $E = \\dfrac{\\sigma}{2\\epsilon_0}$. (Near a conductor's surface it would be $\\dfrac{\\sigma}{\\epsilon_0}$.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

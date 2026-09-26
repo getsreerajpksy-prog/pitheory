@@ -1,0 +1,40 @@
+{
+  "id": "12-02-032",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The energy density in the electric field between the plates of a capacitor where the field is $10^5$ V/m is ($\\epsilon_0 = 8.85 \\times 10^{-12}$ F/m)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$0.044\\ \\text{J/m}^3$",
+      "image": ""
+    },
+    {
+      "text": "$0.088\\ \\text{J/m}^3$",
+      "image": ""
+    },
+    {
+      "text": "$4.4\\ \\text{J/m}^3$",
+      "image": ""
+    },
+    {
+      "text": "$885\\ \\text{J/m}^3$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$u = \\dfrac{1}{2}\\epsilon_0E^2 = 0.5 \\times 8.85 \\times 10^{-12} \\times 10^{10} \\approx 0.044\\ \\text{J/m}^3$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

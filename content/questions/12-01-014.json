@@ -1,0 +1,40 @@
+{
+  "id": "12-01-014",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A charge $q$ is placed at the centre of a cube. The electric flux through one face of the cube is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{q}{24\\epsilon_0}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{q}{6\\epsilon_0}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{q}{\\epsilon_0}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{q}{3\\epsilon_0}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Total flux $= \\dfrac{q}{\\epsilon_0}$ (Gauss's law), shared equally by the six faces by symmetry.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-02-029",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A slab of dielectric constant $4$ and thickness $\\dfrac{d}{2}$ is placed between the plates of a parallel plate capacitor of separation $d$ and capacitance $C_0$ (air). The new capacitance is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$4C_0$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{8}{5}C_0$",
+      "image": ""
+    },
+    {
+      "text": "$2C_0$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{5}{8}C_0$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$$C = \\frac{\\epsilon_0A}{d - t + t/K} = \\frac{\\epsilon_0A}{d - \\frac{d}{2} + \\frac{d}{8}} = \\frac{\\epsilon_0A}{5d/8} = \\frac{8}{5}C_0$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

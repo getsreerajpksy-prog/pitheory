@@ -1,0 +1,40 @@
+{
+  "id": "12-01-010",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Two point charges $+4\\ \\mu$C and $+9\\ \\mu$C are $50$ cm apart. The point on the line joining them where the electric field is zero is at a distance from the $4\\ \\mu$C charge of",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$10$ cm",
+      "image": ""
+    },
+    {
+      "text": "$20$ cm",
+      "image": ""
+    },
+    {
+      "text": "$30$ cm",
+      "image": ""
+    },
+    {
+      "text": "$25$ cm",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$\\dfrac{4}{x^2} = \\dfrac{9}{(50 - x)^2} \\Rightarrow \\dfrac{50 - x}{x} = \\dfrac{3}{2} \\Rightarrow x = 20$ cm (between the charges, nearer the smaller one).",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

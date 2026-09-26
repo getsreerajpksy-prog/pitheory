@@ -1,0 +1,40 @@
+{
+  "id": "12-01-009",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Two identical point charges repel each other with a force $F$ when $r$ apart. If the charge on each is doubled and the separation is halved, the force becomes",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$16F$",
+      "image": ""
+    },
+    {
+      "text": "$4F$",
+      "image": ""
+    },
+    {
+      "text": "$8F$",
+      "image": ""
+    },
+    {
+      "text": "$F$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$F \\propto \\dfrac{q^2}{r^2}$: $\\dfrac{(2)^2}{(1/2)^2} = 16$, so the force becomes $16F$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

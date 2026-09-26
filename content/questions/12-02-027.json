@@ -1,0 +1,40 @@
+{
+  "id": "12-02-027",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": true,
+  "source": "PiTheory original",
+  "question": "A capacitor is charged by a battery and then disconnected. A dielectric slab of constant $K$ is now inserted to fill the gap. Which of the following is true?",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "The voltage stays the same, and the energy becomes $K$ times",
+      "image": ""
+    },
+    {
+      "text": "The charge becomes $K$ times",
+      "image": ""
+    },
+    {
+      "text": "The capacitance stays the same",
+      "image": ""
+    },
+    {
+      "text": "The charge stays the same, and the energy becomes $\\dfrac{1}{K}$ times",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Disconnected, so $Q$ is fixed. $C$ becomes $KC$, $V = \\dfrac{Q}{C}$ becomes $\\dfrac{V}{K}$, and $U = \\dfrac{Q^2}{2C}$ becomes $\\dfrac{U}{K}$. (The slab is pulled in, and the field does work.)",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

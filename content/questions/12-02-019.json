@@ -1,0 +1,40 @@
+{
+  "id": "12-02-019",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2008 (Engineering)",
+  "question": "Two charges $q$ and $-q$ are kept apart. Then at any point on the perpendicular bisector of the line joining the two charges",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "the electric field strength is zero",
+      "image": ""
+    },
+    {
+      "text": "the electric potential is zero",
+      "image": ""
+    },
+    {
+      "text": "both electric potential and electric field strength are zero",
+      "image": ""
+    },
+    {
+      "text": "both electric potential and electric field strength are non-zero",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Every point on the perpendicular bisector is equidistant from the two charges, so their potentials $\\dfrac{kq}{r}$ and $-\\dfrac{kq}{r}$ cancel: $V = 0$.\n\nThe fields do not cancel: their components along the bisector cancel, but the components parallel to the dipole axis add. So $E \\neq 0$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

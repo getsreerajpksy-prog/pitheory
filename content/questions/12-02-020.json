@@ -1,0 +1,39 @@
+{
+  "id": "12-02-020",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "EAMCET 2008 (Medical)",
+  "question": "A charge $Q$ is placed at each corner of a cube of side $a$. The potential at the centre of the cube is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{8Q}{\\pi\\epsilon_0 a}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{4Q}{4\\pi\\epsilon_0 a}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{4Q}{\\sqrt{3}\\,\\pi\\epsilon_0 a}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2Q}{\\pi\\epsilon_0 a}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Each corner is at $\\dfrac{\\sqrt{3}a}{2}$ from the centre. Potentials add as scalars:\n$$V = 8 \\times \\frac{Q}{4\\pi\\epsilon_0}\\cdot\\frac{2}{\\sqrt{3}a} = \\frac{4Q}{\\sqrt{3}\\,\\pi\\epsilon_0 a}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12-02-021",
+  "chapter": "electrostatic-potential-and-capacitance",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The electric potential in a region is $V = 4x^2$ volt, with $x$ in metres. The electric field at $x = 1$ m is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$16$ V/m along $-x$",
+      "image": ""
+    },
+    {
+      "text": "$8$ V/m along $-x$",
+      "image": ""
+    },
+    {
+      "text": "$8$ V/m along $+x$",
+      "image": ""
+    },
+    {
+      "text": "$4$ V/m along $-x$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$E_x = -\\dfrac{dV}{dx} = -8x = -8$ V/m at $x = 1$: magnitude $8$ V/m, pointing along $-x$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

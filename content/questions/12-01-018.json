@@ -1,0 +1,40 @@
+{
+  "id": "12-01-018",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "A uniformly charged solid sphere of radius $R$ produces a field $E_0$ at its surface. The field at distance $\\dfrac{R}{2}$ from the centre and at distance $2R$ from the centre are",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{E_0}{2}$ and $\\dfrac{E_0}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{E_0}{2}$ and $\\dfrac{E_0}{4}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{E_0}{4}$ and $\\dfrac{E_0}{2}$",
+      "image": ""
+    },
+    {
+      "text": "$0$ and $\\dfrac{E_0}{4}$",
+      "image": ""
+    }
+  ],
+  "answer": "B",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Inside: $E \\propto r$, so at $\\dfrac{R}{2}$, $E = \\dfrac{E_0}{2}$. Outside: $E \\propto \\dfrac{1}{r^2}$, so at $2R$, $E = \\dfrac{E_0}{4}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

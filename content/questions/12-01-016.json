@@ -1,0 +1,40 @@
+{
+  "id": "12-01-016",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "The electric field at a distance $r$ from an infinitely long straight wire with uniform linear charge density $\\lambda$ is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{\\lambda}{4\\pi\\epsilon_0 r^2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\lambda}{\\epsilon_0}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\lambda}{2\\epsilon_0}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\lambda}{2\\pi\\epsilon_0 r}$",
+      "image": ""
+    }
+  ],
+  "answer": "D",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Gauss's law with a coaxial cylinder of length $L$: $E(2\\pi rL) = \\dfrac{\\lambda L}{\\epsilon_0} \\Rightarrow E = \\dfrac{\\lambda}{2\\pi\\epsilon_0 r}$.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

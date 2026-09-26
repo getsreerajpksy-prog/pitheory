@@ -1,0 +1,40 @@
+{
+  "id": "12-01-013",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Easy",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "An electron is placed in a uniform electric field of $2 \\times 10^4$ N/C. Its acceleration is ($e = 1.6 \\times 10^{-19}$ C, $m_e = 9.1 \\times 10^{-31}$ kg)",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$3.5 \\times 10^{15}\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$3.5 \\times 10^{11}\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$1.8 \\times 10^{15}\\ \\text{m/s}^2$",
+      "image": ""
+    },
+    {
+      "text": "$2 \\times 10^{4}\\ \\text{m/s}^2$",
+      "image": ""
+    }
+  ],
+  "answer": "A",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "$a = \\dfrac{eE}{m} = \\dfrac{1.6 \\times 10^{-19} \\times 2 \\times 10^4}{9.1 \\times 10^{-31}} \\approx 3.5 \\times 10^{15}\\ \\text{m/s}^2$, opposite to the field.",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}

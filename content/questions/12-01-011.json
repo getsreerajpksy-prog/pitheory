@@ -1,0 +1,40 @@
+{
+  "id": "12-01-011",
+  "chapter": "electric-charges-and-fields",
+  "type": "mcq",
+  "exams": [
+    "NEET",
+    "JEE Main"
+  ],
+  "difficulty": "Medium",
+  "important": false,
+  "source": "PiTheory original",
+  "question": "Charges $+q$, $+q$ and $-2q$ are placed at the corners of an equilateral triangle of side $a$. The magnitude of the net force on the $-2q$ charge is",
+  "diagram": "",
+  "diagram_alt": "",
+  "options": [
+    {
+      "text": "$\\dfrac{4kq^2}{a^2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{\\sqrt{3}\\,kq^2}{a^2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2\\sqrt{3}\\,kq^2}{a^2}$",
+      "image": ""
+    },
+    {
+      "text": "$\\dfrac{2kq^2}{a^2}$",
+      "image": ""
+    }
+  ],
+  "answer": "C",
+  "numerical_answer": "",
+  "tolerance": "",
+  "solution": "Each $+q$ attracts $-2q$ with $F = \\dfrac{2kq^2}{a^2}$. The two forces make $60°$ with each other:\n$$F_{net} = 2F\\cos 30° = \\sqrt{3}\\cdot\\frac{2kq^2}{a^2} = \\frac{2\\sqrt{3}\\,kq^2}{a^2}$$",
+  "solution_diagram": "",
+  "status": "draft",
+  "updated": "2026-09-26"
+}
