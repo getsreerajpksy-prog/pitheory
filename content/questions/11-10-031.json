@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Wien's law: $\\lambda_m = \\dfrac{b}{T} = \\dfrac{0.0029}{5 \\times 10^4} = 5.8 \\times 10^{-8}$ m $= 58$ nm.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

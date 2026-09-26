@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "No work in the constant-volume steps. For the isobaric steps $W = nR\\Delta T$:\n$$W_{BC} = 3R(2400 - 800) = 4800R, \\qquad W_{DA} = 3R(400 - 1200) = -2400R$$\n$$W = 2400R = 2400 \\times 8.314 \\approx 20\\ \\text{kJ}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

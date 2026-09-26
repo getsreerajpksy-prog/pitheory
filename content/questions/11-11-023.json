@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$PV^\\gamma = $ constant: $P_2 = P(32)^{1.4} = P \\times 2^{7} = 128P$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

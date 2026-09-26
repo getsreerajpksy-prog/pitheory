@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Equal masses, so only specific heats matter.\n\nA and B: $s_A(15 - 10) = s_B(25 - 15) \\Rightarrow s_A = 2s_B$.\n\nB and C: $s_B(30 - 25) = s_C(40 - 30) \\Rightarrow s_B = 2s_C$. So $s_A = 4s_C$.\n\nA and C: $4s_C(\\theta - 10) = s_C(40 - \\theta) \\Rightarrow 5\\theta = 80 \\Rightarrow \\theta = 16°$C.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

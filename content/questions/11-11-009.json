@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Mayer's relation per mole: $C_P - C_V = R$. Per unit mass, divide by the molar mass ($M = 28$ for N$_2$):\n$$c_P - c_V = \\frac{R}{28}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

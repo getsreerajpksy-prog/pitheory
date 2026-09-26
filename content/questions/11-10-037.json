@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$F = \\dfrac{9}{5}C + 32$. Setting $F = C = x$: $x = 1.8x + 32 \\Rightarrow x = -40$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

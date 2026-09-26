@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "At constant volume the gas does no work, so $Q = \\Delta U$. (Isothermal: $\\Delta U = 0$. Adiabatic: $Q = 0$. Isobaric: part of $Q$ does work.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

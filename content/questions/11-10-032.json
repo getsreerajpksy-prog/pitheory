@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Wien's law: halving $\\lambda_m$ doubles $T$. Stefan's law: $P \\propto T^4$, so the power becomes $2^4 P = 16P$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\frac{\\Delta U}{Q} = \\frac{nC_V\\Delta T}{nC_P\\Delta T} = \\frac{1}{\\gamma} = \\frac{5}{7}$$\n\n(The remaining $\\dfrac{2}{7}$ goes into work.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "For $P \\propto V$ (i.e. $PV^{-1} = $ constant), $W = \\dfrac{nR\\Delta T}{1 - (-1)} = \\dfrac{nR\\Delta T}{2}$. For an isobaric process, $W = nR\\Delta T$. With $n = 3$:\n\n$1 \\to 2$: $\\dfrac{3R(300)}{2} = 450R$. $\\quad 2 \\to 3$: $3R(1800) = 5400R$.\n\n$3 \\to 4$: $\\dfrac{3R(-1400)}{2} = -2100R$. $\\quad 4 \\to 1$: $3R(-700) = -2100R$.\n$$W = 450R + 5400R - 2100R - 2100R = 1650R$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

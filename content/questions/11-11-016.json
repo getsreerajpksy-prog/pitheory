@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "The bulk kinetic energy of the gas becomes internal energy. For mass $m$ ($n = m/M$ moles):\n$$\\frac{1}{2}mv^2 = \\frac{m}{M}\\cdot\\frac{R}{\\gamma - 1}\\Delta T \\;\\Rightarrow\\; \\Delta T = \\frac{(\\gamma - 1)Mv^2}{2R}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

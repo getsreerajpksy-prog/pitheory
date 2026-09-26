@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\dfrac{20}{10} = K(70 - 20) \\Rightarrow K = 0.04\\ \\text{min}^{-1}$.\n\n$\\dfrac{20}{t} = 0.04(50 - 20) = 1.2 \\Rightarrow t \\approx 16.7$ min. Cooling slows as the body approaches room temperature.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

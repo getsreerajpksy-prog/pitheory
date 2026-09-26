@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "At $40°$C each scale division has expanded, so the true length is larger than the reading:\n$$L = 50(1 + 1.2 \\times 10^{-5} \\times 40) = 50.024\\ \\text{cm}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Heat lost = heat gained:\n$$3 \\times 4\\,(60 - \\theta) = 4 \\times 5\\,(\\theta - 20) \\;\\Rightarrow\\; 720 - 12\\theta = 20\\theta - 400 \\;\\Rightarrow\\; \\theta = 35°\\text{C}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
