@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "On cooling, the ring is held stretched by the strain $\\dfrac{\\Delta L}{L} = \\alpha\\Delta T$, so the tension in it is $T = SY\\alpha\\Delta T$.\n\nConsider one half of the wheel: the ring pulls on it with tension $T$ at each of its two ends, so the other half must push back with\n$$F = 2T = 2SY\\alpha\\Delta T$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
