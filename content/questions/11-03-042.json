@@ -17,6 +17,6 @@
   "tolerance": "0",
   "solution": "$u_x = 25 \\times 0.6 = 15$ m/s, $u_y = 25 \\times 0.8 = 20$ m/s.\n\nTime of flight: $T = \\dfrac{2u_y}{g} = 4$ s.\n\nRange: $R = u_xT = 15 \\times 4 = 60$ m.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
