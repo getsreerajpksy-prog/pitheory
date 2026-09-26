@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$P = V_{rms}I_{rms}\\cos\\phi$ with $\\phi = 90°$, so $P = 0$. The capacitor stores and returns energy each cycle.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
