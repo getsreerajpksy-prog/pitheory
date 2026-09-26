@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$I = \\dfrac{ML^2}{3} = Mk^2$, so $k = \\dfrac{L}{\\sqrt{3}}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
