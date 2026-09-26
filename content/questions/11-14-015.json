@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Third harmonic: $L = \\dfrac{3\\lambda}{2} \\Rightarrow \\lambda = 0.6$ m. $v = f\\lambda = 300 \\times 0.6 = 180$ m/s.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
