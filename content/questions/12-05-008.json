@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$f^2 \\propto M$ (same moment of inertia). Similar poles together: $M_1 + M_2$; opposite: $M_1 - M_2$.\n$$\\frac{M_1 + M_2}{M_1 - M_2} = \\frac{20^2}{15^2} = \\frac{16}{9} \\;\\Rightarrow\\; 9M_1 + 9M_2 = 16M_1 - 16M_2 \\;\\Rightarrow\\; \\frac{M_1}{M_2} = \\frac{25}{7}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
