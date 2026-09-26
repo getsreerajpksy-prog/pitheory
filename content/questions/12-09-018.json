@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "Unit vectors: incident $\\hat{e}_i = -\\dfrac{1}{2}\\left(\\hat{i} + \\sqrt{3}\\hat{j}\\right)$, reflected $\\hat{e}_r = \\dfrac{1}{2}\\left(\\hat{i} - \\sqrt{3}\\hat{j}\\right)$.\n\nThe normal to the mirror is along $\\hat{e}_r - \\hat{e}_i = \\dfrac{1}{2}\\hat{i} + \\dfrac{1}{2}\\hat{i} = \\hat{i}$.\n\nThe angle of incidence $\\theta$ is between the reversed incident ray and the normal:\n$$\\cos\\theta = \\left(-\\hat{e}_i\\right)\\cdot\\hat{i} = \\frac{1}{2} \\;\\Rightarrow\\; \\theta = 60°$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
