@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$E = 0.5(4 + r) = 0.9(2 + r) \\Rightarrow 2 + 0.5r = 1.8 + 0.9r \\Rightarrow r = 0.5\\ \\Omega$ (and $E = 2.25$ V).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$v_d = \\dfrac{I}{neA} = \\dfrac{1.6}{10^{29} \\times 1.6 \\times 10^{-19} \\times 10^{-6}} = 10^{-4}$ m/s $= 0.1$ mm/s.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

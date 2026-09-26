@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$P = \\dfrac{E^2R}{(R + r)^2}$ is maximum when $\\dfrac{dP}{dR} = 0$, which gives $R = r$. Then $P_{max} = \\dfrac{E^2}{4r}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

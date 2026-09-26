@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$R = \\dfrac{V^2}{P}$, so the $60$ W bulb has the larger resistance. In series the current is the same, and $P = I^2R$ is larger for the larger resistance: the $60$ W bulb glows brighter.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }

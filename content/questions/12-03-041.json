@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$R = \\dfrac{V^2}{P}$ is fixed, so $P \\propto V^2$: $100 \\times \\left(\\dfrac{1}{2}\\right)^2 = 25$ W.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
