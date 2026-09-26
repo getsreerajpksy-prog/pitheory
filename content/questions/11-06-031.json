@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Block: $mg - T = ma$. Pulley: $TR = I\\alpha = \\dfrac{1}{2}MR^2\\dfrac{a}{R} \\Rightarrow T = \\dfrac{Ma}{2}$.\n$$a = \\frac{mg}{m + M/2} = \\frac{10}{1 + 1} = 5\\ \\text{m/s}^2$$\n\n(The radius cancels.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
