@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Halving the radius makes $A$ one-fourth; constant volume makes $L$ four times. $R' = R \\times 4 \\times 4 = 16R$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
