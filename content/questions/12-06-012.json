@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\varepsilon = N\\dfrac{\\Delta\\phi}{\\Delta t} = 100 \\times \\dfrac{0.02 \\times 0.5}{0.1} = 10$ V.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
