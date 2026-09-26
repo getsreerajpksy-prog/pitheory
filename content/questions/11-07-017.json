@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "On the surface (at rest): $E_1 = -\\dfrac{GMm}{R}$. In orbit of radius $7R$: $E_2 = -\\dfrac{GMm}{2(7R)} = -\\dfrac{GMm}{14R}$.\n$$E_{min} = E_2 - E_1 = \\frac{GMm}{R} - \\frac{GMm}{14R} = \\frac{13GMm}{14R}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
