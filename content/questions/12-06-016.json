@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\varepsilon = Blv = 1$ V, $I = 1$ A. Magnetic force on the rod $= BIl = 0.5$ N, opposing motion; the applied force must equal it.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
