@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$V_s = V_p\\dfrac{N_s}{N_p} = 220 \\times 5 = 1100$ V (a step-up transformer).",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
