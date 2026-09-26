@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$Q$ is fixed and $C$ halves, so $U = \\dfrac{Q^2}{2C}$ doubles. The external work equals the increase: $2U - U = U$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
