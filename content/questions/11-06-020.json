@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$I = \\dfrac{MR^2}{2}$, so $MR^2 = 2I$.\n\nAbout a diameter: $\\dfrac{MR^2}{4}$. About a parallel tangent (parallel axis theorem):\n$$I' = \\frac{MR^2}{4} + MR^2 = \\frac{5}{4}MR^2 = \\frac{5}{4}(2I) = \\frac{5}{2}I$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
