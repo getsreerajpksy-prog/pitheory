@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\vec{v} = \\vec{u} + \\vec{g}t$. Perpendicular to $\\vec{u}$ means $\\vec{u}\\cdot\\vec{v} = 0$:\n$$u^2 + (\\vec{u}\\cdot\\vec{g})t = 0 \\;\\Rightarrow\\; u^2 - ugt\\sin\\theta = 0 \\;\\Rightarrow\\; t = \\frac{u}{g\\sin\\theta}$$\n$$t = \\frac{20}{10 \\times \\sqrt{3}/2} = \\frac{4}{\\sqrt{3}}\\ \\text{s} \\approx 2.3\\ \\text{s}$$\n\nThis is after the ball has passed its highest point ($\\sqrt{3}$ s), as it must be.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
