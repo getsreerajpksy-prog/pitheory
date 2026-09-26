@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "From rest, the distance in the $n^{\\text{th}}$ second is $s_n = \\dfrac{a}{2}(2n - 1)$.\n\nA's $6^{\\text{th}}$ second is the interval $t = 5$ s to $6$ s. B started $3$ s later, so this is B's $3^{\\text{rd}}$ second.\n$$\\frac{a_1}{2}(2 \\times 6 - 1) = \\frac{a_2}{2}(2 \\times 3 - 1) \\;\\Rightarrow\\; 11a_1 = 5a_2$$\n$$a_1 : a_2 = 5 : 11$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
