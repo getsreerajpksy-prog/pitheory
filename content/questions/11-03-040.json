@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$\\omega = 2\\pi \\times \\dfrac{300}{60} = 10\\pi$ rad/s.\n$$a_c = \\omega^2r = 100\\pi^2 \\times 0.5 = 50\\pi^2\\ \\text{m/s}^2 \\approx 493\\ \\text{m/s}^2$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
