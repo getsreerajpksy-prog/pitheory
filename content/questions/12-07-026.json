@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "The charge on C varies as $q_0\\cos\\omega t$. It first becomes zero (all energy in the inductor) at $\\omega t = \\dfrac{\\pi}{2}$, i.e. $t = \\dfrac{T}{4}$.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
