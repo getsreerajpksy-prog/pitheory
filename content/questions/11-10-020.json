@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$\\Delta V = V\\gamma\\Delta T = 10^{-6} \\times 18 \\times 10^{-5} \\times 100 = 1.8 \\times 10^{-8}\\ \\text{m}^3$$\n$$\\Delta l = \\frac{\\Delta V}{A} = \\frac{1.8 \\times 10^{-8}}{2 \\times 10^{-7}} = 0.09\\ \\text{m} = 9\\ \\text{cm}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
