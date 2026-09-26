@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "On a smooth incline at angle $\\theta$ to the horizontal, the acceleration down the plane is $g\\sin\\theta$. Its vertical component is $g\\sin\\theta \\times \\sin\\theta = g\\sin^2\\theta$.\n\nIn the figure, A's plane is inclined at $60°$ to the horizontal and B's at $30°$:\n$$a_{A,y} = g\\sin^2 60° = \\frac{3g}{4}, \\qquad a_{B,y} = g\\sin^2 30° = \\frac{g}{4}$$\n\nRelative vertical acceleration of A with respect to B:\n$$\\frac{3g}{4} - \\frac{g}{4} = \\frac{g}{2} = 4.9\\ \\text{m s}^{-2}\\ \\text{(vertical)}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
