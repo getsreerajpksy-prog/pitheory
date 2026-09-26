@@ -34,6 +34,6 @@
   "tolerance": "",
   "solution": "All axes here lie in the plane of the lamina and pass through O (except AD).\n\nBy the perpendicular axis theorem, for any two perpendicular in-plane axes through O: $I_1 + I_2 = I_z$ (the axis perpendicular to the plane).\n\nEF and the line GH through O parallel to AB are perpendicular and, by symmetry, equal: $2I_{EF} = I_z$.\n\nThe diagonals AC and BD are also perpendicular and equal: $2I_{AC} = I_z$.\n\nSo $I_{AC} = I_{EF}$.\n\n(For reference, $I_{AD} = I_{EF} + m\\left(\\dfrac{a}{2}\\right)^2 = \\dfrac{ma^2}{12} + \\dfrac{ma^2}{4} = 4I_{EF}$.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
