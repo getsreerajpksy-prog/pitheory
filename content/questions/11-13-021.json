@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "At equilibrium $kx_0 = mg$, so $\\dfrac{m}{k} = \\dfrac{x_0}{g}$.\n$$T = 2\\pi\\sqrt{\\frac{x_0}{g}} = 2\\pi\\sqrt{\\frac{0.04}{\\pi^2}} = 2 \\times 0.2 = 0.4\\ \\text{s}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
