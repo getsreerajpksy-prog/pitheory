@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Let $v$ be the speed at the top edge of the window. Across the window:\n$$2.2 = v(0.2) + \\frac{1}{2}(10)(0.2)^2 = 0.2v + 0.2 \\;\\Rightarrow\\; v = 10\\ \\text{m/s}$$\n\nThe ball fell from rest to reach this speed:\n$$h = \\frac{v^2}{2g} = \\frac{100}{20} = 5\\ \\text{m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
