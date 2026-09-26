@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Mean value: $\\bar{l} = \\dfrac{5.62 + 5.58 + 5.65 + 5.55 + 5.60}{5} = \\dfrac{28.00}{5} = 5.60\\ \\text{cm}$\n\nAbsolute errors: $0.02,\\ 0.02,\\ 0.05,\\ 0.05,\\ 0.00$\n\nMean absolute error: $\\Delta\\bar{l} = \\dfrac{0.14}{5} = 0.028\\ \\text{cm}$\n\nPercentage error: $\\dfrac{0.028}{5.60}\\times 100 = 0.5\\%$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
