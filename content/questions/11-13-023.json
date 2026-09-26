@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$$T = 2\\pi\\sqrt{\\frac{l}{g}} \\;\\Rightarrow\\; l = \\frac{gT^2}{4\\pi^2} = \\frac{\\pi^2 \\times 4}{4\\pi^2} = 1\\ \\text{m}$$",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
