@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "Torque of gravity about the pivot: $\\tau = mg\\dfrac{L}{2}$. $I = \\dfrac{mL^2}{3}$.\n$$\\alpha = \\frac{\\tau}{I} = \\frac{mgL/2}{mL^2/3} = \\frac{3g}{2L}$$\n\n(The free end then starts with acceleration $\\alpha L = 1.5g$, more than $g$.)",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
