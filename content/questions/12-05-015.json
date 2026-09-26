@@ -35,6 +35,6 @@
   "tolerance": "",
   "solution": "$B_H = B\\cos\\delta \\Rightarrow B = \\dfrac{3 \\times 10^{-5}}{\\cos 60°} = 6 \\times 10^{-5}$ T.",
   "solution_diagram": "",
-  "status": "draft",
+  "status": "published",
   "updated": "2026-09-26"
 }
